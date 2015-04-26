@@ -1,0 +1,6 @@
+{
+  "traversals" : [
+    {"name" : "nzhiltsov.fsdm.FieldedSequentialDependenceTraversal", "order" : "before"}
+  ],
+  "fields" : [ "names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames"]
+}
