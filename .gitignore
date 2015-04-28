@@ -31,3 +31,9 @@ project/plugins/project/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+
+# R
+.Rdata
+.Rhistory
+.Rproj.user
+*.Rproj

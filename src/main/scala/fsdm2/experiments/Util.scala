@@ -1,6 +1,7 @@
 package fsdm2.experiments
 
 import org.lemurproject.galago.core.parse.{Document, TagTokenizer}
+import org.lemurproject.galago.core.util.WordLists
 
 import scala.collection.JavaConversions._
 
@@ -14,5 +15,11 @@ object Util {
     document.text = text
     tokenizer.process(document)
     document.terms
+  }
+
+  private val defaultStopwords = WordLists.getWordList("inquery")
+
+  def isStopWord(token: String): Boolean = {
+    defaultStopwords.contains(token)
   }
 }

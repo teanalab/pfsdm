@@ -1,5 +1,9 @@
 library(reshape2)
-data <- read.table("output/field_experiment.tsv", header = TRUE)
+library(ggplot2)
+
+data <- read.table("output/field_experiment.tsv", header = TRUE, sep = "\t")
 fields = c("names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames")
-dataMelt <- melt(data, id = c("qid", "term"), measure.vars = fields)
-boxplot(value~variable, data = dataMelt)
+dataMelt <- melt(data, id = c("type", "qid", "tokens", "relevance"), measure.vars = fields)
+ggplot(dataMelt, aes(y=value, x = variable, fill=relevance)) + geom_boxplot() + facet_wrap(~type) +
+  theme(axis.text.x=element_text(angle=30,hjust=1))
+ggsave(file="output/field-boxplot.pdf")
