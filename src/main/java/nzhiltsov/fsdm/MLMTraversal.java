@@ -135,7 +135,7 @@ public class MLMTraversal extends Traversal {
 
     protected class FieldStats {
         private final Map<String, FieldStatistics> fieldStats = new HashMap();
-        private final Map<String, Node> fieldLenNodes = new HashMap();
+        protected final Map<String, Node> fieldLenNodes = new HashMap();
 
         FieldStats() {
             if (fields == null) throw new IllegalStateException("Fields must be initialized");
@@ -152,7 +152,7 @@ public class MLMTraversal extends Traversal {
             }
         }
 
-        protected Map<String, Node> getFieldLenNodes() {
+        public Map<String, Node> getFieldLenNodes() {
             return fieldLenNodes;
         }
 

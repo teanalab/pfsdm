@@ -20,15 +20,15 @@ public class FieldedSequentialDependenceTraversal extends MLMTraversal {
     public static final String ORDERED_FIELD_PREFIX = "od-";
     public static final String UNWINDOW_FIELD_PREFIX = "uww-";
 
-    private final int windowLimitDefault;
-    private final double unigramDefault;
-    private final double orderedDefault;
-    private final double unorderedDefault;
+    protected final int windowLimitDefault;
+    protected final double unigramDefault;
+    protected final double orderedDefault;
+    protected final double unorderedDefault;
 
-    private final String odOp;
-    private final int odWidth;
-    private final String uwOp;
-    private final int uwWidth;
+    protected final String odOp;
+    protected final int odWidth;
+    protected final String uwOp;
+    protected final int uwWidth;
 
     public FieldedSequentialDependenceTraversal(Retrieval retrieval) {
         super(retrieval);
