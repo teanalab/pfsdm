@@ -1,16 +1,15 @@
-package edu.wayne.pfsdm.scala
+package edu.wayne.pfsdm
 
-import edu.wayne.pfsdm.ParametrizedFSDMTraversal
 import fsdm2.experiments.FieldExperiment._
 import fsdm2.experiments.Util
-import org.lemurproject.galago.core.retrieval.{RetrievalFactory, Retrieval}
-import org.lemurproject.galago.core.retrieval.query.{StructuredQuery, Node}
+import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
+import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
+import org.lemurproject.galago.core.retrieval.{Retrieval, RetrievalFactory}
 import org.lemurproject.galago.utility.Parameters
 import org.lemurproject.galago.utility.tools.Arguments
-import scala.collection.JavaConversions._
-import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
 
-import scala.io.Source
+import _root_.scala.io.Source
+import scala.collection.JavaConversions._
 
 /**
  * Created by fsqcds on 5/1/15.

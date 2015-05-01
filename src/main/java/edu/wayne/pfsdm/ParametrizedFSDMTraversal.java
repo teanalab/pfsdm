@@ -29,9 +29,9 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
     protected final Parameters unigramFieldFeatureWeights;
     protected final Parameters orderedFieldFeatureWeights;
     protected final Parameters unorderedFieldFeatureWeights;
-    protected final Map<String, edu.wayne.pfsdm.scala.FieldFeature> unigramFieldFeatures = new HashMap<>();
-    protected final Map<String, edu.wayne.pfsdm.scala.FieldFeature> orderedFieldFeatures = new HashMap<>();
-    protected final Map<String, edu.wayne.pfsdm.scala.FieldFeature> unorderedFieldFeatures = new HashMap<>();
+    protected final Map<String, FieldFeature> unigramFieldFeatures = new HashMap<>();
+    protected final Map<String, FieldFeature> orderedFieldFeatures = new HashMap<>();
+    protected final Map<String, FieldFeature> unorderedFieldFeatures = new HashMap<>();
 
     public ParametrizedFSDMTraversal(Retrieval retrieval) {
         super(retrieval);

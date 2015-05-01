@@ -1,6 +1,4 @@
-package edu.wayne.pfsdm.scala
-
-import edu.wayne.pfsdm.ParametrizedFSDMTraversal
+package edu.wayne.pfsdm
 
 /**
  * Created by fsqcds on 5/1/15.
