@@ -2,6 +2,7 @@ package fsdm2.experiments
 
 import java.io._
 
+import fsdm2.experiments.FieldExperiment._
 import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
 import org.lemurproject.galago.core.retrieval.query.{StructuredQuery, Node}
 import org.lemurproject.galago.core.retrieval.{RetrievalFactory, Retrieval}
@@ -52,7 +53,7 @@ object FieldExperiment {
   }
 
   def getBiTopScore(qId: String, bigram: Seq[String], relevant: Boolean, qrels: Map[String, Seq[String]],
-                     retrieval: Retrieval, parameters: Parameters): Double = {
+                    retrieval: Retrieval, parameters: Parameters): Double = {
     val root: Node = StructuredQuery.parse(fieldedsdm(bigram))
     val queryParams: Parameters = Parameters.create()
     queryParams.copyFrom(parameters)
@@ -64,7 +65,7 @@ object FieldExperiment {
   }
 
   def getBiTopScores(qId: String, bigram: Seq[String], relevant: Boolean, qrels: Map[String, Seq[String]],
-                      retrieval: Retrieval, parameters: Parameters): Seq[Double] = {
+                     retrieval: Retrieval, parameters: Parameters): Seq[Double] = {
     fields.map { field =>
       val fieldWeights: Parameters = Parameters.create()
       fields.foreach { weightedField =>
@@ -116,4 +117,25 @@ object FieldExperiment {
     }
     output.close()
   }
+}
+
+object BigramUnigramQueriesFileMaker extends App {
+  val queries: Map[String, String] = Source.fromInputStream(
+    getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines.
+    map { line => line.split("\t") match {
+    case Array(qId, qText) => (qId, qText)
+  }
+  }.toMap
+  val tokenizedQueries: Map[String, Seq[String]] = queries.map { case (qId: String, qText: String) =>
+    (qId, Util.tokenize(qText).filterNot(Util.isStopWord))
+  }
+  val uniBigramQueries: Map[String, Seq[String]] = tokenizedQueries.filter { case (_, qTokens: Seq[String]) =>
+    qTokens.length == 1 || qTokens.length == 2
+  }
+  val output = new PrintWriter("output/namequeries.tsv")
+  uniBigramQueries.foreach { case (qId: String, qToken: Seq[String]) =>
+    output.println(s"$qId\t${queries(qId)}")
+  }
+  output.close()
+  println("Now manually filter namequeris.tsv so only name queries will remain")
 }
