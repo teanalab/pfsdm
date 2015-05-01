@@ -37,3 +37,6 @@ project/plugins/project/
 .Rhistory
 .Rproj.user
 *.Rproj
+
+# OS X
+.DS_Store
