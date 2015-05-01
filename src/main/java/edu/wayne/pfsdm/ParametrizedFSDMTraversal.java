@@ -33,6 +33,10 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
     protected final Map<String, FieldFeature> orderedFieldFeatures = new HashMap<>();
     protected final Map<String, FieldFeature> unorderedFieldFeatures = new HashMap<>();
 
+    private FieldFeature constructFeature(String featureName) {
+        return FieldFeature$.MODULE$.apply(featureName, this);
+    }
+
     public ParametrizedFSDMTraversal(Retrieval retrieval) {
         super(retrieval);
         if (globals.isList("fieldFeatures", String.class)) {
@@ -56,13 +60,13 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
 
         for (String unigramFieldFeatureName : unigramFieldFeatureNames) {
-            unigramFieldFeatures.put(unigramFieldFeatureName, FieldFeatureFactory.getFeature(unigramFieldFeatureName));
+            unigramFieldFeatures.put(unigramFieldFeatureName, constructFeature(unigramFieldFeatureName));
         }
         for (String orderedFieldFeatureName : orderedFieldFeatureNames) {
-            orderedFieldFeatures.put(orderedFieldFeatureName, FieldFeatureFactory.getFeature(orderedFieldFeatureName));
+            orderedFieldFeatures.put(orderedFieldFeatureName, constructFeature(orderedFieldFeatureName));
         }
         for (String unorderedFieldFeatureName : unorderedFieldFeatureNames) {
-            unorderedFieldFeatures.put(unorderedFieldFeatures, FieldFeatureFactory.getFeature(unorderedFieldFeatureName));
+            unorderedFieldFeatures.put(unorderedFieldFeatureName, constructFeature(unorderedFieldFeatureName));
         }
     }
 
