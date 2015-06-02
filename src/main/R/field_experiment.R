@@ -6,6 +6,6 @@ namequeries <- read.table("output/namequeries.tsv", sep = "\t", col.names = c("q
 fields = c("names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames")
 data <- merge(data, namequeries)
 dataMelt <- melt(data, id = c("type", "qid", "tokens", "text", "name", "relevance"), measure.vars = fields)
-ggplot(dataMelt, aes(y=value, x = variable, fill=name)) + geom_boxplot() + facet_wrap(~type+relevance) +
+ggplot(dataMelt, aes(y=value, x = variable, fill=relevance)) + geom_boxplot() + facet_wrap(~type+name) +
   theme(axis.text.x=element_text(angle=30,hjust=1))
 ggsave(file="output/field-boxplot.pdf")
