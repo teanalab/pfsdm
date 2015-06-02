@@ -14,7 +14,7 @@ import scala.collection.JavaConversions._
 /**
  * Created by fsqcds on 5/1/15.
  */
-class BaselineTopScoreFieldFeature(val fieldName: String, val traversal: ParametrizedFSDMTraversal) extends FieldFeature {
+class BaselineTopScoreFieldFeature(val traversal: ParametrizedFSDMTraversal) extends FieldFeature {
   def mlm(tokens: Seq[String]): String = {
     s"#mlm(${tokens.mkString(" ")})"
   }
@@ -23,7 +23,7 @@ class BaselineTopScoreFieldFeature(val fieldName: String, val traversal: Paramet
     s"#fieldedsdm(${tokens.mkString(" ")})"
   }
 
-  override def getPhi(tokens: Seq[String]): Double = {
+  override def getPhi(tokens: Seq[String], fieldName: String): Double = {
     val fields = traversal.getFields
     val fieldWeights: Parameters = Parameters.create
     val root: Node =
@@ -47,34 +47,5 @@ class BaselineTopScoreFieldFeature(val fieldName: String, val traversal: Paramet
     val results = traversal.getRetrieval.executeQuery(transformed, fieldWeights).scoredDocuments
     if (results.size > 0) results.head.getScore
     else Double.NaN
-  }
-
-  def main(args: Array[String]) {
-    val mainParameters = Arguments.parse(args)
-    val queries: Map[String, Seq[String]] = Source.fromInputStream(
-      getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines.
-      map { line => line.split("\t") match {
-      case Array(qId, qText) => (qId, qText)
-    }
-    }.toMap.map { case (qId: String, qText: String) =>
-      (qId, Util.tokenize(qText))
-    }
-
-    parameters.copyFrom(mainParameters)
-    val retrieval: Retrieval = RetrievalFactory.create(parameters)
-    val traversal: ParametrizedFSDMTraversal = new ParametrizedFSDMTraversal(retrieval)
-    val feature: BaselineTopScoreFieldFeature = FieldFeature("baselinetopscore", traversal)
-    queries.foreach { case (qId: String, qTokens: Seq[String]) =>
-      qTokens.foreach { token: String =>
-        traversal.getFields.foreach { field: String =>
-          println(s"unigram\t$qId\t$token\t$field\t${feature.getPhi(Seq(token))}")
-        }
-      }
-      qTokens.sliding(2).foreach { tokens: Seq[String] =>
-        traversal.getFields.foreach { field: String =>
-          println(s"unigram\t$qId\t${tokens.mkString(" ")}\t$field\t${feature.getPhi(tokens)}")
-        }
-      }
-    }
   }
 }
