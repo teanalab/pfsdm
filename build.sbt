@@ -9,5 +9,6 @@ resolvers += "Local Maven Repository" at "file://"+Path.userHome.absolutePath+"/
 libraryDependencies ++= Seq(
   "org.lemurproject.galago" % "contrib" % "3.8-SNAPSHOT",
   "org.functionaljava" % "functionaljava" % "4.3",
-  "org.functionaljava" % "functionaljava-java8" % "4.3"
+  "org.functionaljava" % "functionaljava-java8" % "4.3",
+  "org.scalatest" %% "scalatest" % "2.2.5" % "test"
 )
