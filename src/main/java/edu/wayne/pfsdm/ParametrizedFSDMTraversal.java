@@ -37,9 +37,9 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         if (globals.isList("fieldFeatures", String.class)) {
             this.fieldFeatureNames = list(globals.getAsList("fieldFeatures", String.class));
         } else {
-            throw new IllegalArgumentException("MLMTraversal requires having 'fields' parameter initialized");
+            throw new IllegalArgumentException("ParametrizedFSDMTraversal requires having 'fieldFeatures' parameter initialized");
         }
-        this.fieldFeatureWeights = globals.getMap("fieldFeatureWeights");
+        this.fieldFeatureWeights = globals;
 
         fieldFeatures = HashMap.from(fieldFeatureNames.map(featureName -> P.p(featureName, constructFeature(featureName))));
     }
@@ -74,7 +74,9 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
     }
 
     private double getFeatureValue(String featureName, Iterable<String> terms, String fieldName) {
-        return fieldFeatures.get(featureName).some().getPhi(terms, fieldName);
+        double phi = fieldFeatures.get(featureName).some().getPhi(terms, fieldName);
+        assert phi >= 0;
+        return phi;
     }
 
     protected double getFieldWeight(Iterable<String> terms, String fieldName, Parameters queryParameters) {
@@ -145,6 +147,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         double normalizer = 0.0;
         for (int i = 0; i < fields.size(); i++) {
             double fieldWeight = getFieldWeight(terms, fields.get(i), qp);
+            fieldWeights.set(Integer.toString(i), fieldWeight);
             normalizer += fieldWeight;
         }
         // normalize field weights
