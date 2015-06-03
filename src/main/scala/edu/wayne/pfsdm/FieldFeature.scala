@@ -1,13 +1,13 @@
 package edu.wayne.pfsdm
 
+import edu.wayne.pfsdm.feature.{CapitalizedFeature, BaselineTopScoreFieldFeature}
+
 import scala.collection.JavaConversions._
 
 /**
  * Created by fsqcds on 5/1/15.
  */
 trait FieldFeature {
-  val traversal: ParametrizedFSDMTraversal
-
   /**
    * Returns feature value for field and tokens.
    *
@@ -30,5 +30,6 @@ trait FieldFeature {
 object FieldFeature {
   def apply(fieldFeatureName: String, traversal: ParametrizedFSDMTraversal) = fieldFeatureName match {
     case "baselinetopscore" => new BaselineTopScoreFieldFeature(traversal)
+    case "capitalized" => new CapitalizedFeature()
   }
 }

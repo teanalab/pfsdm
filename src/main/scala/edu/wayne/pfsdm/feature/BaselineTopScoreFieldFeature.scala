@@ -1,25 +1,21 @@
-package edu.wayne.pfsdm
+package edu.wayne.pfsdm.feature
 
-import fsdm2.experiments.FieldExperiment._
-import fsdm2.experiments.Util
+import edu.wayne.pfsdm.{FieldFeature, ParametrizedFSDMTraversal}
 import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
 import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
-import org.lemurproject.galago.core.retrieval.{Retrieval, RetrievalFactory}
 import org.lemurproject.galago.utility.Parameters
-import org.lemurproject.galago.utility.tools.Arguments
 
-import _root_.scala.io.Source
 import scala.collection.JavaConversions._
 
 /**
  * Created by fsqcds on 5/1/15.
  */
 class BaselineTopScoreFieldFeature(val traversal: ParametrizedFSDMTraversal) extends FieldFeature {
-  def mlm(tokens: Seq[String]): String = {
+  private def mlm(tokens: Seq[String]): String = {
     s"#mlm(${tokens.mkString(" ")})"
   }
 
-  def fieldedsdm(tokens: Seq[String]): String = {
+  private def fieldedsdm(tokens: Seq[String]): String = {
     s"#fieldedsdm(${tokens.mkString(" ")})"
   }
 
