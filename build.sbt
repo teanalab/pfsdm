@@ -1,4 +1,4 @@
-name := "fsdm2"
+name := "pfsdm"
 
 version := "1.0"
 
