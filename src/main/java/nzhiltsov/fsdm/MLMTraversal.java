@@ -29,7 +29,7 @@ public class MLMTraversal extends Traversal {
         this.retrieval = retrieval;
         this.globals = retrieval.getGlobalParameters();
         if (globals.isList("fields", String.class)) {
-            this.fields = (List<String>) globals.getAsList("fields");
+            this.fields = globals.getAsList("fields", String.class);
         } else {
             throw new IllegalArgumentException("MLMTraversal requires having 'fields' parameter initialized");
         }
@@ -93,12 +93,12 @@ public class MLMTraversal extends Traversal {
                 NodeParameters par1 = new NodeParameters();
                 par1.set("default", term);
                 par1.set("part", "field." + field);
-                termFieldCounts = new Node("counts", par1, new ArrayList());
+                termFieldCounts = new Node("counts", par1, new ArrayList<>());
             } else {
                 // otherwise use an #inside op
                 NodeParameters par1 = new NodeParameters();
                 par1.set("default", term);
-                termExtents = new Node("extents", par1, new ArrayList());
+                termExtents = new Node("extents", par1, new ArrayList<>());
                 termExtents = TextPartAssigner.assignPart(termExtents, globals, this.retrieval.getAvailableParts());
 
                 termFieldCounts = new Node("inside");
@@ -134,8 +134,8 @@ public class MLMTraversal extends Traversal {
     }
 
     protected class FieldStats {
-        private final Map<String, FieldStatistics> fieldStats = new HashMap();
-        protected final Map<String, Node> fieldLenNodes = new HashMap();
+        private final Map<String, FieldStatistics> fieldStats = new HashMap<>();
+        protected final Map<String, Node> fieldLenNodes = new HashMap<>();
 
         FieldStats() {
             if (fields == null) throw new IllegalStateException("Fields must be initialized");

@@ -13,11 +13,12 @@ import org.lemurproject.galago.core.util.TextPartAssigner;
 import org.lemurproject.galago.utility.Parameters;
 
 import java.util.ArrayList;
+import java.util.logging.Logger;
 
 import static fj.data.List.list;
 
 /**
- * For queries like "#pfsdm:uw.attributes.width=8:uw.width=4(president barack obama)"
+ * For queries like "#pfsdm(president barack obama)"
  *
  * @author Nikita Zhiltsov
  * @author Fedor Nikolaev
@@ -28,12 +29,18 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
     protected final Parameters fieldFeatureWeights;
     protected final HashMap<String, FieldFeature> fieldFeatures;
 
+    protected final Logger logger;
+    private HashMap<String, Double> min = HashMap.hashMap();
+    private HashMap<String, Double> max = HashMap.hashMap();
+
     private FieldFeature constructFeature(String featureName) {
         return FieldFeature$.MODULE$.apply(featureName, this);
     }
 
     public ParametrizedFSDMTraversal(Retrieval retrieval) {
         super(retrieval);
+        logger = Logger.getLogger(this.getClass().getName());
+        logger.info("Initializing ParametrizedFSDMTraversal");
         if (globals.isList("fieldFeatures", String.class)) {
             this.fieldFeatureNames = list(globals.getAsList("fieldFeatures", String.class));
         } else {
@@ -42,6 +49,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         this.fieldFeatureWeights = globals;
 
         fieldFeatures = HashMap.from(fieldFeatureNames.map(featureName -> P.p(featureName, constructFeature(featureName))));
+        logger.info("Done initializing ParametrizedFSDMTraversal");
     }
 
     public java.util.List<String> getFields() {
@@ -75,15 +83,35 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
 
     private double getFeatureValue(String featureName, Iterable<String> terms, String fieldName) {
         double phi = fieldFeatures.get(featureName).some().getPhi(terms, fieldName);
-        assert phi >= 0;
+        logger.info(String.format("%s; feature: %s; field: %s -- phi = %g",
+                String.join(" ", terms), featureName, fieldName, phi));
+        assert phi >= 0 : phi;
+        updateMinMax(featureName, fieldName, phi);
+        logger.info(String.format("feature: %s; min = %g, max = %g",
+                featureName, min.get(featureName).some(), max.get(featureName).some()));
         return phi;
     }
 
+    private void updateMinMax(String featureName, String fieldName, double phi) {
+        if (min.get(featureName).forall(min -> phi < min)) {
+            min.set(featureName, phi);
+        }
+        if (max.get(featureName).forall(max -> phi > max)) {
+            max.set(featureName, phi);
+        }
+    }
+
     protected double getFieldWeight(Iterable<String> terms, String fieldName, Parameters queryParameters) {
+        if (terms == null || list(terms).exists(term -> term == null)) {
+            System.out.println(queryParameters.getString("number") + " " + queryParameters.getString("text"));
+            throw new IllegalArgumentException("terms shouldn't be null");
+        }
         double fieldWeight = 0.0;
         for (String featureName : fieldFeatureNames) {
             fieldWeight += getFeatureWeight(fieldName, featureName, queryParameters) * getFeatureValue(featureName, terms, fieldName);
         }
+        logger.info(String.format("%s; field: %s -- w = %g", String.join(" ", terms), fieldName, fieldWeight));
+
         return fieldWeight;
     }
 
@@ -104,12 +132,12 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
                 NodeParameters par1 = new NodeParameters();
                 par1.set("default", term);
                 par1.set("part", "field." + field);
-                termFieldCounts = new Node("counts", par1, new ArrayList());
+                termFieldCounts = new Node("counts", par1, new ArrayList<>());
             } else {
                 // otherwise use an #inside op
                 NodeParameters par1 = new NodeParameters();
                 par1.set("default", term);
-                termExtents = new Node("extents", par1, new ArrayList());
+                termExtents = new Node("extents", par1, new ArrayList<>());
                 termExtents = TextPartAssigner.assignPart(termExtents, globals, this.retrieval.getAvailableParts());
 
                 termFieldCounts = new Node("inside");

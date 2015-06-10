@@ -12,3 +12,5 @@ libraryDependencies ++= Seq(
   "org.functionaljava" % "functionaljava-java8" % "4.3",
   "org.scalatest" %% "scalatest" % "2.2.5" % "test"
 )
+
+javacOptions ++= Seq("-Xlint:unchecked")
