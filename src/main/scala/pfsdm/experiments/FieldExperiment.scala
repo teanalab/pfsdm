@@ -1,8 +1,8 @@
-package fsdm2.experiments
+package pfsdm.experiments
 
 import java.io._
 
-import fsdm2.experiments.FieldExperiment._
+import FieldExperiment._
 import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
 import org.lemurproject.galago.core.retrieval.query.{StructuredQuery, Node}
 import org.lemurproject.galago.core.retrieval.{RetrievalFactory, Retrieval}
