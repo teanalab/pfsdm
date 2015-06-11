@@ -1,3 +1,4 @@
+qid	text	name
 SemSearch_ES-20	carolina	name
 SemSearch_ES-31	emery	name
 SemSearch_ES-27	earl may	name
@@ -26,7 +27,7 @@ INEX_LD-2009039	roman architecture	notname
 SemSearch_ES-67	ovguide movies	notname
 QALD2_tr-73	Who owns Aldi?	notname
 SemSearch_ES-42	john maxwell	name
-SemSearch_ES-53	lynchburg virginia	notname
+SemSearch_ES-53	lynchburg virginia	name
 INEX_LD-2012367	invented telescope	notname
 SemSearch_ES-35	hospice of cincinnati	notname
 SemSearch_ES-106	chase masterson	name
@@ -47,7 +48,7 @@ SemSearch_ES-55	marcus theaters	name
 SemSearch_ES-138	syracuse spca	name
 SemSearch_ES-38	jack the ripper	name
 INEX_XER-74	circus mammals	notname
-SemSearch_ES-49	laura bush	notname
+SemSearch_ES-49	laura bush	name
 SemSearch_ES-33	harry potter	name
 QALD2_tr-72	Which languages are spoken in Estonia?	notname
 SemSearch_ES-28	el salvador	name
@@ -73,7 +74,7 @@ SemSearch_ES-58	mason ohio	name
 SemSearch_ES-21	charles darwin	name
 SemSearch_ES-69	piosenki mp3	notname
 INEX_LD-2010014	composer museum	notname
-SemSearch_ES-80	sonny and cher	notname
+SemSearch_ES-80	sonny and cher	name
 SemSearch_ES-108	danielia cotton	name
 SemSearch_ES-115	goodwill of michigan	name
 SemSearch_ES-37	jack johnson	name

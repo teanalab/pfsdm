@@ -1,4 +1,4 @@
-package pfsdm.experiments
+package edu.wayne.pfsdm.experiments
 
 import org.lemurproject.galago.core.parse.{Document, TagTokenizer}
 import org.lemurproject.galago.core.util.WordLists

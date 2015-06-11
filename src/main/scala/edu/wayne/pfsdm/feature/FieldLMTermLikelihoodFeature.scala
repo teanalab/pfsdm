@@ -12,10 +12,23 @@ class FieldLMTermLikelihoodFeature(val traversal: ParametrizedFSDMTraversal) ext
 
   private def getTermFrequency(tokens: Seq[String], fieldName: String): Long = {
     val node: Node = tokens match {
-      case term :: Nil => new Node("counts", term)
-      case term1 :: term2 :: Nil => new Node("counts", term1 + "~" + term2)
+      case term :: Nil =>{
+        val node: Node = new Node("counts", term)
+        node.getNodeParameters.set("part", "field." + fieldName)
+        node
+      }
+      case term1 :: term2 :: Nil => {
+        val t1: Node = new Node("extents", term1)
+        val t2: Node = new Node("extents", term2)
+        val od1: Node = new Node("ordered")
+        od1.getNodeParameters.set("default", 1)
+        od1.addChild(t1)
+        od1.addChild(t2)
+        od1.getChild(0).getNodeParameters.set("part", "field." + fieldName)
+        od1.getChild(1).getNodeParameters.set("part", "field." + fieldName)
+        od1
+      }
     }
-    node.getNodeParameters.set("part", "field." + fieldName)
     traversal.getRetrieval.getNodeStatistics(node).nodeFrequency
   }
 

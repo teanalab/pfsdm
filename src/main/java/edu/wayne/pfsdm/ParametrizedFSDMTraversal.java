@@ -20,7 +20,6 @@ import static fj.data.List.list;
 /**
  * For queries like "#pfsdm(president barack obama)"
  *
- * @author Nikita Zhiltsov
  * @author Fedor Nikolaev
  */
 public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraversal {

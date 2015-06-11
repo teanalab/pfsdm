@@ -1,8 +1,7 @@
-package pfsdm.experiments
+package edu.wayne.pfsdm.experiments
 
 import java.io._
 
-import FieldExperiment._
 import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
 import org.lemurproject.galago.core.retrieval.query.{StructuredQuery, Node}
 import org.lemurproject.galago.core.retrieval.{RetrievalFactory, Retrieval}
@@ -16,7 +15,7 @@ import scala.collection.JavaConversions._
 /**
  * Created by fsqcds on 4/25/15.
  */
-object FieldExperiment {
+object BaselineScoreExperiment {
   val parameters = Parameters.parseFile(new File(getClass.getResource("/traversal-config.json").toURI))
   val fields: Seq[String] = parameters.getList("fields", classOf[String])
 
@@ -106,7 +105,7 @@ object FieldExperiment {
     parameters.copyFrom(mainParameters)
     val retrieval: Retrieval = RetrievalFactory.create(parameters)
     val output = new PrintWriter("output/field_experiment.tsv")
-    output.println(s"type\tqid\ttokens\trelevance\t${fields.mkString("\t")}")
+    output.println((Seq("ngramtype", "qid", "tokens", "relevance") ++ fields).mkString("\t"))
     unigramQueries.foreach { case (qId: String, qToken: String) =>
       output.println(s"unigram\t$qId\t$qToken\trelevant\t${getUniTopScores(qId, qToken, true, qrels, retrieval, parameters).mkString("\t")}")
       output.println(s"unigram\t$qId\t$qToken\tnonrelevant\t${getUniTopScores(qId, qToken, false, qrels, retrieval, parameters).mkString("\t")}")
@@ -117,25 +116,4 @@ object FieldExperiment {
     }
     output.close()
   }
-}
-
-object BigramUnigramQueriesFileMaker extends App {
-  val queries: Map[String, String] = Source.fromInputStream(
-    getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines.
-    map { line => line.split("\t") match {
-    case Array(qId, qText) => (qId, qText)
-  }
-  }.toMap
-  val tokenizedQueries: Map[String, Seq[String]] = queries.map { case (qId: String, qText: String) =>
-    (qId, Util.tokenize(qText).filterNot(Util.isStopWord))
-  }
-  val uniBigramQueries: Map[String, Seq[String]] = tokenizedQueries.filter { case (_, qTokens: Seq[String]) =>
-    qTokens.length == 1 || qTokens.length == 2
-  }
-  val output = new PrintWriter("output/namequeries.tsv")
-  uniBigramQueries.foreach { case (qId: String, qToken: Seq[String]) =>
-    output.println(s"$qId\t${queries(qId)}")
-  }
-  output.close()
-  println("Now manually filter namequeris.tsv so only name queries will remain")
 }
