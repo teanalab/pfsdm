@@ -31,180 +31,179 @@ INEX_LD-20120132	vietnam travel airports	travel	attribute
 INEX_LD-20120132	vietnam travel airports	airports	type
 INEX_LD-20120132	vietnam travel airports	vietnam travel	attribute
 INEX_LD-20120132	vietnam travel airports	travel airports	type
-INEX_LD-20120211	guitar chord tuning	guitar	
-INEX_LD-20120211	guitar chord tuning	chord	
-INEX_LD-20120211	guitar chord tuning	tuning	
-INEX_LD-20120211	guitar chord tuning	guitar chord	
-INEX_LD-20120211	guitar chord tuning	chord tuning	
-INEX_LD-20120212	guitar chord minor	guitar	
-INEX_LD-20120212	guitar chord minor	chord	
-INEX_LD-20120212	guitar chord minor	minor	
-INEX_LD-20120212	guitar chord minor	guitar chord	
-INEX_LD-20120212	guitar chord minor	chord minor	
-INEX_LD-20120221	guitar classical flamenco	guitar	
-INEX_LD-20120221	guitar classical flamenco	classical	
-INEX_LD-20120221	guitar classical flamenco	flamenco	
-INEX_LD-20120221	guitar classical flamenco	guitar classical	
-INEX_LD-20120221	guitar classical flamenco	classical flamenco	
-INEX_LD-20120222	guitar classical bach	guitar	
-INEX_LD-20120222	guitar classical bach	classical	
-INEX_LD-20120222	guitar classical bach	bach	
-INEX_LD-20120222	guitar classical bach	guitar classical	
-INEX_LD-20120222	guitar classical bach	classical bach	
-INEX_LD-20120231	guitar origin Russia	guitar	
-INEX_LD-20120231	guitar origin Russia	origin	
-INEX_LD-20120231	guitar origin Russia	russia	
-INEX_LD-20120231	guitar origin Russia	guitar origin	
-INEX_LD-20120231	guitar origin Russia	origin russia	
-INEX_LD-20120232	guitar origin blues	guitar	
-INEX_LD-20120232	guitar origin blues	origin	
-INEX_LD-20120232	guitar origin blues	blues	
-INEX_LD-20120232	guitar origin blues	guitar origin	
-INEX_LD-20120232	guitar origin blues	origin blues	
-INEX_LD-20120311	tango culture movies	tango	
-INEX_LD-20120311	tango culture movies	culture	
-INEX_LD-20120311	tango culture movies	movies	
-INEX_LD-20120311	tango culture movies	tango culture	
-INEX_LD-20120311	tango culture movies	culture movies	
-INEX_LD-20120312	tango culture countries	tango	
-INEX_LD-20120312	tango culture countries	culture	
-INEX_LD-20120312	tango culture countries	countries	
-INEX_LD-20120312	tango culture countries	tango culture	
-INEX_LD-20120312	tango culture countries	culture countries	
-INEX_LD-20120321	tango music  composers	tango	
-INEX_LD-20120321	tango music  composers	music	
-INEX_LD-20120321	tango music  composers	composers	
-INEX_LD-20120321	tango music  composers	tango music	
-INEX_LD-20120321	tango music  composers	music composers	
-INEX_LD-20120322	tango music instruments	tango	
-INEX_LD-20120322	tango music instruments	music	
-INEX_LD-20120322	tango music instruments	instruments	
-INEX_LD-20120322	tango music instruments	tango music	
-INEX_LD-20120322	tango music instruments	music instruments	
-INEX_LD-20120331	tango dance styles	tango	
-INEX_LD-20120331	tango dance styles	dance	
-INEX_LD-20120331	tango dance styles	styles	
-INEX_LD-20120331	tango dance styles	tango dance	
-INEX_LD-20120331	tango dance styles	dance styles	
-INEX_LD-20120332	tango dance history	tango	
-INEX_LD-20120332	tango dance history	dance	
-INEX_LD-20120332	tango dance history	history	
-INEX_LD-20120332	tango dance history	tango dance	
-INEX_LD-20120332	tango dance history	dance history	
-INEX_LD-20120411	bicycle sport races	bicycle	
-INEX_LD-20120411	bicycle sport races	sport	
-INEX_LD-20120411	bicycle sport races	races	
-INEX_LD-20120411	bicycle sport races	bicycle sport	
-INEX_LD-20120411	bicycle sport races	sport races	
-INEX_LD-20120412	bicycle sport disciplines	bicycle	
-INEX_LD-20120412	bicycle sport disciplines	sport	
-INEX_LD-20120412	bicycle sport disciplines	disciplines	
-INEX_LD-20120412	bicycle sport disciplines	bicycle sport	
-INEX_LD-20120412	bicycle sport disciplines	sport disciplines	
-INEX_LD-20120421	bicycle holiday towns	bicycle	
-INEX_LD-20120421	bicycle holiday towns	holiday	
-INEX_LD-20120421	bicycle holiday towns	towns	
-INEX_LD-20120421	bicycle holiday towns	bicycle holiday	
-INEX_LD-20120421	bicycle holiday towns	holiday towns	
-INEX_LD-20120422	bicycle holiday nature	bicycle	
-INEX_LD-20120422	bicycle holiday nature	holiday	
-INEX_LD-20120422	bicycle holiday nature	nature	
-INEX_LD-20120422	bicycle holiday nature	bicycle holiday	
-INEX_LD-20120422	bicycle holiday nature	holiday nature	
-INEX_LD-20120431	bicycle benefits health	bicycle	
-INEX_LD-20120431	bicycle benefits health	benefits	
-INEX_LD-20120431	bicycle benefits health	health	
-INEX_LD-20120431	bicycle benefits health	bicycle benefits	
-INEX_LD-20120431	bicycle benefits health	benefits health	
-INEX_LD-20120432	bicycle benefits environment	bicycle	
-INEX_LD-20120432	bicycle benefits environment	benefits	
-INEX_LD-20120432	bicycle benefits environment	environment	
-INEX_LD-20120432	bicycle benefits environment	bicycle benefits	
-INEX_LD-20120432	bicycle benefits environment	benefits environment	
-INEX_LD-20120511	female rock singers	female	
-INEX_LD-20120511	female rock singers	rock	
-INEX_LD-20120511	female rock singers	singers	
-INEX_LD-20120511	female rock singers	female rock	
-INEX_LD-20120511	female rock singers	rock singers	
-INEX_LD-20120512	south korean girl groups	south	
-INEX_LD-20120512	south korean girl groups	korean	
-INEX_LD-20120512	south korean girl groups	girl	
-INEX_LD-20120512	south korean girl groups	groups	
-INEX_LD-20120512	south korean girl groups	south korean	
-INEX_LD-20120512	south korean girl groups	korean girl	
-INEX_LD-20120512	south korean girl groups	girl groups	
-INEX_LD-20120521	electronic music genres	electronic	
-INEX_LD-20120521	electronic music genres	music	
-INEX_LD-20120521	electronic music genres	genres	
-INEX_LD-20120521	electronic music genres	electronic music	
-INEX_LD-20120521	electronic music genres	music genres	
-INEX_LD-20120522	digital music notation formats	digital	
-INEX_LD-20120522	digital music notation formats	music	
-INEX_LD-20120522	digital music notation formats	notation	
-INEX_LD-20120522	digital music notation formats	formats	
-INEX_LD-20120522	digital music notation formats	digital music	
-INEX_LD-20120522	digital music notation formats	music notation	
-INEX_LD-20120522	digital music notation formats	notation formats	
-INEX_LD-20120531	music conferences	music	
-INEX_LD-20120531	music conferences	conferences	
-INEX_LD-20120531	music conferences	music conferences	
-INEX_LD-20120532	intellectual property rights lobby	intellectual	
-INEX_LD-20120532	intellectual property rights lobby	property	
-INEX_LD-20120532	intellectual property rights lobby	rights	
-INEX_LD-20120532	intellectual property rights lobby	lobby	
-INEX_LD-20120532	intellectual property rights lobby	intellectual property	
-INEX_LD-20120532	intellectual property rights lobby	property rights	
-INEX_LD-20120532	intellectual property rights lobby	rights lobby	
-INEX_LD-2009022	Szechwan dish food cuisine	szechwan	
-INEX_LD-2009022	Szechwan dish food cuisine	dish	
-INEX_LD-2009022	Szechwan dish food cuisine	food	
-INEX_LD-2009022	Szechwan dish food cuisine	cuisine	
-INEX_LD-2009022	Szechwan dish food cuisine	szechwan dish	
-INEX_LD-2009022	Szechwan dish food cuisine	dish food	
-INEX_LD-2009022	Szechwan dish food cuisine	food cuisine	
-INEX_LD-2009039	roman architecture	roman	
-INEX_LD-2009039	roman architecture	architecture	
-INEX_LD-2009039	roman architecture	roman architecture	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	finland	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	car	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	industry	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	manufacturer	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	saab	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	sisu	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	finland car	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	car industry	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	industry manufacturer	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	manufacturer saab	
-INEX_LD-2009053	finland car industry manufacturer saab sisu	saab sisu	
-INEX_LD-2009061	france second world war normandy	france	
-INEX_LD-2009061	france second world war normandy	second	
-INEX_LD-2009061	france second world war normandy	world	
-INEX_LD-2009061	france second world war normandy	war	
-INEX_LD-2009061	france second world war normandy	normandy	
-INEX_LD-2009061	france second world war normandy	france second	
-INEX_LD-2009061	france second world war normandy	second world	
-INEX_LD-2009061	france second world war normandy	world war	
-INEX_LD-2009061	france second world war normandy	war normandy	
-INEX_LD-2009062	social network group selection	social	
-INEX_LD-2009062	social network group selection	network	
-INEX_LD-2009062	social network group selection	group	
-INEX_LD-2009062	social network group selection	selection	
-INEX_LD-2009062	social network group selection	social network	
-INEX_LD-2009062	social network group selection	network group	
-INEX_LD-2009062	social network group selection	group selection	
-INEX_LD-2009063	D-Day normandy invasion	d	
-INEX_LD-2009063	D-Day normandy invasion	normandy	
-INEX_LD-2009063	D-Day normandy invasion	invasion	
-INEX_LD-2009063	D-Day normandy invasion	d normandy	
-INEX_LD-2009063	D-Day normandy invasion	normandy invasion	
-INEX_LD-2009074	web ranking scoring algorithm	web	
-INEX_LD-2009074	web ranking scoring algorithm	ranking	
-INEX_LD-2009074	web ranking scoring algorithm	scoring	
-INEX_LD-2009074	web ranking scoring algorithm	algorithm	
-INEX_LD-2009074	web ranking scoring algorithm	web ranking	
-INEX_LD-2009074	web ranking scoring algorithm	ranking scoring	
-INEX_LD-2009074	web ranking scoring algorithm	scoring algorithm	
-INEX_LD-2009096	Eiffel	eiffel	
+INEX_LD-20120211	guitar chord tuning	guitar	attribute
+INEX_LD-20120211	guitar chord tuning	chord	unsure
+INEX_LD-20120211	guitar chord tuning	tuning	unsure
+INEX_LD-20120211	guitar chord tuning	guitar chord	attribute
+INEX_LD-20120211	guitar chord tuning	chord tuning	unsure
+INEX_LD-20120212	guitar chord minor	guitar	attribute
+INEX_LD-20120212	guitar chord minor	chord	type
+INEX_LD-20120212	guitar chord minor	minor	attribute
+INEX_LD-20120212	guitar chord minor	guitar chord	type
+INEX_LD-20120212	guitar chord minor	chord minor	type
+INEX_LD-20120221	guitar classical flamenco	guitar	attribute
+INEX_LD-20120221	guitar classical flamenco	classical	attribute
+INEX_LD-20120221	guitar classical flamenco	flamenco	unsure
+INEX_LD-20120221	guitar classical flamenco	guitar classical	none
+INEX_LD-20120221	guitar classical flamenco	classical flamenco	unsure
+INEX_LD-20120222	guitar classical bach	guitar	attribute
+INEX_LD-20120222	guitar classical bach	classical	attiribute
+INEX_LD-20120222	guitar classical bach	bach	relation
+INEX_LD-20120222	guitar classical bach	guitar classical	none
+INEX_LD-20120222	guitar classical bach	classical bach	none
+INEX_LD-20120231	guitar origin Russia	guitar	unsure
+INEX_LD-20120231	guitar origin Russia	origin	none
+INEX_LD-20120231	guitar origin Russia	russia	relation
+INEX_LD-20120231	guitar origin Russia	guitar origin	unsure
+INEX_LD-20120231	guitar origin Russia	origin russia	none
+INEX_LD-20120232	guitar origin blues	guitar	attribute
+INEX_LD-20120232	guitar origin blues	origin	none
+INEX_LD-20120232	guitar origin blues	blues	unsure
+INEX_LD-20120232	guitar origin blues	guitar origin	none
+INEX_LD-20120232	guitar origin blues	origin blues	none
+INEX_LD-20120311	tango culture movies	tango	attribute
+INEX_LD-20120311	tango culture movies	culture	none
+INEX_LD-20120311	tango culture movies	movies	type
+INEX_LD-20120311	tango culture movies	tango culture	attribute
+INEX_LD-20120311	tango culture movies	culture movies	none
+INEX_LD-20120312	tango culture countries	tango	attribute
+INEX_LD-20120312	tango culture countries	culture	none
+INEX_LD-20120312	tango culture countries	countries	none
+INEX_LD-20120312	tango culture countries	tango culture	attribute
+INEX_LD-20120312	tango culture countries	culture countries	none
+INEX_LD-20120321	tango music  composers	tango	attribute
+INEX_LD-20120321	tango music  composers	music	attribute
+INEX_LD-20120321	tango music  composers	composers	type
+INEX_LD-20120321	tango music  composers	tango music	attribute
+INEX_LD-20120321	tango music  composers	music composers	type
+INEX_LD-20120322	tango music instruments	tango	attribute
+INEX_LD-20120322	tango music instruments	music	attribute
+INEX_LD-20120322	tango music instruments	instruments	type
+INEX_LD-20120322	tango music instruments	tango music	attribute
+INEX_LD-20120322	tango music instruments	music instruments	type
+INEX_LD-20120331	tango dance styles	tango	attribute
+INEX_LD-20120331	tango dance styles	dance	attribute
+INEX_LD-20120331	tango dance styles	styles	type
+INEX_LD-20120331	tango dance styles	tango dance	attribute
+INEX_LD-20120331	tango dance styles	dance styles	type
+INEX_LD-20120332	tango dance history	tango	attribute
+INEX_LD-20120332	tango dance history	dance	attribute
+INEX_LD-20120332	tango dance history	history	none
+INEX_LD-20120332	tango dance history	tango dance	attribute
+INEX_LD-20120332	tango dance history	dance history	none
+INEX_LD-20120411	bicycle sport races	bicycle	attribute
+INEX_LD-20120411	bicycle sport races	sport	attribute
+INEX_LD-20120411	bicycle sport races	races	type
+INEX_LD-20120411	bicycle sport races	bicycle sport	attribute
+INEX_LD-20120411	bicycle sport races	sport races	type
+INEX_LD-20120412	bicycle sport disciplines	bicycle	attribute
+INEX_LD-20120412	bicycle sport disciplines	sport	attribute
+INEX_LD-20120412	bicycle sport disciplines	disciplines	type
+INEX_LD-20120412	bicycle sport disciplines	bicycle sport	attribute
+INEX_LD-20120412	bicycle sport disciplines	sport disciplines	type
+INEX_LD-20120421	bicycle holiday towns	bicycle	attribute
+INEX_LD-20120421	bicycle holiday towns	holiday unsure
+INEX_LD-20120421	bicycle holiday towns	towns	unsure
+INEX_LD-20120421	bicycle holiday towns	bicycle holiday	unsure
+INEX_LD-20120421	bicycle holiday towns	holiday towns	unsure
+INEX_LD-20120422	bicycle holiday nature	bicycle	unsure
+INEX_LD-20120422	bicycle holiday nature	holiday	unsure
+INEX_LD-20120422	bicycle holiday nature	nature	unsure
+INEX_LD-20120422	bicycle holiday nature	bicycle holiday	unsure
+INEX_LD-20120422	bicycle holiday nature	holiday nature	unsure
+INEX_LD-20120431	bicycle benefits health	bicycle	attribute
+INEX_LD-20120431	bicycle benefits health	benefits	type
+INEX_LD-20120431	bicycle benefits health	health	attribute
+INEX_LD-20120431	bicycle benefits health	bicycle benefits	none
+INEX_LD-20120431	bicycle benefits health	benefits health	type
+INEX_LD-20120432	bicycle benefits environment	bicycle	attribute
+INEX_LD-20120432	bicycle benefits environment	benefits	type
+INEX_LD-20120432	bicycle benefits environment	environment	attribute
+INEX_LD-20120432	bicycle benefits environment	bicycle benefits	none
+INEX_LD-20120432	bicycle benefits environment	benefits environment	type
+INEX_LD-20120511	female rock singers	female	attribute
+INEX_LD-20120511	female rock singers	rock	attribute
+INEX_LD-20120511	female rock singers	singers	type
+INEX_LD-20120511	female rock singers	female rock	none
+INEX_LD-20120511	female rock singers	rock singers	type
+INEX_LD-20120512	south korean girl groups	south	attribute
+INEX_LD-20120512	south korean girl groups	korean	attribute
+INEX_LD-20120512	south korean girl groups	girl	attribute
+INEX_LD-20120512	south korean girl groups	groups	type
+INEX_LD-20120512	south korean girl groups	south korean	attribute
+INEX_LD-20120512	south korean girl groups	korean girl	none
+INEX_LD-20120512	south korean girl groups	girl groups	type
+INEX_LD-20120521	electronic music genres	electronic	attribute
+INEX_LD-20120521	electronic music genres	music	attribute
+INEX_LD-20120521	electronic music genres	genres	type
+INEX_LD-20120521	electronic music genres	electronic music	attribute
+INEX_LD-20120521	electronic music genres	music genres	type
+INEX_LD-20120522	digital music notation formats	digital	attribute
+INEX_LD-20120522	digital music notation formats	music	attribute
+INEX_LD-20120522	digital music notation formats	notation	attribute
+INEX_LD-20120522	digital music notation formats	formats	type
+INEX_LD-20120522	digital music notation formats	digital music	attribute
+INEX_LD-20120522	digital music notation formats	music notation	attribute
+INEX_LD-20120522	digital music notation formats	notation formats	type
+INEX_LD-20120531	music conferences	music	attribute
+INEX_LD-20120531	music conferences	conferences	type
+INEX_LD-20120531	music conferences	music conferences	type
+INEX_LD-20120532	intellectual property rights lobby	intellectual	none
+INEX_LD-20120532	intellectual property rights lobby	property	attribute
+INEX_LD-20120532	intellectual property rights lobby	rights	attribute
+INEX_LD-20120532	intellectual property rights lobby	lobby	type
+INEX_LD-20120532	intellectual property rights lobby	intellectual property	attribute
+INEX_LD-20120532	intellectual property rights lobby	property rights	attribute
+INEX_LD-20120532	intellectual property rights lobby	rights lobby	type
+INEX_LD-2009022	Szechwan dish food cuisine	szechwan	entity
+INEX_LD-2009022	Szechwan dish food cuisine	dish	attribute
+INEX_LD-2009022	Szechwan dish food cuisine	food	attribute
+INEX_LD-2009022	Szechwan dish food cuisine	cuisine	type
+INEX_LD-2009022	Szechwan dish food cuisine	szechwan dish	none
+INEX_LD-2009022	Szechwan dish food cuisine	dish food	none
+INEX_LD-2009022	Szechwan dish food cuisine	food cuisine	type
+INEX_LD-2009039	roman architecture	roman	attribute
+INEX_LD-2009039	roman architecture	architecture	unsure
+INEX_LD-2009039	roman architecture	roman architecture	unsure
+INEX_LD-2009053	finland car industry manufacturer saab sisu	finland	attribute
+INEX_LD-2009053	finland car industry manufacturer saab sisu	car	attribute
+INEX_LD-2009053	finland car industry manufacturer saab sisu	industry	attribute
+INEX_LD-2009053	finland car industry manufacturer saab sisu	manufacturer	type
+INEX_LD-2009053	finland car industry manufacturer saab sisu	saab	entity
+INEX_LD-2009053	finland car industry manufacturer saab sisu	sisu	entity
+INEX_LD-2009053	finland car industry manufacturer saab sisu	finland car	none
+INEX_LD-2009053	finland car industry manufacturer saab sisu	car industry	attirube
+INEX_LD-2009053	finland car industry manufacturer saab sisu	industry manufacturer	type
+INEX_LD-2009053	finland car industry manufacturer saab sisu	manufacturer saab	none
+INEX_LD-2009053	finland car industry manufacturer saab sisu	saab sisu	none
+INEX_LD-2009061	france second world war normandy	france	relation
+INEX_LD-2009061	france second world war normandy	second	none
+INEX_LD-2009061	france second world war normandy	world	none
+INEX_LD-2009061	france second world war normandy	war	relation
+INEX_LD-2009061	france second world war normandy	normandy	relation
+INEX_LD-2009061	france second world war normandy	france second	none
+INEX_LD-2009061	france second world war normandy	second world	none
+INEX_LD-2009061	france second world war normandy	world war	relation
+INEX_LD-2009061	france second world war normandy	war normandy	none
+INEX_LD-2009062	social network group selection	social	unsure
+INEX_LD-2009062	social network group selection	network	unsure
+INEX_LD-2009062	social network group selection	group	unsure
+INEX_LD-2009062	social network group selection	selection	unsure
+INEX_LD-2009062	social network group selection	social network	unsure
+INEX_LD-2009062	social network group selection	network group	unsure
+INEX_LD-2009062	social network group selection	group selection	unsure
+INEX_LD-2009063	D-Day normandy invasion	d	none
+INEX_LD-2009063	D-Day normandy invasion	normandy	relation
+INEX_LD-2009063	D-Day normandy invasion	invasion	type
+INEX_LD-2009063	D-Day normandy invasion	d normandy	none
+INEX_LD-2009063	D-Day normandy invasion	normandy invasion	type
+INEX_LD-2009074	web ranking scoring algorithm	web	attribute
+INEX_LD-2009074	web ranking scoring algorithm	ranking	attribute
+INEX_LD-2009074	web ranking scoring algorithm	scoring	attribute
+INEX_LD-2009074	web ranking scoring algorithm	algorithm	type
+INEX_LD-2009074	web ranking scoring algorithm	web ranking	attribute
+INEX_LD-2009074	web ranking scoring algorithm	ranking scoring	none
+INEX_LD-2009074	web ranking scoring algorithm	scoring algorithm	type
 INEX_LD-2009096	Eiffel	eiffel	
 INEX_LD-2009111	europe solar power facility	europe	
 INEX_LD-2009111	europe solar power facility	solar	
