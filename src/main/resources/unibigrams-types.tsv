@@ -2,12 +2,12 @@ qid	text	gram	type
 INEX_LD-20120111	vietnam war movie	vietnam	attribute
 INEX_LD-20120111	vietnam war movie	war	attribute
 INEX_LD-20120111	vietnam war movie	movie	type
-INEX_LD-20120111	vietnam war movie	vietnam war	relation
+INEX_LD-20120111	vietnam war movie	vietnam war	attribute
 INEX_LD-20120111	vietnam war movie	war movie	type
 INEX_LD-20120112	vietnam war facts	vietnam	attribute
 INEX_LD-20120112	vietnam war facts	war	attribute
 INEX_LD-20120112	vietnam war facts	facts	type
-INEX_LD-20120112	vietnam war facts	vietnam war	relation
+INEX_LD-20120112	vietnam war facts	vietnam war	attribute
 INEX_LD-20120112	vietnam war facts	war facts	type
 INEX_LD-20120121	vietnam food recipes	vietnam	attribute
 INEX_LD-20120121	vietnam food recipes	food	attribute
@@ -47,13 +47,13 @@ INEX_LD-20120221	guitar classical flamenco	flamenco	unsure
 INEX_LD-20120221	guitar classical flamenco	guitar classical	none
 INEX_LD-20120221	guitar classical flamenco	classical flamenco	unsure
 INEX_LD-20120222	guitar classical bach	guitar	attribute
-INEX_LD-20120222	guitar classical bach	classical	attiribute
+INEX_LD-20120222	guitar classical bach	classical	attribute
 INEX_LD-20120222	guitar classical bach	bach	relation
 INEX_LD-20120222	guitar classical bach	guitar classical	none
 INEX_LD-20120222	guitar classical bach	classical bach	none
 INEX_LD-20120231	guitar origin Russia	guitar	unsure
 INEX_LD-20120231	guitar origin Russia	origin	none
-INEX_LD-20120231	guitar origin Russia	russia	relation
+INEX_LD-20120231	guitar origin Russia	russia	attribute
 INEX_LD-20120231	guitar origin Russia	guitar origin	unsure
 INEX_LD-20120231	guitar origin Russia	origin russia	none
 INEX_LD-20120232	guitar origin blues	guitar	attribute
@@ -102,7 +102,7 @@ INEX_LD-20120412	bicycle sport disciplines	disciplines	type
 INEX_LD-20120412	bicycle sport disciplines	bicycle sport	attribute
 INEX_LD-20120412	bicycle sport disciplines	sport disciplines	type
 INEX_LD-20120421	bicycle holiday towns	bicycle	attribute
-INEX_LD-20120421	bicycle holiday towns	holiday unsure
+INEX_LD-20120421	bicycle holiday towns	holiday	unsure
 INEX_LD-20120421	bicycle holiday towns	towns	unsure
 INEX_LD-20120421	bicycle holiday towns	bicycle holiday	unsure
 INEX_LD-20120421	bicycle holiday towns	holiday towns	unsure
@@ -163,8 +163,8 @@ INEX_LD-2009022	Szechwan dish food cuisine	szechwan dish	none
 INEX_LD-2009022	Szechwan dish food cuisine	dish food	none
 INEX_LD-2009022	Szechwan dish food cuisine	food cuisine	type
 INEX_LD-2009039	roman architecture	roman	attribute
-INEX_LD-2009039	roman architecture	architecture	unsure
-INEX_LD-2009039	roman architecture	roman architecture	unsure
+INEX_LD-2009039	roman architecture	architecture	type
+INEX_LD-2009039	roman architecture	roman architecture	type
 INEX_LD-2009053	finland car industry manufacturer saab sisu	finland	attribute
 INEX_LD-2009053	finland car industry manufacturer saab sisu	car	attribute
 INEX_LD-2009053	finland car industry manufacturer saab sisu	industry	attribute
@@ -172,7 +172,7 @@ INEX_LD-2009053	finland car industry manufacturer saab sisu	manufacturer	type
 INEX_LD-2009053	finland car industry manufacturer saab sisu	saab	entity
 INEX_LD-2009053	finland car industry manufacturer saab sisu	sisu	entity
 INEX_LD-2009053	finland car industry manufacturer saab sisu	finland car	none
-INEX_LD-2009053	finland car industry manufacturer saab sisu	car industry	attirube
+INEX_LD-2009053	finland car industry manufacturer saab sisu	car industry	attribute
 INEX_LD-2009053	finland car industry manufacturer saab sisu	industry manufacturer	type
 INEX_LD-2009053	finland car industry manufacturer saab sisu	manufacturer saab	none
 INEX_LD-2009053	finland car industry manufacturer saab sisu	saab sisu	none
@@ -193,7 +193,7 @@ INEX_LD-2009062	social network group selection	social network	unsure
 INEX_LD-2009062	social network group selection	network group	unsure
 INEX_LD-2009062	social network group selection	group selection	unsure
 INEX_LD-2009063	D-Day normandy invasion	d	none
-INEX_LD-2009063	D-Day normandy invasion	normandy	relation
+INEX_LD-2009063	D-Day normandy invasion	normandy	attribute
 INEX_LD-2009063	D-Day normandy invasion	invasion	type
 INEX_LD-2009063	D-Day normandy invasion	d normandy	none
 INEX_LD-2009063	D-Day normandy invasion	normandy invasion	type
@@ -204,307 +204,307 @@ INEX_LD-2009074	web ranking scoring algorithm	algorithm	type
 INEX_LD-2009074	web ranking scoring algorithm	web ranking	attribute
 INEX_LD-2009074	web ranking scoring algorithm	ranking scoring	none
 INEX_LD-2009074	web ranking scoring algorithm	scoring algorithm	type
-INEX_LD-2009096	Eiffel	eiffel	
-INEX_LD-2009111	europe solar power facility	europe	
-INEX_LD-2009111	europe solar power facility	solar	
-INEX_LD-2009111	europe solar power facility	power	
-INEX_LD-2009111	europe solar power facility	facility	
-INEX_LD-2009111	europe solar power facility	europe solar	
-INEX_LD-2009111	europe solar power facility	solar power	
-INEX_LD-2009111	europe solar power facility	power facility	
-INEX_LD-2009115	virtual museums	virtual	
-INEX_LD-2009115	virtual museums	museums	
-INEX_LD-2009115	virtual museums	virtual museums	
-INEX_LD-2010004	Indian food	indian	
-INEX_LD-2010004	Indian food	food	
-INEX_LD-2010004	Indian food	indian food	
-INEX_LD-2010014	composer museum	composer	
-INEX_LD-2010014	composer museum	museum	
-INEX_LD-2010014	composer museum	composer museum	
-INEX_LD-2010019	gallo roman architecture in paris	gallo	
-INEX_LD-2010019	gallo roman architecture in paris	roman	
-INEX_LD-2010019	gallo roman architecture in paris	architecture	
-INEX_LD-2010019	gallo roman architecture in paris	paris	
-INEX_LD-2010019	gallo roman architecture in paris	gallo roman	
-INEX_LD-2010019	gallo roman architecture in paris	roman architecture	
-INEX_LD-2010019	gallo roman architecture in paris	architecture paris	
-INEX_LD-2010020	electricity source in France	electricity	
-INEX_LD-2010020	electricity source in France	source	
-INEX_LD-2010020	electricity source in France	france	
-INEX_LD-2010020	electricity source in France	electricity source	
-INEX_LD-2010020	electricity source in France	source france	
-INEX_LD-2010037	social network API	social	
-INEX_LD-2010037	social network API	network	
-INEX_LD-2010037	social network API	api	
-INEX_LD-2010037	social network API	social network	
-INEX_LD-2010037	social network API	network api	
-INEX_LD-2010043	List of films from the surrealist category	list	
-INEX_LD-2010043	List of films from the surrealist category	films	
-INEX_LD-2010043	List of films from the surrealist category	surrealist	
-INEX_LD-2010043	List of films from the surrealist category	category	
-INEX_LD-2010043	List of films from the surrealist category	list films	
-INEX_LD-2010043	List of films from the surrealist category	films surrealist	
-INEX_LD-2010043	List of films from the surrealist category	surrealist category	
-INEX_LD-2010057	Einstein Relativity theory	einstein	
-INEX_LD-2010057	Einstein Relativity theory	relativity	
-INEX_LD-2010057	Einstein Relativity theory	theory	
-INEX_LD-2010057	Einstein Relativity theory	einstein relativity	
-INEX_LD-2010057	Einstein Relativity theory	relativity theory	
-INEX_LD-2010069	summer flowers	summer	
-INEX_LD-2010069	summer flowers	flowers	
-INEX_LD-2010069	summer flowers	summer flowers	
-INEX_LD-2010100	house concrete wood	house	
-INEX_LD-2010100	house concrete wood	concrete	
-INEX_LD-2010100	house concrete wood	wood	
-INEX_LD-2010100	house concrete wood	house concrete	
-INEX_LD-2010100	house concrete wood	concrete wood	
-INEX_LD-2010106	organic food advantages disadvantages	organic	
-INEX_LD-2010106	organic food advantages disadvantages	food	
-INEX_LD-2010106	organic food advantages disadvantages	advantages	
-INEX_LD-2010106	organic food advantages disadvantages	disadvantages	
-INEX_LD-2010106	organic food advantages disadvantages	organic food	
-INEX_LD-2010106	organic food advantages disadvantages	food advantages	
-INEX_LD-2010106	organic food advantages disadvantages	advantages disadvantages	
-INEX_LD-2012301	Niagara falls origin lake	niagara	
-INEX_LD-2012301	Niagara falls origin lake	falls	
-INEX_LD-2012301	Niagara falls origin lake	origin	
-INEX_LD-2012301	Niagara falls origin lake	lake	
-INEX_LD-2012301	Niagara falls origin lake	niagara falls	
-INEX_LD-2012301	Niagara falls origin lake	falls origin	
-INEX_LD-2012301	Niagara falls origin lake	origin lake	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	valley	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	fever	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	fungal	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	infection	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	san	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	joaquin	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	valley fever	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	fever fungal	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	fungal infection	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	infection san	
-INEX_LD-2012303	 Valley fever fungal infection San Joaquin	san joaquin	
-INEX_LD-2012305	North Dakota's lowest river of another colour	north	
-INEX_LD-2012305	North Dakota's lowest river of another colour	dakotas	
-INEX_LD-2012305	North Dakota's lowest river of another colour	lowest	
-INEX_LD-2012305	North Dakota's lowest river of another colour	river	
-INEX_LD-2012305	North Dakota's lowest river of another colour	colour	
-INEX_LD-2012305	North Dakota's lowest river of another colour	north dakotas	
-INEX_LD-2012305	North Dakota's lowest river of another colour	dakotas lowest	
-INEX_LD-2012305	North Dakota's lowest river of another colour	lowest river	
-INEX_LD-2012305	North Dakota's lowest river of another colour	river colour	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	july	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	1850	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	president	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	died	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	millard	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	fillmore	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	sworn	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	following	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	july 1850	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	1850 president	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	president died	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	died millard	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	millard fillmore	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	fillmore sworn	
-INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	sworn following	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	residents	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	small	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	island	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	city	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	state	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	malay	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	peninsula	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	chinese	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	residents small	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	small island	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	island city	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	city state	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	state malay	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	malay peninsula	
-INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	peninsula chinese	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	john	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	lennon	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	yoko	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	ono	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	album	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	starting	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	john lennon	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	lennon yoko	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	yoko ono	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	ono album	
-INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	album starting	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	john	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	turturro	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	1991	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	coen	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	brothers	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	film	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	john turturro	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	turturro 1991	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	1991 coen	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	coen brothers	
-INEX_LD-2012313	John Turturro 1991 Coen Brothers film	brothers film	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	baguio	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	quezon	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	city	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	manila	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	official	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	independence	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	1945	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	baguio quezon	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	quezon city	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	city manila	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	manila official	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	official independence	
-INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	independence 1945	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	daggeroso	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	inclined	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	dagger	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	novel	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	sons	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	lovers	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	daggeroso inclined	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	inclined dagger	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	dagger novel	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	novel sons	
-INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	sons lovers	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	directed	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bela	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glen	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glenda	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bride	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	monster	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	plan	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	9	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	outer	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	space	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	directed bela	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bela glen	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glen glenda	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glenda bride	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bride monster	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	monster plan	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	plan 9	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	9 outer	
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	outer space	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	1994	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	short	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	story	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	collection	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	alice	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	munro	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	open	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	1994 short	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	short story	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	story collection	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	collection alice	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	alice munro	
-INEX_LD-2012319	 1994 short story collection Alice Munro is Open	munro open	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	asian	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	port	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	state	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	city	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	sir	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	stamford	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	raffles	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	asian port	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	port state	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	state city	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	city sir	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	sir stamford	
-INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	stamford raffles	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	large	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	glaciers	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	island	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	nation	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	langjokull	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	hofsjokull	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	vatnajokull	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	large glaciers	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	glaciers island	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	island nation	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	nation langjokull	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	langjokull hofsjokull	
-INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	hofsjokull vatnajokull	
-INEX_LD-2012325	successor James G. Blaine studied law	successor	
-INEX_LD-2012325	successor James G. Blaine studied law	james	
-INEX_LD-2012325	successor James G. Blaine studied law	g	
-INEX_LD-2012325	successor James G. Blaine studied law	blaine	
-INEX_LD-2012325	successor James G. Blaine studied law	studied	
-INEX_LD-2012325	successor James G. Blaine studied law	law	
-INEX_LD-2012325	successor James G. Blaine studied law	successor james	
-INEX_LD-2012325	successor James G. Blaine studied law	james g	
-INEX_LD-2012325	successor James G. Blaine studied law	g blaine	
-INEX_LD-2012325	successor James G. Blaine studied law	blaine studied	
-INEX_LD-2012325	successor James G. Blaine studied law	studied law	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	beloved	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	author	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	african	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	american	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	nobel	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	prize	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	literature	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	beloved author	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	author african	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	african american	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	american nobel	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	nobel prize	
-INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	prize literature	
-INEX_LD-2012329	Sweden Iceland currency	sweden	
-INEX_LD-2012329	Sweden Iceland currency	iceland	
-INEX_LD-2012329	Sweden Iceland currency	currency	
-INEX_LD-2012329	Sweden Iceland currency	sweden iceland	
-INEX_LD-2012329	Sweden Iceland currency	iceland currency	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	seoul	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	korea	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	river	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	name	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	ethnic	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	group	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	china	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	seoul korea	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	korea river	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	river name	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	name ethnic	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	ethnic group	
-INEX_LD-2012331	Seoul Korea river name ethnic group China	group china	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	prime	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	minister	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	canada	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	nicknamed	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	silver	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	tongued	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	laurier	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	longest	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	unbroken	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	term	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	prime minister	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	minister canada	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	canada nicknamed	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	nicknamed silver	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	silver tongued	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	tongued laurier	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	laurier longest	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	longest unbroken	
-INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	unbroken term	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	president	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	authorise	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	nuclear	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	weapons	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	japan	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	president authorise	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	authorise nuclear	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	nuclear weapons	
-INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	weapons japan	
-INEX_LD-2012336	1906 territory Papua island Australian	1906	
-INEX_LD-2012336	1906 territory Papua island Australian	territory	
+INEX_LD-2009096	Eiffel	eiffel	entity
+INEX_LD-2009111	europe solar power facility	europe	attribute
+INEX_LD-2009111	europe solar power facility	solar	attribute
+INEX_LD-2009111	europe solar power facility	power	attribute
+INEX_LD-2009111	europe solar power facility	facility	type
+INEX_LD-2009111	europe solar power facility	europe solar	none
+INEX_LD-2009111	europe solar power facility	solar power	attribute
+INEX_LD-2009111	europe solar power facility	power facility	type
+INEX_LD-2009115	virtual museums	virtual	attribute
+INEX_LD-2009115	virtual museums	museums	type
+INEX_LD-2009115	virtual museums	virtual museums	type
+INEX_LD-2010004	Indian food	indian	attribute
+INEX_LD-2010004	Indian food	food	type
+INEX_LD-2010004	Indian food	indian food	type
+INEX_LD-2010014	composer museum	composer	attribute
+INEX_LD-2010014	composer museum	museum	type
+INEX_LD-2010014	composer museum	composer museum	type
+INEX_LD-2010019	gallo roman architecture in paris	gall	attribute
+INEX_LD-2010019	gallo roman architecture in paris	roman	attribute
+INEX_LD-2010019	gallo roman architecture in paris	architecture	type
+INEX_LD-2010019	gallo roman architecture in paris	paris	attribute
+INEX_LD-2010019	gallo roman architecture in paris	gallo roman	attribute
+INEX_LD-2010019	gallo roman architecture in paris	roman architecture	type
+INEX_LD-2010019	gallo roman architecture in paris	architecture paris	none
+INEX_LD-2010020	electricity source in France	electricity	attribute
+INEX_LD-2010020	electricity source in France	source	type
+INEX_LD-2010020	electricity source in France	france	attribute
+INEX_LD-2010020	electricity source in France	electricity source	type
+INEX_LD-2010020	electricity source in France	source france	none
+INEX_LD-2010037	social network API	social	attribute
+INEX_LD-2010037	social network API	network	attribute
+INEX_LD-2010037	social network API	api	type
+INEX_LD-2010037	social network API	social network	attribute
+INEX_LD-2010037	social network API	network api	none
+INEX_LD-2010043	List of films from the surrealist category	list	none
+INEX_LD-2010043	List of films from the surrealist category	films	type
+INEX_LD-2010043	List of films from the surrealist category	surrealist	attribute
+INEX_LD-2010043	List of films from the surrealist category	category	none
+INEX_LD-2010043	List of films from the surrealist category	list films	none
+INEX_LD-2010043	List of films from the surrealist category	films surrealist	none
+INEX_LD-2010043	List of films from the surrealist category	surrealist category	attribute
+INEX_LD-2010057	Einstein Relativity theory	einstein	relation
+INEX_LD-2010057	Einstein Relativity theory	relativity	attribute
+INEX_LD-2010057	Einstein Relativity theory	theory	type
+INEX_LD-2010057	Einstein Relativity theory	einstein relativity	none
+INEX_LD-2010057	Einstein Relativity theory	relativity theory	entity
+INEX_LD-2010069	summer flowers	summer	attribute
+INEX_LD-2010069	summer flowers	flowers	type
+INEX_LD-2010069	summer flowers	summer flowers	type
+INEX_LD-2010100	house concrete wood	house	unsure
+INEX_LD-2010100	house concrete wood	concrete	unsure
+INEX_LD-2010100	house concrete wood	wood	unsure
+INEX_LD-2010100	house concrete wood	house concrete	unsure
+INEX_LD-2010100	house concrete wood	concrete wood	unsure
+INEX_LD-2010106	organic food advantages disadvantages	organic	attribute
+INEX_LD-2010106	organic food advantages disadvantages	food	attribute
+INEX_LD-2010106	organic food advantages disadvantages	advantages	type
+INEX_LD-2010106	organic food advantages disadvantages	disadvantages	type
+INEX_LD-2010106	organic food advantages disadvantages	organic food	attribute
+INEX_LD-2010106	organic food advantages disadvantages	food advantages	type
+INEX_LD-2010106	organic food advantages disadvantages	advantages disadvantages	none
+INEX_LD-2012301	Niagara falls origin lake	niagara	relation
+INEX_LD-2012301	Niagara falls origin lake	falls	relation
+INEX_LD-2012301	Niagara falls origin lake	origin	attribute
+INEX_LD-2012301	Niagara falls origin lake	lake	type
+INEX_LD-2012301	Niagara falls origin lake	niagara falls	relation
+INEX_LD-2012301	Niagara falls origin lake	falls origin	none
+INEX_LD-2012301	Niagara falls origin lake	origin lake	type
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	valley	entity
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	fever	entity
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	fungal	attribute
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	infection	type
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	san	entity
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	joaquin	entity
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	valley fever	entity
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	fever fungal	none
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	fungal infection	type
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	infection san	none
+INEX_LD-2012303	 Valley fever fungal infection San Joaquin	san joaquin	entity
+INEX_LD-2012305	North Dakota's lowest river of another colour	north	attribute
+INEX_LD-2012305	North Dakota's lowest river of another colour	dakotas	attribute
+INEX_LD-2012305	North Dakota's lowest river of another colour	lowest	attribute
+INEX_LD-2012305	North Dakota's lowest river of another colour	river	type
+INEX_LD-2012305	North Dakota's lowest river of another colour	colour	attribute
+INEX_LD-2012305	North Dakota's lowest river of another colour	north dakotas	attribute
+INEX_LD-2012305	North Dakota's lowest river of another colour	dakotas lowest	none
+INEX_LD-2012305	North Dakota's lowest river of another colour	lowest river	type
+INEX_LD-2012305	North Dakota's lowest river of another colour	river colour	attribute
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	july	attribute
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	1850	attribute
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	president	unsure
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	died	unsure
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	millard	relation
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	fillmore	relation
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	sworn	unsure
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	following	unsure
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	july 1850	attribute
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	1850 president	none
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	president died	unsure
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	died millard	unsure
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	millard fillmore	relation
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	fillmore sworn	unsure
+INEX_LD-2012307	 July, 1850  president died Millard Fillmore sworn following day	sworn following	none
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	residents	type
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	small	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	island	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	city	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	state	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	malay	relation
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	peninsula	relation
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	chinese	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	residents small	none
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	small island	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	island city	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	city state	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	state malay	unsure
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	malay peninsula	relation
+INEX_LD-2012309	residents small island city-state  Malay Peninsula Chinese	peninsula chinese	unsure
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	john	relation
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	lennon	relation
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	yoko	relation
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	ono	relation
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	album	type
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	starting	entity
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	john lennon	relation
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	lennon yoko	none
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	yoko ono	relation
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	ono album	type
+INEX_LD-2012311	John Lennon Yoko Ono album Starting Over	album starting	none
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	john	entity
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	turturro	entity
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	1991	attribute
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	coen	relation
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	brothers	relation
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	film	type
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	john turturro	entity
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	turturro 1991	none
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	1991 coen	none
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	coen brothers	relation
+INEX_LD-2012313	John Turturro 1991 Coen Brothers film	brothers film	none
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	baguio	unsure
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	quezon	unsure
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	city	unsure
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	manila	relation
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	official	attribute
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	independence	entity
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	1945	attribute
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	baguio quezon	unsure
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	quezon city	unsure
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	city manila	none
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	manila official	none
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	official independence	entity
+INEX_LD-2012315	Baguio Quezon City  Manila official independence 1945	independence 1945	none
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	daggeroso	unsure
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	inclined	unsure
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	dagger	unsure
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	novel	type
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	sons	entity
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	lovers	entity
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	daggeroso inclined	none
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	inclined dagger	none
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	dagger novel	none
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	novel sons	none
+INEX_LD-2012317	daggeroso inclined to use a dagger novel Sons and Lovers	sons lovers	entity
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	directed	unsure
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bela	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glen	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glenda	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bride	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	monster	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	plan	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	9	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	outer	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	space	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	directed bela	none
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bela glen	none
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glen glenda	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glenda bride	none
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bride monster	relaiton
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	monster plan	none
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	plan 9	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	9 outer	relation
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	outer space	relation
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	1994	attribute
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	short	attribute
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	story	attribute
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	collection	type
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	alice	relation
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	munro	relation
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	open	entity
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	1994 short	none
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	short story	unsure
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	story collection	type
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	collection alice	none
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	alice munro	relation
+INEX_LD-2012319	 1994 short story collection Alice Munro is Open	munro open	unsure
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	asian	attribute
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	port	type
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	state	attribute
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	city	type
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	sir	none
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	stamford	relation
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	raffles	relation
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	asian port	type
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	port state	none
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	state city	type
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	city sir	none
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	sir stamford	unsure
+INEX_LD-2012321	Asian port state-city Sir Stamford Raffles	stamford raffles	relation
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	large	attribute
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	glaciers	type
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	island	unsure
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	nation	unsure
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	langjokull	relation
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	hofsjokull	relation
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	vatnajokull	relation
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	large glaciers	type
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	glaciers island	unsure
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	island nation	unsure
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	nation langjokull	none
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	langjokull hofsjokull	none
+INEX_LD-2012323	Large glaciers island nation Langjokull Hofsjokull Vatnajokull	hofsjokull vatnajokull	none
+INEX_LD-2012325	successor James G. Blaine studied law	successor	attribute
+INEX_LD-2012325	successor James G. Blaine studied law	james	relation
+INEX_LD-2012325	successor James G. Blaine studied law	g	relation
+INEX_LD-2012325	successor James G. Blaine studied law	blaine	relation
+INEX_LD-2012325	successor James G. Blaine studied law	studied	attribute
+INEX_LD-2012325	successor James G. Blaine studied law	law	attribute
+INEX_LD-2012325	successor James G. Blaine studied law	successor james	none
+INEX_LD-2012325	successor James G. Blaine studied law	james g	relation
+INEX_LD-2012325	successor James G. Blaine studied law	g blaine	relation
+INEX_LD-2012325	successor James G. Blaine studied law	blaine studied	none
+INEX_LD-2012325	successor James G. Blaine studied law	studied law	attribute
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	beloved	relation
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	author	type
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	african	attribute
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	american	attribute
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	nobel	relation
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	prize	relation
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	literature	attribute
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	beloved author	unsure
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	author african	none
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	african american	attribute
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	american nobel	none
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	nobel prize	relation
+INEX_LD-2012327	Beloved author African-American Nobel Prize Literature	prize literature	none
+INEX_LD-2012329	Sweden Iceland currency	sweden	relation
+INEX_LD-2012329	Sweden Iceland currency	iceland	relation
+INEX_LD-2012329	Sweden Iceland currency	currency	type
+INEX_LD-2012329	Sweden Iceland currency	sweden iceland	none
+INEX_LD-2012329	Sweden Iceland currency	iceland currency	type
+INEX_LD-2012331	Seoul Korea river name ethnic group China	seoul	relation
+INEX_LD-2012331	Seoul Korea river name ethnic group China	korea	relation
+INEX_LD-2012331	Seoul Korea river name ethnic group China	river	type
+INEX_LD-2012331	Seoul Korea river name ethnic group China	name	none
+INEX_LD-2012331	Seoul Korea river name ethnic group China	ethnic	unsure
+INEX_LD-2012331	Seoul Korea river name ethnic group China	group	unsure
+INEX_LD-2012331	Seoul Korea river name ethnic group China	china	relation
+INEX_LD-2012331	Seoul Korea river name ethnic group China	seoul korea	none
+INEX_LD-2012331	Seoul Korea river name ethnic group China	korea river	type
+INEX_LD-2012331	Seoul Korea river name ethnic group China	river name	none
+INEX_LD-2012331	Seoul Korea river name ethnic group China	name ethnic	none
+INEX_LD-2012331	Seoul Korea river name ethnic group China	ethnic group	none
+INEX_LD-2012331	Seoul Korea river name ethnic group China	group china	none
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	prime	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	minister	type
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	canada	relation
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	nicknamed	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	silver	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	tongued	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	laurier	entity
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	longest	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	unbroken	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	term	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	prime minister	type
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	minister canada	type
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	canada nicknamed	none
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	nicknamed silver	none
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	silver tongued	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	tongued laurier	none
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	laurier longest	none
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	longest unbroken	attribute
+INEX_LD-2012333	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term	unbroken term	attribute
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	president	unsure
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	authorise	unsure
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	nuclear	attribute
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	weapons	attribute
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	japan	unsure
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	president authorise	unsure
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	authorise nuclear	unsure
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	nuclear weapons	attribute
+INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	weapons japan	none
+INEX_LD-2012336	1906 territory Papua island Australian	1906
+INEX_LD-2012336	1906 territory Papua island Australian	territory	ter
 INEX_LD-2012336	1906 territory Papua island Australian	papua	
 INEX_LD-2012336	1906 territory Papua island Australian	island	
 INEX_LD-2012336	1906 territory Papua island Australian	australian	
 INEX_LD-2012336	1906 territory Papua island Australian	1906 territory	
 INEX_LD-2012336	1906 territory Papua island Australian	territory papua	
 INEX_LD-2012336	1906 territory Papua island Australian	papua island	
-INEX_LD-2012336	1906 territory Papua island Australian	island australian	
+INEX_LD-2012336	1906 territory Papua island Australian	island australian
 INEX_LD-2012337	Texas city Baylor University tornado 1953	texas	
 INEX_LD-2012337	Texas city Baylor University tornado 1953	city	
 INEX_LD-2012337	Texas city Baylor University tornado 1953	baylor	
