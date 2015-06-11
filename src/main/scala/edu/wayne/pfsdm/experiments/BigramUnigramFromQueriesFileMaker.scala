@@ -19,7 +19,7 @@ object BigramUnigramFromQueriesFileMaker extends App {
     (qId, Util.tokenize(qText).filterNot(Util.isStopWord))
   }
   val uniBiGrams: Seq[(String, Seq[Seq[String]])] = tokenizedQueries.map { case (qId, qTokens) =>
-    (qId, qTokens.map(Seq(_)) union qTokens.sliding(2).toSeq)
+    (qId, qTokens.map(Seq(_)) union (if (qTokens.size >= 2) qTokens.sliding(2).toSeq else Seq.empty))
   }
   val output = new PrintWriter("output/unibigrams-classes.tsv")
   output.println(Seq("qid", "text", "gram", "type").mkString("\t"))
