@@ -221,7 +221,7 @@ INEX_LD-2010004	Indian food	indian food	type
 INEX_LD-2010014	composer museum	composer	attribute
 INEX_LD-2010014	composer museum	museum	type
 INEX_LD-2010014	composer museum	composer museum	type
-INEX_LD-2010019	gallo roman architecture in paris	gall	attribute
+INEX_LD-2010019	gallo roman architecture in paris	gallo	attribute
 INEX_LD-2010019	gallo roman architecture in paris	roman	attribute
 INEX_LD-2010019	gallo roman architecture in paris	architecture	type
 INEX_LD-2010019	gallo roman architecture in paris	paris	attribute
@@ -382,7 +382,7 @@ INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	direc
 INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bela glen	none
 INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glen glenda	relation
 INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	glenda bride	none
-INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bride monster	relaiton
+INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	bride monster	relation
 INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	monster plan	none
 INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	plan 9	relation
 INEX_LD-2012318	Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space	9 outer	relation
@@ -496,39 +496,39 @@ INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	president
 INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	authorise nuclear	unsure
 INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	nuclear weapons	attribute
 INEX_LD-2012335	U.S. president authorise nuclear weapons against Japan	weapons japan	none
-INEX_LD-2012336	1906 territory Papua island Australian	1906
-INEX_LD-2012336	1906 territory Papua island Australian	territory	ter
-INEX_LD-2012336	1906 territory Papua island Australian	papua	
-INEX_LD-2012336	1906 territory Papua island Australian	island	
-INEX_LD-2012336	1906 territory Papua island Australian	australian	
-INEX_LD-2012336	1906 territory Papua island Australian	1906 territory	
-INEX_LD-2012336	1906 territory Papua island Australian	territory papua	
-INEX_LD-2012336	1906 territory Papua island Australian	papua island	
-INEX_LD-2012336	1906 territory Papua island Australian	island australian
-INEX_LD-2012337	Texas city Baylor University tornado 1953	texas	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	city	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	baylor	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	university	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	tornado	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	1953	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	texas city	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	city baylor	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	baylor university	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	university tornado	
-INEX_LD-2012337	Texas city Baylor University tornado 1953	tornado 1953	
-INEX_LD-2012339	Nelson Mandela John Dube	nelson	
-INEX_LD-2012339	Nelson Mandela John Dube	mandela	
-INEX_LD-2012339	Nelson Mandela John Dube	john	
-INEX_LD-2012339	Nelson Mandela John Dube	dube	
-INEX_LD-2012339	Nelson Mandela John Dube	nelson mandela	
-INEX_LD-2012339	Nelson Mandela John Dube	mandela john	
-INEX_LD-2012339	Nelson Mandela John Dube	john dube	
-INEX_LD-2012341	1997  Houston airport president	1997	
-INEX_LD-2012341	1997  Houston airport president	houston	
-INEX_LD-2012341	1997  Houston airport president	airport	
-INEX_LD-2012341	1997  Houston airport president	president	
-INEX_LD-2012341	1997  Houston airport president	1997 houston	
-INEX_LD-2012341	1997  Houston airport president	houston airport	
+INEX_LD-2012336	1906 territory Papua island Australian	1906	unsure
+INEX_LD-2012336	1906 territory Papua island Australian	territory	unsure
+INEX_LD-2012336	1906 territory Papua island Australian	papua	entity
+INEX_LD-2012336	1906 territory Papua island Australian	island	type
+INEX_LD-2012336	1906 territory Papua island Australian	australian	attribute
+INEX_LD-2012336	1906 territory Papua island Australian	1906 territory	none
+INEX_LD-2012336	1906 territory Papua island Australian	territory papua	none
+INEX_LD-2012336	1906 territory Papua island Australian	papua island	entity
+INEX_LD-2012336	1906 territory Papua island Australian	island australian	unsure
+INEX_LD-2012337	Texas city Baylor University tornado 1953	texas	attribute
+INEX_LD-2012337	Texas city Baylor University tornado 1953	city	none
+INEX_LD-2012337	Texas city Baylor University tornado 1953	baylor	relation
+INEX_LD-2012337	Texas city Baylor University tornado 1953	university	relation
+INEX_LD-2012337	Texas city Baylor University tornado 1953	tornado	type
+INEX_LD-2012337	Texas city Baylor University tornado 1953	1953	attribute
+INEX_LD-2012337	Texas city Baylor University tornado 1953	texas city	relation
+INEX_LD-2012337	Texas city Baylor University tornado 1953	city baylor	none
+INEX_LD-2012337	Texas city Baylor University tornado 1953	baylor university	relation
+INEX_LD-2012337	Texas city Baylor University tornado 1953	university tornado	none
+INEX_LD-2012337	Texas city Baylor University tornado 1953	tornado 1953	entity
+INEX_LD-2012339	Nelson Mandela John Dube	nelson	relation
+INEX_LD-2012339	Nelson Mandela John Dube	mandela	relation
+INEX_LD-2012339	Nelson Mandela John Dube	john	relation
+INEX_LD-2012339	Nelson Mandela John Dube	dube	relation
+INEX_LD-2012339	Nelson Mandela John Dube	nelson mandela	relation
+INEX_LD-2012339	Nelson Mandela John Dube	mandela john	none
+INEX_LD-2012339	Nelson Mandela John Dube	john dube	relation
+INEX_LD-2012341	1997  Houston airport president	1997	attribute
+INEX_LD-2012341	1997  Houston airport president	houston	relation
+INEX_LD-2012341	1997  Houston airport president	airport	relation
+INEX_LD-2012341	1997  Houston airport president	president	unsure
+INEX_LD-2012341	1997  Houston airport president	1997 houston	none
+INEX_LD-2012341	1997  Houston airport president	houston airport	relation
 INEX_LD-2012341	1997  Houston airport president	airport president	
 INEX_LD-2012343	The Heart of a Woman poet's autobiography	heart	
 INEX_LD-2012343	The Heart of a Woman poet's autobiography	woman	
@@ -732,20 +732,20 @@ INEX_LD-2012381	movie directors directed a block buster	movie directors
 INEX_LD-2012381	movie directors directed a block buster	directors directed	
 INEX_LD-2012381	movie directors directed a block buster	directed block	
 INEX_LD-2012381	movie directors directed a block buster	block buster	
-INEX_LD-2012383	famous computer scientists disappeared at sea	famous	
-INEX_LD-2012383	famous computer scientists disappeared at sea	computer	
-INEX_LD-2012383	famous computer scientists disappeared at sea	scientists	
-INEX_LD-2012383	famous computer scientists disappeared at sea	disappeared	
-INEX_LD-2012383	famous computer scientists disappeared at sea	sea	
-INEX_LD-2012383	famous computer scientists disappeared at sea	famous computer	
-INEX_LD-2012383	famous computer scientists disappeared at sea	computer scientists	
-INEX_LD-2012383	famous computer scientists disappeared at sea	scientists disappeared	
-INEX_LD-2012383	famous computer scientists disappeared at sea	disappeared sea	
-INEX_LD-2012385	famous politicians vegetarians	famous	
-INEX_LD-2012385	famous politicians vegetarians	politicians	
-INEX_LD-2012385	famous politicians vegetarians	vegetarians	
-INEX_LD-2012385	famous politicians vegetarians	famous politicians	
-INEX_LD-2012385	famous politicians vegetarians	politicians vegetarians	
+INEX_LD-2012383	famous computer scientists disappeared at sea	famous	attribute
+INEX_LD-2012383	famous computer scientists disappeared at sea	computer	attribute
+INEX_LD-2012383	famous computer scientists disappeared at sea	scientists	type
+INEX_LD-2012383	famous computer scientists disappeared at sea	disappeared	attribute
+INEX_LD-2012383	famous computer scientists disappeared at sea	sea	none
+INEX_LD-2012383	famous computer scientists disappeared at sea	famous computer	none
+INEX_LD-2012383	famous computer scientists disappeared at sea	computer scientists	type
+INEX_LD-2012383	famous computer scientists disappeared at sea	scientists disappeared	type
+INEX_LD-2012383	famous computer scientists disappeared at sea	disappeared sea	attribute
+INEX_LD-2012385	famous politicians vegetarians	famous	attribute
+INEX_LD-2012385	famous politicians vegetarians	politicians	type
+INEX_LD-2012385	famous politicians vegetarians	vegetarians	attribute
+INEX_LD-2012385	famous politicians vegetarians	famous politicians	type
+INEX_LD-2012385	famous politicians vegetarians	politicians vegetarians	unsure
 INEX_LD-2012387	famous river confluence dam constructed	famous	
 INEX_LD-2012387	famous river confluence dam constructed	river	
 INEX_LD-2012387	famous river confluence dam constructed	confluence	

@@ -27,28 +27,18 @@ object FeatureValueExperiment extends App {
   val mainParameters = Arguments.parse(args)
   parameters.copyFrom(mainParameters)
 
-  val queries: Map[String, String] = Source.fromInputStream(
+  val queries: Seq[(String, String)] = Source.fromInputStream(
     getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().
     map { line => line.split("\t") match {
     case Array(qId, qText) => (qId, qText)
   }
-  }.toMap
-  val tokenizedQueries: Map[String, Seq[String]] = queries.map { case (qId: String, qText: String) =>
+  }.toSeq
+  val tokenizedQueries: Seq[(String, Seq[String])] = queries.map { case (qId: String, qText: String) =>
     (qId, Util.tokenize(qText).filterNot(Util.isStopWord))
   }
-  val unigramQueries: Map[String, String] = tokenizedQueries.filter { case (_, qTokens: Seq[String]) =>
-    qTokens.length == 1
-  }.map { case (qId: String, qTokens: Seq[String]) => (qId, qTokens.head) }
-  val bigramQueries: Map[String, Seq[String]] = tokenizedQueries.filter { case (_, qTokens: Seq[String]) =>
-    qTokens.length == 2
+  val uniBiGrams: Seq[(String, Seq[Seq[String]])] = tokenizedQueries.map { case (qId, qTokens) =>
+    (qId, qTokens.map(Seq(_)) union (if (qTokens.size >= 2) qTokens.sliding(2).toSeq else Seq.empty))
   }
-
-  val qrels: Map[String, Seq[String]] = Source.fromInputStream(
-    getClass.getResourceAsStream("/sigir2013-dbpedia/qrels.txt")).getLines().
-    map { line => line.split("\t") match {
-    case Array(qId, _, document, _) => (qId, document)
-  }
-  }.toSeq.groupBy(_._1).map { case (qId: String, pairs: Seq[(String, String)]) => (qId, pairs.map(_._2)) }
 
   parameters.set("fieldFeatures", List())
   val retrieval: Retrieval = RetrievalFactory.create(parameters)
@@ -56,13 +46,13 @@ object FeatureValueExperiment extends App {
   val feature: FieldFeature = FieldFeature(mainParameters.getString("feature"), traversal)
 
   val output = new PrintWriter(mainParameters.getString("output"))
-  output.println((Seq("ngramtype", "qid", "tokens") ++ fields).mkString("\t"))
-  unigramQueries.foreach { case (qId: String, qToken: String) =>
-    output.println(s"unigram\t$qId\t$qToken\t${getFeatureValues(List(qToken), feature, fields).mkString("\t")}")
-  }
-  bigramQueries.foreach { case (qId: String, qBigram: Seq[String]) =>
-    println(qBigram.toList)
-    output.println(s"bigram\t$qId\t${qBigram.mkString(" ")}\t${getFeatureValues(qBigram.toList, feature, fields).mkString("\t")}")
+  output.println((Seq("ngramtype", "qid", "gram") ++ fields).mkString("\t"))
+  for ((qId, grams) <- uniBiGrams; gram <- grams) {
+    val ngramtype = gram.length match {
+      case 1 => "unigram";
+      case 2 => "bigram"
+    }
+    output.println(s"$ngramtype\t$qId\t${gram.mkString(" ")}\t${getFeatureValues(gram, feature, fields).mkString("\t")}")
   }
   output.close()
 }
