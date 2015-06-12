@@ -526,48 +526,48 @@ INEX_LD-2012339	Nelson Mandela John Dube	john dube	relation
 INEX_LD-2012341	1997  Houston airport president	1997	attribute
 INEX_LD-2012341	1997  Houston airport president	houston	relation
 INEX_LD-2012341	1997  Houston airport president	airport	relation
-INEX_LD-2012341	1997  Houston airport president	president	unsure
+INEX_LD-2012341	1997  Houston airport president	president	type
 INEX_LD-2012341	1997  Houston airport president	1997 houston	none
 INEX_LD-2012341	1997  Houston airport president	houston airport	relation
-INEX_LD-2012341	1997  Houston airport president	airport president	
-INEX_LD-2012343	The Heart of a Woman poet's autobiography	heart	
-INEX_LD-2012343	The Heart of a Woman poet's autobiography	woman	
-INEX_LD-2012343	The Heart of a Woman poet's autobiography	poets	
-INEX_LD-2012343	The Heart of a Woman poet's autobiography	autobiography	
-INEX_LD-2012343	The Heart of a Woman poet's autobiography	heart woman	
-INEX_LD-2012343	The Heart of a Woman poet's autobiography	woman poets	
-INEX_LD-2012343	The Heart of a Woman poet's autobiography	poets autobiography	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	kennedy	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	assassination	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	governor	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	texas	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	seriously	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	injured	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	kennedy assassination	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	assassination governor	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	governor texas	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	texas seriously	
-INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	seriously injured	
-INEX_LD-2012347	seat Florida country Dade	seat	
-INEX_LD-2012347	seat Florida country Dade	florida	
-INEX_LD-2012347	seat Florida country Dade	country	
-INEX_LD-2012347	seat Florida country Dade	dade	
-INEX_LD-2012347	seat Florida country Dade	seat florida	
-INEX_LD-2012347	seat Florida country Dade	florida country	
-INEX_LD-2012347	seat Florida country Dade	country dade	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	alexander	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	nevsky	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	cathedral	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	bulgarian	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	city	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	liberation	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	turks	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	alexander nevsky	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	nevsky cathedral	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	cathedral bulgarian	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	bulgarian city	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	city liberation	
-INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	liberation turks	
+INEX_LD-2012341	1997  Houston airport president	airport president	type
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	heart	entity
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	woman	entity
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	poets	attribute
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	autobiography	type
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	heart woman	entity
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	woman poets	attribute
+INEX_LD-2012343	The Heart of a Woman poet's autobiography	poets autobiography	type
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	kennedy	relation
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	assassination	type
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	governor	relation
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	texas	relation
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	seriously	none
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	injured	attribute
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	kennedy assassination	entity
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	assassination governor	none
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	governor texas	relation
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	texas seriously	none
+INEX_LD-2012345	Kennedy assassination governor of Texas seriously injured	seriously injured	attribute
+INEX_LD-2012347	seat Florida country Dade	seat	unsure
+INEX_LD-2012347	seat Florida country Dade	florida	attribute
+INEX_LD-2012347	seat Florida country Dade	country	type
+INEX_LD-2012347	seat Florida country Dade	dade	entity
+INEX_LD-2012347	seat Florida country Dade	seat florida	unsure
+INEX_LD-2012347	seat Florida country Dade	florida country	type
+INEX_LD-2012347	seat Florida country Dade	country dade	entity
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	alexander	relation
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	nevsky	relation
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	cathedral	relation
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	bulgarian	attribute
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	city	unsure
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	liberation	unsure
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	turks	unsure
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	alexander nevsky	relation
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	nevsky cathedral	relation
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	cathedral bulgarian	none
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	bulgarian city	unsure
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	city liberation	unsure
+INEX_LD-2012349	Alexander Nevsky Cathedral Bulgarian city liberation Turks	liberation turks	unsure
 INEX_LD-2012351	Indian Cuisine dish rice dhal vegetables roti papad	indian	
 INEX_LD-2012351	Indian Cuisine dish rice dhal vegetables roti papad	cuisine	
 INEX_LD-2012351	Indian Cuisine dish rice dhal vegetables roti papad	dish	
