@@ -2977,37 +2977,37 @@ SemSearch_LS-50	wonders of the ancient world	ancient
 SemSearch_LS-50	wonders of the ancient world	world	
 SemSearch_LS-50	wonders of the ancient world	wonders ancient	
 SemSearch_LS-50	wonders of the ancient world	ancient world	
-TREC_Entity-1	Carriers that Blackberry makes phones for.	carriers	
-TREC_Entity-1	Carriers that Blackberry makes phones for.	blackberry	
-TREC_Entity-1	Carriers that Blackberry makes phones for.	makes	
-TREC_Entity-1	Carriers that Blackberry makes phones for.	phones	
-TREC_Entity-1	Carriers that Blackberry makes phones for.	carriers blackberry	
-TREC_Entity-1	Carriers that Blackberry makes phones for.	blackberry makes	
-TREC_Entity-1	Carriers that Blackberry makes phones for.	makes phones	
-TREC_Entity-2	Winners of the ACM Athena award.	winners	
-TREC_Entity-2	Winners of the ACM Athena award.	acm	
-TREC_Entity-2	Winners of the ACM Athena award.	athena	
-TREC_Entity-2	Winners of the ACM Athena award.	award	
-TREC_Entity-2	Winners of the ACM Athena award.	winners acm	
-TREC_Entity-2	Winners of the ACM Athena award.	acm athena	
-TREC_Entity-2	Winners of the ACM Athena award.	athena award	
-TREC_Entity-4	Professional sports teams in Philadelphia.	professional	
-TREC_Entity-4	Professional sports teams in Philadelphia.	sports	
-TREC_Entity-4	Professional sports teams in Philadelphia.	teams	
-TREC_Entity-4	Professional sports teams in Philadelphia.	philadelphia	
-TREC_Entity-4	Professional sports teams in Philadelphia.	professional sports	
-TREC_Entity-4	Professional sports teams in Philadelphia.	sports teams	
-TREC_Entity-4	Professional sports teams in Philadelphia.	teams philadelphia	
-TREC_Entity-5	Products of Medimmune, Inc.	products	
-TREC_Entity-5	Products of Medimmune, Inc.	medimmune	
-TREC_Entity-5	Products of Medimmune, Inc.	products medimmune	
-TREC_Entity-6	Organizations that award Nobel prizes.	organizations	
-TREC_Entity-6	Organizations that award Nobel prizes.	award	
-TREC_Entity-6	Organizations that award Nobel prizes.	nobel	
-TREC_Entity-6	Organizations that award Nobel prizes.	prizes	
-TREC_Entity-6	Organizations that award Nobel prizes.	organizations award	
-TREC_Entity-6	Organizations that award Nobel prizes.	award nobel	
-TREC_Entity-6	Organizations that award Nobel prizes.	nobel prizes	
+TREC_Entity-1	Carriers that Blackberry makes phones for.	carriers	type
+TREC_Entity-1	Carriers that Blackberry makes phones for.	blackberry	relation
+TREC_Entity-1	Carriers that Blackberry makes phones for.	makes	none
+TREC_Entity-1	Carriers that Blackberry makes phones for.	phones	unsure
+TREC_Entity-1	Carriers that Blackberry makes phones for.	carriers blackberry	none
+TREC_Entity-1	Carriers that Blackberry makes phones for.	blackberry makes	none
+TREC_Entity-1	Carriers that Blackberry makes phones for.	makes phones	attribute
+TREC_Entity-2	Winners of the ACM Athena award.	winners	type
+TREC_Entity-2	Winners of the ACM Athena award.	acm	relation
+TREC_Entity-2	Winners of the ACM Athena award.	athena	relation
+TREC_Entity-2	Winners of the ACM Athena award.	award	none
+TREC_Entity-2	Winners of the ACM Athena award.	winners acm	type
+TREC_Entity-2	Winners of the ACM Athena award.	acm athena	relation
+TREC_Entity-2	Winners of the ACM Athena award.	athena award	relation
+TREC_Entity-4	Professional sports teams in Philadelphia.	professional	attribute
+TREC_Entity-4	Professional sports teams in Philadelphia.	sports	attribute
+TREC_Entity-4	Professional sports teams in Philadelphia.	teams	type
+TREC_Entity-4	Professional sports teams in Philadelphia.	philadelphia	attribute
+TREC_Entity-4	Professional sports teams in Philadelphia.	professional sports	attribute
+TREC_Entity-4	Professional sports teams in Philadelphia.	sports teams	type
+TREC_Entity-4	Professional sports teams in Philadelphia.	teams philadelphia	type
+TREC_Entity-5	Products of Medimmune, Inc.	products	type
+TREC_Entity-5	Products of Medimmune, Inc.	medimmune	relation
+TREC_Entity-5	Products of Medimmune, Inc.	products medimmune	type
+TREC_Entity-6	Organizations that award Nobel prizes.	organizations	type
+TREC_Entity-6	Organizations that award Nobel prizes.	award	attribute
+TREC_Entity-6	Organizations that award Nobel prizes.	nobel	attribute
+TREC_Entity-6	Organizations that award Nobel prizes.	prizes	attribute
+TREC_Entity-6	Organizations that award Nobel prizes.	organizations award	unsure
+TREC_Entity-6	Organizations that award Nobel prizes.	award nobel	unsure
+TREC_Entity-6	Organizations that award Nobel prizes.	nobel prizes	unsure
 TREC_Entity-7	Airlines that currently use Boeing 747 planes.	airlines	
 TREC_Entity-7	Airlines that currently use Boeing 747 planes.	currently	
 TREC_Entity-7	Airlines that currently use Boeing 747 planes.	boeing	
