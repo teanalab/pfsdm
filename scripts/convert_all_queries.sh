@@ -5,8 +5,8 @@
 
 METHODS=( prms mlm sdm fieldedsdm pfsdm )
 DIR=$( cd "$(dirname "${BASH_SOURCE[0]}" )" && pwd)
-ORIG="$DIR/../../../data/CV-queries"
-JSON="$DIR/../../../data/CV-queries-json"
+ORIG="$DIR/../data/CV-queries"
+JSON="$DIR/../data/CV-queries-json"
 mkdir -p $JSON
 for method in "${METHODS[@]}"
 do
