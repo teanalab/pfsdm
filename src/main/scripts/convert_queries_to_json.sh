@@ -3,7 +3,7 @@
 # resources/CV-queries to json format accepted by Galago. Removes leading and
 # trailing whitespace and dots inside queries.
 
-# Usage example: ./convert_queries_to_json.sh pfsdm ../resources/CV-queries/INEX_LD.cv1.of.5.queries
+# Usage example: ./convert_queries_to_json.sh pfsdm ../../../data/CV-queries/INEX_LD.cv1.of.5.queries
 # Output is written to standard output
 
 usage="usage: $0 operator input_file"

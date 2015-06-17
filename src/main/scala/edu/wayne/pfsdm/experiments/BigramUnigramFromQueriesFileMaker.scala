@@ -27,5 +27,5 @@ object BigramUnigramFromQueriesFileMaker extends App {
     output.println(s"$qId\t${queriesMap(qId)}\t${gram.mkString(" ")}\t")
   }
   output.close()
-  println("Now manually categorize unibigrams-types.tsv and move it to resources")
+  println("Now manually categorize unibigrams-types.tsv and move it to data/")
 }
