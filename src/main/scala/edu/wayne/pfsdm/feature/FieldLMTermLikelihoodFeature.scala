@@ -9,15 +9,15 @@ import org.lemurproject.galago.core.retrieval.query.{StructuredQuery, Node}
  */
 class FieldLMTermLikelihoodFeature(val traversal: ParametrizedFSDMTraversal) extends FieldFeature {
   var memo = Map[(Seq[String], String), Double]()
+  val scale = 100
 
   private def getTermFrequency(tokens: Seq[String], fieldName: String): Long = {
     val node: Node = tokens.toList match {
-      case term :: Nil =>{
+      case term :: Nil =>
         val node: Node = new Node("counts", term)
         node.getNodeParameters.set("part", "field." + fieldName)
         node
-      }
-      case term1 :: term2 :: Nil => {
+      case term1 :: term2 :: Nil =>
         val t1: Node = new Node("extents", term1)
         val t2: Node = new Node("extents", term2)
         val od1: Node = new Node("ordered")
@@ -27,7 +27,6 @@ class FieldLMTermLikelihoodFeature(val traversal: ParametrizedFSDMTraversal) ext
         od1.getChild(0).getNodeParameters.set("part", "field." + fieldName)
         od1.getChild(1).getNodeParameters.set("part", "field." + fieldName)
         od1
-      }
     }
     traversal.getRetrieval.getNodeStatistics(node).nodeFrequency
   }
@@ -41,7 +40,7 @@ class FieldLMTermLikelihoodFeature(val traversal: ParametrizedFSDMTraversal) ext
     memo.get((tokens, fieldName)) match {
       case Some(phi) => phi
       case None =>
-        val phi = getTermFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName)
+        val phi = getTermFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName) * scale
         memo += (tokens, fieldName) -> phi
         phi
     }
