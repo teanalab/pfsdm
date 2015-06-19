@@ -44,7 +44,7 @@ class BaselineTopScoreFieldFeature(val traversal: ParametrizedFSDMTraversal) ext
           } else {
             throw new IllegalArgumentException("Tokens must be either unigram or bigram")
           }
-        fieldWeights.copyFrom(traversal.getGlobals)
+//        fieldWeights.copyFrom(traversal.getGlobals)
         val transformed: Node = traversal.getRetrieval.transformQuery(root, fieldWeights)
         val results = traversal.getRetrieval.executeQuery(transformed, fieldWeights).scoredDocuments
         val phi = if (results.size > 0) exp(results.head.getScore) else 0
