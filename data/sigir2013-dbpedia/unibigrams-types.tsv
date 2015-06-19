@@ -609,8 +609,8 @@ INEX_LD-2012357	 prima ballerina Bolshoi Theatre 1960	prima ballerina	type
 INEX_LD-2012357	 prima ballerina Bolshoi Theatre 1960	ballerina bolshoi	none
 INEX_LD-2012357	 prima ballerina Bolshoi Theatre 1960	bolshoi theatre	relation
 INEX_LD-2012357	 prima ballerina Bolshoi Theatre 1960	theatre 1960	none
-INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	bob	name
-INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	ricker	name
+INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	bob	entity
+INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	ricker	entity
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	executive	attribute
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	director	attribute
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	latest	none
@@ -618,7 +618,7 @@ INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the an
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	anti	none
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	gun	none
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	movement	none
-INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	bob ricker	name
+INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	bob ricker	entity
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	ricker executive	none
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	executive director	none
 INEX_LD-2012359	 Bob Ricker Executive Director the latest front group for the anti-gun movement	director latest	none
