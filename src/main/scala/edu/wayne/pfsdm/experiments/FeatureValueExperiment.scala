@@ -23,12 +23,11 @@ object FeatureValueExperiment extends App {
   }
 
   val parameters = Parameters.parseFile(new File(getClass.getResource("/traversal-config.json").toURI))
-  val fields: Seq[String] = parameters.getList("fields", classOf[String])
   val mainParameters = Arguments.parse(args)
   parameters.copyFrom(mainParameters)
+  val fields: Seq[String] = parameters.getList("fields", classOf[String])
 
-  val queries: Seq[(String, String)] = Source.fromInputStream(
-    getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().
+  val queries: Seq[(String, String)] = Source.fromFile("data/sigir2013-dbpedia/queries.txt").getLines().
     map { line => line.split("\t") match {
     case Array(qId, qText) => (qId, qText)
   }
