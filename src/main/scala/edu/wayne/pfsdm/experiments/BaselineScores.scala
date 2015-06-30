@@ -102,7 +102,7 @@ object BaselineScores {
 
     parameters.copyFrom(mainParameters)
     val retrieval: Retrieval = RetrievalFactory.create(parameters)
-    val output = new PrintWriter("output/baseline_scores/baseline_scores.tsv")
+    val output = new PrintWriter("output/experiments/baseline_scores/baseline_scores.tsv")
     output.println((Seq("ngramtype", "qid", "tokens", "relevance") ++ fields).mkString("\t"))
     unigramQueries.foreach { case (qId: String, qToken: String) =>
       output.println(s"unigram\t$qId\t$qToken\trelevant\t${getUniTopScores(qId, qToken, true, qrels, retrieval, parameters).mkString("\t")}")
