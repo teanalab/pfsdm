@@ -7,7 +7,7 @@ import edu.wayne.pfsdm.feature.FieldFeature
 import org.lemurproject.galago.core.retrieval.{Retrieval, RetrievalFactory}
 import org.lemurproject.galago.utility.Parameters
 import org.lemurproject.galago.utility.tools.Arguments
-import BaselineScoreExperiment._
+import BaselineScores._
 
 import scala.io._
 

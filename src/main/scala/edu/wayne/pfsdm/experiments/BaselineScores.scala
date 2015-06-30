@@ -15,7 +15,7 @@ import scala.collection.JavaConversions._
 /**
  * Created by fsqcds on 4/25/15.
  */
-object BaselineScoreExperiment {
+object BaselineScores {
   val parameters = Parameters.parseFile(new File(getClass.getResource("/traversal-config.json").toURI))
   val fields: Seq[String] = parameters.getList("fields", classOf[String])
 
@@ -79,8 +79,7 @@ object BaselineScoreExperiment {
 
   def main(args: Array[String]) {
     val mainParameters = Arguments.parse(args)
-    val queries: Map[String, String] = Source.fromInputStream(
-      getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines.
+    val queries: Map[String, String] = Source.fromFile("data/sigir2013-dbpedia/queries.txt").getLines().
       map { line => line.split("\t") match {
       case Array(qId, qText) => (qId, qText)
     }
@@ -95,8 +94,7 @@ object BaselineScoreExperiment {
       qTokens.length == 2
     }
 
-    val qrels: Map[String, Seq[String]] = Source.fromInputStream(
-      getClass.getResourceAsStream("/sigir2013-dbpedia/qrels.txt")).getLines.
+    val qrels: Map[String, Seq[String]] = Source.fromFile("data/sigir2013-dbpedia/qrels.txt").getLines().
       map { line => line.split("\t") match {
       case Array(qId, _, document, _) => (qId, document)
     }
@@ -104,7 +102,7 @@ object BaselineScoreExperiment {
 
     parameters.copyFrom(mainParameters)
     val retrieval: Retrieval = RetrievalFactory.create(parameters)
-    val output = new PrintWriter("output/field_experiment.tsv")
+    val output = new PrintWriter("output/baseline_scores/baseline_scores.tsv")
     output.println((Seq("ngramtype", "qid", "tokens", "relevance") ++ fields).mkString("\t"))
     unigramQueries.foreach { case (qId: String, qToken: String) =>
       output.println(s"unigram\t$qId\t$qToken\trelevant\t${getUniTopScores(qId, qToken, true, qrels, retrieval, parameters).mkString("\t")}")

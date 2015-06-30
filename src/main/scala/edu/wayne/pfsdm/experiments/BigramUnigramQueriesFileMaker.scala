@@ -20,7 +20,7 @@ object BigramUnigramQueriesFileMaker extends App {
   val uniBigramQueries: Map[String, Seq[String]] = tokenizedQueries.filter { case (_, qTokens: Seq[String]) =>
     qTokens.length == 1 || qTokens.length == 2
   }
-  val output = new PrintWriter("output/namequeries.tsv")
+  val output = new PrintWriter("output/unibigrams-named.tsv")
   output.println(Seq("qid", "text", "name").mkString("\t"))
   uniBigramQueries.foreach { case (qId: String, qToken: Seq[String]) =>
     output.println(s"$qId\t${queries(qId)}\t")
