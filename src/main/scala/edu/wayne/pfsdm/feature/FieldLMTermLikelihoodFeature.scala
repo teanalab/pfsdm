@@ -1,18 +1,17 @@
 package edu.wayne.pfsdm.feature
 
-import edu.wayne.pfsdm.ParametrizedFSDMTraversal
-import org.lemurproject.galago.core.index.stats.FieldStatistics
-import org.lemurproject.galago.core.retrieval.query.{StructuredQuery, Node}
+import org.lemurproject.galago.core.retrieval.Retrieval
+import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
 
 /**
  * Created by fsqcds on 5/1/15.
  */
-class FieldLMTermLikelihoodFeature(val traversal: ParametrizedFSDMTraversal) extends FieldFeature {
+class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends FieldFeature {
   var memo = Map[(Seq[String], String), Double]()
   val scale = 100
 
   private def getTermFrequency(tokens: Seq[String], fieldName: String): Long = {
-    val node: Node = tokens.toList match {
+    val node: Node = (tokens.toList: @unchecked) match {
       case term :: Nil =>
         val node: Node = new Node("counts", term)
         node.getNodeParameters.set("part", "field." + fieldName)
@@ -28,12 +27,12 @@ class FieldLMTermLikelihoodFeature(val traversal: ParametrizedFSDMTraversal) ext
         od1.getChild(1).getNodeParameters.set("part", "field." + fieldName)
         od1
     }
-    traversal.getRetrieval.getNodeStatistics(node).nodeFrequency
+    retrieval.getNodeStatistics(node).nodeFrequency
   }
 
   private def getFieldLength(fieldName: String): Long = {
     val fieldLen: Node = StructuredQuery.parse("#lengths:" + fieldName + ":part=lengths()")
-    traversal.getRetrieval.getCollectionStatistics(fieldLen).collectionLength
+    retrieval.getCollectionStatistics(fieldLen).collectionLength
   }
 
   override def getPhi(tokens: Seq[String], fieldName: String): Double = {

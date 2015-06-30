@@ -1,6 +1,6 @@
 package edu.wayne.pfsdm.feature
 
-import edu.wayne.pfsdm.ParametrizedFSDMTraversal
+import org.lemurproject.galago.core.retrieval.Retrieval
 
 import scala.collection.JavaConversions._
 
@@ -28,10 +28,10 @@ trait FieldFeature {
 }
 
 object FieldFeature {
-  def apply(fieldFeatureName: String, traversal: ParametrizedFSDMTraversal) = fieldFeatureName match {
-    case "baselinetopscore" => new BaselineTopScoreFieldFeature(traversal)
+  def apply(fieldFeatureName: String, retrieval: Retrieval) = fieldFeatureName match {
+    case "baselinetopscore" => new BaselineTopScoreFieldFeature(retrieval)
     case "capitalized" => new CapitalizedFeature
-    case "fieldlikelihood" => new FieldLMTermLikelihoodFeature(traversal)
+    case "fieldlikelihood" => new FieldLMTermLikelihoodFeature(retrieval)
     case "plural" => new PluralFeature
   }
 }

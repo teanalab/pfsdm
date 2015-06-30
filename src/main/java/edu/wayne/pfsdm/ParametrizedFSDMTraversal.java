@@ -35,7 +35,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
     private HashMap<String, Double> max = HashMap.hashMap();
 
     private FieldFeature constructFeature(String featureName) {
-        return FieldFeature$.MODULE$.apply(featureName, this);
+        return FieldFeature$.MODULE$.apply(featureName, retrieval);
     }
 
     public ParametrizedFSDMTraversal(Retrieval retrieval) {
@@ -51,18 +51,6 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
 
         fieldFeatures = HashMap.from(fieldFeatureNames.map(featureName -> P.p(featureName, constructFeature(featureName))));
         logger.info("Done initializing ParametrizedFSDMTraversal");
-    }
-
-    public java.util.List<String> getFields() {
-        return fields;
-    }
-
-    public Retrieval getRetrieval() {
-        return retrieval;
-    }
-
-    public Parameters getGlobals() {
-        return globals;
     }
 
     @Override

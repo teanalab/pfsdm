@@ -1,7 +1,5 @@
 package edu.wayne.pfsdm.feature
 
-import edu.wayne.pfsdm.feature.FieldFeature
-
 /**
  * Created by fsqcds on 6/2/15.
  */

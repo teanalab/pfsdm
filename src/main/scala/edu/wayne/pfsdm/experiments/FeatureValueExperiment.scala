@@ -43,7 +43,7 @@ object FeatureValueExperiment extends App {
   parameters.set("fieldFeatures", List())
   val retrieval: Retrieval = RetrievalFactory.create(parameters)
   val traversal: ParametrizedFSDMTraversal = new ParametrizedFSDMTraversal(retrieval)
-  val feature: FieldFeature = FieldFeature(mainParameters.getString("feature"), traversal)
+  val feature: FieldFeature = FieldFeature(mainParameters.getString("feature"), retrieval)
 
   val output = new PrintWriter(mainParameters.getString("output"))
   output.println((Seq("ngramtype", "qid", "gram") ++ fields).mkString("\t"))

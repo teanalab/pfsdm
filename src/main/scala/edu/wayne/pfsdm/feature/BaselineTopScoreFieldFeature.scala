@@ -1,7 +1,7 @@
 package edu.wayne.pfsdm.feature
 
-import edu.wayne.pfsdm.ParametrizedFSDMTraversal
 import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
+import org.lemurproject.galago.core.retrieval.Retrieval
 import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
 import org.lemurproject.galago.utility.Parameters
 
@@ -11,7 +11,7 @@ import scala.math.exp
 /**
  * Created by fsqcds on 5/1/15.
  */
-class BaselineTopScoreFieldFeature(val traversal: ParametrizedFSDMTraversal) extends FieldFeature {
+class BaselineTopScoreFieldFeature(val retrieval: Retrieval) extends FieldFeature {
   private def mlm(tokens: Seq[String]): String = {
     s"#mlm(${tokens.mkString(" ")})"
   }
@@ -26,7 +26,7 @@ class BaselineTopScoreFieldFeature(val traversal: ParametrizedFSDMTraversal) ext
     memo.get((tokens, fieldName)) match {
       case Some(phi) => phi
       case None =>
-        val fields = traversal.getFields
+        val fields = retrieval.getGlobalParameters.getAsList("fields", classOf[String])
         val fieldWeights: Parameters = Parameters.create
         val root: Node =
           if (tokens.size == 1) {
@@ -45,8 +45,8 @@ class BaselineTopScoreFieldFeature(val traversal: ParametrizedFSDMTraversal) ext
             throw new IllegalArgumentException("Tokens must be either unigram or bigram")
           }
 //        fieldWeights.copyFrom(traversal.getGlobals)
-        val transformed: Node = traversal.getRetrieval.transformQuery(root, fieldWeights)
-        val results = traversal.getRetrieval.executeQuery(transformed, fieldWeights).scoredDocuments
+        val transformed: Node = retrieval.transformQuery(root, fieldWeights)
+        val results = retrieval.executeQuery(transformed, fieldWeights).scoredDocuments
         val phi = if (results.size > 0) exp(results.head.getScore) else 0
         memo += (tokens, fieldName) -> phi
         phi
