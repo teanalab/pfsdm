@@ -1,6 +1,6 @@
-package edu.wayne.pfsdm
+package edu.wayne.pfsdm.feature
 
-import edu.wayne.pfsdm.feature.{FieldLMTermLikelihoodFeature, PluralFeature, CapitalizedFeature, BaselineTopScoreFieldFeature}
+import edu.wayne.pfsdm.ParametrizedFSDMTraversal
 
 import scala.collection.JavaConversions._
 

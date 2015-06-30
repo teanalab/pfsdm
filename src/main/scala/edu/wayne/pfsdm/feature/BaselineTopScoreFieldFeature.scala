@@ -1,6 +1,6 @@
 package edu.wayne.pfsdm.feature
 
-import edu.wayne.pfsdm.{FieldFeature, ParametrizedFSDMTraversal}
+import edu.wayne.pfsdm.ParametrizedFSDMTraversal
 import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
 import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
 import org.lemurproject.galago.utility.Parameters
@@ -33,7 +33,7 @@ class BaselineTopScoreFieldFeature(val traversal: ParametrizedFSDMTraversal) ext
             fields.foreach { weightedField =>
               fieldWeights.set(MLMTraversal.UNIGRAM_FIELD_PREFIX + weightedField, if (weightedField == fieldName) 1.0 else 0.0)
             }
-            StructuredQuery.parse(mlm(Seq(tokens(0))))
+            StructuredQuery.parse(mlm(Seq(tokens.head)))
           } else if (tokens.size == 2) {
             fields.foreach { weightedField =>
               fieldWeights.set(MLMTraversal.UNIGRAM_FIELD_PREFIX + weightedField, if (weightedField == fieldName) 1.0 else 0.0)

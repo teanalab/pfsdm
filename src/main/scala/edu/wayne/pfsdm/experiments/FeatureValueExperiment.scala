@@ -2,7 +2,8 @@ package edu.wayne.pfsdm.experiments
 
 import java.io._
 
-import edu.wayne.pfsdm.{ParametrizedFSDMTraversal, FieldFeature}
+import edu.wayne.pfsdm.ParametrizedFSDMTraversal
+import edu.wayne.pfsdm.feature.FieldFeature
 import org.lemurproject.galago.core.retrieval.{Retrieval, RetrievalFactory}
 import org.lemurproject.galago.utility.Parameters
 import org.lemurproject.galago.utility.tools.Arguments

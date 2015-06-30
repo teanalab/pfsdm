@@ -1,5 +1,7 @@
 package edu.wayne.pfsdm;
 
+import edu.wayne.pfsdm.feature.FieldFeature;
+import edu.wayne.pfsdm.feature.FieldFeature$;
 import fj.P;
 import fj.data.HashMap;
 import fj.data.List;

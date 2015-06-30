@@ -1,6 +1,6 @@
 package edu.wayne.pfsdm.feature
 
-import edu.wayne.pfsdm.{FieldFeature, ParametrizedFSDMTraversal}
+import edu.wayne.pfsdm.ParametrizedFSDMTraversal
 import org.lemurproject.galago.core.index.stats.FieldStatistics
 import org.lemurproject.galago.core.retrieval.query.{StructuredQuery, Node}
 
