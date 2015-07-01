@@ -41,6 +41,6 @@ class BaselineTopScoreFieldFeature(val retrieval: Retrieval) extends MemoizedFie
       }
     val transformed: Node = retrieval.transformQuery(root, fieldWeights)
     val results = retrieval.executeQuery(transformed, fieldWeights).scoredDocuments
-    if (results.size > 0) results.head.getScore else 0
+    if (results.size > 0) results.head.getScore else Double.NegativeInfinity
   }
 }
