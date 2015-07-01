@@ -164,7 +164,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
                 termFieldCounts.addChild(termExtents);
             }
 
-            double fieldWeight = getFieldWeight(BIGRAM_FIELD_PREFIX, list(term), field, queryParameters);
+            double fieldWeight = getFieldWeight(UNIGRAM_FIELD_PREFIX, list(term), field, queryParameters);
             nodeweights.set(Integer.toString(i), fieldWeight);
             normalizer += fieldWeight;
 
@@ -193,7 +193,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         List<String> terms = list(seq).map(Node::getDefaultParameter);
         double normalizer = 0.0;
         for (int i = 0; i < fields.size(); i++) {
-            double fieldWeight = getFieldWeight(UNIGRAM_FIELD_PREFIX, terms, fields.get(i), qp);
+            double fieldWeight = getFieldWeight(BIGRAM_FIELD_PREFIX, terms, fields.get(i), qp);
             fieldWeights.set(Integer.toString(i), fieldWeight);
             normalizer += fieldWeight;
         }
