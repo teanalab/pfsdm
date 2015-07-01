@@ -44,7 +44,7 @@ class BaselineTopScoreFieldFeature(val retrieval: Retrieval) extends FieldFeatur
           } else {
             throw new IllegalArgumentException("Tokens must be either unigram or bigram")
           }
-//        fieldWeights.copyFrom(traversal.getGlobals)
+        //        fieldWeights.copyFrom(traversal.getGlobals)
         val transformed: Node = retrieval.transformQuery(root, fieldWeights)
         val results = retrieval.executeQuery(transformed, fieldWeights).scoredDocuments
         val phi = if (results.size > 0) exp(results.head.getScore) else 0
