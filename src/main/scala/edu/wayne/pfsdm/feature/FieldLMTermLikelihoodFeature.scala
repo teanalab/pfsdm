@@ -6,10 +6,7 @@ import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
 /**
  * Created by fsqcds on 5/1/15.
  */
-class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends FieldFeature {
-  var memo = Map[(Seq[String], String), Double]()
-  val scale = 100
-
+class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFieldFeature {
   private def getTermFrequency(tokens: Seq[String], fieldName: String): Long = {
     val node: Node = (tokens.toList: @unchecked) match {
       case term :: Nil =>
@@ -35,13 +32,7 @@ class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends FieldFeatur
     retrieval.getCollectionStatistics(fieldLen).collectionLength
   }
 
-  override def getPhi(tokens: Seq[String], fieldName: String): Double = {
-    memo.get((tokens, fieldName)) match {
-      case Some(phi) => phi
-      case None =>
-        val phi = getTermFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName) * scale
-        memo += (tokens, fieldName) -> phi
-        phi
-    }
+  override def getNewPhi(tokens: Seq[String], fieldName: String): Double = {
+    getTermFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName)
   }
 }
