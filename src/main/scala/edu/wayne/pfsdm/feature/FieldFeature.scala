@@ -28,6 +28,8 @@ trait FieldFeature {
 }
 
 object FieldFeature {
+  val featureNames = List("baselinetopscore", "fieldlikelihood", "capitalized", "plural")
+
   def apply(fieldFeatureName: String, retrieval: Retrieval) = fieldFeatureName match {
     case "baselinetopscore" => new BaselineTopScoreFieldFeature(retrieval)
     case "capitalized" => new CapitalizedFeature
