@@ -102,7 +102,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
     private double scaleFeatureValue(String featureName, double phi) {
         if (featuresScaling) {
             if (phi == Double.NEGATIVE_INFINITY) {
-                return featureMin.get(featureName).some();
+                return 0.0;
             } else {
                 return (phi - featureMin.get(featureName).some()) / featureRange.get(featureName).some();
             }
