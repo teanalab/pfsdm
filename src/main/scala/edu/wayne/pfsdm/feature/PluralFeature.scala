@@ -10,6 +10,6 @@ class PluralFeature extends FieldFeature {
   }
 
   override def getPhi(tokens: Seq[String], fieldName: String): Double = {
-    if (isPlural(tokens.last)) 1.0 else 0.5
+    if (isPlural(tokens.last)) 1.0 else 0.0
   }
 }

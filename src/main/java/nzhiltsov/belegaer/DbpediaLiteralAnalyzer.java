@@ -30,11 +30,6 @@ public class DbpediaLiteralAnalyzer extends Analyzer {
      */
     private static final CharArraySet STOP_WORDS_SET = CharArraySet.copy(Version.LUCENE_48, TrecStopWordSet.stopWords);
 
-    public DbpediaLiteralAnalyzer(int MIN_TOKEN_LENGTH) {
-        this.MIN_TOKEN_LENGTH = MIN_TOKEN_LENGTH;
-        this.DO_STEMMING = true;
-    }
-
     public DbpediaLiteralAnalyzer(int MIN_TOKEN_LENGTH, boolean doStemming) {
         this.MIN_TOKEN_LENGTH = MIN_TOKEN_LENGTH;
         this.DO_STEMMING = doStemming;

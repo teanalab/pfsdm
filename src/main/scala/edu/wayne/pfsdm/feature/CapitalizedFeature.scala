@@ -10,6 +10,6 @@ class CapitalizedFeature extends FieldFeature {
   }
 
   override def getPhi(tokens: Seq[String], fieldName: String): Double = {
-    if (tokens.forall(firstLetterUpperCase)) 1.0 else 0.5
+    if (tokens.forall(firstLetterUpperCase)) 1.0 else 0.0
   }
 }
