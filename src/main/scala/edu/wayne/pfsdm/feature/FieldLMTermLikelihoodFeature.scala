@@ -3,6 +3,8 @@ package edu.wayne.pfsdm.feature
 import org.lemurproject.galago.core.retrieval.Retrieval
 import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
 
+import scala.math.log
+
 /**
  * Created by fsqcds on 5/1/15.
  */
@@ -33,6 +35,6 @@ class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFie
   }
 
   override def getNewPhi(tokens: Seq[String], fieldName: String): Double = {
-    getTermFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName)
+    log(getTermFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName))
   }
 }

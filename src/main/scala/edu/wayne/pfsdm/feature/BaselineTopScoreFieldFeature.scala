@@ -6,7 +6,6 @@ import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
 import org.lemurproject.galago.utility.Parameters
 
 import scala.collection.JavaConversions._
-import scala.math.exp
 
 /**
  * Created by fsqcds on 5/1/15.
@@ -42,6 +41,6 @@ class BaselineTopScoreFieldFeature(val retrieval: Retrieval) extends MemoizedFie
       }
     val transformed: Node = retrieval.transformQuery(root, fieldWeights)
     val results = retrieval.executeQuery(transformed, fieldWeights).scoredDocuments
-    if (results.size > 0) exp(results.head.getScore) else 0
+    if (results.size > 0) results.head.getScore else 0
   }
 }
