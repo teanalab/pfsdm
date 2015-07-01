@@ -26,6 +26,8 @@ import static fj.data.List.list;
  */
 public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraversal {
 
+    public static final String BIGRAM_FIELD_PREFIX = "bi-";
+
     protected final List<String> fieldFeatureNames;
     protected final Parameters fieldFeatureWeights;
     protected final HashMap<String, FieldFeature> fieldFeatures;
@@ -62,11 +64,12 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
     }
 
-    private double getFeatureWeight(String fieldName, String featureName, Parameters queryParameters) {
-        if (fieldFeatureWeights != null && fieldFeatureWeights.containsKey(fieldName + "-" + featureName)) {
-            return fieldFeatureWeights.getDouble(fieldName + "-" + featureName);
+    private double getFeatureWeight(String depType, String fieldName, String featureName, Parameters queryParameters) {
+        String paramName = depType + fieldName + "-" + featureName;
+        if (fieldFeatureWeights != null && fieldFeatureWeights.containsKey(paramName)) {
+            return fieldFeatureWeights.getDouble(paramName);
         } else {
-            return queryParameters.get(fieldName + "-" + featureName, 0.0);
+            return queryParameters.get(paramName, 0.0);
         }
     }
 
@@ -90,14 +93,14 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
     }
 
-    protected double getFieldWeight(Iterable<String> terms, String fieldName, Parameters queryParameters) {
+    protected double getFieldWeight(String depType, Iterable<String> terms, String fieldName, Parameters queryParameters) {
         if (terms == null || list(terms).exists(term -> term == null)) {
             System.out.println(queryParameters.getString("number") + " " + queryParameters.getString("text"));
             throw new IllegalArgumentException("terms shouldn't be null");
         }
         double fieldWeight = 0.0;
         for (String featureName : fieldFeatureNames) {
-            fieldWeight += getFeatureWeight(fieldName, featureName, queryParameters) * getFeatureValue(featureName, terms, fieldName);
+            fieldWeight += getFeatureWeight(depType, fieldName, featureName, queryParameters) * getFeatureValue(featureName, terms, fieldName);
         }
         logger.info(String.format("%s; field: %s -- w = %g", String.join(" ", terms), fieldName, fieldWeight));
 
@@ -134,7 +137,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
                 termFieldCounts.addChild(termExtents);
             }
 
-            double fieldWeight = getFieldWeight(list(term), field, queryParameters);
+            double fieldWeight = getFieldWeight(BIGRAM_FIELD_PREFIX, list(term), field, queryParameters);
             nodeweights.set(Integer.toString(i), fieldWeight);
             normalizer += fieldWeight;
 
@@ -163,7 +166,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         List<String> terms = list(seq).map(Node::getDefaultParameter);
         double normalizer = 0.0;
         for (int i = 0; i < fields.size(); i++) {
-            double fieldWeight = getFieldWeight(terms, fields.get(i), qp);
+            double fieldWeight = getFieldWeight(UNIGRAM_FIELD_PREFIX, terms, fields.get(i), qp);
             fieldWeights.set(Integer.toString(i), fieldWeight);
             normalizer += fieldWeight;
         }
