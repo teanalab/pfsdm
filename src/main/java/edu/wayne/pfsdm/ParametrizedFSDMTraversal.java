@@ -31,10 +31,11 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
     protected final List<String> fieldFeatureNames;
     protected final Parameters fieldFeatureWeights;
     protected final HashMap<String, FieldFeature> fieldFeatures;
+    protected boolean featuresScaling = false;
+    private HashMap<String, Double> featureMin = HashMap.hashMap();
+    private HashMap<String, Double> featureRange = HashMap.hashMap();
 
     protected final Logger logger;
-    private HashMap<String, Double> min = HashMap.hashMap();
-    private HashMap<String, Double> max = HashMap.hashMap();
 
     private FieldFeature constructFeature(String featureName) {
         return FieldFeature$.MODULE$.apply(featureName, retrieval);
@@ -50,6 +51,31 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
             throw new IllegalArgumentException("ParametrizedFSDMTraversal requires having 'fieldFeatures' parameter initialized");
         }
         this.fieldFeatureWeights = globals;
+
+        if (globals.isList("featuresScaling", Parameters.class)) {
+            logger.info("Initializing featuresScaling");
+            java.util.List<Parameters> scales = globals.getList("featuresScaling", Parameters.class);
+            for (Parameters param : scales) {
+                String name = param.getString("name");
+                double max, min;
+                if (param.isDouble("max")) {
+                    max = param.getDouble("max");
+                } else {
+                    logger.info(String.format("Param %s max value not specified using 1.0", name));
+                    max = 1.0;
+                }
+                if (param.isDouble("min")) {
+                    min = param.getDouble("min");
+                } else {
+                    logger.info(String.format("Param %s min value not specified using 0.0", name));
+                    min = 0.0;
+                }
+                assert max >= min : "Range of parameter " + name + " is zero or negative.";
+                featureMin.set(name, min);
+                featureRange.set(name, max - min);
+            }
+            featuresScaling = true;
+        }
 
         fieldFeatures = HashMap.from(fieldFeatureNames.map(featureName -> P.p(featureName, constructFeature(featureName))));
         logger.info("Done initializing ParametrizedFSDMTraversal");
@@ -73,24 +99,14 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
     }
 
-    private double getFeatureValue(String featureName, Iterable<String> terms, String fieldName) {
+    private double getScaledFeatureValue(String featureName, Iterable<String> terms, String fieldName) {
         double phi = fieldFeatures.get(featureName).some().getPhi(terms, fieldName);
-        logger.info(String.format("%s; feature: %s; field: %s -- phi = %g",
-                String.join(" ", terms), featureName, fieldName, phi));
-        assert phi >= 0 : phi;
-        updateMinMax(featureName, fieldName, phi);
-        logger.info(String.format("feature: %s; min = %g, max = %g",
-                featureName, min.get(featureName).some(), max.get(featureName).some()));
-        return phi;
-    }
-
-    private void updateMinMax(String featureName, String fieldName, double phi) {
-        if (min.get(featureName).forall(min -> phi < min)) {
-            min.set(featureName, phi);
-        }
-        if (max.get(featureName).forall(max -> phi > max)) {
-            max.set(featureName, phi);
-        }
+        double scaledPhi = featuresScaling ? (phi - featureMin.get(featureName).some()) /
+                featureRange.get(featureName).some() : phi;
+        logger.info(String.format("%s; field: %s; feature: %s -- phi = %g; scaledPhi = %g",
+                String.join(" ", terms), fieldName, featureName, phi, scaledPhi));
+        assert scaledPhi >= 0 : scaledPhi;
+        return scaledPhi;
     }
 
     protected double getFieldWeight(String depType, Iterable<String> terms, String fieldName, Parameters queryParameters) {
@@ -100,7 +116,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
         double fieldWeight = 0.0;
         for (String featureName : fieldFeatureNames) {
-            fieldWeight += getFeatureWeight(depType, fieldName, featureName, queryParameters) * getFeatureValue(featureName, terms, fieldName);
+            fieldWeight += getFeatureWeight(depType, fieldName, featureName, queryParameters) * getScaledFeatureValue(featureName, terms, fieldName);
         }
         logger.info(String.format("%s; field: %s -- w = %g", String.join(" ", terms), fieldName, fieldWeight));
 
