@@ -11,7 +11,7 @@ class UtilTest extends FunSuite {
       "alexander nevsky cathedral bulgaria city liberation turk")
   }
 
-  test("filterTokens should lowercase, stem and filter") {
+  test("filterTokens should stem and filter") {
     assert(Util.filterTokens("birds cannot fly").mkString(" ") === "bird fly")
   }
 }
