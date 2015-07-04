@@ -8,7 +8,7 @@ import org.lemurproject.galago.core.retrieval.Retrieval
 trait MemoizedFieldFeature extends FieldFeature {
   var memo = Map[(Seq[String], String), Double]()
 
-  override def getPhi(tokens: Seq[String], fieldName: String): Double = {
+  override def getPhi(tokens: Seq[String], fieldName: String, queryId: String): Double = {
     memo.get((tokens, fieldName)) match {
       case Some(phi) => phi
       case None =>

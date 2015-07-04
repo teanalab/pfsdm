@@ -111,8 +111,8 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
     }
 
-    private double getScaledFeatureValue(String featureName, Iterable<String> terms, String fieldName) {
-        double phi = fieldFeatures.get(featureName).some().getPhi(terms, fieldName);
+    private double getScaledFeatureValue(String featureName, Iterable<String> terms, String fieldName, String queryId) {
+        double phi = fieldFeatures.get(featureName).some().getPhi(terms, fieldName, queryId);
         double scaledPhi = scaleFeatureValue(featureName, phi);
         logger.info(String.format("%s; field: %s; feature: %s -- phi = %g; scaledPhi = %g",
                 String.join(" ", terms), fieldName, featureName, phi, scaledPhi));
@@ -127,7 +127,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
         double fieldWeight = 0.0;
         for (String featureName : fieldFeatureNames) {
-            fieldWeight += getFeatureWeight(depType, fieldName, featureName, queryParameters) * getScaledFeatureValue(featureName, terms, fieldName);
+            fieldWeight += getFeatureWeight(depType, fieldName, featureName, queryParameters) * getScaledFeatureValue(featureName, terms, fieldName, queryParameters.getString("number"));
         }
         logger.info(String.format("%s; field: %s -- w = %g", String.join(" ", terms), fieldName, fieldWeight));
 

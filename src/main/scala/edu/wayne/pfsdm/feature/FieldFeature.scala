@@ -15,7 +15,7 @@ trait FieldFeature {
    * @param fieldName name of the field. This is ignored for features that doesn't depend on field
    * @return          feature value
    */
-  def getPhi(tokens: Seq[String], fieldName: String): Double
+  def getPhi(tokens: Seq[String], fieldName: String, queryId: String): Double
 
   /**
    * Returns feature value for field and tokens. This is Java wrapper for getPhi(Seq[String], String).
@@ -24,16 +24,16 @@ trait FieldFeature {
    * @param fieldName name of the field. This is ignored for features that doesn't depend on field
    * @return          feature value
    */
-  def getPhi(tokens: java.lang.Iterable[String], fieldName: String): Double = getPhi(tokens.toList, fieldName: String)
+  def getPhi(tokens: java.lang.Iterable[String], fieldName: String, queryId: String): Double = getPhi(tokens.toList, fieldName, queryId)
 }
 
 object FieldFeature {
-  val featureNames = List("baselinetopscore", "fieldlikelihood", "capitalized", "plural")
+  val featureNames = List("baselinetopscore", "fieldlikelihood")
+  val FeaturesPath = """/(.+)""".r
 
   def apply(fieldFeatureName: String, retrieval: Retrieval) = fieldFeatureName match {
     case "baselinetopscore" => new BaselineTopScoreFieldFeature(retrieval)
-    case "capitalized" => new CapitalizedFeature
     case "fieldlikelihood" => new FieldLMTermLikelihoodFeature(retrieval)
-    case "plural" => new PluralFeature
+    case FeaturesPath(path) => new FileBasedFeature(path)
   }
 }

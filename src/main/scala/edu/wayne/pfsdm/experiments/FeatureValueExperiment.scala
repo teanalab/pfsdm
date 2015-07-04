@@ -17,9 +17,9 @@ import scala.collection.JavaConversions._
  * Created by fsqcds on 6/10/15.
  */
 object FeatureValueExperiment extends App {
-  def getFeatureValues(tokens: Seq[String], feature: FieldFeature, fields: Seq[String]): Seq[Double] = {
+  def getFeatureValues(tokens: Seq[String], feature: FieldFeature, fields: Seq[String], qId: String): Seq[Double] = {
     fields.map { field =>
-      feature.getPhi(tokens, field)
+      feature.getPhi(tokens, field, qId)
     }
   }
 
@@ -52,7 +52,7 @@ object FeatureValueExperiment extends App {
       case 1 => "unigram";
       case 2 => "bigram"
     }
-    output.println(s"$ngramtype\t$qId\t${gram.mkString(" ")}\t${getFeatureValues(gram, feature, fields).mkString("\t")}")
+    output.println(s"$ngramtype\t$qId\t${gram.mkString(" ")}\t${getFeatureValues(gram, feature, fields, qId).mkString("\t")}")
   }
   output.close()
 }

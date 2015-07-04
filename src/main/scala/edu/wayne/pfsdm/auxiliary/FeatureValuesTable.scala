@@ -56,7 +56,7 @@ object FeatureValuesTable extends App {
       output.print("\t")
       output.print(featureName)
       output.print("\t")
-      output.println(features(featureName).getPhi(gram, field))
+      output.println(features(featureName).getPhi(gram, field, qId))
     }
   }
   output.close()
