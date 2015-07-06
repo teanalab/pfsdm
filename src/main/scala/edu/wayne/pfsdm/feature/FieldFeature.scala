@@ -28,12 +28,12 @@ trait FieldFeature {
 }
 
 object FieldFeature {
-  val featureNames = List("baselinetopscore", "fieldlikelihood")
   val FeaturesPath = """/(.+)""".r
 
   def apply(fieldFeatureName: String, retrieval: Retrieval) = fieldFeatureName match {
     case "baselinetopscore" => new BaselineTopScoreFieldFeature(retrieval)
     case "fieldlikelihood" => new FieldLMTermLikelihoodFeature(retrieval)
+    case "bigramcfratio" => new BigramCFRatio(retrieval)
     case FeaturesPath(path) => new FileBasedFeature(path)
   }
 }

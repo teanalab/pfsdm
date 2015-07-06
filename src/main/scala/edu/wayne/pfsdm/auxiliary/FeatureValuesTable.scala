@@ -19,6 +19,7 @@ object FeatureValuesTable extends App {
   val mainParameters = Arguments.parse(args)
   parameters.copyFrom(mainParameters)
   val fields: Seq[String] = parameters.getList("fields", classOf[String])
+  val fieldFeatureNames = parameters.getAsList("fieldFeatures", classOf[String])
 
   val queries: Seq[(String, String)] = Source.fromFile("data/sigir2013-dbpedia/queries.txt").getLines().
     map { line => line.split("\t") match {
@@ -34,7 +35,7 @@ object FeatureValuesTable extends App {
 
   parameters.set("fieldFeatures", List())
   val retrieval: Retrieval = RetrievalFactory.create(parameters)
-  val features: Map[String, FieldFeature] = FieldFeature.featureNames.map { f => f -> FieldFeature(f, retrieval) }.toMap
+  val features: Map[String, FieldFeature] = fieldFeatureNames.map { f => f -> FieldFeature(f, retrieval) }.toMap
 
   val output = new PrintWriter(mainParameters.getString("output"))
 
@@ -45,7 +46,7 @@ object FeatureValuesTable extends App {
       case 2 => "bigram"
     }
     for (field <- fields;
-         featureName <- FieldFeature.featureNames) {
+         featureName <- fieldFeatureNames) {
       output.print(qId)
       output.print("\t")
       output.print(ngramtype)
