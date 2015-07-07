@@ -2550,7 +2550,7 @@ SemSearch_ES-90	university phoenix	0	university of phoenix
 SemSearch_ES-91	westminster	0	westminster abbey
 SemSearch_ES-91	abbey	0	westminster abbey
 SemSearch_ES-91	westminster abbey	0	westminster abbey
-SemSearch_ES-93	8	1	08 toyota tundra
+SemSearch_ES-93	08	1	08 toyota tundra
 SemSearch_ES-93	toyota	1	08 toyota tundra
 SemSearch_ES-93	tundra	1	08 toyota tundra
 SemSearch_ES-93	08 toyota	1	08 toyota tundra
@@ -2826,7 +2826,7 @@ SemSearch_LS-16	september	1	hijackers in the September 11 attacks
 SemSearch_LS-16	11	0	hijackers in the September 11 attacks
 SemSearch_LS-16	attack	0	hijackers in the September 11 attacks
 SemSearch_LS-16	hijack september	0	hijackers in the September 11 attacks
-SemSearch_LS-16	11-Sep	0	hijackers in the September 11 attacks
+SemSearch_LS-16	september 11	0	hijackers in the September 11 attacks
 SemSearch_LS-16	11 attack	0	hijackers in the September 11 attacks
 SemSearch_LS-17	house	0	houses of the Russian parliament
 SemSearch_LS-17	russia	0	houses of the Russian parliament
