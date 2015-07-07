@@ -19,7 +19,7 @@ object FeatureValuesTable extends App {
   val mainParameters = Arguments.parse(args)
   parameters.copyFrom(mainParameters)
   val fields: Seq[String] = parameters.getList("fields", classOf[String])
-  val fieldFeatureNames = parameters.getAsList("fieldFeatures", classOf[String])
+  val fieldFeatureNames = parameters.getAsList("tableFeatures", classOf[String])
 
   val queries: Seq[(String, String)] = Source.fromFile("data/sigir2013-dbpedia/queries.txt").getLines().
     map { line => line.split("\t") match {
