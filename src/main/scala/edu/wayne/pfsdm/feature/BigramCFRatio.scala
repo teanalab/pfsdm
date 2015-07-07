@@ -31,7 +31,6 @@ class BigramCFRatio(val retrieval: Retrieval) extends MemoizedFieldFeature {
 
   override def getNewPhi(tokens: Seq[String], fieldName: String): Double = {
     (tokens.toList: @unchecked) match {
-      case term :: Nil => 0
       case term1 :: term2 :: Nil =>
         val term1Freq = getTermFrequency(Seq(term1), fieldName)
         println(term1 + " " + term1Freq)
