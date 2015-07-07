@@ -7,10 +7,11 @@ import scala.io.Source
  */
 class FileBasedFeature(val featureFileName: String) extends FieldFeature {
   val fileBasedFeaturesDir = "/file-based-features/"
+  val fileBasedFeaturesExt = ".tsv"
 
   val qIdGramToFeatureValue: Map[(String, Seq[String]), Double] =
-    Source.fromURL(getClass.getResource(fileBasedFeaturesDir + featureFileName)).getLines().map(_.split("\t")).
-      map(t => (t(0), t(1).split(" ").toSeq) -> t(2).toDouble).toMap
+    Source.fromURL(getClass.getResource(fileBasedFeaturesDir + featureFileName + fileBasedFeaturesExt)).getLines().
+      map(_.split("\t")).map(t => (t(0), t(1).split(" ").toSeq) -> t(2).toDouble).toMap
 
   override def getPhi(tokens: Seq[String], fieldName: String, queryId: String): Double = {
     qIdGramToFeatureValue(queryId, tokens)
