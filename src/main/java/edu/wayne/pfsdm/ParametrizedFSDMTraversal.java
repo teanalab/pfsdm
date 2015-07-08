@@ -145,7 +145,6 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         ArrayList<Node> termFields = new ArrayList<Node>();
         NodeParameters nodeweights = new NodeParameters();
         int i = 0;
-        double normalizer = 0.0;
         for (String field : fields) {
             Node termFieldCounts, termExtents;
 
@@ -169,7 +168,6 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
 
             double fieldWeight = getFieldWeight(UNIGRAM_FIELD_PREFIX, list(term), field, queryParameters);
             nodeweights.set(Integer.toString(i), fieldWeight);
-            normalizer += fieldWeight;
 
             Node termScore = new Node(scorerType);
             termScore.getNodeParameters().set("lengths", field);
@@ -177,13 +175,6 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
             termScore.addChild(termFieldCounts);
             termFields.add(termScore);
             i++;
-        }
-        // normalize field weights
-        if (normalizer != 0) {
-            for (i = 0; i < fields.size(); i++) {
-                String key = Integer.toString(i);
-                nodeweights.set(key, nodeweights.getDouble(key) / normalizer);
-            }
         }
 
         return new Node("wsum", nodeweights, termFields);
@@ -194,18 +185,9 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
 
         NodeParameters fieldWeights = new NodeParameters();
         List<String> terms = list(seq).map(Node::getDefaultParameter);
-        double normalizer = 0.0;
         for (int i = 0; i < fields.size(); i++) {
             double fieldWeight = getFieldWeight(BIGRAM_FIELD_PREFIX, terms, fields.get(i), qp);
             fieldWeights.set(Integer.toString(i), fieldWeight);
-            normalizer += fieldWeight;
-        }
-        // normalize field weights
-        if (normalizer != 0) {
-            for (int i = 0; i < fields.size(); i++) {
-                String key = Integer.toString(i);
-                fieldWeights.set(key, fieldWeights.getDouble(key) / normalizer);
-            }
         }
 
         String scorerType = qp.get("scorer", globals.get("scorer", "dirichlet"));
