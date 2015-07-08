@@ -127,7 +127,10 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
         double fieldWeight = 0.0;
         for (String featureName : fieldFeatureNames) {
-            fieldWeight += getFeatureWeight(depType, fieldName, featureName, queryParameters) * getScaledFeatureValue(featureName, terms, fieldName, queryParameters.getString("number"));
+            double featureWeight = getFeatureWeight(depType, fieldName, featureName, queryParameters);
+            if (featureWeight != 0.0) {
+                fieldWeight += featureWeight * getScaledFeatureValue(featureName, terms, fieldName, queryParameters.getString("number"));
+            }
         }
         logger.info(String.format("%s; field: %s -- w = %g", String.join(" ", terms), fieldName, fieldWeight));
 
