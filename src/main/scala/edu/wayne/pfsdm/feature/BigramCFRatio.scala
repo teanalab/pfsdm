@@ -33,13 +33,10 @@ class BigramCFRatio(val retrieval: Retrieval) extends MemoizedFieldFeature {
     (tokens.toList: @unchecked) match {
       case term1 :: term2 :: Nil =>
         val term1Freq = getTermFrequency(Seq(term1), fieldName)
-        println(term1 + " " + term1Freq)
         val term2Freq = getTermFrequency(Seq(term2), fieldName)
-        println(term2 + " " + term2Freq)
         if (term1Freq == 0 || term2Freq == 0) {
           Double.NegativeInfinity
         } else {
-          println(getTermFrequency(tokens, fieldName))
           log(getTermFrequency(tokens, fieldName).toDouble / (term1Freq * term2Freq))
         }
     }
