@@ -41,3 +41,6 @@ Rplots.pdf
 
 # OS X
 .DS_Store
+
+# IPython notebook checkpoints
+.ipynb_checkpoints
