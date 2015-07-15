@@ -2137,7 +2137,7 @@ QALD2_tr-79	airport located	none	Which airports are located in California, USA?
 QALD2_tr-79	located california	none	Which airports are located in California, USA?
 QALD2_tr-79	california usa	relation	Which airports are located in California, USA?
 QALD2_tr-80	give	none	Give me all Canadian Grunge record labels.
-QALD2_tr-80	canada	attrbute	Give me all Canadian Grunge record labels.
+QALD2_tr-80	canada	attribute	Give me all Canadian Grunge record labels.
 QALD2_tr-80	grunge	attribute	Give me all Canadian Grunge record labels.
 QALD2_tr-80	record	unsure	Give me all Canadian Grunge record labels.
 QALD2_tr-80	label	type	Give me all Canadian Grunge record labels.
@@ -2252,7 +2252,7 @@ SemSearch_ES-10	asheville	unsure	asheville north carolina
 SemSearch_ES-10	north	unsure	asheville north carolina
 SemSearch_ES-10	carolina	unsure	asheville north carolina
 SemSearch_ES-10	asheville north	unsure	asheville north carolina
-SemSearch_ES-10	north carolina	sunre	asheville north carolina
+SemSearch_ES-10	north carolina	unsure	asheville north carolina
 SemSearch_ES-11	austin	attribute	austin powers
 SemSearch_ES-11	powers	type	austin powers
 SemSearch_ES-11	austin powers	type	austin powers
@@ -2313,8 +2313,8 @@ SemSearch_ES-29	elli college	entity	ellis college
 SemSearch_ES-30	eloan	unsure	eloan line of credit
 SemSearch_ES-30	line	none	eloan line of credit
 SemSearch_ES-30	credit	none	eloan line of credit
-SemSearch_ES-30	eloan line	ensure	eloan line of credit
-SemSearch_ES-30	line credit	ensure	eloan line of credit
+SemSearch_ES-30	eloan line	unsure	eloan line of credit
+SemSearch_ES-30	line credit	unsure	eloan line of credit
 SemSearch_ES-31	emery	entity	emery
 SemSearch_ES-32	fitzgerald	entity	fitzgerald auto mall chambersburg pa
 SemSearch_ES-32	auto	none	fitzgerald auto mall chambersburg pa
@@ -3015,7 +3015,7 @@ TREC_Entity-2	winner acm	none	Winners of the ACM Athena award.
 TREC_Entity-2	acm athena	relation	Winners of the ACM Athena award.
 TREC_Entity-2	athena award	unsure	Winners of the ACM Athena award.
 TREC_Entity-4	professional	attribute	Professional sports teams in Philadelphia.
-TREC_Entity-4	sports	attrbute	Professional sports teams in Philadelphia.
+TREC_Entity-4	sports	attribute	Professional sports teams in Philadelphia.
 TREC_Entity-4	team	type	Professional sports teams in Philadelphia.
 TREC_Entity-4	philadelphia	relation	Professional sports teams in Philadelphia.
 TREC_Entity-4	professional sports	attribute	Professional sports teams in Philadelphia.
