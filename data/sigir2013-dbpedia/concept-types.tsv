@@ -808,7 +808,7 @@ INEX_XER-63	best novel	unsure	Hugo awarded best novels
 INEX_XER-64	alan	relation	Alan Moore graphic novels adapted to film
 INEX_XER-64	moore	relation	Alan Moore graphic novels adapted to film
 INEX_XER-64	graphic	attribute	Alan Moore graphic novels adapted to film
-INEX_XER-64	novel	unsure	Alan Moore graphic novels adapted to film
+INEX_XER-64	novel	type	Alan Moore graphic novels adapted to film
 INEX_XER-64	adapt	attribute	Alan Moore graphic novels adapted to film
 INEX_XER-64	film	type	Alan Moore graphic novels adapted to film
 INEX_XER-64	alan moore	relation	Alan Moore graphic novels adapted to film
@@ -822,68 +822,68 @@ INEX_XER-65	australia	relation	Pacific navigators Australia explorers
 INEX_XER-65	explore	type	Pacific navigators Australia explorers
 INEX_XER-65	pacific navigator	relation	Pacific navigators Australia explorers
 INEX_XER-65	navigator australia	none	Pacific navigators Australia explorers
-INEX_XER-65	australia explore	none	Pacific navigators Australia explorers
+INEX_XER-65	australia explore	type	Pacific navigators Australia explorers
 INEX_XER-67	ferri	relation	Ferris and observation wheels
 INEX_XER-67	observation	unsure	Ferris and observation wheels
 INEX_XER-67	wheels	unsure	Ferris and observation wheels
 INEX_XER-67	ferri observation	unsure	Ferris and observation wheels
-INEX_XER-67	observation wheels	unsure	Ferris and observation wheels
+INEX_XER-67	observation wheels	type	Ferris and observation wheels
 INEX_XER-72	film	type	films shot in Venice 
 INEX_XER-72	shot	none	films shot in Venice 
-INEX_XER-72	venice	entity	films shot in Venice 
-INEX_XER-72	film shot	type	films shot in Venice 
-INEX_XER-72	shot venice	none	films shot in Venice 
+INEX_XER-72	venice	relation	films shot in Venice
+INEX_XER-72	film shot	none	films shot in Venice
+INEX_XER-72	shot venice	none	films shot in Venice
 INEX_XER-73	magazine	type	magazines about indie-music 
-INEX_XER-73	indie	none	magazines about indie-music 
-INEX_XER-73	music	none	magazines about indie-music 
+INEX_XER-73	indie	attribute	magazines about indie-music 
+INEX_XER-73	music	attribute	magazines about indie-music 
 INEX_XER-73	magazine indie	none	magazines about indie-music 
 INEX_XER-73	indie music	attribute	magazines about indie-music 
-INEX_XER-74	circus	type	circus mammals
+INEX_XER-74	circus	attribute	circus mammals
 INEX_XER-74	mammal	type	circus mammals
 INEX_XER-74	circus mammal	type	circus mammals
 INEX_XER-79	works	type	Works by Charles Rennie Mackintosh
-INEX_XER-79	charles	none	Works by Charles Rennie Mackintosh
-INEX_XER-79	rennie	none	Works by Charles Rennie Mackintosh
-INEX_XER-79	mackintosh	type	Works by Charles Rennie Mackintosh
+INEX_XER-79	charles	relation	Works by Charles Rennie Mackintosh
+INEX_XER-79	rennie	relation	Works by Charles Rennie Mackintosh
+INEX_XER-79	mackintosh	relation	Works by Charles Rennie Mackintosh
 INEX_XER-79	works charles	none	Works by Charles Rennie Mackintosh
-INEX_XER-79	charles rennie	entity	Works by Charles Rennie Mackintosh
-INEX_XER-79	rennie mackintosh	entity	Works by Charles Rennie Mackintosh
+INEX_XER-79	charles rennie	relation	Works by Charles Rennie Mackintosh
+INEX_XER-79	rennie mackintosh	relation	Works by Charles Rennie Mackintosh
 INEX_XER-81	movies	type	Movies about English hooligans
 INEX_XER-81	english	none	Movies about English hooligans
 INEX_XER-81	hooligan	none	Movies about English hooligans
 INEX_XER-81	movies english	none	Movies about English hooligans
 INEX_XER-81	english hooligan	attribute	Movies about English hooligans
 INEX_XER-86	list	none	List of countries in World War Two
-INEX_XER-86	country	unsure	List of countries in World War Two
+INEX_XER-86	country	type	List of countries in World War Two
 INEX_XER-86	world	unsure	List of countries in World War Two
 INEX_XER-86	war	unsure	List of countries in World War Two
 INEX_XER-86	two	none	List of countries in World War Two
-INEX_XER-86	list country	type	List of countries in World War Two
+INEX_XER-86	list country	none	List of countries in World War Two
 INEX_XER-86	country world	none	List of countries in World War Two
 INEX_XER-86	world war	attribute	List of countries in World War Two
 INEX_XER-86	war two	none	List of countries in World War Two
-INEX_XER-87	axis	relation	Axis powers of World War II
+INEX_XER-87	axis	attribute	Axis powers of World War II
 INEX_XER-87	powers	type	Axis powers of World War II
 INEX_XER-87	world	attribute	Axis powers of World War II
 INEX_XER-87	war	attribute	Axis powers of World War II
 INEX_XER-87	ii	none	Axis powers of World War II
 INEX_XER-87	axis powers	type	Axis powers of World War II
 INEX_XER-87	powers world	none	Axis powers of World War II
-INEX_XER-87	world war	attribute	Axis powers of World War II
-INEX_XER-87	war ii	attribute	Axis powers of World War II
+INEX_XER-87	world war	relation	Axis powers of World War II
+INEX_XER-87	war ii	none	Axis powers of World War II
 INEX_XER-88	nordic	attribute	Nordic authors who are known for children's literature
 INEX_XER-88	author	type	Nordic authors who are known for children's literature
 INEX_XER-88	known	none	Nordic authors who are known for children's literature
-INEX_XER-88	children	unsure	Nordic authors who are known for children's literature
+INEX_XER-88	children	attribute	Nordic authors who are known for children's literature
 INEX_XER-88	literature	unsure	Nordic authors who are known for children's literature
 INEX_XER-88	nordic author	type	Nordic authors who are known for children's literature
 INEX_XER-88	author known	none	Nordic authors who are known for children's literature
 INEX_XER-88	known children	none	Nordic authors who are known for children's literature
 INEX_XER-88	children literature	attribute	Nordic authors who are known for children's literature
 INEX_XER-91	paul	none	Paul Auster novels
-INEX_XER-91	auster	entity	Paul Auster novels
+INEX_XER-91	auster	relation	Paul Auster novels
 INEX_XER-91	novel	type	Paul Auster novels
-INEX_XER-91	paul auster	entity	Paul Auster novels
+INEX_XER-91	paul auster	relation	Paul Auster novels
 INEX_XER-91	auster novel	type	Paul Auster novels
 INEX_XER-94	hybrid	attribute	Hybrid cars sold in Europe
 INEX_XER-94	car	type	Hybrid cars sold in Europe
@@ -898,7 +898,7 @@ INEX_XER-95	movies	type	Tom Hanks movies where he plays a leading role.
 INEX_XER-95	play	none	Tom Hanks movies where he plays a leading role.
 INEX_XER-95	leading	unsure	Tom Hanks movies where he plays a leading role.
 INEX_XER-95	role	unsure	Tom Hanks movies where he plays a leading role.
-INEX_XER-95	tom hank	entity	Tom Hanks movies where he plays a leading role.
+INEX_XER-95	tom hank	relation	Tom Hanks movies where he plays a leading role.
 INEX_XER-95	hank movies	type	Tom Hanks movies where he plays a leading role.
 INEX_XER-95	movies play	none	Tom Hanks movies where he plays a leading role.
 INEX_XER-95	play leading	none	Tom Hanks movies where he plays a leading role.
@@ -907,26 +907,26 @@ INEX_XER-96	pure	attribute	Pure object-oriented programing languages
 INEX_XER-96	object	attribute	Pure object-oriented programing languages
 INEX_XER-96	orient	attribute	Pure object-oriented programing languages
 INEX_XER-96	program	unsure	Pure object-oriented programing languages
-INEX_XER-96	language	unsure	Pure object-oriented programing languages
+INEX_XER-96	language	type	Pure object-oriented programing languages
 INEX_XER-96	pure object	none	Pure object-oriented programing languages
 INEX_XER-96	object orient	attribute	Pure object-oriented programing languages
 INEX_XER-96	orient program	none	Pure object-oriented programing languages
 INEX_XER-96	program language	type	Pure object-oriented programing languages
 INEX_XER-97	compile	type	Compilers that can compile both C and C++
-INEX_XER-97	compile	type	Compilers that can compile both C and C++
-INEX_XER-97	c	none	Compilers that can compile both C and C++
-INEX_XER-97	c	none	Compilers that can compile both C and C++
+INEX_XER-97	compile	unsure	Compilers that can compile both C and C++
+INEX_XER-97	c	relation	Compilers that can compile both C and C++
+INEX_XER-97	c	relation	Compilers that can compile both C and C++
 INEX_XER-97	compile compile	none	Compilers that can compile both C and C++
 INEX_XER-97	compile c	none	Compilers that can compile both C and C++
 INEX_XER-97	c c	none	Compilers that can compile both C and C++
 INEX_XER-98	maker	type	Makers of lawn tennis rackets
 INEX_XER-98	lawn	unsure	Makers of lawn tennis rackets
-INEX_XER-98	tennis	unsure	Makers of lawn tennis rackets
+INEX_XER-98	tennis	attribute	Makers of lawn tennis rackets
 INEX_XER-98	rackets	unsure	Makers of lawn tennis rackets
-INEX_XER-98	maker lawn	type	Makers of lawn tennis rackets
+INEX_XER-98	maker lawn	none	Makers of lawn tennis rackets
 INEX_XER-98	lawn tennis	unsure	Makers of lawn tennis rackets
 INEX_XER-98	tennis rackets	attribute	Makers of lawn tennis rackets
-INEX_XER-99	computer	none	Computer systems that have a recursive acronym for the name
+INEX_XER-99	computer	attribute	Computer systems that have a recursive acronym for the name
 INEX_XER-99	system	none	Computer systems that have a recursive acronym for the name
 INEX_XER-99	recursive	attribute	Computer systems that have a recursive acronym for the name
 INEX_XER-99	acronym	attribute	Computer systems that have a recursive acronym for the name
@@ -938,11 +938,11 @@ INEX_XER-99	acronym name	unsure	Computer systems that have a recursive acronym f
 INEX_XER-100	operate	none	Operating systems to which Steve Jobs related
 INEX_XER-100	system	none	Operating systems to which Steve Jobs related
 INEX_XER-100	steve	none	Operating systems to which Steve Jobs related
-INEX_XER-100	job	Entity	Operating systems to which Steve Jobs related
+INEX_XER-100	job	relation	Operating systems to which Steve Jobs related
 INEX_XER-100	related	none	Operating systems to which Steve Jobs related
 INEX_XER-100	operate system	type	Operating systems to which Steve Jobs related
 INEX_XER-100	system steve	none	Operating systems to which Steve Jobs related
-INEX_XER-100	steve job	entity	Operating systems to which Steve Jobs related
+INEX_XER-100	steve job	relation	Operating systems to which Steve Jobs related
 INEX_XER-100	job related	none	Operating systems to which Steve Jobs related
 INEX_XER-106	noble	attribute	Noble english person from the Hundred Years' War
 INEX_XER-106	english	attribute	Noble english person from the Hundred Years' War
