@@ -21,11 +21,11 @@ object BigramUnigramFromQueriesFileMaker extends App {
   val uniBiGrams: Seq[(String, Seq[Seq[String]])] = tokenizedQueries.map { case (qId, qTokens) =>
     (qId, qTokens.map(Seq(_)) union (if (qTokens.size >= 2) qTokens.sliding(2).toSeq else Seq.empty))
   }
-  val output = new PrintWriter("output/unibigrams-types.tsv")
+  val output = new PrintWriter("output/unibigrams-types-deprecated.tsv")
   output.println(Seq("qid", "text", "gram", "type").mkString("\t"))
   for ((qId, grams) <- uniBiGrams; gram <- grams) {
     output.println(s"$qId\t${queriesMap(qId)}\t${gram.mkString(" ")}\t")
   }
   output.close()
-  println("Now manually categorize unibigrams-types.tsv and move it to data/")
+  println("Now manually categorize unibigrams-types-deprecated.tsv and move it to data/")
 }

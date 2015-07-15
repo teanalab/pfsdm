@@ -10,7 +10,7 @@ outputPlot <- commandArgs(TRUE)[2]
 data <- read.table(tsvPath, header = TRUE, sep = "\t")
 data$rownumber = 1:nrow(data)
 
-gramtypes <- read.table("data/sigir2013-dbpedia/unibigrams-types.tsv", header = TRUE, sep = "\t", quote = "")
+gramtypes <- read.table("data/sigir2013-dbpedia/unibigrams-types-deprecated.tsv", header = TRUE, sep = "\t", quote = "")
 gramtypes$rownumber = 1:nrow(gramtypes)
 
 dataMerged <- merge(data, gramtypes, by = c("rownumber", "qid", "gram"))
