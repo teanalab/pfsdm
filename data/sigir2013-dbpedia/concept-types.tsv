@@ -2159,9 +2159,9 @@ QALD2_tr-82	language gimp	none	In which programming language is GIMP written?
 QALD2_tr-82	gimp written	none	In which programming language is GIMP written?
 QALD2_tr-83	produce	none	Who produced films starring Natalie Portman?
 QALD2_tr-83	film	unsure	Who produced films starring Natalie Portman?
-QALD2_tr-83	star	relation	Who produced films starring Natalie Portman?
+QALD2_tr-83	star	none	Who produced films starring Natalie Portman?
 QALD2_tr-83	natalie	relation	Who produced films starring Natalie Portman?
-QALD2_tr-83	portman	none	Who produced films starring Natalie Portman?
+QALD2_tr-83	portman	relation	Who produced films starring Natalie Portman?
 QALD2_tr-83	produce film	none	Who produced films starring Natalie Portman?
 QALD2_tr-83	film star	none	Who produced films starring Natalie Portman?
 QALD2_tr-83	star natalie	none	Who produced films starring Natalie Portman?
@@ -2259,128 +2259,128 @@ SemSearch_ES-11	austin powers	type	austin powers
 SemSearch_ES-12	austin	unsure	austin texas
 SemSearch_ES-12	texas	unsure	austin texas
 SemSearch_ES-12	austin texas	unsure	austin texas
-SemSearch_ES-13	banana		banana paper making
-SemSearch_ES-13	paper		banana paper making
-SemSearch_ES-13	making		banana paper making
-SemSearch_ES-13	banana paper		banana paper making
-SemSearch_ES-13	paper making		banana paper making
-SemSearch_ES-14	ben		ben franklin
-SemSearch_ES-14	franklin		ben franklin
-SemSearch_ES-14	ben franklin		ben franklin
-SemSearch_ES-15	bradley		bradley center
-SemSearch_ES-15	center		bradley center
-SemSearch_ES-15	bradley center		bradley center
-SemSearch_ES-16	brooklyn		brooklyn bridge
-SemSearch_ES-16	bridge		brooklyn bridge
-SemSearch_ES-16	brooklyn bridge		brooklyn bridge
-SemSearch_ES-17	butte		butte montana
-SemSearch_ES-17	montana		butte montana
-SemSearch_ES-17	butte montana		butte montana
-SemSearch_ES-18	canasta		canasta cards
-SemSearch_ES-18	cards		canasta cards
-SemSearch_ES-18	canasta cards		canasta cards
-SemSearch_ES-19	carl		carl lewis
-SemSearch_ES-19	lewis		carl lewis
-SemSearch_ES-19	carl lewis		carl lewis
-SemSearch_ES-20	carolina		carolina
-SemSearch_ES-21	charles		charles darwin
-SemSearch_ES-21	darwin		charles darwin
-SemSearch_ES-21	charles darwin		charles darwin
-SemSearch_ES-22	city		city of charlotte
-SemSearch_ES-22	charlotte		city of charlotte
-SemSearch_ES-22	city charlotte		city of charlotte
-SemSearch_ES-23	city		city of virginia beach
-SemSearch_ES-23	virginia		city of virginia beach
-SemSearch_ES-23	beach		city of virginia beach
-SemSearch_ES-23	city virginia		city of virginia beach
-SemSearch_ES-23	virginia beach		city of virginia beach
-SemSearch_ES-24	coastal		coastal carolina
-SemSearch_ES-24	carolina		coastal carolina
-SemSearch_ES-24	coastal carolina		coastal carolina
-SemSearch_ES-25	david		david suchet
-SemSearch_ES-25	suchet		david suchet
-SemSearch_ES-25	david suchet		david suchet
-SemSearch_ES-26	disney		disney orlando
-SemSearch_ES-26	orlando		disney orlando
-SemSearch_ES-26	disney orlando		disney orlando
-SemSearch_ES-27	earl		earl may
-SemSearch_ES-28	el		el salvador
-SemSearch_ES-28	salvador		el salvador
-SemSearch_ES-28	el salvador		el salvador
-SemSearch_ES-29	elli		ellis college
-SemSearch_ES-29	college		ellis college
-SemSearch_ES-29	elli college		ellis college
-SemSearch_ES-30	eloan		eloan line of credit
-SemSearch_ES-30	line		eloan line of credit
-SemSearch_ES-30	credit		eloan line of credit
-SemSearch_ES-30	eloan line		eloan line of credit
-SemSearch_ES-30	line credit		eloan line of credit
-SemSearch_ES-31	emery		emery
-SemSearch_ES-32	fitzgerald		fitzgerald auto mall chambersburg pa
-SemSearch_ES-32	auto		fitzgerald auto mall chambersburg pa
-SemSearch_ES-32	mall		fitzgerald auto mall chambersburg pa
-SemSearch_ES-32	chambersburg		fitzgerald auto mall chambersburg pa
-SemSearch_ES-32	pa		fitzgerald auto mall chambersburg pa
-SemSearch_ES-32	fitzgerald auto		fitzgerald auto mall chambersburg pa
-SemSearch_ES-32	auto mall		fitzgerald auto mall chambersburg pa
-SemSearch_ES-32	mall chambersburg		fitzgerald auto mall chambersburg pa
-SemSearch_ES-32	chambersburg pa		fitzgerald auto mall chambersburg pa
-SemSearch_ES-33	harry		harry potter
-SemSearch_ES-33	potter		harry potter
-SemSearch_ES-33	harry potter		harry potter
-SemSearch_ES-34	harry		harry potter movie
-SemSearch_ES-34	potter		harry potter movie
-SemSearch_ES-34	movie		harry potter movie
-SemSearch_ES-34	harry potter		harry potter movie
-SemSearch_ES-34	potter movie		harry potter movie
-SemSearch_ES-35	hospice		hospice of cincinnati
-SemSearch_ES-35	cincinnati		hospice of cincinnati
-SemSearch_ES-35	hospice cincinnati		hospice of cincinnati
-SemSearch_ES-36	imdb		imdb batman returns
-SemSearch_ES-36	batman		imdb batman returns
-SemSearch_ES-36	returns		imdb batman returns
-SemSearch_ES-36	imdb batman		imdb batman returns
-SemSearch_ES-36	batman returns		imdb batman returns
-SemSearch_ES-37	jack		jack johnson
-SemSearch_ES-37	johnson		jack johnson
-SemSearch_ES-37	jack johnson		jack johnson
-SemSearch_ES-38	jack		jack the ripper
-SemSearch_ES-38	rip		jack the ripper
-SemSearch_ES-38	jack rip		jack the ripper
-SemSearch_ES-39	james		james caldwell high school
-SemSearch_ES-39	caldwell		james caldwell high school
-SemSearch_ES-39	high		james caldwell high school
-SemSearch_ES-39	school		james caldwell high school
-SemSearch_ES-39	james caldwell		james caldwell high school
-SemSearch_ES-39	caldwell high		james caldwell high school
-SemSearch_ES-39	high school		james caldwell high school
-SemSearch_ES-40	james		james clayton md
-SemSearch_ES-40	clayton		james clayton md
-SemSearch_ES-40	md		james clayton md
-SemSearch_ES-40	james clayton		james clayton md
-SemSearch_ES-40	clayton md		james clayton md
-SemSearch_ES-41	joan		joan of arc
-SemSearch_ES-41	arc		joan of arc
-SemSearch_ES-41	joan arc		joan of arc
-SemSearch_ES-42	john		john maxwell
-SemSearch_ES-42	maxwell		john maxwell
-SemSearch_ES-42	john maxwell		john maxwell
-SemSearch_ES-45	keith		keith urban
-SemSearch_ES-45	urban		keith urban
-SemSearch_ES-45	keith urban		keith urban
-SemSearch_ES-47	king		king arthur
-SemSearch_ES-47	arthur		king arthur
-SemSearch_ES-47	king arthur		king arthur
-SemSearch_ES-48	la		la scala restaurant philadelphia
-SemSearch_ES-48	scala		la scala restaurant philadelphia
-SemSearch_ES-48	restaurant		la scala restaurant philadelphia
-SemSearch_ES-48	philadelphia		la scala restaurant philadelphia
-SemSearch_ES-48	la scala		la scala restaurant philadelphia
-SemSearch_ES-48	scala restaurant		la scala restaurant philadelphia
-SemSearch_ES-48	restaurant philadelphia		la scala restaurant philadelphia
-SemSearch_ES-49	laura		laura bush
-SemSearch_ES-49	bush		laura bush
-SemSearch_ES-49	laura bush		laura bush
+SemSearch_ES-13	banana	unsure	banana paper making
+SemSearch_ES-13	paper	unsure	banana paper making
+SemSearch_ES-13	making	none	banana paper making
+SemSearch_ES-13	banana paper	none	banana paper making
+SemSearch_ES-13	paper making	none	banana paper making
+SemSearch_ES-14	ben	none	ben franklin
+SemSearch_ES-14	franklin	none	ben franklin
+SemSearch_ES-14	ben franklin	entity	ben franklin
+SemSearch_ES-15	bradley	entity	bradley center
+SemSearch_ES-15	center	none	bradley center
+SemSearch_ES-15	bradley center	entity	bradley center
+SemSearch_ES-16	brooklyn	entity	brooklyn bridge
+SemSearch_ES-16	bridge	none	brooklyn bridge
+SemSearch_ES-16	brooklyn bridge	entity	brooklyn bridge
+SemSearch_ES-17	butte	entity	butte montana
+SemSearch_ES-17	montana	none	butte montana
+SemSearch_ES-17	butte montana	entity	butte montana
+SemSearch_ES-18	canasta	entity	canasta cards
+SemSearch_ES-18	cards	none	canasta cards
+SemSearch_ES-18	canasta cards	entity	canasta cards
+SemSearch_ES-19	carl	entity	carl lewis
+SemSearch_ES-19	lewis	entity	carl lewis
+SemSearch_ES-19	carl lewis	entity	carl lewis
+SemSearch_ES-20	carolina	entity	carolina
+SemSearch_ES-21	charles	entity	charles darwin
+SemSearch_ES-21	darwin	entity	charles darwin
+SemSearch_ES-21	charles darwin	entity	charles darwin
+SemSearch_ES-22	city	entity	city of charlotte
+SemSearch_ES-22	charlotte	attribute	city of charlotte
+SemSearch_ES-22	city charlotte	type	city of charlotte
+SemSearch_ES-23	city	none	city of virginia beach
+SemSearch_ES-23	virginia	unsure	city of virginia beach
+SemSearch_ES-23	beach	none	city of virginia beach
+SemSearch_ES-23	city virginia	none	city of virginia beach
+SemSearch_ES-23	virginia beach	relation	city of virginia beach
+SemSearch_ES-24	coastal	unsure	coastal carolina
+SemSearch_ES-24	carolina	unsure	coastal carolina
+SemSearch_ES-24	coastal carolina	entity	coastal carolina
+SemSearch_ES-25	david	entity	david suchet
+SemSearch_ES-25	suchet	entity	david suchet
+SemSearch_ES-25	david suchet	entity	david suchet
+SemSearch_ES-26	disney	entity	disney orlando
+SemSearch_ES-26	orlando	relation	disney orlando
+SemSearch_ES-26	disney orlando	entity	disney orlando
+SemSearch_ES-27	earl	entity	earl may
+SemSearch_ES-28	el	none	el salvador
+SemSearch_ES-28	salvador	entity	el salvador
+SemSearch_ES-28	el salvador	entity	el salvador
+SemSearch_ES-29	elli	entity	ellis college
+SemSearch_ES-29	college	entity	ellis college
+SemSearch_ES-29	elli college	entity	ellis college
+SemSearch_ES-30	eloan	unsure	eloan line of credit
+SemSearch_ES-30	line	none	eloan line of credit
+SemSearch_ES-30	credit	none	eloan line of credit
+SemSearch_ES-30	eloan line	ensure	eloan line of credit
+SemSearch_ES-30	line credit	ensure	eloan line of credit
+SemSearch_ES-31	emery	entity	emery
+SemSearch_ES-32	fitzgerald	entity	fitzgerald auto mall chambersburg pa
+SemSearch_ES-32	auto	none	fitzgerald auto mall chambersburg pa
+SemSearch_ES-32	mall	none	fitzgerald auto mall chambersburg pa
+SemSearch_ES-32	chambersburg	relation	fitzgerald auto mall chambersburg pa
+SemSearch_ES-32	pa	none	fitzgerald auto mall chambersburg pa
+SemSearch_ES-32	fitzgerald auto	entity	fitzgerald auto mall chambersburg pa
+SemSearch_ES-32	auto mall	none	fitzgerald auto mall chambersburg pa
+SemSearch_ES-32	mall chambersburg	none	fitzgerald auto mall chambersburg pa
+SemSearch_ES-32	chambersburg pa	relation	fitzgerald auto mall chambersburg pa
+SemSearch_ES-33	harry	entity	harry potter
+SemSearch_ES-33	potter	entity	harry potter
+SemSearch_ES-33	harry potter	entity	harry potter
+SemSearch_ES-34	harry	entity	harry potter movie
+SemSearch_ES-34	potter	entity	harry potter movie
+SemSearch_ES-34	movie	type	harry potter movie
+SemSearch_ES-34	harry potter	entity	harry potter movie
+SemSearch_ES-34	potter movie	none	harry potter movie
+SemSearch_ES-35	hospice	entity	hospice of cincinnati
+SemSearch_ES-35	cincinnati	attribute	hospice of cincinnati
+SemSearch_ES-35	hospice cincinnati	entity	hospice of cincinnati
+SemSearch_ES-36	imdb	unsure	imdb batman returns
+SemSearch_ES-36	batman	entity	imdb batman returns
+SemSearch_ES-36	returns	none	imdb batman returns
+SemSearch_ES-36	imdb batman	none	imdb batman returns
+SemSearch_ES-36	batman returns	entity	imdb batman returns
+SemSearch_ES-37	jack	entity	jack johnson
+SemSearch_ES-37	johnson	entity	jack johnson
+SemSearch_ES-37	jack johnson	entity	jack johnson
+SemSearch_ES-38	jack	entity	jack the ripper
+SemSearch_ES-38	rip	none	jack the ripper
+SemSearch_ES-38	jack rip	entity	jack the ripper
+SemSearch_ES-39	james	entity	james caldwell high school
+SemSearch_ES-39	caldwell	entity	james caldwell high school
+SemSearch_ES-39	high	unsure	james caldwell high school
+SemSearch_ES-39	school	unsure	james caldwell high school
+SemSearch_ES-39	james caldwell	entity	james caldwell high school
+SemSearch_ES-39	caldwell high	unsure	james caldwell high school
+SemSearch_ES-39	high school	unsure	james caldwell high school
+SemSearch_ES-40	james	entity	james clayton md
+SemSearch_ES-40	clayton	entity	james clayton md
+SemSearch_ES-40	md	unsure	james clayton md
+SemSearch_ES-40	james clayton	entity	james clayton md
+SemSearch_ES-40	clayton md	entity	james clayton md
+SemSearch_ES-41	joan	entity	joan of arc
+SemSearch_ES-41	arc	entity	joan of arc
+SemSearch_ES-41	joan arc	entity	joan of arc
+SemSearch_ES-42	john	entity	john maxwell
+SemSearch_ES-42	maxwell	entity	john maxwell
+SemSearch_ES-42	john maxwell	entity	john maxwell
+SemSearch_ES-45	keith	entity	keith urban
+SemSearch_ES-45	urban	entity	keith urban
+SemSearch_ES-45	keith urban	entity	keith urban
+SemSearch_ES-47	king	entity	king arthur
+SemSearch_ES-47	arthur	entity	king arthur
+SemSearch_ES-47	king arthur	entity	king arthur
+SemSearch_ES-48	la	none	la scala restaurant philadelphia
+SemSearch_ES-48	scala	none	la scala restaurant philadelphia
+SemSearch_ES-48	restaurant	none	la scala restaurant philadelphia
+SemSearch_ES-48	philadelphia	relation	la scala restaurant philadelphia
+SemSearch_ES-48	la scala	entity	la scala restaurant philadelphia
+SemSearch_ES-48	scala restaurant	none	la scala restaurant philadelphia
+SemSearch_ES-48	restaurant philadelphia	none	la scala restaurant philadelphia
+SemSearch_ES-49	laura	entity	laura bush
+SemSearch_ES-49	bush	entity	laura bush
+SemSearch_ES-49	laura bush	entity	laura bush
 SemSearch_ES-50	laura		laura steele bob and tom
 SemSearch_ES-50	steele		laura steele bob and tom
 SemSearch_ES-50	bob		laura steele bob and tom
@@ -2397,35 +2397,35 @@ SemSearch_ES-52	lincoln park		lincoln park
 SemSearch_ES-53	lynchburg		lynchburg virginia
 SemSearch_ES-53	virginia		lynchburg virginia
 SemSearch_ES-53	lynchburg virginia		lynchburg virginia
-SemSearch_ES-54	marc		marc anthony
-SemSearch_ES-54	anthony		marc anthony
-SemSearch_ES-54	marc anthony		marc anthony
-SemSearch_ES-55	marcu		marcus theaters
-SemSearch_ES-55	theater		marcus theaters
-SemSearch_ES-55	marcu theater		marcus theaters
-SemSearch_ES-56	mario		mario bros
-SemSearch_ES-56	bro		mario bros
-SemSearch_ES-56	mario bro		mario bros
-SemSearch_ES-57	martin		martin luther king
-SemSearch_ES-57	luther		martin luther king
-SemSearch_ES-57	king		martin luther king
-SemSearch_ES-57	martin luther		martin luther king
-SemSearch_ES-57	luther king		martin luther king
-SemSearch_ES-58	mason		mason ohio
-SemSearch_ES-58	ohio		mason ohio
-SemSearch_ES-58	mason ohio		mason ohio
-SemSearch_ES-59	mercy		mercy hospital in des moines, ia
-SemSearch_ES-59	hospital		mercy hospital in des moines, ia
-SemSearch_ES-59	des		mercy hospital in des moines, ia
-SemSearch_ES-59	moines		mercy hospital in des moines, ia
-SemSearch_ES-59	ia		mercy hospital in des moines, ia
-SemSearch_ES-59	mercy hospital		mercy hospital in des moines, ia
-SemSearch_ES-59	hospital des		mercy hospital in des moines, ia
-SemSearch_ES-59	des moines		mercy hospital in des moines, ia
-SemSearch_ES-59	moines ia		mercy hospital in des moines, ia
-SemSearch_ES-60	michael		michael douglas
-SemSearch_ES-60	douglas		michael douglas
-SemSearch_ES-60	michael douglas		michael douglas
+SemSearch_ES-54	marc	entity	marc anthony
+SemSearch_ES-54	anthony	entity	marc anthony
+SemSearch_ES-54	marc anthony	entity	marc anthony
+SemSearch_ES-55	marcu	entity	marcus theaters
+SemSearch_ES-55	theater	entity	marcus theaters
+SemSearch_ES-55	marcu theater	entity	marcus theaters
+SemSearch_ES-56	mario	entity	mario bros
+SemSearch_ES-56	bro	entity	mario bros
+SemSearch_ES-56	mario bro	entity	mario bros
+SemSearch_ES-57	martin	entity	martin luther king
+SemSearch_ES-57	luther	entity	martin luther king
+SemSearch_ES-57	king	unsure	martin luther king
+SemSearch_ES-57	martin luther	entity	martin luther king
+SemSearch_ES-57	luther king	entity	martin luther king
+SemSearch_ES-58	mason	entity	mason ohio
+SemSearch_ES-58	ohio	entity	mason ohio
+SemSearch_ES-58	mason ohio	entity	mason ohio
+SemSearch_ES-59	mercy	unsure	mercy hospital in des moines, ia
+SemSearch_ES-59	hospital	none	mercy hospital in des moines, ia
+SemSearch_ES-59	des	none	mercy hospital in des moines, ia
+SemSearch_ES-59	moines	none	mercy hospital in des moines, ia
+SemSearch_ES-59	ia	none	mercy hospital in des moines, ia
+SemSearch_ES-59	mercy hospital	entity	mercy hospital in des moines, ia
+SemSearch_ES-59	hospital des	none	mercy hospital in des moines, ia
+SemSearch_ES-59	des moines	relation	mercy hospital in des moines, ia
+SemSearch_ES-59	moines ia	none	mercy hospital in des moines, ia
+SemSearch_ES-60	michael	entity	michael douglas
+SemSearch_ES-60	douglas	entity	michael douglas
+SemSearch_ES-60	michael douglas	entity	michael douglas
 SemSearch_ES-61	rourke		mr rourke fantasy island
 SemSearch_ES-61	fantasy		mr rourke fantasy island
 SemSearch_ES-61	island		mr rourke fantasy island
@@ -2436,18 +2436,18 @@ SemSearch_ES-63	winchester		old winchester shotguns
 SemSearch_ES-63	shotgun		old winchester shotguns
 SemSearch_ES-63	old winchester		old winchester shotguns
 SemSearch_ES-63	winchester shotgun		old winchester shotguns
-SemSearch_ES-64	omeara		omeara ford
-SemSearch_ES-64	ford		omeara ford
-SemSearch_ES-64	omeara ford		omeara ford
-SemSearch_ES-65	orlando		orlando florida
-SemSearch_ES-65	florida		orlando florida
-SemSearch_ES-65	orlando florida		orlando florida
-SemSearch_ES-66	overeater		overeaters anonymous
-SemSearch_ES-66	anonymous		overeaters anonymous
-SemSearch_ES-66	overeater anonymous		overeaters anonymous
-SemSearch_ES-67	ovguide		ovguide movies
-SemSearch_ES-67	movies		ovguide movies
-SemSearch_ES-67	ovguide movies		ovguide movies
+SemSearch_ES-64	omeara	entity	omeara ford
+SemSearch_ES-64	ford	entity	omeara ford
+SemSearch_ES-64	omeara ford	entity	omeara ford
+SemSearch_ES-65	orlando	entity	orlando florida
+SemSearch_ES-65	florida	entity	orlando florida
+SemSearch_ES-65	orlando florida	entity	orlando florida
+SemSearch_ES-66	overeater	entity	overeaters anonymous
+SemSearch_ES-66	anonymous	entity	overeaters anonymous
+SemSearch_ES-66	overeater anonymous	entity	overeaters anonymous
+SemSearch_ES-67	ovguide	entity	ovguide movies
+SemSearch_ES-67	movies	entity	ovguide movies
+SemSearch_ES-67	ovguide movies	entity	ovguide movies
 SemSearch_ES-68	pierce		pierce county washington
 SemSearch_ES-68	county		pierce county washington
 SemSearch_ES-68	washington		pierce county washington
@@ -2506,24 +2506,24 @@ SemSearch_ES-81	university		south dakota state university
 SemSearch_ES-81	south dakota		south dakota state university
 SemSearch_ES-81	dakota state		south dakota state university
 SemSearch_ES-81	state university		south dakota state university
-SemSearch_ES-82	st		st lucia
-SemSearch_ES-82	lucia		st lucia
-SemSearch_ES-82	st lucia		st lucia
-SemSearch_ES-83	st		st paul saints
+SemSearch_ES-82	st	none	st lucia
+SemSearch_ES-82	lucia	none	st lucia
+SemSearch_ES-82	st lucia	entity	st lucia
+SemSearch_ES-83	st	none	st paul saints
 SemSearch_ES-83	paul		st paul saints
 SemSearch_ES-83	saint		st paul saints
 SemSearch_ES-83	st paul		st paul saints
 SemSearch_ES-83	paul saint		st paul saints
-SemSearch_ES-84	dish		the dish danielle fishel
-SemSearch_ES-84	danielle		the dish danielle fishel
-SemSearch_ES-84	fishel		the dish danielle fishel
-SemSearch_ES-84	dish danielle		the dish danielle fishel
-SemSearch_ES-84	danielle fishel		the dish danielle fishel
-SemSearch_ES-85	longest		the longest yard sale
-SemSearch_ES-85	yard		the longest yard sale
-SemSearch_ES-85	sale		the longest yard sale
-SemSearch_ES-85	longest yard		the longest yard sale
-SemSearch_ES-85	yard sale		the longest yard sale
+SemSearch_ES-84	dish	none	the dish danielle fishel
+SemSearch_ES-84	danielle	unsure	the dish danielle fishel
+SemSearch_ES-84	fishel	entity	the dish danielle fishel
+SemSearch_ES-84	dish danielle	none	the dish danielle fishel
+SemSearch_ES-84	danielle fishel	entity	the dish danielle fishel
+SemSearch_ES-85	longest	attribute	the longest yard sale
+SemSearch_ES-85	yard	attribute	the longest yard sale
+SemSearch_ES-85	sale	attribute	the longest yard sale
+SemSearch_ES-85	longest yard	attribute	the longest yard sale
+SemSearch_ES-85	yard sale	attribute	the longest yard sale
 SemSearch_ES-86	morning		the morning call lehigh valley pa
 SemSearch_ES-86	call		the morning call lehigh valley pa
 SemSearch_ES-86	lehigh		the morning call lehigh valley pa
@@ -2536,9 +2536,9 @@ SemSearch_ES-86	valley pa		the morning call lehigh valley pa
 SemSearch_ES-87	quick		the quick lift
 SemSearch_ES-87	lift		the quick lift
 SemSearch_ES-87	quick lift		the quick lift
-SemSearch_ES-88	thomas		thomas jefferson
-SemSearch_ES-88	jefferson		thomas jefferson
-SemSearch_ES-88	thomas jefferson		thomas jefferson
+SemSearch_ES-88	thomas	entity	thomas jefferson
+SemSearch_ES-88	jefferson	entity	thomas jefferson
+SemSearch_ES-88	thomas jefferson	entity	thomas jefferson
 SemSearch_ES-89	university		university of north dakota
 SemSearch_ES-89	north		university of north dakota
 SemSearch_ES-89	dakota		university of north dakota
@@ -2555,9 +2555,9 @@ SemSearch_ES-93	toyota		08 toyota tundra
 SemSearch_ES-93	tundra		08 toyota tundra
 SemSearch_ES-93	08 toyota		08 toyota tundra
 SemSearch_ES-93	toyota tundra		08 toyota tundra
-SemSearch_ES-94	hugh		Hugh Downs
-SemSearch_ES-94	downs		Hugh Downs
-SemSearch_ES-94	hugh downs		Hugh Downs
+SemSearch_ES-94	hugh	entity	Hugh Downs
+SemSearch_ES-94	downs	entity	Hugh Downs
+SemSearch_ES-94	hugh downs	entity	Hugh Downs
 SemSearch_ES-95	madrid		MADRID
 SemSearch_ES-96	new		New England Coffee
 SemSearch_ES-96	england		New England Coffee
@@ -2577,12 +2577,12 @@ SemSearch_ES-98	texas austin		University of Texas at Austin
 SemSearch_ES-99	university		University of York
 SemSearch_ES-99	york		University of York
 SemSearch_ES-99	university york		University of York
-SemSearch_ES-100	ymca		YMCA Tampa
-SemSearch_ES-100	tampa		YMCA Tampa
-SemSearch_ES-100	ymca tampa		YMCA Tampa
-SemSearch_ES-101	ashley		ashley wagner
-SemSearch_ES-101	wagner		ashley wagner
-SemSearch_ES-101	ashley wagner		ashley wagner
+SemSearch_ES-100	ymca	entity	YMCA Tampa
+SemSearch_ES-100	tampa	relation	YMCA Tampa
+SemSearch_ES-100	ymca tampa	entity	YMCA Tampa
+SemSearch_ES-101	ashley	entity	ashley wagner
+SemSearch_ES-101	wagner	entity	ashley wagner
+SemSearch_ES-101	ashley wagner	entity	ashley wagner
 SemSearch_ES-102	beach		beach flowers
 SemSearch_ES-102	flower		beach flowers
 SemSearch_ES-102	beach flower		beach flowers
@@ -2593,26 +2593,26 @@ SemSearch_ES-103	tx		bounce city humble tx
 SemSearch_ES-103	bounce city		bounce city humble tx
 SemSearch_ES-103	city humble		bounce city humble tx
 SemSearch_ES-103	humble tx		bounce city humble tx
-SemSearch_ES-104	bourbonnai		bourbonnais il
-SemSearch_ES-104	il		bourbonnais il
-SemSearch_ES-104	bourbonnai il		bourbonnais il
+SemSearch_ES-104	bourbonnai	entity	bourbonnais il
+SemSearch_ES-104	il	none	bourbonnais il
+SemSearch_ES-104	bourbonnai il	entity	bourbonnais il
 SemSearch_ES-105	cedar		cedar garden apartments
 SemSearch_ES-105	garden		cedar garden apartments
 SemSearch_ES-105	apartments		cedar garden apartments
 SemSearch_ES-105	cedar garden		cedar garden apartments
 SemSearch_ES-105	garden apartments		cedar garden apartments
-SemSearch_ES-106	chase		chase masterson
-SemSearch_ES-106	masterson		chase masterson
-SemSearch_ES-106	chase masterson		chase masterson
-SemSearch_ES-107	concord		concord steel
-SemSearch_ES-107	steel		concord steel
-SemSearch_ES-107	concord steel		concord steel
-SemSearch_ES-108	danielia		danielia cotton
-SemSearch_ES-108	cotton		danielia cotton
-SemSearch_ES-108	danielia cotton		danielia cotton
-SemSearch_ES-109	david		david hewlett
-SemSearch_ES-109	hewlett		david hewlett
-SemSearch_ES-109	david hewlett		david hewlett
+SemSearch_ES-106	chase	entity	chase masterson
+SemSearch_ES-106	masterson	entity	chase masterson
+SemSearch_ES-106	chase masterson	entity	chase masterson
+SemSearch_ES-107	concord	none	concord steel
+SemSearch_ES-107	steel	none	concord steel
+SemSearch_ES-107	concord steel	entity	concord steel
+SemSearch_ES-108	danielia	entity	danielia cotton
+SemSearch_ES-108	cotton	entity	danielia cotton
+SemSearch_ES-108	danielia cotton	entity	danielia cotton
+SemSearch_ES-109	david	entity	david hewlett
+SemSearch_ES-109	hewlett	entity	david hewlett
+SemSearch_ES-109	david hewlett	entity	david hewlett
 SemSearch_ES-111	eagle		eagle rock, ca
 SemSearch_ES-111	rock		eagle rock, ca
 SemSearch_ES-111	ca		eagle rock, ca
@@ -2623,34 +2623,34 @@ SemSearch_ES-112	tv		espresso tv stands
 SemSearch_ES-112	stand		espresso tv stands
 SemSearch_ES-112	espresso tv		espresso tv stands
 SemSearch_ES-112	tv stand		espresso tv stands
-SemSearch_ES-114	glenn		glenn frey
-SemSearch_ES-114	frey		glenn frey
-SemSearch_ES-114	glenn frey		glenn frey
-SemSearch_ES-115	goodwill		goodwill of michigan
-SemSearch_ES-115	michigan		goodwill of michigan
-SemSearch_ES-115	goodwill michigan		goodwill of michigan
+SemSearch_ES-114	glenn	entity	glenn frey
+SemSearch_ES-114	frey	entity	glenn frey
+SemSearch_ES-114	glenn frey	entity	glenn frey
+SemSearch_ES-115	goodwill	entity	goodwill of michigan
+SemSearch_ES-115	michigan	relation	goodwill of michigan
+SemSearch_ES-115	goodwill michigan	type	goodwill of michigan
 SemSearch_ES-118	iowa		iowa energy
 SemSearch_ES-118	energy		iowa energy
 SemSearch_ES-118	iowa energy		iowa energy
-SemSearch_ES-119	john		john elliott
-SemSearch_ES-119	elliott		john elliott
-SemSearch_ES-119	john elliott		john elliott
+SemSearch_ES-119	john	entity	john elliott
+SemSearch_ES-119	elliott	entity	john elliott
+SemSearch_ES-119	john elliott	entity	john elliott
 SemSearch_ES-120	lawrence		lawrence general hospital
 SemSearch_ES-120	general		lawrence general hospital
 SemSearch_ES-120	hospital		lawrence general hospital
 SemSearch_ES-120	lawrence general		lawrence general hospital
 SemSearch_ES-120	general hospital		lawrence general hospital
-SemSearch_ES-123	michael		michael zimmerman
-SemSearch_ES-123	zimmerman		michael zimmerman
-SemSearch_ES-123	michael zimmerman		michael zimmerman
+SemSearch_ES-123	michael	entity	michael zimmerman
+SemSearch_ES-123	zimmerman	entity	michael zimmerman
+SemSearch_ES-123	michael zimmerman	entity	michael zimmerman
 SemSearch_ES-124	motorola		motorola bluetooth hs850
 SemSearch_ES-124	bluetooth		motorola bluetooth hs850
 SemSearch_ES-124	hs850		motorola bluetooth hs850
 SemSearch_ES-124	motorola bluetooth		motorola bluetooth hs850
 SemSearch_ES-124	bluetooth hs850		motorola bluetooth hs850
-SemSearch_ES-125	nokia		nokia e73
-SemSearch_ES-125	e73		nokia e73
-SemSearch_ES-125	nokia e73		nokia e73
+SemSearch_ES-125	nokia	entity	nokia e73
+SemSearch_ES-125	e73	entity	nokia e73
+SemSearch_ES-125	nokia e73	entity	nokia e73
 SemSearch_ES-127	palm		palm tungsten e2 handheld
 SemSearch_ES-127	tungsten		palm tungsten e2 handheld
 SemSearch_ES-127	e2		palm tungsten e2 handheld
@@ -2675,11 +2675,11 @@ SemSearch_ES-130	police		plymouth police department
 SemSearch_ES-130	department		plymouth police department
 SemSearch_ES-130	plymouth police		plymouth police department
 SemSearch_ES-130	police department		plymouth police department
-SemSearch_ES-131	scpa		scpa san diego
-SemSearch_ES-131	san		scpa san diego
-SemSearch_ES-131	diego		scpa san diego
-SemSearch_ES-131	scpa san		scpa san diego
-SemSearch_ES-131	san diego		scpa san diego
+SemSearch_ES-131	scpa	entity	scpa san diego
+SemSearch_ES-131	san	none	scpa san diego
+SemSearch_ES-131	diego	none	scpa san diego
+SemSearch_ES-131	scpa san	none	scpa san diego
+SemSearch_ES-131	san diego	relation	scpa san diego
 SemSearch_ES-132	sea		sealy mattress co
 SemSearch_ES-132	mattress		sealy mattress co
 SemSearch_ES-132	co		sealy mattress co
@@ -2690,9 +2690,9 @@ SemSearch_ES-133	hike		sedona hiking trails
 SemSearch_ES-133	trail		sedona hiking trails
 SemSearch_ES-133	sedona hike		sedona hiking trails
 SemSearch_ES-133	hike trail		sedona hiking trails
-SemSearch_ES-134	skye		skye woods
-SemSearch_ES-134	wood		skye woods
-SemSearch_ES-134	skye wood		skye woods
+SemSearch_ES-134	skye	entity	skye woods
+SemSearch_ES-134	wood	entity	skye woods
+SemSearch_ES-134	skye wood	entity	skye woods
 SemSearch_ES-135	spring		spring shoes canada
 SemSearch_ES-135	shoe		spring shoes canada
 SemSearch_ES-135	canada		spring shoes canada
@@ -2705,12 +2705,12 @@ SemSearch_ES-136	gazette		sri lanka government gazette
 SemSearch_ES-136	sri lanka		sri lanka government gazette
 SemSearch_ES-136	lanka government		sri lanka government gazette
 SemSearch_ES-136	government gazette		sri lanka government gazette
-SemSearch_ES-137	steak		steak express
-SemSearch_ES-137	express		steak express
-SemSearch_ES-137	steak express		steak express
-SemSearch_ES-138	syracuse		syracuse spca
-SemSearch_ES-138	spca		syracuse spca
-SemSearch_ES-138	syracuse spca		syracuse spca
+SemSearch_ES-137	steak	entity	steak express
+SemSearch_ES-137	express	entity	steak express
+SemSearch_ES-137	steak express	entity	steak express
+SemSearch_ES-138	syracuse	attribute	syracuse spca
+SemSearch_ES-138	spca	entity	syracuse spca
+SemSearch_ES-138	syracuse spca	entity	syracuse spca
 SemSearch_ES-139	big		the big texan steak house
 SemSearch_ES-139	texas		the big texan steak house
 SemSearch_ES-139	steak		the big texan steak house
@@ -2733,34 +2733,34 @@ SemSearch_ES-142	hotel		windsor hotel philadelphia
 SemSearch_ES-142	philadelphia		windsor hotel philadelphia
 SemSearch_ES-142	windsor hotel		windsor hotel philadelphia
 SemSearch_ES-142	hotel philadelphia		windsor hotel philadelphia
-SemSearch_LS-1	apollo		Apollo astronauts who walked on the Moon
-SemSearch_LS-1	astronaut		Apollo astronauts who walked on the Moon
-SemSearch_LS-1	walk		Apollo astronauts who walked on the Moon
-SemSearch_LS-1	moon		Apollo astronauts who walked on the Moon
-SemSearch_LS-1	apollo astronaut		Apollo astronauts who walked on the Moon
-SemSearch_LS-1	astronaut walk		Apollo astronauts who walked on the Moon
-SemSearch_LS-1	walk moon		Apollo astronauts who walked on the Moon
-SemSearch_LS-2	arab		Arab states of the Persian Gulf
-SemSearch_LS-2	states		Arab states of the Persian Gulf
-SemSearch_LS-2	persian		Arab states of the Persian Gulf
-SemSearch_LS-2	gulf		Arab states of the Persian Gulf
-SemSearch_LS-2	arab states		Arab states of the Persian Gulf
-SemSearch_LS-2	states persian		Arab states of the Persian Gulf
-SemSearch_LS-2	persian gulf		Arab states of the Persian Gulf
-SemSearch_LS-3	astronaut		astronauts who landed on the Moon
+SemSearch_LS-1	apollo	attribute	Apollo astronauts who walked on the Moon
+SemSearch_LS-1	astronaut	type	Apollo astronauts who walked on the Moon
+SemSearch_LS-1	walk	none	Apollo astronauts who walked on the Moon
+SemSearch_LS-1	moon	none	Apollo astronauts who walked on the Moon
+SemSearch_LS-1	apollo astronaut	type	Apollo astronauts who walked on the Moon
+SemSearch_LS-1	astronaut walk	none	Apollo astronauts who walked on the Moon
+SemSearch_LS-1	walk moon	none	Apollo astronauts who walked on the Moon
+SemSearch_LS-2	arab	attribute	Arab states of the Persian Gulf
+SemSearch_LS-2	states	type	Arab states of the Persian Gulf
+SemSearch_LS-2	persian	relation	Arab states of the Persian Gulf
+SemSearch_LS-2	gulf	relation	Arab states of the Persian Gulf
+SemSearch_LS-2	arab states	type	Arab states of the Persian Gulf
+SemSearch_LS-2	states persian	none	Arab states of the Persian Gulf
+SemSearch_LS-2	persian gulf	relation	Arab states of the Persian Gulf
+SemSearch_LS-3	astronaut	type	astronauts who landed on the Moon
 SemSearch_LS-3	landed		astronauts who landed on the Moon
 SemSearch_LS-3	moon		astronauts who landed on the Moon
 SemSearch_LS-3	astronaut landed		astronauts who landed on the Moon
 SemSearch_LS-3	landed moon		astronauts who landed on the Moon
-SemSearch_LS-4	axis		Axis powers of World War II
-SemSearch_LS-4	powers		Axis powers of World War II
-SemSearch_LS-4	world		Axis powers of World War II
-SemSearch_LS-4	war		Axis powers of World War II
-SemSearch_LS-4	ii		Axis powers of World War II
-SemSearch_LS-4	axis powers		Axis powers of World War II
-SemSearch_LS-4	powers world		Axis powers of World War II
-SemSearch_LS-4	world war		Axis powers of World War II
-SemSearch_LS-4	war ii		Axis powers of World War II
+SemSearch_LS-4	axis	attribute	Axis powers of World War II
+SemSearch_LS-4	powers	type	Axis powers of World War II
+SemSearch_LS-4	world	attribute	Axis powers of World War II
+SemSearch_LS-4	war	attribute	Axis powers of World War II
+SemSearch_LS-4	ii	none	Axis powers of World War II
+SemSearch_LS-4	axis powers	type	Axis powers of World War II
+SemSearch_LS-4	powers world	none	Axis powers of World War II
+SemSearch_LS-4	world war	relation	Axis powers of World War II
+SemSearch_LS-4	war ii	none	Axis powers of World War II
 SemSearch_LS-5	books		books of the Jewish canon
 SemSearch_LS-5	jewish		books of the Jewish canon
 SemSearch_LS-5	canon		books of the Jewish canon
@@ -2957,179 +2957,179 @@ SemSearch_LS-40	states		the first 13 american states
 SemSearch_LS-40	first 13		the first 13 american states
 SemSearch_LS-40	13 america		the first 13 american states
 SemSearch_LS-40	america states		the first 13 american states
-SemSearch_LS-41	four		the four of the companions of the prophet
-SemSearch_LS-41	companion		the four of the companions of the prophet
-SemSearch_LS-41	prophet		the four of the companions of the prophet
-SemSearch_LS-41	four companion		the four of the companions of the prophet
-SemSearch_LS-41	companion prophet		the four of the companions of the prophet
-SemSearch_LS-42	twelve		twelve tribes or sons of Israel
-SemSearch_LS-42	tribe		twelve tribes or sons of Israel
-SemSearch_LS-42	son		twelve tribes or sons of Israel
-SemSearch_LS-42	israel		twelve tribes or sons of Israel
-SemSearch_LS-42	twelve tribe		twelve tribes or sons of Israel
-SemSearch_LS-42	tribe son		twelve tribes or sons of Israel
-SemSearch_LS-42	son israel		twelve tribes or sons of Israel
-SemSearch_LS-43	books		what books did paul of tarsus write?
-SemSearch_LS-43	paul		what books did paul of tarsus write?
-SemSearch_LS-43	tarsus		what books did paul of tarsus write?
-SemSearch_LS-43	write		what books did paul of tarsus write?
-SemSearch_LS-43	books paul		what books did paul of tarsus write?
-SemSearch_LS-43	paul tarsus		what books did paul of tarsus write?
-SemSearch_LS-43	tarsus write		what books did paul of tarsus write?
-SemSearch_LS-44	language		what languages do they speak in afghanistan
-SemSearch_LS-44	speak		what languages do they speak in afghanistan
-SemSearch_LS-44	afghanistan		what languages do they speak in afghanistan
-SemSearch_LS-44	language speak		what languages do they speak in afghanistan
-SemSearch_LS-44	speak afghanistan		what languages do they speak in afghanistan
-SemSearch_LS-46	britain		where the British monarch is also head of state
-SemSearch_LS-46	monarch		where the British monarch is also head of state
-SemSearch_LS-46	head		where the British monarch is also head of state
-SemSearch_LS-46	state		where the British monarch is also head of state
-SemSearch_LS-46	britain monarch		where the British monarch is also head of state
-SemSearch_LS-46	monarch head		where the British monarch is also head of state
-SemSearch_LS-46	head state		where the British monarch is also head of state
-SemSearch_LS-49	invent		who invented the python programming language
-SemSearch_LS-49	python		who invented the python programming language
-SemSearch_LS-49	program		who invented the python programming language
-SemSearch_LS-49	language		who invented the python programming language
-SemSearch_LS-49	invent python		who invented the python programming language
-SemSearch_LS-49	python program		who invented the python programming language
-SemSearch_LS-49	program language		who invented the python programming language
-SemSearch_LS-50	wonders		wonders of the ancient world
-SemSearch_LS-50	ancient		wonders of the ancient world
-SemSearch_LS-50	world		wonders of the ancient world
-SemSearch_LS-50	wonders ancient		wonders of the ancient world
-SemSearch_LS-50	ancient world		wonders of the ancient world
-TREC_Entity-1	carrier		Carriers that Blackberry makes phones for.
-TREC_Entity-1	blackberry		Carriers that Blackberry makes phones for.
-TREC_Entity-1	make		Carriers that Blackberry makes phones for.
-TREC_Entity-1	phone		Carriers that Blackberry makes phones for.
-TREC_Entity-1	carrier blackberry		Carriers that Blackberry makes phones for.
-TREC_Entity-1	blackberry make		Carriers that Blackberry makes phones for.
-TREC_Entity-1	make phone		Carriers that Blackberry makes phones for.
-TREC_Entity-2	winner		Winners of the ACM Athena award.
-TREC_Entity-2	acm		Winners of the ACM Athena award.
-TREC_Entity-2	athena		Winners of the ACM Athena award.
-TREC_Entity-2	award		Winners of the ACM Athena award.
-TREC_Entity-2	winner acm		Winners of the ACM Athena award.
-TREC_Entity-2	acm athena		Winners of the ACM Athena award.
-TREC_Entity-2	athena award		Winners of the ACM Athena award.
-TREC_Entity-4	professional		Professional sports teams in Philadelphia.
-TREC_Entity-4	sports		Professional sports teams in Philadelphia.
-TREC_Entity-4	team		Professional sports teams in Philadelphia.
-TREC_Entity-4	philadelphia		Professional sports teams in Philadelphia.
-TREC_Entity-4	professional sports		Professional sports teams in Philadelphia.
-TREC_Entity-4	sports team		Professional sports teams in Philadelphia.
-TREC_Entity-4	team philadelphia		Professional sports teams in Philadelphia.
-TREC_Entity-5	product		Products of Medimmune, Inc.
-TREC_Entity-5	medimmune		Products of Medimmune, Inc.
-TREC_Entity-5	inc		Products of Medimmune, Inc.
-TREC_Entity-5	product medimmune		Products of Medimmune, Inc.
-TREC_Entity-5	medimmune inc		Products of Medimmune, Inc.
-TREC_Entity-6	organization		Organizations that award Nobel prizes.
-TREC_Entity-6	award		Organizations that award Nobel prizes.
-TREC_Entity-6	nobel		Organizations that award Nobel prizes.
-TREC_Entity-6	prize		Organizations that award Nobel prizes.
-TREC_Entity-6	organization award		Organizations that award Nobel prizes.
-TREC_Entity-6	award nobel		Organizations that award Nobel prizes.
-TREC_Entity-6	nobel prize		Organizations that award Nobel prizes.
-TREC_Entity-7	airline		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	current		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	use		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	boeing		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	747		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	plane		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	airline current		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	current use		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	use boeing		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	boeing 747		Airlines that currently use Boeing 747 planes.
-TREC_Entity-7	747 plane		Airlines that currently use Boeing 747 planes.
-TREC_Entity-9	member		Members of The Beaux Arts Trio.
-TREC_Entity-9	beaux		Members of The Beaux Arts Trio.
-TREC_Entity-9	arts		Members of The Beaux Arts Trio.
-TREC_Entity-9	trio		Members of The Beaux Arts Trio.
-TREC_Entity-9	member beaux		Members of The Beaux Arts Trio.
-TREC_Entity-9	beaux arts		Members of The Beaux Arts Trio.
-TREC_Entity-9	arts trio		Members of The Beaux Arts Trio.
-TREC_Entity-10	campus		Campuses of Indiana University.
-TREC_Entity-10	indiana		Campuses of Indiana University.
-TREC_Entity-10	university		Campuses of Indiana University.
-TREC_Entity-10	campus indiana		Campuses of Indiana University.
-TREC_Entity-10	indiana university		Campuses of Indiana University.
-TREC_Entity-11	donor		Donors to the Home Depot Foundation.
-TREC_Entity-11	home		Donors to the Home Depot Foundation.
-TREC_Entity-11	depot		Donors to the Home Depot Foundation.
-TREC_Entity-11	foundation		Donors to the Home Depot Foundation.
-TREC_Entity-11	donor home		Donors to the Home Depot Foundation.
-TREC_Entity-11	home depot		Donors to the Home Depot Foundation.
-TREC_Entity-11	depot foundation		Donors to the Home Depot Foundation.
-TREC_Entity-12	airline		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	air		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	canada		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	code		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	share		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	flight		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	airline air		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	air canada		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	canada code		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	code share		Airlines that Air Canada has code share flights with.
-TREC_Entity-12	share flight		Airlines that Air Canada has code share flights with.
-TREC_Entity-14	author		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	award		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	anthony		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	award		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	bouchercon		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	2007		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	author award		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	award anthony		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	anthony award		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	award bouchercon		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-14	bouchercon 2007		Authors awarded an Anthony Award at Bouchercon in 2007.
-TREC_Entity-15	university		Universities that are members of the SEC conference for football.
-TREC_Entity-15	member		Universities that are members of the SEC conference for football.
-TREC_Entity-15	sec		Universities that are members of the SEC conference for football.
-TREC_Entity-15	conference		Universities that are members of the SEC conference for football.
-TREC_Entity-15	football		Universities that are members of the SEC conference for football.
-TREC_Entity-15	university member		Universities that are members of the SEC conference for football.
-TREC_Entity-15	member sec		Universities that are members of the SEC conference for football.
-TREC_Entity-15	sec conference		Universities that are members of the SEC conference for football.
-TREC_Entity-15	conference football		Universities that are members of the SEC conference for football.
-TREC_Entity-16	sponsor		Sponsors of the Mancuso quilt festivals.
-TREC_Entity-16	mancuso		Sponsors of the Mancuso quilt festivals.
-TREC_Entity-16	quilt		Sponsors of the Mancuso quilt festivals.
-TREC_Entity-16	festival		Sponsors of the Mancuso quilt festivals.
-TREC_Entity-16	sponsor mancuso		Sponsors of the Mancuso quilt festivals.
-TREC_Entity-16	mancuso quilt		Sponsors of the Mancuso quilt festivals.
-TREC_Entity-16	quilt festival		Sponsors of the Mancuso quilt festivals.
-TREC_Entity-17	chef		Chefs with a show on the Food Network.
-TREC_Entity-17	show		Chefs with a show on the Food Network.
-TREC_Entity-17	food		Chefs with a show on the Food Network.
-TREC_Entity-17	network		Chefs with a show on the Food Network.
-TREC_Entity-17	chef show		Chefs with a show on the Food Network.
-TREC_Entity-17	show food		Chefs with a show on the Food Network.
-TREC_Entity-17	food network		Chefs with a show on the Food Network.
-TREC_Entity-18	member		Members of the band Jefferson Airplane.
-TREC_Entity-18	band		Members of the band Jefferson Airplane.
-TREC_Entity-18	jefferson		Members of the band Jefferson Airplane.
-TREC_Entity-18	airplane		Members of the band Jefferson Airplane.
-TREC_Entity-18	member band		Members of the band Jefferson Airplane.
-TREC_Entity-18	band jefferson		Members of the band Jefferson Airplane.
-TREC_Entity-18	jefferson airplane		Members of the band Jefferson Airplane.
-TREC_Entity-19	company		Companies that John Hennessey serves on the board of.
-TREC_Entity-19	john		Companies that John Hennessey serves on the board of.
-TREC_Entity-19	hennessey		Companies that John Hennessey serves on the board of.
-TREC_Entity-19	serve		Companies that John Hennessey serves on the board of.
-TREC_Entity-19	board		Companies that John Hennessey serves on the board of.
-TREC_Entity-19	company john		Companies that John Hennessey serves on the board of.
-TREC_Entity-19	john hennessey		Companies that John Hennessey serves on the board of.
-TREC_Entity-19	hennessey serve		Companies that John Hennessey serves on the board of.
-TREC_Entity-19	serve board		Companies that John Hennessey serves on the board of.
-TREC_Entity-20	scotch		Scotch whisky distilleries on the island of Islay.
-TREC_Entity-20	whisky		Scotch whisky distilleries on the island of Islay.
-TREC_Entity-20	distillery		Scotch whisky distilleries on the island of Islay.
-TREC_Entity-20	island		Scotch whisky distilleries on the island of Islay.
-TREC_Entity-20	islay		Scotch whisky distilleries on the island of Islay.
-TREC_Entity-20	scotch whisky		Scotch whisky distilleries on the island of Islay.
-TREC_Entity-20	whisky distillery		Scotch whisky distilleries on the island of Islay.
-TREC_Entity-20	distillery island		Scotch whisky distilleries on the island of Islay.
-TREC_Entity-20	island islay		Scotch whisky distilleries on the island of Islay.
+SemSearch_LS-41	four	none	the four of the companions of the prophet
+SemSearch_LS-41	companion	type	the four of the companions of the prophet
+SemSearch_LS-41	prophet	attribute	the four of the companions of the prophet
+SemSearch_LS-41	four companion	none	the four of the companions of the prophet
+SemSearch_LS-41	companion prophet	none	the four of the companions of the prophet
+SemSearch_LS-42	twelve	none	twelve tribes or sons of Israel
+SemSearch_LS-42	tribe	type	twelve tribes or sons of Israel
+SemSearch_LS-42	son	type	twelve tribes or sons of Israel
+SemSearch_LS-42	israel	relation	twelve tribes or sons of Israel
+SemSearch_LS-42	twelve tribe	none	twelve tribes or sons of Israel
+SemSearch_LS-42	tribe son	none	twelve tribes or sons of Israel
+SemSearch_LS-42	son israel	none	twelve tribes or sons of Israel
+SemSearch_LS-43	books	type	what books did paul of tarsus write?
+SemSearch_LS-43	paul	relation	what books did paul of tarsus write?
+SemSearch_LS-43	tarsus	relation	what books did paul of tarsus write?
+SemSearch_LS-43	write	none	what books did paul of tarsus write?
+SemSearch_LS-43	books paul	none	what books did paul of tarsus write?
+SemSearch_LS-43	paul tarsus	relation	what books did paul of tarsus write?
+SemSearch_LS-43	tarsus write	none	what books did paul of tarsus write?
+SemSearch_LS-44	language	type	what languages do they speak in afghanistan
+SemSearch_LS-44	speak	none	what languages do they speak in afghanistan
+SemSearch_LS-44	afghanistan	relation	what languages do they speak in afghanistan
+SemSearch_LS-44	language speak	none	what languages do they speak in afghanistan
+SemSearch_LS-44	speak afghanistan	none	what languages do they speak in afghanistan
+SemSearch_LS-46	britain	attribute	where the British monarch is also head of state
+SemSearch_LS-46	monarch	attribute	where the British monarch is also head of state
+SemSearch_LS-46	head	none	where the British monarch is also head of state
+SemSearch_LS-46	state	none	where the British monarch is also head of state
+SemSearch_LS-46	britain monarch	attribute	where the British monarch is also head of state
+SemSearch_LS-46	monarch head	none	where the British monarch is also head of state
+SemSearch_LS-46	head state	none	where the British monarch is also head of state
+SemSearch_LS-49	invent	none	who invented the python programming language
+SemSearch_LS-49	python	attribute	who invented the python programming language
+SemSearch_LS-49	program	attribute	who invented the python programming language
+SemSearch_LS-49	language	attribute	who invented the python programming language
+SemSearch_LS-49	invent python	none	who invented the python programming language
+SemSearch_LS-49	python program	attribute	who invented the python programming language
+SemSearch_LS-49	program language	attribute	who invented the python programming language
+SemSearch_LS-50	wonders	type	wonders of the ancient world
+SemSearch_LS-50	ancient	attribute	wonders of the ancient world
+SemSearch_LS-50	world	none	wonders of the ancient world
+SemSearch_LS-50	wonders ancient	none	wonders of the ancient world
+SemSearch_LS-50	ancient world	attribute	wonders of the ancient world
+TREC_Entity-1	carrier	type	Carriers that Blackberry makes phones for.
+TREC_Entity-1	blackberry	relation	Carriers that Blackberry makes phones for.
+TREC_Entity-1	make	none	Carriers that Blackberry makes phones for.
+TREC_Entity-1	phone	none	Carriers that Blackberry makes phones for.
+TREC_Entity-1	carrier blackberry	none	Carriers that Blackberry makes phones for.
+TREC_Entity-1	blackberry make	none	Carriers that Blackberry makes phones for.
+TREC_Entity-1	make phone	none	Carriers that Blackberry makes phones for.
+TREC_Entity-2	winner	type	Winners of the ACM Athena award.
+TREC_Entity-2	acm	relation	Winners of the ACM Athena award.
+TREC_Entity-2	athena	relation	Winners of the ACM Athena award.
+TREC_Entity-2	award	none	Winners of the ACM Athena award.
+TREC_Entity-2	winner acm	none	Winners of the ACM Athena award.
+TREC_Entity-2	acm athena	relation	Winners of the ACM Athena award.
+TREC_Entity-2	athena award	unsure	Winners of the ACM Athena award.
+TREC_Entity-4	professional	attribute	Professional sports teams in Philadelphia.
+TREC_Entity-4	sports	attrbute	Professional sports teams in Philadelphia.
+TREC_Entity-4	team	type	Professional sports teams in Philadelphia.
+TREC_Entity-4	philadelphia	relation	Professional sports teams in Philadelphia.
+TREC_Entity-4	professional sports	attribute	Professional sports teams in Philadelphia.
+TREC_Entity-4	sports team	type	Professional sports teams in Philadelphia.
+TREC_Entity-4	team philadelphia	none	Professional sports teams in Philadelphia.
+TREC_Entity-5	product	type	Products of Medimmune, Inc.
+TREC_Entity-5	medimmune	relation	Products of Medimmune, Inc.
+TREC_Entity-5	inc	none	Products of Medimmune, Inc.
+TREC_Entity-5	product medimmune	none	Products of Medimmune, Inc.
+TREC_Entity-5	medimmune inc	relation	Products of Medimmune, Inc.
+TREC_Entity-6	organization	type	Organizations that award Nobel prizes.
+TREC_Entity-6	award	none	Organizations that award Nobel prizes.
+TREC_Entity-6	nobel	relation	Organizations that award Nobel prizes.
+TREC_Entity-6	prize	none	Organizations that award Nobel prizes.
+TREC_Entity-6	organization award	none	Organizations that award Nobel prizes.
+TREC_Entity-6	award nobel	none	Organizations that award Nobel prizes.
+TREC_Entity-6	nobel prize	relation	Organizations that award Nobel prizes.
+TREC_Entity-7	airline	type	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	current	none	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	use	none	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	boeing	relation	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	747	none	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	plane	none	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	airline current	none	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	current use	none	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	use boeing	none	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	boeing 747	relation	Airlines that currently use Boeing 747 planes.
+TREC_Entity-7	747 plane	unsure	Airlines that currently use Boeing 747 planes.
+TREC_Entity-9	member	type	Members of The Beaux Arts Trio.
+TREC_Entity-9	beaux	relation	Members of The Beaux Arts Trio.
+TREC_Entity-9	arts	unsure	Members of The Beaux Arts Trio.
+TREC_Entity-9	trio	unsure	Members of The Beaux Arts Trio.
+TREC_Entity-9	member beaux	none	Members of The Beaux Arts Trio.
+TREC_Entity-9	beaux arts	relation	Members of The Beaux Arts Trio.
+TREC_Entity-9	arts trio	unsure	Members of The Beaux Arts Trio.
+TREC_Entity-10	campus	type	Campuses of Indiana University.
+TREC_Entity-10	indiana	relation	Campuses of Indiana University.
+TREC_Entity-10	university	unsure	Campuses of Indiana University.
+TREC_Entity-10	campus indiana	none	Campuses of Indiana University.
+TREC_Entity-10	indiana university	relation	Campuses of Indiana University.
+TREC_Entity-11	donor	type	Donors to the Home Depot Foundation.
+TREC_Entity-11	home	none	Donors to the Home Depot Foundation.
+TREC_Entity-11	depot	none	Donors to the Home Depot Foundation.
+TREC_Entity-11	foundation	none	Donors to the Home Depot Foundation.
+TREC_Entity-11	donor home	none	Donors to the Home Depot Foundation.
+TREC_Entity-11	home depot	relation	Donors to the Home Depot Foundation.
+TREC_Entity-11	depot foundation	unsure	Donors to the Home Depot Foundation.
+TREC_Entity-12	airline	type	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	air	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	canada	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	code	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	share	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	flight	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	airline air	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	air canada	relation	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	canada code	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	code share	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-12	share flight	none	Airlines that Air Canada has code share flights with.
+TREC_Entity-14	author	type	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	award	none	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	anthony	relation	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	award	unsure	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	bouchercon	relation	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	2007	none	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	author award	none	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	award anthony	none	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	anthony award	relation	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	award bouchercon	none	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-14	bouchercon 2007	relation	Authors awarded an Anthony Award at Bouchercon in 2007.
+TREC_Entity-15	university	type	Universities that are members of the SEC conference for football.
+TREC_Entity-15	member	attribute	Universities that are members of the SEC conference for football.
+TREC_Entity-15	sec	attribute	Universities that are members of the SEC conference for football.
+TREC_Entity-15	conference	none	Universities that are members of the SEC conference for football.
+TREC_Entity-15	football	none	Universities that are members of the SEC conference for football.
+TREC_Entity-15	university member	type	Universities that are members of the SEC conference for football.
+TREC_Entity-15	member sec	none	Universities that are members of the SEC conference for football.
+TREC_Entity-15	sec conference	none	Universities that are members of the SEC conference for football.
+TREC_Entity-15	conference football	none	Universities that are members of the SEC conference for football.
+TREC_Entity-16	sponsor	type	Sponsors of the Mancuso quilt festivals.
+TREC_Entity-16	mancuso	relation	Sponsors of the Mancuso quilt festivals.
+TREC_Entity-16	quilt	none	Sponsors of the Mancuso quilt festivals.
+TREC_Entity-16	festival	none	Sponsors of the Mancuso quilt festivals.
+TREC_Entity-16	sponsor mancuso	none	Sponsors of the Mancuso quilt festivals.
+TREC_Entity-16	mancuso quilt	none	Sponsors of the Mancuso quilt festivals.
+TREC_Entity-16	quilt festival	none	Sponsors of the Mancuso quilt festivals.
+TREC_Entity-17	chef	type	Chefs with a show on the Food Network.
+TREC_Entity-17	show	none	Chefs with a show on the Food Network.
+TREC_Entity-17	food	relation	Chefs with a show on the Food Network.
+TREC_Entity-17	network	relation	Chefs with a show on the Food Network.
+TREC_Entity-17	chef show	none	Chefs with a show on the Food Network.
+TREC_Entity-17	show food	none	Chefs with a show on the Food Network.
+TREC_Entity-17	food network	relation	Chefs with a show on the Food Network.
+TREC_Entity-18	member	type	Members of the band Jefferson Airplane.
+TREC_Entity-18	band	none	Members of the band Jefferson Airplane.
+TREC_Entity-18	jefferson	relation	Members of the band Jefferson Airplane.
+TREC_Entity-18	airplane	relation	Members of the band Jefferson Airplane.
+TREC_Entity-18	member band	none	Members of the band Jefferson Airplane.
+TREC_Entity-18	band jefferson	none	Members of the band Jefferson Airplane.
+TREC_Entity-18	jefferson airplane	relation	Members of the band Jefferson Airplane.
+TREC_Entity-19	company	type	Companies that John Hennessey serves on the board of.
+TREC_Entity-19	john	relation	Companies that John Hennessey serves on the board of.
+TREC_Entity-19	hennessey	relation	Companies that John Hennessey serves on the board of.
+TREC_Entity-19	serve	none	Companies that John Hennessey serves on the board of.
+TREC_Entity-19	board	none	Companies that John Hennessey serves on the board of.
+TREC_Entity-19	company john	none	Companies that John Hennessey serves on the board of.
+TREC_Entity-19	john hennessey	relation	Companies that John Hennessey serves on the board of.
+TREC_Entity-19	hennessey serve	none	Companies that John Hennessey serves on the board of.
+TREC_Entity-19	serve board	none	Companies that John Hennessey serves on the board of.
+TREC_Entity-20	scotch	attribute	Scotch whisky distilleries on the island of Islay.
+TREC_Entity-20	whisky	attribute	Scotch whisky distilleries on the island of Islay.
+TREC_Entity-20	distillery	type	Scotch whisky distilleries on the island of Islay.
+TREC_Entity-20	island	none	Scotch whisky distilleries on the island of Islay.
+TREC_Entity-20	islay	relation	Scotch whisky distilleries on the island of Islay.
+TREC_Entity-20	scotch whisky	type	Scotch whisky distilleries on the island of Islay.
+TREC_Entity-20	whisky distillery	type	Scotch whisky distilleries on the island of Islay.
+TREC_Entity-20	distillery island	none	Scotch whisky distilleries on the island of Islay.
+TREC_Entity-20	island islay	none	Scotch whisky distilleries on the island of Islay.
