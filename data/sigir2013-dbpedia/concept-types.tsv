@@ -2381,22 +2381,22 @@ SemSearch_ES-48	restaurant philadelphia	none	la scala restaurant philadelphia
 SemSearch_ES-49	laura	entity	laura bush
 SemSearch_ES-49	bush	entity	laura bush
 SemSearch_ES-49	laura bush	entity	laura bush
-SemSearch_ES-50	laura		laura steele bob and tom
-SemSearch_ES-50	steele		laura steele bob and tom
-SemSearch_ES-50	bob		laura steele bob and tom
-SemSearch_ES-50	tom		laura steele bob and tom
-SemSearch_ES-50	laura steele		laura steele bob and tom
-SemSearch_ES-50	steele bob		laura steele bob and tom
-SemSearch_ES-50	bob tom		laura steele bob and tom
-SemSearch_ES-51	lexu		lexus of maplewood
-SemSearch_ES-51	maplewood		lexus of maplewood
-SemSearch_ES-51	lexu maplewood		lexus of maplewood
-SemSearch_ES-52	lincoln		lincoln park
-SemSearch_ES-52	park		lincoln park
-SemSearch_ES-52	lincoln park		lincoln park
-SemSearch_ES-53	lynchburg		lynchburg virginia
-SemSearch_ES-53	virginia		lynchburg virginia
-SemSearch_ES-53	lynchburg virginia		lynchburg virginia
+SemSearch_ES-50	laura	entity	laura steele bob and tom
+SemSearch_ES-50	steele	entity	laura steele bob and tom
+SemSearch_ES-50	bob	entity	laura steele bob and tom
+SemSearch_ES-50	tom	entity	laura steele bob and tom
+SemSearch_ES-50	laura steele	entity	laura steele bob and tom
+SemSearch_ES-50	steele bob	entity	laura steele bob and tom
+SemSearch_ES-50	bob tom	none	laura steele bob and tom
+SemSearch_ES-51	lexu	entity	lexus of maplewood
+SemSearch_ES-51	maplewood	attribute	lexus of maplewood
+SemSearch_ES-51	lexu maplewood	unsure	lexus of maplewood
+SemSearch_ES-52	lincoln	entity	lincoln park
+SemSearch_ES-52	park	none	lincoln park
+SemSearch_ES-52	lincoln park	entity	lincoln park
+SemSearch_ES-53	lynchburg	entity	lynchburg virginia
+SemSearch_ES-53	virginia	relation	lynchburg virginia
+SemSearch_ES-53	lynchburg virginia	unsure	lynchburg virginia
 SemSearch_ES-54	marc	entity	marc anthony
 SemSearch_ES-54	anthony	entity	marc anthony
 SemSearch_ES-54	marc anthony	entity	marc anthony
@@ -2426,16 +2426,16 @@ SemSearch_ES-59	moines ia	none	mercy hospital in des moines, ia
 SemSearch_ES-60	michael	entity	michael douglas
 SemSearch_ES-60	douglas	entity	michael douglas
 SemSearch_ES-60	michael douglas	entity	michael douglas
-SemSearch_ES-61	rourke		mr rourke fantasy island
-SemSearch_ES-61	fantasy		mr rourke fantasy island
-SemSearch_ES-61	island		mr rourke fantasy island
-SemSearch_ES-61	rourke fantasy		mr rourke fantasy island
-SemSearch_ES-61	fantasy island		mr rourke fantasy island
-SemSearch_ES-63	old		old winchester shotguns
-SemSearch_ES-63	winchester		old winchester shotguns
-SemSearch_ES-63	shotgun		old winchester shotguns
-SemSearch_ES-63	old winchester		old winchester shotguns
-SemSearch_ES-63	winchester shotgun		old winchester shotguns
+SemSearch_ES-61	rourke	unsure	mr rourke fantasy island
+SemSearch_ES-61	fantasy	unsure	mr rourke fantasy island
+SemSearch_ES-61	island	unsure	mr rourke fantasy island
+SemSearch_ES-61	rourke fantasy	entity	mr rourke fantasy island
+SemSearch_ES-61	fantasy island	none	mr rourke fantasy island
+SemSearch_ES-63	old	attribute	old winchester shotguns
+SemSearch_ES-63	winchester	attribute	old winchester shotguns
+SemSearch_ES-63	shotgun	type	old winchester shotguns
+SemSearch_ES-63	old winchester	attribute	old winchester shotguns
+SemSearch_ES-63	winchester shotgun	none	old winchester shotguns
 SemSearch_ES-64	omeara	entity	omeara ford
 SemSearch_ES-64	ford	entity	omeara ford
 SemSearch_ES-64	omeara ford	entity	omeara ford
@@ -2448,72 +2448,72 @@ SemSearch_ES-66	overeater anonymous	entity	overeaters anonymous
 SemSearch_ES-67	ovguide	entity	ovguide movies
 SemSearch_ES-67	movies	entity	ovguide movies
 SemSearch_ES-67	ovguide movies	entity	ovguide movies
-SemSearch_ES-68	pierce		pierce county washington
-SemSearch_ES-68	county		pierce county washington
-SemSearch_ES-68	washington		pierce county washington
-SemSearch_ES-68	pierce county		pierce county washington
-SemSearch_ES-68	county washington		pierce county washington
-SemSearch_ES-69	piosenki		piosenki mp3
-SemSearch_ES-69	mp3		piosenki mp3
-SemSearch_ES-69	piosenki mp3		piosenki mp3
-SemSearch_ES-70	radio		radio italia online
-SemSearch_ES-70	italia		radio italia online
-SemSearch_ES-70	online		radio italia online
-SemSearch_ES-70	radio italia		radio italia online
-SemSearch_ES-70	italia online		radio italia online
-SemSearch_ES-71	richmond		richmond virginia
-SemSearch_ES-71	virginia		richmond virginia
-SemSearch_ES-71	richmond virginia		richmond virginia
-SemSearch_ES-72	rock		rock 103 memphis
-SemSearch_ES-72	103		rock 103 memphis
-SemSearch_ES-72	memphis		rock 103 memphis
-SemSearch_ES-72	rock 103		rock 103 memphis
-SemSearch_ES-72	103 memphis		rock 103 memphis
-SemSearch_ES-73	rowan		rowan university
-SemSearch_ES-73	university		rowan university
-SemSearch_ES-73	rowan university		rowan university
-SemSearch_ES-74	sacred		sacred heart u
-SemSearch_ES-74	heart		sacred heart u
-SemSearch_ES-74	u		sacred heart u
-SemSearch_ES-74	sacred heart		sacred heart u
-SemSearch_ES-74	heart u		sacred heart u
-SemSearch_ES-75	sagemont		sagemont church houston tx
-SemSearch_ES-75	church		sagemont church houston tx
-SemSearch_ES-75	houston		sagemont church houston tx
-SemSearch_ES-75	tx		sagemont church houston tx
-SemSearch_ES-75	sagemont church		sagemont church houston tx
-SemSearch_ES-75	church houston		sagemont church houston tx
-SemSearch_ES-75	houston tx		sagemont church houston tx
-SemSearch_ES-76	san		san antonio
-SemSearch_ES-76	antonio		san antonio
-SemSearch_ES-76	san antonio		san antonio
-SemSearch_ES-77	savannah		savannah tech
-SemSearch_ES-77	tech		savannah tech
-SemSearch_ES-77	savannah tech		savannah tech
-SemSearch_ES-78	sharp		sharp pc
-SemSearch_ES-78	pc		sharp pc
-SemSearch_ES-78	sharp pc		sharp pc
-SemSearch_ES-79	shobana		shobana masala
-SemSearch_ES-79	masala		shobana masala
-SemSearch_ES-79	shobana masala		shobana masala
-SemSearch_ES-80	sonny		sonny and cher
-SemSearch_ES-80	cher		sonny and cher
-SemSearch_ES-80	sonny cher		sonny and cher
-SemSearch_ES-81	south		south dakota state university
-SemSearch_ES-81	dakota		south dakota state university
-SemSearch_ES-81	state		south dakota state university
-SemSearch_ES-81	university		south dakota state university
-SemSearch_ES-81	south dakota		south dakota state university
-SemSearch_ES-81	dakota state		south dakota state university
-SemSearch_ES-81	state university		south dakota state university
+SemSearch_ES-68	pierce	entity	pierce county washington
+SemSearch_ES-68	county	attribute	pierce county washington
+SemSearch_ES-68	washington	relation	pierce county washington
+SemSearch_ES-68	pierce county	entity	pierce county washington
+SemSearch_ES-68	county washington	none	pierce county washington
+SemSearch_ES-69	piosenki	entity	piosenki mp3
+SemSearch_ES-69	mp3	attribute	piosenki mp3
+SemSearch_ES-69	piosenki mp3	entity	piosenki mp3
+SemSearch_ES-70	radio	unsure	radio italia online
+SemSearch_ES-70	italia	unsure	radio italia online
+SemSearch_ES-70	online	attribute	radio italia online
+SemSearch_ES-70	radio italia	entity	radio italia online
+SemSearch_ES-70	italia online	none	radio italia online
+SemSearch_ES-71	richmond	entity	richmond virginia
+SemSearch_ES-71	virginia	relation	richmond virginia
+SemSearch_ES-71	richmond virginia	unsure	richmond virginia
+SemSearch_ES-72	rock	unsure	rock 103 memphis
+SemSearch_ES-72	103	unsure	rock 103 memphis
+SemSearch_ES-72	memphis	relation	rock 103 memphis
+SemSearch_ES-72	rock 103	none	rock 103 memphis
+SemSearch_ES-72	103 memphis	none	rock 103 memphis
+SemSearch_ES-73	rowan	entity	rowan university
+SemSearch_ES-73	university	none	rowan university
+SemSearch_ES-73	rowan university	entity	rowan university
+SemSearch_ES-74	sacred	attribute	sacred heart u
+SemSearch_ES-74	heart	entity	sacred heart u
+SemSearch_ES-74	u	none	sacred heart u
+SemSearch_ES-74	sacred heart	entity	sacred heart u
+SemSearch_ES-74	heart u	none	sacred heart u
+SemSearch_ES-75	sagemont	entity	sagemont church houston tx
+SemSearch_ES-75	church	none	sagemont church houston tx
+SemSearch_ES-75	houston	relation	sagemont church houston tx
+SemSearch_ES-75	tx	unsure	sagemont church houston tx
+SemSearch_ES-75	sagemont church	entity	sagemont church houston tx
+SemSearch_ES-75	church houston	none	sagemont church houston tx
+SemSearch_ES-75	houston tx	relation	sagemont church houston tx
+SemSearch_ES-76	san	none	san antonio
+SemSearch_ES-76	antonio	none	san antonio
+SemSearch_ES-76	san antonio	entity	san antonio
+SemSearch_ES-77	savannah	none	savannah tech
+SemSearch_ES-77	tech	none	savannah tech
+SemSearch_ES-77	savannah tech	entity	savannah tech
+SemSearch_ES-78	sharp	none	sharp pc
+SemSearch_ES-78	pc	none	sharp pc
+SemSearch_ES-78	sharp pc	entity	sharp pc
+SemSearch_ES-79	shobana	entity	shobana masala
+SemSearch_ES-79	masala	entity	shobana masala
+SemSearch_ES-79	shobana masala	entity	shobana masala
+SemSearch_ES-80	sonny	entity	sonny and cher
+SemSearch_ES-80	cher	entity	sonny and cher
+SemSearch_ES-80	sonny cher	none	sonny and cher
+SemSearch_ES-81	south	none	south dakota state university
+SemSearch_ES-81	dakota	none	south dakota state university
+SemSearch_ES-81	state	none	south dakota state university
+SemSearch_ES-81	university	none	south dakota state university
+SemSearch_ES-81	south dakota	unsure	south dakota state university
+SemSearch_ES-81	dakota state	unsure	south dakota state university
+SemSearch_ES-81	state university	unsure	south dakota state university
 SemSearch_ES-82	st	none	st lucia
 SemSearch_ES-82	lucia	none	st lucia
 SemSearch_ES-82	st lucia	entity	st lucia
 SemSearch_ES-83	st	none	st paul saints
-SemSearch_ES-83	paul		st paul saints
-SemSearch_ES-83	saint		st paul saints
-SemSearch_ES-83	st paul		st paul saints
-SemSearch_ES-83	paul saint		st paul saints
+SemSearch_ES-83	paul	unsure	st paul saints
+SemSearch_ES-83	saint	type	st paul saints
+SemSearch_ES-83	st paul	entity	st paul saints
+SemSearch_ES-83	paul saint	none	st paul saints
 SemSearch_ES-84	dish	none	the dish danielle fishel
 SemSearch_ES-84	danielle	unsure	the dish danielle fishel
 SemSearch_ES-84	fishel	entity	the dish danielle fishel
@@ -2524,83 +2524,83 @@ SemSearch_ES-85	yard	attribute	the longest yard sale
 SemSearch_ES-85	sale	attribute	the longest yard sale
 SemSearch_ES-85	longest yard	attribute	the longest yard sale
 SemSearch_ES-85	yard sale	attribute	the longest yard sale
-SemSearch_ES-86	morning		the morning call lehigh valley pa
-SemSearch_ES-86	call		the morning call lehigh valley pa
-SemSearch_ES-86	lehigh		the morning call lehigh valley pa
-SemSearch_ES-86	valley		the morning call lehigh valley pa
-SemSearch_ES-86	pa		the morning call lehigh valley pa
-SemSearch_ES-86	morning call		the morning call lehigh valley pa
-SemSearch_ES-86	call lehigh		the morning call lehigh valley pa
-SemSearch_ES-86	lehigh valley		the morning call lehigh valley pa
-SemSearch_ES-86	valley pa		the morning call lehigh valley pa
-SemSearch_ES-87	quick		the quick lift
-SemSearch_ES-87	lift		the quick lift
-SemSearch_ES-87	quick lift		the quick lift
+SemSearch_ES-86	morning	none	the morning call lehigh valley pa
+SemSearch_ES-86	call	none	the morning call lehigh valley pa
+SemSearch_ES-86	lehigh	none	the morning call lehigh valley pa
+SemSearch_ES-86	valley	relation	the morning call lehigh valley pa
+SemSearch_ES-86	pa	none	the morning call lehigh valley pa
+SemSearch_ES-86	morning call	attribute	the morning call lehigh valley pa
+SemSearch_ES-86	call lehigh	none	the morning call lehigh valley pa
+SemSearch_ES-86	lehigh valley	none	the morning call lehigh valley pa
+SemSearch_ES-86	valley pa	relation	the morning call lehigh valley pa
+SemSearch_ES-87	quick	attribute	the quick lift
+SemSearch_ES-87	lift	entity	the quick lift
+SemSearch_ES-87	quick lift	entity	the quick lift
 SemSearch_ES-88	thomas	entity	thomas jefferson
 SemSearch_ES-88	jefferson	entity	thomas jefferson
 SemSearch_ES-88	thomas jefferson	entity	thomas jefferson
-SemSearch_ES-89	university		university of north dakota
-SemSearch_ES-89	north		university of north dakota
-SemSearch_ES-89	dakota		university of north dakota
-SemSearch_ES-89	university north		university of north dakota
-SemSearch_ES-89	north dakota		university of north dakota
-SemSearch_ES-90	university		university of phoenix
-SemSearch_ES-90	phoenix		university of phoenix
-SemSearch_ES-90	university phoenix		university of phoenix
-SemSearch_ES-91	westminster		westminster abbey
-SemSearch_ES-91	abbey		westminster abbey
-SemSearch_ES-91	westminster abbey		westminster abbey
-SemSearch_ES-93	8		08 toyota tundra
-SemSearch_ES-93	toyota		08 toyota tundra
-SemSearch_ES-93	tundra		08 toyota tundra
-SemSearch_ES-93	08 toyota		08 toyota tundra
-SemSearch_ES-93	toyota tundra		08 toyota tundra
+SemSearch_ES-89	university	none	university of north dakota
+SemSearch_ES-89	north	none	university of north dakota
+SemSearch_ES-89	dakota	none	university of north dakota
+SemSearch_ES-89	university north	none	university of north dakota
+SemSearch_ES-89	north dakota	relation	university of north dakota
+SemSearch_ES-90	university	none	university of phoenix
+SemSearch_ES-90	phoenix	none	university of phoenix
+SemSearch_ES-90	university phoenix	entity	university of phoenix
+SemSearch_ES-91	westminster	entity	westminster abbey
+SemSearch_ES-91	abbey	entity	westminster abbey
+SemSearch_ES-91	westminster abbey	entity	westminster abbey
+SemSearch_ES-93	8	none	08 toyota tundra
+SemSearch_ES-93	toyota	unsure	08 toyota tundra
+SemSearch_ES-93	tundra	entity	08 toyota tundra
+SemSearch_ES-93	08 toyota	none	08 toyota tundra
+SemSearch_ES-93	toyota tundra	entity	08 toyota tundra
 SemSearch_ES-94	hugh	entity	Hugh Downs
 SemSearch_ES-94	downs	entity	Hugh Downs
 SemSearch_ES-94	hugh downs	entity	Hugh Downs
-SemSearch_ES-95	madrid		MADRID
-SemSearch_ES-96	new		New England Coffee
-SemSearch_ES-96	england		New England Coffee
-SemSearch_ES-96	coffee		New England Coffee
-SemSearch_ES-96	new england		New England Coffee
-SemSearch_ES-96	england coffee		New England Coffee
-SemSearch_ES-97	pink		PINK PANTHER 2
-SemSearch_ES-97	panther		PINK PANTHER 2
-SemSearch_ES-97	2		PINK PANTHER 2
-SemSearch_ES-97	pink panther		PINK PANTHER 2
-SemSearch_ES-97	panther 2		PINK PANTHER 2
-SemSearch_ES-98	university		University of Texas at Austin
-SemSearch_ES-98	texas		University of Texas at Austin
-SemSearch_ES-98	austin		University of Texas at Austin
-SemSearch_ES-98	university texas		University of Texas at Austin
-SemSearch_ES-98	texas austin		University of Texas at Austin
-SemSearch_ES-99	university		University of York
-SemSearch_ES-99	york		University of York
-SemSearch_ES-99	university york		University of York
+SemSearch_ES-95	madrid	entity	MADRID
+SemSearch_ES-96	new	attribute	New England Coffee
+SemSearch_ES-96	england	attribute	New England Coffee
+SemSearch_ES-96	coffee	type	New England Coffee
+SemSearch_ES-96	new england	attribute	New England Coffee
+SemSearch_ES-96	england coffee	type	New England Coffee
+SemSearch_ES-97	pink	unsure	PINK PANTHER 2
+SemSearch_ES-97	panther	unsure	PINK PANTHER 2
+SemSearch_ES-97	2	none	PINK PANTHER 2
+SemSearch_ES-97	pink panther	entity	PINK PANTHER 2
+SemSearch_ES-97	panther 2	none	PINK PANTHER 2
+SemSearch_ES-98	university	none	University of Texas at Austin
+SemSearch_ES-98	texas	relation	University of Texas at Austin
+SemSearch_ES-98	austin	relation	University of Texas at Austin
+SemSearch_ES-98	university texas	entity	University of Texas at Austin
+SemSearch_ES-98	texas austin	relation	University of Texas at Austin
+SemSearch_ES-99	university	none	University of York
+SemSearch_ES-99	york	none	University of York
+SemSearch_ES-99	university york	entity	University of York
 SemSearch_ES-100	ymca	entity	YMCA Tampa
 SemSearch_ES-100	tampa	relation	YMCA Tampa
 SemSearch_ES-100	ymca tampa	entity	YMCA Tampa
 SemSearch_ES-101	ashley	entity	ashley wagner
 SemSearch_ES-101	wagner	entity	ashley wagner
 SemSearch_ES-101	ashley wagner	entity	ashley wagner
-SemSearch_ES-102	beach		beach flowers
-SemSearch_ES-102	flower		beach flowers
-SemSearch_ES-102	beach flower		beach flowers
-SemSearch_ES-103	bounce		bounce city humble tx
-SemSearch_ES-103	city		bounce city humble tx
-SemSearch_ES-103	humble		bounce city humble tx
-SemSearch_ES-103	tx		bounce city humble tx
-SemSearch_ES-103	bounce city		bounce city humble tx
-SemSearch_ES-103	city humble		bounce city humble tx
-SemSearch_ES-103	humble tx		bounce city humble tx
+SemSearch_ES-102	beach	attribute	beach flowers
+SemSearch_ES-102	flower	type	beach flowers
+SemSearch_ES-102	beach flower	type	beach flowers
+SemSearch_ES-103	bounce	entity	bounce city humble tx
+SemSearch_ES-103	city	none	bounce city humble tx
+SemSearch_ES-103	humble	relation	bounce city humble tx
+SemSearch_ES-103	tx	unsure	bounce city humble tx
+SemSearch_ES-103	bounce city	entity	bounce city humble tx
+SemSearch_ES-103	city humble	none	bounce city humble tx
+SemSearch_ES-103	humble tx	relation	bounce city humble tx
 SemSearch_ES-104	bourbonnai	entity	bourbonnais il
 SemSearch_ES-104	il	none	bourbonnais il
 SemSearch_ES-104	bourbonnai il	entity	bourbonnais il
-SemSearch_ES-105	cedar		cedar garden apartments
-SemSearch_ES-105	garden		cedar garden apartments
-SemSearch_ES-105	apartments		cedar garden apartments
-SemSearch_ES-105	cedar garden		cedar garden apartments
-SemSearch_ES-105	garden apartments		cedar garden apartments
+SemSearch_ES-105	cedar	attribute	cedar garden apartments
+SemSearch_ES-105	garden	attribute	cedar garden apartments
+SemSearch_ES-105	apartments	type	cedar garden apartments
+SemSearch_ES-105	cedar garden	attribute	cedar garden apartments
+SemSearch_ES-105	garden apartments	none	cedar garden apartments
 SemSearch_ES-106	chase	entity	chase masterson
 SemSearch_ES-106	masterson	entity	chase masterson
 SemSearch_ES-106	chase masterson	entity	chase masterson
@@ -2613,41 +2613,41 @@ SemSearch_ES-108	danielia cotton	entity	danielia cotton
 SemSearch_ES-109	david	entity	david hewlett
 SemSearch_ES-109	hewlett	entity	david hewlett
 SemSearch_ES-109	david hewlett	entity	david hewlett
-SemSearch_ES-111	eagle		eagle rock, ca
-SemSearch_ES-111	rock		eagle rock, ca
-SemSearch_ES-111	ca		eagle rock, ca
-SemSearch_ES-111	eagle rock		eagle rock, ca
-SemSearch_ES-111	rock ca		eagle rock, ca
-SemSearch_ES-112	espresso		espresso tv stands
-SemSearch_ES-112	tv		espresso tv stands
-SemSearch_ES-112	stand		espresso tv stands
-SemSearch_ES-112	espresso tv		espresso tv stands
-SemSearch_ES-112	tv stand		espresso tv stands
+SemSearch_ES-111	eagle	unsure	eagle rock, ca
+SemSearch_ES-111	rock	unsure	eagle rock, ca
+SemSearch_ES-111	ca	unsure	eagle rock, ca
+SemSearch_ES-111	eagle rock	entity	eagle rock, ca
+SemSearch_ES-111	rock ca	none	eagle rock, ca
+SemSearch_ES-112	espresso	attribute	espresso tv stands
+SemSearch_ES-112	tv	attribute	espresso tv stands
+SemSearch_ES-112	stand	type	espresso tv stands
+SemSearch_ES-112	espresso tv	attribute	espresso tv stands
+SemSearch_ES-112	tv stand	none	espresso tv stands
 SemSearch_ES-114	glenn	entity	glenn frey
 SemSearch_ES-114	frey	entity	glenn frey
 SemSearch_ES-114	glenn frey	entity	glenn frey
 SemSearch_ES-115	goodwill	entity	goodwill of michigan
 SemSearch_ES-115	michigan	relation	goodwill of michigan
 SemSearch_ES-115	goodwill michigan	type	goodwill of michigan
-SemSearch_ES-118	iowa		iowa energy
-SemSearch_ES-118	energy		iowa energy
-SemSearch_ES-118	iowa energy		iowa energy
+SemSearch_ES-118	iowa	entity	iowa energy
+SemSearch_ES-118	energy	type	iowa energy
+SemSearch_ES-118	iowa energy	entity	iowa energy
 SemSearch_ES-119	john	entity	john elliott
 SemSearch_ES-119	elliott	entity	john elliott
 SemSearch_ES-119	john elliott	entity	john elliott
-SemSearch_ES-120	lawrence		lawrence general hospital
-SemSearch_ES-120	general		lawrence general hospital
-SemSearch_ES-120	hospital		lawrence general hospital
-SemSearch_ES-120	lawrence general		lawrence general hospital
-SemSearch_ES-120	general hospital		lawrence general hospital
+SemSearch_ES-120	lawrence	entity	lawrence general hospital
+SemSearch_ES-120	general	attribute	lawrence general hospital
+SemSearch_ES-120	hospital	none	lawrence general hospital
+SemSearch_ES-120	lawrence general	unsure	lawrence general hospital
+SemSearch_ES-120	general hospital	unsure	lawrence general hospital
 SemSearch_ES-123	michael	entity	michael zimmerman
 SemSearch_ES-123	zimmerman	entity	michael zimmerman
 SemSearch_ES-123	michael zimmerman	entity	michael zimmerman
-SemSearch_ES-124	motorola		motorola bluetooth hs850
-SemSearch_ES-124	bluetooth		motorola bluetooth hs850
-SemSearch_ES-124	hs850		motorola bluetooth hs850
-SemSearch_ES-124	motorola bluetooth		motorola bluetooth hs850
-SemSearch_ES-124	bluetooth hs850		motorola bluetooth hs850
+SemSearch_ES-124	motorola	relation	motorola bluetooth hs850
+SemSearch_ES-124	bluetooth	attribute	motorola bluetooth hs850
+SemSearch_ES-124	hs850	entity	motorola bluetooth hs850
+SemSearch_ES-124	motorola bluetooth	attribute	motorola bluetooth hs850
+SemSearch_ES-124	bluetooth hs850	none	motorola bluetooth hs850
 SemSearch_ES-125	nokia	entity	nokia e73
 SemSearch_ES-125	e73	entity	nokia e73
 SemSearch_ES-125	nokia e73	entity	nokia e73
@@ -2909,54 +2909,54 @@ SemSearch_LS-32	depict mount		presidents depicted on mount rushmore who died of 
 SemSearch_LS-32	mount rushmore		presidents depicted on mount rushmore who died of shooting
 SemSearch_LS-32	rushmore die		presidents depicted on mount rushmore who died of shooting
 SemSearch_LS-32	die shoot		presidents depicted on mount rushmore who died of shooting
-SemSearch_LS-33	provinces		provinces and territories of Canada
-SemSearch_LS-33	territory		provinces and territories of Canada
-SemSearch_LS-33	canada		provinces and territories of Canada
-SemSearch_LS-33	provinces territory		provinces and territories of Canada
-SemSearch_LS-33	territory canada		provinces and territories of Canada
-SemSearch_LS-34	ratt		ratt albums
-SemSearch_LS-34	album		ratt albums
-SemSearch_LS-34	ratt album		ratt albums
-SemSearch_LS-35	republic		republics of the former Yugoslavia
-SemSearch_LS-35	former		republics of the former Yugoslavia
-SemSearch_LS-35	yugoslavia		republics of the former Yugoslavia
-SemSearch_LS-35	republic former		republics of the former Yugoslavia
-SemSearch_LS-35	former yugoslavia		republics of the former Yugoslavia
-SemSearch_LS-36	revolutionary		revolutionaries of 1959 in Cuba
-SemSearch_LS-36	1959		revolutionaries of 1959 in Cuba
-SemSearch_LS-36	cuba		revolutionaries of 1959 in Cuba
-SemSearch_LS-36	revolutionary 1959		revolutionaries of 1959 in Cuba
-SemSearch_LS-36	1959 cuba		revolutionaries of 1959 in Cuba
-SemSearch_LS-37	standard		standard axioms of set theory
-SemSearch_LS-37	axiom		standard axioms of set theory
-SemSearch_LS-37	set		standard axioms of set theory
-SemSearch_LS-37	theory		standard axioms of set theory
-SemSearch_LS-37	standard axiom		standard axioms of set theory
-SemSearch_LS-37	axiom set		standard axioms of set theory
-SemSearch_LS-37	set theory		standard axioms of set theory
-SemSearch_LS-38	states		states that border oklahoma
-SemSearch_LS-38	border		states that border oklahoma
-SemSearch_LS-38	oklahoma		states that border oklahoma
-SemSearch_LS-38	states border		states that border oklahoma
-SemSearch_LS-38	border oklahoma		states that border oklahoma
-SemSearch_LS-39	ten		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	ancient		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	greece		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	city		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	kingdom		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	cyprus		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	ten ancient		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	ancient greece		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	greece city		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	city kingdom		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	kingdom cyprus		ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-40	first		the first 13 american states
-SemSearch_LS-40	13		the first 13 american states
-SemSearch_LS-40	america		the first 13 american states
-SemSearch_LS-40	states		the first 13 american states
-SemSearch_LS-40	first 13		the first 13 american states
-SemSearch_LS-40	13 america		the first 13 american states
-SemSearch_LS-40	america states		the first 13 american states
+SemSearch_LS-33	provinces	type	provinces and territories of Canada
+SemSearch_LS-33	territory	type	provinces and territories of Canada
+SemSearch_LS-33	canada	relation	provinces and territories of Canada
+SemSearch_LS-33	provinces territory	none	provinces and territories of Canada
+SemSearch_LS-33	territory canada	none	provinces and territories of Canada
+SemSearch_LS-34	ratt	entity	ratt albums
+SemSearch_LS-34	album	type	ratt albums
+SemSearch_LS-34	ratt album	type	ratt albums
+SemSearch_LS-35	republic	type	republics of the former Yugoslavia
+SemSearch_LS-35	former	none	republics of the former Yugoslavia
+SemSearch_LS-35	yugoslavia	relation	republics of the former Yugoslavia
+SemSearch_LS-35	republic former	none	republics of the former Yugoslavia
+SemSearch_LS-35	former yugoslavia	none	republics of the former Yugoslavia
+SemSearch_LS-36	revolutionary	type	revolutionaries of 1959 in Cuba
+SemSearch_LS-36	1959	none	revolutionaries of 1959 in Cuba
+SemSearch_LS-36	cuba	relation	revolutionaries of 1959 in Cuba
+SemSearch_LS-36	revolutionary 1959	none	revolutionaries of 1959 in Cuba
+SemSearch_LS-36	1959 cuba	none	revolutionaries of 1959 in Cuba
+SemSearch_LS-37	standard	attribute	standard axioms of set theory
+SemSearch_LS-37	axiom	type	standard axioms of set theory
+SemSearch_LS-37	set	none	standard axioms of set theory
+SemSearch_LS-37	theory	none	standard axioms of set theory
+SemSearch_LS-37	standard axiom	type	standard axioms of set theory
+SemSearch_LS-37	axiom set	none	standard axioms of set theory
+SemSearch_LS-37	set theory	relation	standard axioms of set theory
+SemSearch_LS-38	states	type	states that border oklahoma
+SemSearch_LS-38	border	none	states that border oklahoma
+SemSearch_LS-38	oklahoma	relation	states that border oklahoma
+SemSearch_LS-38	states border	none	states that border oklahoma
+SemSearch_LS-38	border oklahoma	none	states that border oklahoma
+SemSearch_LS-39	ten	unsure	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	ancient	attribute	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	greece	attribute	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	city	type	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	kingdom	type	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	cyprus	relation	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	ten ancient	none	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	ancient greece	attribute	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	greece city	none	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	city kingdom	type	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	kingdom cyprus	none	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-40	first	attribute	the first 13 american states
+SemSearch_LS-40	13	none	the first 13 american states
+SemSearch_LS-40	america	attribute	the first 13 american states
+SemSearch_LS-40	states	type	the first 13 american states
+SemSearch_LS-40	first 13	attribute	the first 13 american states
+SemSearch_LS-40	13 america	none	the first 13 american states
+SemSearch_LS-40	america states	type	the first 13 american states
 SemSearch_LS-41	four	none	the four of the companions of the prophet
 SemSearch_LS-41	companion	type	the four of the companions of the prophet
 SemSearch_LS-41	prophet	attribute	the four of the companions of the prophet
