@@ -1041,7 +1041,7 @@ INEX_XER-121	us	attribute	US presidents since 1960
 INEX_XER-121	president	type	US presidents since 1960
 INEX_XER-121	1960	unsure	US presidents since 1960
 INEX_XER-121	us president	type	US presidents since 1960
-INEX_XER-121	president 1960	non	US presidents since 1960
+INEX_XER-121	president 1960	none	US presidents since 1960
 INEX_XER-122	movies	type	Movies with eight or more Academy Awards
 INEX_XER-122	eight	unsure	Movies with eight or more Academy Awards
 INEX_XER-122	academy	unsure	Movies with eight or more Academy Awards
@@ -1251,7 +1251,7 @@ QALD2_te-11	race driver	type	Who is the Formula 1 race driver with the most race
 QALD2_te-11	driver races	unsure	Who is the Formula 1 race driver with the most races?
 QALD2_te-12	give	none	Give me all world heritage sites designated within the past five years.
 QALD2_te-12	world	attribute	Give me all world heritage sites designated within the past five years.
-QALD2_te-12	heritage	atrribute	Give me all world heritage sites designated within the past five years.
+QALD2_te-12	heritage	attribute	Give me all world heritage sites designated within the past five years.
 QALD2_te-12	site	type	Give me all world heritage sites designated within the past five years.
 QALD2_te-12	designate	unsure	Give me all world heritage sites designated within the past five years.
 QALD2_te-12	past	unsure	Give me all world heritage sites designated within the past five years.
@@ -1434,7 +1434,7 @@ QALD2_te-48	headquarters mi6	unsure	In which UK city are the headquarters of the
 QALD2_te-49	weapon	type	Which other weapons did the designer of the Uzi develop?
 QALD2_te-49	designer	attribute	Which other weapons did the designer of the Uzi develop?
 QALD2_te-49	uzi	relation	Which other weapons did the designer of the Uzi develop?
-QALD2_te-49	develop	attribue	Which other weapons did the designer of the Uzi develop?
+QALD2_te-49	develop	attribute	Which other weapons did the designer of the Uzi develop?
 QALD2_te-49	weapon designer	type	Which other weapons did the designer of the Uzi develop?
 QALD2_te-49	designer uzi	attribute	Which other weapons did the designer of the Uzi develop?
 QALD2_te-49	uzi develop	attribute	Which other weapons did the designer of the Uzi develop?
@@ -1614,13 +1614,13 @@ QALD2_te-88	star clint	none	Which films starring Clint Eastwood did he direct hi
 QALD2_te-88	clint eastwood	entity	Which films starring Clint Eastwood did he direct himself?
 QALD2_te-88	eastwood direct	unsure	Which films starring Clint Eastwood did he direct himself?
 QALD2_te-89	city	type	In which city was the former Dutch queen Juliana buried?
-QALD2_te-89	former	attibute	In which city was the former Dutch queen Juliana buried?
+QALD2_te-89	former	attribute	In which city was the former Dutch queen Juliana buried?
 QALD2_te-89	dutch	unsure	In which city was the former Dutch queen Juliana buried?
 QALD2_te-89	queen	none	In which city was the former Dutch queen Juliana buried?
 QALD2_te-89	juliana	relation	In which city was the former Dutch queen Juliana buried?
 QALD2_te-89	bury	none	In which city was the former Dutch queen Juliana buried?
 QALD2_te-89	city former	attribute	In which city was the former Dutch queen Juliana buried?
-QALD2_te-89	former dutch	nonbe	In which city was the former Dutch queen Juliana buried?
+QALD2_te-89	former dutch	none	In which city was the former Dutch queen Juliana buried?
 QALD2_te-89	dutch queen	none	In which city was the former Dutch queen Juliana buried?
 QALD2_te-89	queen juliana	relation	In which city was the former Dutch queen Juliana buried?
 QALD2_te-89	juliana bury	none	In which city was the former Dutch queen Juliana buried?
@@ -1666,7 +1666,7 @@ QALD2_te-95	wrote	none	Who wrote the lyrics for the Polish national anthem?
 QALD2_te-95	lyrics	none	Who wrote the lyrics for the Polish national anthem?
 QALD2_te-95	polish	attribute	Who wrote the lyrics for the Polish national anthem?
 QALD2_te-95	national	attribute	Who wrote the lyrics for the Polish national anthem?
-QALD2_te-95	anthem	atrribute	Who wrote the lyrics for the Polish national anthem?
+QALD2_te-95	anthem	attribute	Who wrote the lyrics for the Polish national anthem?
 QALD2_te-95	wrote lyrics	none	Who wrote the lyrics for the Polish national anthem?
 QALD2_te-95	lyrics polish	attribute	Who wrote the lyrics for the Polish national anthem?
 QALD2_te-95	polish national	attribute	Who wrote the lyrics for the Polish national anthem?
@@ -1769,7 +1769,7 @@ QALD2_tr-16	country	unsure	Give me the capitals of all countries in Africa.
 QALD2_tr-16	africa	relation	Give me the capitals of all countries in Africa.
 QALD2_tr-16	give capitals	none	Give me the capitals of all countries in Africa.
 QALD2_tr-16	capitals country	unsure	Give me the capitals of all countries in Africa.
-QALD2_tr-16	country africa	atrribute	Give me the capitals of all countries in Africa.
+QALD2_tr-16	country africa	attribute	Give me the capitals of all countries in Africa.
 QALD2_tr-17	give	none	Give me all cities in New Jersey with more than 100000 inhabitants.
 QALD2_tr-17	city	type	Give me all cities in New Jersey with more than 100000 inhabitants.
 QALD2_tr-17	new	none	Give me all cities in New Jersey with more than 100000 inhabitants.
@@ -1901,7 +1901,7 @@ QALD2_tr-40	australia	relation	What is the highest mountain in Australia?
 QALD2_tr-40	highest mountain	type	What is the highest mountain in Australia?
 QALD2_tr-40	mountain australia	none	What is the highest mountain in Australia?
 QALD2_tr-41	give	none	Give me all soccer clubs in Spain.
-QALD2_tr-41	soccer	attibute	Give me all soccer clubs in Spain.
+QALD2_tr-41	soccer	attribute	Give me all soccer clubs in Spain.
 QALD2_tr-41	club	type	Give me all soccer clubs in Spain.
 QALD2_tr-41	spain	relation	Give me all soccer clubs in Spain.
 QALD2_tr-41	give soccer	none	Give me all soccer clubs in Spain.
