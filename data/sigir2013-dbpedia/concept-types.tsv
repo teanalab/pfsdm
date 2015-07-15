@@ -1937,328 +1937,328 @@ QALD2_tr-47	karakoram	relation	What is the highest place of Karakoram?
 QALD2_tr-47	highest place	type	What is the highest place of Karakoram?
 QALD2_tr-47	place karakoram	none	What is the highest place of Karakoram?
 QALD2_tr-49	give	none	Give me all companies in the advertising industry.
-QALD2_tr-49	company		Give me all companies in the advertising industry.
-QALD2_tr-49	advertising		Give me all companies in the advertising industry.
-QALD2_tr-49	industry		Give me all companies in the advertising industry.
-QALD2_tr-49	give company		Give me all companies in the advertising industry.
-QALD2_tr-49	company advertising		Give me all companies in the advertising industry.
-QALD2_tr-49	advertising industry		Give me all companies in the advertising industry.
-QALD2_tr-50	bruce		What did Bruce Carver die from?
-QALD2_tr-50	carver		What did Bruce Carver die from?
-QALD2_tr-50	die		What did Bruce Carver die from?
-QALD2_tr-50	bruce carver		What did Bruce Carver die from?
-QALD2_tr-50	carver die		What did Bruce Carver die from?
-QALD2_tr-51	give		Give me all school types.
-QALD2_tr-51	school		Give me all school types.
-QALD2_tr-51	type		Give me all school types.
-QALD2_tr-51	give school		Give me all school types.
-QALD2_tr-51	school type		Give me all school types.
-QALD2_tr-52	president		Which presidents were born in 1945?
-QALD2_tr-52	born		Which presidents were born in 1945?
-QALD2_tr-52	1945		Which presidents were born in 1945?
-QALD2_tr-52	president born		Which presidents were born in 1945?
-QALD2_tr-52	born 1945		Which presidents were born in 1945?
-QALD2_tr-53	give		Give me all presidents of the United States.
-QALD2_tr-53	president		Give me all presidents of the United States.
-QALD2_tr-53	united		Give me all presidents of the United States.
-QALD2_tr-53	states		Give me all presidents of the United States.
-QALD2_tr-53	give president		Give me all presidents of the United States.
-QALD2_tr-53	president united		Give me all presidents of the United States.
-QALD2_tr-53	united states		Give me all presidents of the United States.
-QALD2_tr-54	wife		Who was the wife of U.S. president Lincoln?
-QALD2_tr-54	us		Who was the wife of U.S. president Lincoln?
-QALD2_tr-54	president		Who was the wife of U.S. president Lincoln?
-QALD2_tr-54	lincoln		Who was the wife of U.S. president Lincoln?
-QALD2_tr-54	wife us		Who was the wife of U.S. president Lincoln?
-QALD2_tr-54	us president		Who was the wife of U.S. president Lincoln?
-QALD2_tr-54	president lincoln		Who was the wife of U.S. president Lincoln?
-QALD2_tr-55	develop		Who developed the video game World of Warcraft?
-QALD2_tr-55	video		Who developed the video game World of Warcraft?
-QALD2_tr-55	game		Who developed the video game World of Warcraft?
-QALD2_tr-55	world		Who developed the video game World of Warcraft?
-QALD2_tr-55	warcraft		Who developed the video game World of Warcraft?
-QALD2_tr-55	develop video		Who developed the video game World of Warcraft?
-QALD2_tr-55	video game		Who developed the video game World of Warcraft?
-QALD2_tr-55	game world		Who developed the video game World of Warcraft?
-QALD2_tr-55	world warcraft		Who developed the video game World of Warcraft?
-QALD2_tr-57	list		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	episode		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	first		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	season		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	hbo		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	television		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	series		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	soprano		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	list episode		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	episode first		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	first season		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	season hbo		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	hbo television		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	television series		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-57	series soprano		List all episodes of the first season of the HBO television series The Sopranos!
-QALD2_tr-58	produce		Who produced the most films?
-QALD2_tr-58	film		Who produced the most films?
-QALD2_tr-58	produce film		Who produced the most films?
-QALD2_tr-59	give		Give me all people with first name Jimmy.
-QALD2_tr-59	people		Give me all people with first name Jimmy.
-QALD2_tr-59	first		Give me all people with first name Jimmy.
-QALD2_tr-59	name		Give me all people with first name Jimmy.
-QALD2_tr-59	jimmy		Give me all people with first name Jimmy.
-QALD2_tr-59	give people		Give me all people with first name Jimmy.
-QALD2_tr-59	people first		Give me all people with first name Jimmy.
-QALD2_tr-59	first name		Give me all people with first name Jimmy.
-QALD2_tr-59	name jimmy		Give me all people with first name Jimmy.
-QALD2_tr-61	mountain		Which mountains are higher than the Nanga Parbat?
-QALD2_tr-61	higher		Which mountains are higher than the Nanga Parbat?
-QALD2_tr-61	nanga		Which mountains are higher than the Nanga Parbat?
-QALD2_tr-61	parbat		Which mountains are higher than the Nanga Parbat?
-QALD2_tr-61	mountain higher		Which mountains are higher than the Nanga Parbat?
-QALD2_tr-61	higher nanga		Which mountains are higher than the Nanga Parbat?
-QALD2_tr-61	nanga parbat		Which mountains are higher than the Nanga Parbat?
-QALD2_tr-62	create		Who created Wikipedia?
-QALD2_tr-62	wikipedia		Who created Wikipedia?
-QALD2_tr-62	create wikipedia		Who created Wikipedia?
-QALD2_tr-63	give		Give me all actors starring in Batman Begins.
-QALD2_tr-63	actor		Give me all actors starring in Batman Begins.
-QALD2_tr-63	star		Give me all actors starring in Batman Begins.
-QALD2_tr-63	batman		Give me all actors starring in Batman Begins.
-QALD2_tr-63	begin		Give me all actors starring in Batman Begins.
-QALD2_tr-63	give actor		Give me all actors starring in Batman Begins.
-QALD2_tr-63	actor star		Give me all actors starring in Batman Begins.
-QALD2_tr-63	star batman		Give me all actors starring in Batman Begins.
-QALD2_tr-63	batman begin		Give me all actors starring in Batman Begins.
-QALD2_tr-64	software		Which software has been developed by organizations founded in California?
-QALD2_tr-64	develop		Which software has been developed by organizations founded in California?
-QALD2_tr-64	organization		Which software has been developed by organizations founded in California?
-QALD2_tr-64	found		Which software has been developed by organizations founded in California?
-QALD2_tr-64	california		Which software has been developed by organizations founded in California?
-QALD2_tr-64	software develop		Which software has been developed by organizations founded in California?
-QALD2_tr-64	develop organization		Which software has been developed by organizations founded in California?
-QALD2_tr-64	organization found		Which software has been developed by organizations founded in California?
-QALD2_tr-64	found california		Which software has been developed by organizations founded in California?
-QALD2_tr-65	company		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	work		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	aerospace		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	industry		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	nuclear		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	reactor		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	technology		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	company work		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	work aerospace		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	aerospace industry		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	industry nuclear		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	nuclear reactor		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-65	reactor technology		Which companies work in the aerospace industry as well as on nuclear reactor technology?
-QALD2_tr-68	actor		Which actors were born in Germany?
-QALD2_tr-68	born		Which actors were born in Germany?
-QALD2_tr-68	germany		Which actors were born in Germany?
-QALD2_tr-68	actor born		Which actors were born in Germany?
-QALD2_tr-68	born germany		Which actors were born in Germany?
-QALD2_tr-69	cave		Which caves have more than 3 entrances?
-QALD2_tr-69	3		Which caves have more than 3 entrances?
-QALD2_tr-69	entrance		Which caves have more than 3 entrances?
-QALD2_tr-69	cave 3		Which caves have more than 3 entrances?
-QALD2_tr-69	3 entrance		Which caves have more than 3 entrances?
-QALD2_tr-70	give		Give me all films produced by Hal Roach.
-QALD2_tr-70	film		Give me all films produced by Hal Roach.
-QALD2_tr-70	produce		Give me all films produced by Hal Roach.
-QALD2_tr-70	hal		Give me all films produced by Hal Roach.
-QALD2_tr-70	roach		Give me all films produced by Hal Roach.
-QALD2_tr-70	give film		Give me all films produced by Hal Roach.
-QALD2_tr-70	film produce		Give me all films produced by Hal Roach.
-QALD2_tr-70	produce hal		Give me all films produced by Hal Roach.
-QALD2_tr-70	hal roach		Give me all films produced by Hal Roach.
-QALD2_tr-71	give		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	video		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	games		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	publish		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	mean		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	hamster		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	software		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	give video		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	video games		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	games publish		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	publish mean		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	mean hamster		Give me all video games published by Mean Hamster Software.
-QALD2_tr-71	hamster software		Give me all video games published by Mean Hamster Software.
-QALD2_tr-72	language		Which languages are spoken in Estonia?
-QALD2_tr-72	spoken		Which languages are spoken in Estonia?
-QALD2_tr-72	estonia		Which languages are spoken in Estonia?
-QALD2_tr-72	language spoken		Which languages are spoken in Estonia?
-QALD2_tr-72	spoken estonia		Which languages are spoken in Estonia?
-QALD2_tr-73	own		Who owns Aldi?
-QALD2_tr-73	aldi		Who owns Aldi?
-QALD2_tr-73	own aldi		Who owns Aldi?
-QALD2_tr-74	capitals		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	europe		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	host		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	city		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	summer		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	olympic		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	games		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	capitals europe		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	europe host		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	host city		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	city summer		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	summer olympic		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-74	olympic games		Which capitals in Europe were host cities of the summer olympic games?
-QALD2_tr-75	5th		Who has been the 5th president of the United States of America?
-QALD2_tr-75	president		Who has been the 5th president of the United States of America?
-QALD2_tr-75	united		Who has been the 5th president of the United States of America?
-QALD2_tr-75	states		Who has been the 5th president of the United States of America?
-QALD2_tr-75	america		Who has been the 5th president of the United States of America?
-QALD2_tr-75	5th president		Who has been the 5th president of the United States of America?
-QALD2_tr-75	president united		Who has been the 5th president of the United States of America?
-QALD2_tr-75	united states		Who has been the 5th president of the United States of America?
-QALD2_tr-75	states america		Who has been the 5th president of the United States of America?
-QALD2_tr-77	music		Which music albums contain the song Last Christmas?
-QALD2_tr-77	album		Which music albums contain the song Last Christmas?
-QALD2_tr-77	contain		Which music albums contain the song Last Christmas?
-QALD2_tr-77	song		Which music albums contain the song Last Christmas?
-QALD2_tr-77	christmas		Which music albums contain the song Last Christmas?
-QALD2_tr-77	music album		Which music albums contain the song Last Christmas?
-QALD2_tr-77	album contain		Which music albums contain the song Last Christmas?
-QALD2_tr-77	contain song		Which music albums contain the song Last Christmas?
-QALD2_tr-77	song christmas		Which music albums contain the song Last Christmas?
-QALD2_tr-78	give		Give me all books written by Danielle Steel.
-QALD2_tr-78	books		Give me all books written by Danielle Steel.
-QALD2_tr-78	written		Give me all books written by Danielle Steel.
-QALD2_tr-78	danielle		Give me all books written by Danielle Steel.
-QALD2_tr-78	steel		Give me all books written by Danielle Steel.
-QALD2_tr-78	give books		Give me all books written by Danielle Steel.
-QALD2_tr-78	books written		Give me all books written by Danielle Steel.
-QALD2_tr-78	written danielle		Give me all books written by Danielle Steel.
-QALD2_tr-78	danielle steel		Give me all books written by Danielle Steel.
-QALD2_tr-79	airport		Which airports are located in California, USA?
-QALD2_tr-79	located		Which airports are located in California, USA?
-QALD2_tr-79	california		Which airports are located in California, USA?
-QALD2_tr-79	usa		Which airports are located in California, USA?
-QALD2_tr-79	airport located		Which airports are located in California, USA?
-QALD2_tr-79	located california		Which airports are located in California, USA?
-QALD2_tr-79	california usa		Which airports are located in California, USA?
-QALD2_tr-80	give		Give me all Canadian Grunge record labels.
-QALD2_tr-80	canada		Give me all Canadian Grunge record labels.
-QALD2_tr-80	grunge		Give me all Canadian Grunge record labels.
-QALD2_tr-80	record		Give me all Canadian Grunge record labels.
-QALD2_tr-80	label		Give me all Canadian Grunge record labels.
-QALD2_tr-80	give canada		Give me all Canadian Grunge record labels.
-QALD2_tr-80	canada grunge		Give me all Canadian Grunge record labels.
-QALD2_tr-80	grunge record		Give me all Canadian Grunge record labels.
-QALD2_tr-80	record label		Give me all Canadian Grunge record labels.
-QALD2_tr-81	country		Which country has the most official languages?
-QALD2_tr-81	official		Which country has the most official languages?
-QALD2_tr-81	language		Which country has the most official languages?
-QALD2_tr-81	country official		Which country has the most official languages?
-QALD2_tr-81	official language		Which country has the most official languages?
-QALD2_tr-82	program		In which programming language is GIMP written?
-QALD2_tr-82	language		In which programming language is GIMP written?
-QALD2_tr-82	gimp		In which programming language is GIMP written?
-QALD2_tr-82	written		In which programming language is GIMP written?
-QALD2_tr-82	program language		In which programming language is GIMP written?
-QALD2_tr-82	language gimp		In which programming language is GIMP written?
-QALD2_tr-82	gimp written		In which programming language is GIMP written?
-QALD2_tr-83	produce		Who produced films starring Natalie Portman?
-QALD2_tr-83	film		Who produced films starring Natalie Portman?
-QALD2_tr-83	star		Who produced films starring Natalie Portman?
-QALD2_tr-83	natalie		Who produced films starring Natalie Portman?
-QALD2_tr-83	portman		Who produced films starring Natalie Portman?
-QALD2_tr-83	produce film		Who produced films starring Natalie Portman?
-QALD2_tr-83	film star		Who produced films starring Natalie Portman?
-QALD2_tr-83	star natalie		Who produced films starring Natalie Portman?
-QALD2_tr-83	natalie portman		Who produced films starring Natalie Portman?
-QALD2_tr-84	give		Give me all movies with Tom Cruise.
-QALD2_tr-84	movies		Give me all movies with Tom Cruise.
-QALD2_tr-84	tom		Give me all movies with Tom Cruise.
-QALD2_tr-84	cruise		Give me all movies with Tom Cruise.
-QALD2_tr-84	give movies		Give me all movies with Tom Cruise.
-QALD2_tr-84	movies tom		Give me all movies with Tom Cruise.
-QALD2_tr-84	tom cruise		Give me all movies with Tom Cruise.
-QALD2_tr-85	film		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	julia		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	robert		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	richard		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	gere		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	play		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	film julia		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	julia robert		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	robert richard		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	richard gere		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-85	gere play		In which films did Julia Roberts as well as Richard Gere play?
-QALD2_tr-86	give		Give me all female German chancellors.
-QALD2_tr-86	female		Give me all female German chancellors.
-QALD2_tr-86	germany		Give me all female German chancellors.
-QALD2_tr-86	chancellor		Give me all female German chancellors.
-QALD2_tr-86	give female		Give me all female German chancellors.
-QALD2_tr-86	female germany		Give me all female German chancellors.
-QALD2_tr-86	germany chancellor		Give me all female German chancellors.
-QALD2_tr-87	wrote		Who wrote the book The pillars of the Earth?
-QALD2_tr-87	book		Who wrote the book The pillars of the Earth?
-QALD2_tr-87	pillar		Who wrote the book The pillars of the Earth?
-QALD2_tr-87	earth		Who wrote the book The pillars of the Earth?
-QALD2_tr-87	wrote book		Who wrote the book The pillars of the Earth?
-QALD2_tr-87	book pillar		Who wrote the book The pillars of the Earth?
-QALD2_tr-87	pillar earth		Who wrote the book The pillars of the Earth?
-QALD2_tr-89	give		Give me all soccer clubs in the Premier League.
-QALD2_tr-89	soccer		Give me all soccer clubs in the Premier League.
-QALD2_tr-89	club		Give me all soccer clubs in the Premier League.
-QALD2_tr-89	premier		Give me all soccer clubs in the Premier League.
-QALD2_tr-89	league		Give me all soccer clubs in the Premier League.
-QALD2_tr-89	give soccer		Give me all soccer clubs in the Premier League.
-QALD2_tr-89	soccer club		Give me all soccer clubs in the Premier League.
-QALD2_tr-89	club premier		Give me all soccer clubs in the Premier League.
-QALD2_tr-89	premier league		Give me all soccer clubs in the Premier League.
-QALD2_tr-91	organization		Which organizations were founded in 1950?
-QALD2_tr-91	found		Which organizations were founded in 1950?
-QALD2_tr-91	1950		Which organizations were founded in 1950?
-QALD2_tr-91	organization found		Which organizations were founded in 1950?
-QALD2_tr-91	found 1950		Which organizations were founded in 1950?
-QALD2_tr-92	highest		What is the highest mountain?
-QALD2_tr-92	mountain		What is the highest mountain?
-QALD2_tr-92	highest mountain		What is the highest mountain?
-SemSearch_ES-1	44		44 magnum hunting
-SemSearch_ES-1	magnum		44 magnum hunting
-SemSearch_ES-1	hunting		44 magnum hunting
-SemSearch_ES-1	44 magnum		44 magnum hunting
-SemSearch_ES-1	magnum hunting		44 magnum hunting
-SemSearch_ES-2	b		B. F. Skinner
-SemSearch_ES-2	f		B. F. Skinner
-SemSearch_ES-2	skin		B. F. Skinner
-SemSearch_ES-2	b f		B. F. Skinner
-SemSearch_ES-2	f skin		B. F. Skinner
-SemSearch_ES-3	bookwork		Bookwork
-SemSearch_ES-4	naacp		NAACP Image Awards
-SemSearch_ES-4	image		NAACP Image Awards
-SemSearch_ES-4	award		NAACP Image Awards
-SemSearch_ES-4	naacp image		NAACP Image Awards
-SemSearch_ES-4	image award		NAACP Image Awards
-SemSearch_ES-5	scott		Scott County
-SemSearch_ES-5	county		Scott County
-SemSearch_ES-5	scott county		Scott County
-SemSearch_ES-6	air		air wisconsin
-SemSearch_ES-6	wisconsin		air wisconsin
-SemSearch_ES-6	air wisconsin		air wisconsin
-SemSearch_ES-7	airsoft		airsoft glock
-SemSearch_ES-7	glock		airsoft glock
-SemSearch_ES-7	airsoft glock		airsoft glock
-SemSearch_ES-8	aloha		aloha sol
-SemSearch_ES-8	sol		aloha sol
-SemSearch_ES-8	aloha sol		aloha sol
-SemSearch_ES-9	america		american embassy nairobi
-SemSearch_ES-9	embassy		american embassy nairobi
-SemSearch_ES-9	nairobi		american embassy nairobi
-SemSearch_ES-9	america embassy		american embassy nairobi
-SemSearch_ES-9	embassy nairobi		american embassy nairobi
-SemSearch_ES-10	asheville		asheville north carolina
-SemSearch_ES-10	north		asheville north carolina
-SemSearch_ES-10	carolina		asheville north carolina
-SemSearch_ES-10	asheville north		asheville north carolina
-SemSearch_ES-10	north carolina		asheville north carolina
-SemSearch_ES-11	austin		austin powers
-SemSearch_ES-11	powers		austin powers
-SemSearch_ES-11	austin powers		austin powers
-SemSearch_ES-12	austin		austin texas
-SemSearch_ES-12	texas		austin texas
-SemSearch_ES-12	austin texas		austin texas
+QALD2_tr-49	company	type	Give me all companies in the advertising industry.
+QALD2_tr-49	advertising	attribute	Give me all companies in the advertising industry.
+QALD2_tr-49	industry	attribute	Give me all companies in the advertising industry.
+QALD2_tr-49	give company	none	Give me all companies in the advertising industry.
+QALD2_tr-49	company advertising	none	Give me all companies in the advertising industry.
+QALD2_tr-49	advertising industry	attribute	Give me all companies in the advertising industry.
+QALD2_tr-50	bruce	relation	What did Bruce Carver die from?
+QALD2_tr-50	carver	relation	What did Bruce Carver die from?
+QALD2_tr-50	die	none	What did Bruce Carver die from?
+QALD2_tr-50	bruce carver	relation	What did Bruce Carver die from?
+QALD2_tr-50	carver die	none	What did Bruce Carver die from?
+QALD2_tr-51	give	none	Give me all school types.
+QALD2_tr-51	school	attribute	Give me all school types.
+QALD2_tr-51	type	type	Give me all school types.
+QALD2_tr-51	give school	none	Give me all school types.
+QALD2_tr-51	school type	type	Give me all school types.
+QALD2_tr-52	president	type	Which presidents were born in 1945?
+QALD2_tr-52	born	none	Which presidents were born in 1945?
+QALD2_tr-52	1945	none	Which presidents were born in 1945?
+QALD2_tr-52	president born	none	Which presidents were born in 1945?
+QALD2_tr-52	born 1945	attribute	Which presidents were born in 1945?
+QALD2_tr-53	give	none	Give me all presidents of the United States.
+QALD2_tr-53	president	type	Give me all presidents of the United States.
+QALD2_tr-53	united	attribute	Give me all presidents of the United States.
+QALD2_tr-53	states	attribute	Give me all presidents of the United States.
+QALD2_tr-53	give president	none	Give me all presidents of the United States.
+QALD2_tr-53	president united	none	Give me all presidents of the United States.
+QALD2_tr-53	united states	attribute	Give me all presidents of the United States.
+QALD2_tr-54	wife	type	Who was the wife of U.S. president Lincoln?
+QALD2_tr-54	us	attribute	Who was the wife of U.S. president Lincoln?
+QALD2_tr-54	president	attribute	Who was the wife of U.S. president Lincoln?
+QALD2_tr-54	lincoln	relation	Who was the wife of U.S. president Lincoln?
+QALD2_tr-54	wife us	none	Who was the wife of U.S. president Lincoln?
+QALD2_tr-54	us president	attribute	Who was the wife of U.S. president Lincoln?
+QALD2_tr-54	president lincoln	relation	Who was the wife of U.S. president Lincoln?
+QALD2_tr-55	develop	type	Who developed the video game World of Warcraft?
+QALD2_tr-55	video	none	Who developed the video game World of Warcraft?
+QALD2_tr-55	game	none	Who developed the video game World of Warcraft?
+QALD2_tr-55	world	none	Who developed the video game World of Warcraft?
+QALD2_tr-55	warcraft	none	Who developed the video game World of Warcraft?
+QALD2_tr-55	develop video	none	Who developed the video game World of Warcraft?
+QALD2_tr-55	video game	none	Who developed the video game World of Warcraft?
+QALD2_tr-55	game world	none	Who developed the video game World of Warcraft?
+QALD2_tr-55	world warcraft	relation	Who developed the video game World of Warcraft?
+QALD2_tr-57	list	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	episode	type	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	first	attribute	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	season	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	hbo	relation	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	television	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	series	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	soprano	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	list episode	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	episode first	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	first season	attribute	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	season hbo	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	hbo television	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	television series	attribute	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-57	series soprano	none	List all episodes of the first season of the HBO television series The Sopranos!
+QALD2_tr-58	produce	none	Who produced the most films?
+QALD2_tr-58	film	unsure	Who produced the most films?
+QALD2_tr-58	produce film	none	Who produced the most films?
+QALD2_tr-59	give	none	Give me all people with first name Jimmy.
+QALD2_tr-59	people	type	Give me all people with first name Jimmy.
+QALD2_tr-59	first	unsure	Give me all people with first name Jimmy.
+QALD2_tr-59	name	none	Give me all people with first name Jimmy.
+QALD2_tr-59	jimmy	relation	Give me all people with first name Jimmy.
+QALD2_tr-59	give people	none	Give me all people with first name Jimmy.
+QALD2_tr-59	people first	none	Give me all people with first name Jimmy.
+QALD2_tr-59	first name	attribute	Give me all people with first name Jimmy.
+QALD2_tr-59	name jimmy	none	Give me all people with first name Jimmy.
+QALD2_tr-61	mountain	type	Which mountains are higher than the Nanga Parbat?
+QALD2_tr-61	higher	attribute	Which mountains are higher than the Nanga Parbat?
+QALD2_tr-61	nanga	relation	Which mountains are higher than the Nanga Parbat?
+QALD2_tr-61	parbat	relation	Which mountains are higher than the Nanga Parbat?
+QALD2_tr-61	mountain higher	none	Which mountains are higher than the Nanga Parbat?
+QALD2_tr-61	higher nanga	none	Which mountains are higher than the Nanga Parbat?
+QALD2_tr-61	nanga parbat	relation	Which mountains are higher than the Nanga Parbat?
+QALD2_tr-62	create	none	Who created Wikipedia?
+QALD2_tr-62	wikipedia	relation	Who created Wikipedia?
+QALD2_tr-62	create wikipedia	none	Who created Wikipedia?
+QALD2_tr-63	give	none	Give me all actors starring in Batman Begins.
+QALD2_tr-63	actor	type	Give me all actors starring in Batman Begins.
+QALD2_tr-63	star	none	Give me all actors starring in Batman Begins.
+QALD2_tr-63	batman	relation	Give me all actors starring in Batman Begins.
+QALD2_tr-63	begin	none	Give me all actors starring in Batman Begins.
+QALD2_tr-63	give actor	none	Give me all actors starring in Batman Begins.
+QALD2_tr-63	actor star	none	Give me all actors starring in Batman Begins.
+QALD2_tr-63	star batman	none	Give me all actors starring in Batman Begins.
+QALD2_tr-63	batman begin	relation	Give me all actors starring in Batman Begins.
+QALD2_tr-64	software	type	Which software has been developed by organizations founded in California?
+QALD2_tr-64	develop	none	Which software has been developed by organizations founded in California?
+QALD2_tr-64	organization	none	Which software has been developed by organizations founded in California?
+QALD2_tr-64	found	attribute	Which software has been developed by organizations founded in California?
+QALD2_tr-64	california	relation	Which software has been developed by organizations founded in California?
+QALD2_tr-64	software develop	none	Which software has been developed by organizations founded in California?
+QALD2_tr-64	develop organization	none	Which software has been developed by organizations founded in California?
+QALD2_tr-64	organization found	none	Which software has been developed by organizations founded in California?
+QALD2_tr-64	found california	none	Which software has been developed by organizations founded in California?
+QALD2_tr-65	company	type	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	work	none	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	aerospace	attribute	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	industry	attribute	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	nuclear	attribute	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	reactor	unsure	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	technology	unsure	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	company work	none	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	work aerospace	none	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	aerospace industry	attribute	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	industry nuclear	attribute	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	nuclear reactor	attribute	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-65	reactor technology	attribute	Which companies work in the aerospace industry as well as on nuclear reactor technology?
+QALD2_tr-68	actor	type	Which actors were born in Germany?
+QALD2_tr-68	born	none	Which actors were born in Germany?
+QALD2_tr-68	germany	relation	Which actors were born in Germany?
+QALD2_tr-68	actor born	none	Which actors were born in Germany?
+QALD2_tr-68	born germany	none	Which actors were born in Germany?
+QALD2_tr-69	cave	type	Which caves have more than 3 entrances?
+QALD2_tr-69	3	none	Which caves have more than 3 entrances?
+QALD2_tr-69	entrance	none	Which caves have more than 3 entrances?
+QALD2_tr-69	cave 3	none	Which caves have more than 3 entrances?
+QALD2_tr-69	3 entrance	attribute	Which caves have more than 3 entrances?
+QALD2_tr-70	give	none	Give me all films produced by Hal Roach.
+QALD2_tr-70	film	type	Give me all films produced by Hal Roach.
+QALD2_tr-70	produce	none	Give me all films produced by Hal Roach.
+QALD2_tr-70	hal	relation	Give me all films produced by Hal Roach.
+QALD2_tr-70	roach	relation	Give me all films produced by Hal Roach.
+QALD2_tr-70	give film	none	Give me all films produced by Hal Roach.
+QALD2_tr-70	film produce	none	Give me all films produced by Hal Roach.
+QALD2_tr-70	produce hal	none	Give me all films produced by Hal Roach.
+QALD2_tr-70	hal roach	relation	Give me all films produced by Hal Roach.
+QALD2_tr-71	give	none	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	video	attribute	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	games	type	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	publish	none	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	mean	relation	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	hamster	relation	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	software	unsure	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	give video	none	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	video games	type	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	games publish	none	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	publish mean	none	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	mean hamster	relation	Give me all video games published by Mean Hamster Software.
+QALD2_tr-71	hamster software	relation	Give me all video games published by Mean Hamster Software.
+QALD2_tr-72	language	type	Which languages are spoken in Estonia?
+QALD2_tr-72	spoken	none	Which languages are spoken in Estonia?
+QALD2_tr-72	estonia	relation	Which languages are spoken in Estonia?
+QALD2_tr-72	language spoken	none	Which languages are spoken in Estonia?
+QALD2_tr-72	spoken estonia	none	Which languages are spoken in Estonia?
+QALD2_tr-73	own	none	Who owns Aldi?
+QALD2_tr-73	aldi	relation	Who owns Aldi?
+QALD2_tr-73	own aldi	none	Who owns Aldi?
+QALD2_tr-74	capitals	type	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	europe	relation	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	host	attribute	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	city	none	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	summer	none	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	olympic	none	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	games	none	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	capitals europe	none	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	europe host	none	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	host city	attribute	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	city summer	none	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	summer olympic	none	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-74	olympic games	relation	Which capitals in Europe were host cities of the summer olympic games?
+QALD2_tr-75	5th	attribute	Who has been the 5th president of the United States of America?
+QALD2_tr-75	president	type	Who has been the 5th president of the United States of America?
+QALD2_tr-75	united	relation	Who has been the 5th president of the United States of America?
+QALD2_tr-75	states	relation	Who has been the 5th president of the United States of America?
+QALD2_tr-75	america	relation	Who has been the 5th president of the United States of America?
+QALD2_tr-75	5th president	type	Who has been the 5th president of the United States of America?
+QALD2_tr-75	president united	none	Who has been the 5th president of the United States of America?
+QALD2_tr-75	united states	relation	Who has been the 5th president of the United States of America?
+QALD2_tr-75	states america	unsure	Who has been the 5th president of the United States of America?
+QALD2_tr-77	music	attribute	Which music albums contain the song Last Christmas?
+QALD2_tr-77	album	type	Which music albums contain the song Last Christmas?
+QALD2_tr-77	contain	none	Which music albums contain the song Last Christmas?
+QALD2_tr-77	song	none	Which music albums contain the song Last Christmas?
+QALD2_tr-77	christmas	unsure	Which music albums contain the song Last Christmas?
+QALD2_tr-77	music album	type	Which music albums contain the song Last Christmas?
+QALD2_tr-77	album contain	none	Which music albums contain the song Last Christmas?
+QALD2_tr-77	contain song	none	Which music albums contain the song Last Christmas?
+QALD2_tr-77	song christmas	none	Which music albums contain the song Last Christmas?
+QALD2_tr-78	give	none	Give me all books written by Danielle Steel.
+QALD2_tr-78	books	type	Give me all books written by Danielle Steel.
+QALD2_tr-78	written	none	Give me all books written by Danielle Steel.
+QALD2_tr-78	danielle	relation	Give me all books written by Danielle Steel.
+QALD2_tr-78	steel	relation	Give me all books written by Danielle Steel.
+QALD2_tr-78	give books	none	Give me all books written by Danielle Steel.
+QALD2_tr-78	books written	none	Give me all books written by Danielle Steel.
+QALD2_tr-78	written danielle	none	Give me all books written by Danielle Steel.
+QALD2_tr-78	danielle steel	relation	Give me all books written by Danielle Steel.
+QALD2_tr-79	airport	type	Which airports are located in California, USA?
+QALD2_tr-79	located	none	Which airports are located in California, USA?
+QALD2_tr-79	california	relation	Which airports are located in California, USA?
+QALD2_tr-79	usa	relation	Which airports are located in California, USA?
+QALD2_tr-79	airport located	none	Which airports are located in California, USA?
+QALD2_tr-79	located california	none	Which airports are located in California, USA?
+QALD2_tr-79	california usa	relation	Which airports are located in California, USA?
+QALD2_tr-80	give	none	Give me all Canadian Grunge record labels.
+QALD2_tr-80	canada	attrbute	Give me all Canadian Grunge record labels.
+QALD2_tr-80	grunge	attribute	Give me all Canadian Grunge record labels.
+QALD2_tr-80	record	unsure	Give me all Canadian Grunge record labels.
+QALD2_tr-80	label	type	Give me all Canadian Grunge record labels.
+QALD2_tr-80	give canada	none	Give me all Canadian Grunge record labels.
+QALD2_tr-80	canada grunge	attribute	Give me all Canadian Grunge record labels.
+QALD2_tr-80	grunge record	none	Give me all Canadian Grunge record labels.
+QALD2_tr-80	record label	none	Give me all Canadian Grunge record labels.
+QALD2_tr-81	country	type	Which country has the most official languages?
+QALD2_tr-81	official	unsure	Which country has the most official languages?
+QALD2_tr-81	language	unsure	Which country has the most official languages?
+QALD2_tr-81	country official	none	Which country has the most official languages?
+QALD2_tr-81	official language	unsure	Which country has the most official languages?
+QALD2_tr-82	program	attribute	In which programming language is GIMP written?
+QALD2_tr-82	language	type	In which programming language is GIMP written?
+QALD2_tr-82	gimp	relation	In which programming language is GIMP written?
+QALD2_tr-82	written	none	In which programming language is GIMP written?
+QALD2_tr-82	program language	type	In which programming language is GIMP written?
+QALD2_tr-82	language gimp	none	In which programming language is GIMP written?
+QALD2_tr-82	gimp written	none	In which programming language is GIMP written?
+QALD2_tr-83	produce	none	Who produced films starring Natalie Portman?
+QALD2_tr-83	film	unsure	Who produced films starring Natalie Portman?
+QALD2_tr-83	star	relation	Who produced films starring Natalie Portman?
+QALD2_tr-83	natalie	relation	Who produced films starring Natalie Portman?
+QALD2_tr-83	portman	none	Who produced films starring Natalie Portman?
+QALD2_tr-83	produce film	none	Who produced films starring Natalie Portman?
+QALD2_tr-83	film star	none	Who produced films starring Natalie Portman?
+QALD2_tr-83	star natalie	none	Who produced films starring Natalie Portman?
+QALD2_tr-83	natalie portman	relation	Who produced films starring Natalie Portman?
+QALD2_tr-84	give	none	Give me all movies with Tom Cruise.
+QALD2_tr-84	movies	type	Give me all movies with Tom Cruise.
+QALD2_tr-84	tom	relation	Give me all movies with Tom Cruise.
+QALD2_tr-84	cruise	relation	Give me all movies with Tom Cruise.
+QALD2_tr-84	give movies	none	Give me all movies with Tom Cruise.
+QALD2_tr-84	movies tom	none	Give me all movies with Tom Cruise.
+QALD2_tr-84	tom cruise	relation	Give me all movies with Tom Cruise.
+QALD2_tr-85	film	type	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	julia	relation	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	robert	relation	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	richard	relation	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	gere	relation	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	play	none	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	film julia	none	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	julia robert	relation	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	robert richard	none	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	richard gere	relation	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-85	gere play	none	In which films did Julia Roberts as well as Richard Gere play?
+QALD2_tr-86	give	none	Give me all female German chancellors.
+QALD2_tr-86	female	attribute	Give me all female German chancellors.
+QALD2_tr-86	germany	attribute	Give me all female German chancellors.
+QALD2_tr-86	chancellor	type	Give me all female German chancellors.
+QALD2_tr-86	give female	none	Give me all female German chancellors.
+QALD2_tr-86	female germany	attribute	Give me all female German chancellors.
+QALD2_tr-86	germany chancellor	type	Give me all female German chancellors.
+QALD2_tr-87	wrote	none	Who wrote the book The pillars of the Earth?
+QALD2_tr-87	book	unsure	Who wrote the book The pillars of the Earth?
+QALD2_tr-87	pillar	none	Who wrote the book The pillars of the Earth?
+QALD2_tr-87	earth	none	Who wrote the book The pillars of the Earth?
+QALD2_tr-87	wrote book	none	Who wrote the book The pillars of the Earth?
+QALD2_tr-87	book pillar	none	Who wrote the book The pillars of the Earth?
+QALD2_tr-87	pillar earth	unsure	Who wrote the book The pillars of the Earth?
+QALD2_tr-89	give	none	Give me all soccer clubs in the Premier League.
+QALD2_tr-89	soccer	attribute	Give me all soccer clubs in the Premier League.
+QALD2_tr-89	club	type	Give me all soccer clubs in the Premier League.
+QALD2_tr-89	premier	relation	Give me all soccer clubs in the Premier League.
+QALD2_tr-89	league	relation	Give me all soccer clubs in the Premier League.
+QALD2_tr-89	give soccer	none	Give me all soccer clubs in the Premier League.
+QALD2_tr-89	soccer club	type	Give me all soccer clubs in the Premier League.
+QALD2_tr-89	club premier	none	Give me all soccer clubs in the Premier League.
+QALD2_tr-89	premier league	relation	Give me all soccer clubs in the Premier League.
+QALD2_tr-91	organization	type	Which organizations were founded in 1950?
+QALD2_tr-91	found	none	Which organizations were founded in 1950?
+QALD2_tr-91	1950	none	Which organizations were founded in 1950?
+QALD2_tr-91	organization found	none	Which organizations were founded in 1950?
+QALD2_tr-91	found 1950	attribute	Which organizations were founded in 1950?
+QALD2_tr-92	highest	attribute	What is the highest mountain?
+QALD2_tr-92	mountain	type	What is the highest mountain?
+QALD2_tr-92	highest mountain	type	What is the highest mountain?
+SemSearch_ES-1	44	none	44 magnum hunting
+SemSearch_ES-1	magnum	unsure	44 magnum hunting
+SemSearch_ES-1	hunting	unsure	44 magnum hunting
+SemSearch_ES-1	44 magnum	unsure	44 magnum hunting
+SemSearch_ES-1	magnum hunting	unsure	44 magnum hunting
+SemSearch_ES-2	b	none	B. F. Skinner
+SemSearch_ES-2	f	none	B. F. Skinner
+SemSearch_ES-2	skin	none	B. F. Skinner
+SemSearch_ES-2	b f	none	B. F. Skinner
+SemSearch_ES-2	f skin	unsure	B. F. Skinner
+SemSearch_ES-3	bookwork	type	Bookwork
+SemSearch_ES-4	naacp	relation	NAACP Image Awards
+SemSearch_ES-4	image	none	NAACP Image Awards
+SemSearch_ES-4	award	type	NAACP Image Awards
+SemSearch_ES-4	naacp image	none	NAACP Image Awards
+SemSearch_ES-4	image award	type	NAACP Image Awards
+SemSearch_ES-5	scott	unsure	Scott County
+SemSearch_ES-5	county	unsure	Scott County
+SemSearch_ES-5	scott county	unsure	Scott County
+SemSearch_ES-6	air	unsure	air wisconsin
+SemSearch_ES-6	wisconsin	unsure	air wisconsin
+SemSearch_ES-6	air wisconsin	unsure	air wisconsin
+SemSearch_ES-7	airsoft	unsure	airsoft glock
+SemSearch_ES-7	glock	unsure	airsoft glock
+SemSearch_ES-7	airsoft glock	unsure	airsoft glock
+SemSearch_ES-8	aloha	unsure	aloha sol
+SemSearch_ES-8	sol	unsure	aloha sol
+SemSearch_ES-8	aloha sol	unsure	aloha sol
+SemSearch_ES-9	america	attribute	american embassy nairobi
+SemSearch_ES-9	embassy	type	american embassy nairobi
+SemSearch_ES-9	nairobi	unsure	american embassy nairobi
+SemSearch_ES-9	america embassy	type	american embassy nairobi
+SemSearch_ES-9	embassy nairobi	none	american embassy nairobi
+SemSearch_ES-10	asheville	unsure	asheville north carolina
+SemSearch_ES-10	north	unsure	asheville north carolina
+SemSearch_ES-10	carolina	unsure	asheville north carolina
+SemSearch_ES-10	asheville north	unsure	asheville north carolina
+SemSearch_ES-10	north carolina	sunre	asheville north carolina
+SemSearch_ES-11	austin	attribute	austin powers
+SemSearch_ES-11	powers	type	austin powers
+SemSearch_ES-11	austin powers	type	austin powers
+SemSearch_ES-12	austin	unsure	austin texas
+SemSearch_ES-12	texas	unsure	austin texas
+SemSearch_ES-12	austin texas	unsure	austin texas
 SemSearch_ES-13	banana		banana paper making
 SemSearch_ES-13	paper		banana paper making
 SemSearch_ES-13	making		banana paper making
@@ -2550,7 +2550,7 @@ SemSearch_ES-90	university phoenix		university of phoenix
 SemSearch_ES-91	westminster		westminster abbey
 SemSearch_ES-91	abbey		westminster abbey
 SemSearch_ES-91	westminster abbey		westminster abbey
-SemSearch_ES-93	08		08 toyota tundra
+SemSearch_ES-93	8		08 toyota tundra
 SemSearch_ES-93	toyota		08 toyota tundra
 SemSearch_ES-93	tundra		08 toyota tundra
 SemSearch_ES-93	08 toyota		08 toyota tundra
