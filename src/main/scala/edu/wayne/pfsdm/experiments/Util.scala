@@ -8,6 +8,7 @@ import scala.collection.JavaConversions._
 /**
  * Created by fsqcds on 4/25/15.
  */
+@deprecated
 object Util {
   def tokenize(text: String): Seq[String] = {
     val tokenizer = new TagTokenizer()

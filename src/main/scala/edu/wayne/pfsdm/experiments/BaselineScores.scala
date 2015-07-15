@@ -15,6 +15,7 @@ import scala.collection.JavaConversions._
 /**
  * Created by fsqcds on 4/25/15.
  */
+@deprecated
 object BaselineScores {
   val parameters = Parameters.parseFile(new File(getClass.getResource("/traversal-config.json").toURI))
   val fields: Seq[String] = parameters.getList("fields", classOf[String])

@@ -7,7 +7,6 @@ import edu.wayne.pfsdm.feature.FieldFeature
 import org.lemurproject.galago.core.retrieval.{Retrieval, RetrievalFactory}
 import org.lemurproject.galago.utility.Parameters
 import org.lemurproject.galago.utility.tools.Arguments
-import BaselineScores._
 
 import scala.io._
 
@@ -16,6 +15,7 @@ import scala.collection.JavaConversions._
 /**
  * Created by fsqcds on 6/10/15.
  */
+@deprecated
 object FeatureValueExperiment extends App {
   def getFeatureValues(tokens: Seq[String], feature: FieldFeature, fields: Seq[String], qId: String): Seq[Double] = {
     fields.map { field =>

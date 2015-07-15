@@ -7,6 +7,7 @@ import scala.io.Source
 /**
  * Created by fsqcds on 6/10/15.
  */
+@deprecated
 object BigramUnigramFromQueriesFileMaker extends App {
   val queries: Seq[(String, String)] = Source.fromInputStream(
     getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().map {
