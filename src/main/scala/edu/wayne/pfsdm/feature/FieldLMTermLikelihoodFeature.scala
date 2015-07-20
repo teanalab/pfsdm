@@ -43,7 +43,12 @@ class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFie
   }
 
   override def getNewPhi(tokens: Seq[String], fieldName: String): Double = {
-    log(getTermFieldFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName) /
-      getDivider(tokens))
+    val divider = getDivider(tokens)
+    if (divider == 0) {
+      Double.NegativeInfinity
+    } else {
+      log(getTermFieldFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName) /
+        divider)
+    }
   }
 }
