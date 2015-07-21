@@ -12,7 +12,7 @@ import org.lemurproject.galago.utility.tools.Arguments
 object LearnAndSave extends LearnQueryParameters {
   def main(args: Array[String]) {
     val p: Parameters = Arguments.parse(args)
-    val pw = new PrintStream(p.getString("output"))
+    val pw = new PrintStream(p.getString("outputParams"))
     new LearnQueryParameters().run(p, pw)
     pw.close()
   }
