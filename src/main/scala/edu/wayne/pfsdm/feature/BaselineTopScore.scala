@@ -10,7 +10,7 @@ import scala.collection.JavaConversions._
 /**
  * Created by fsqcds on 5/1/15.
  */
-class BaselineTopScoreFieldFeature(val retrieval: Retrieval) extends MemoizedFieldFeature {
+class BaselineTopScore(val retrieval: Retrieval) extends MemoizedFieldFeature {
   private def mlm(tokens: Seq[String]): String = {
     s"#mlm(${tokens.mkString(" ")})"
   }

@@ -9,7 +9,7 @@ import scala.math.log
 /**
  * Created by fsqcds on 5/1/15.
  */
-class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFieldFeature {
+class FieldLMTermLikelihood(val retrieval: Retrieval) extends MemoizedFieldFeature {
   val fields = retrieval.getGlobalParameters.getAsList("fields", classOf[String])
 
   private def getTermFieldFrequency(tokens: Seq[String], fieldName: String): Long = {
