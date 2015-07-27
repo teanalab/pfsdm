@@ -90,8 +90,8 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
     }
 
-    private double getFeatureWeight(String depType, String fieldName, String featureName, Parameters queryParameters) {
-        String paramName = depType + fieldName + "-" + featureName;
+    private double getFeatureWeight(String depType, String featureName, Parameters queryParameters) {
+        String paramName = depType + featureName;
         if (fieldFeatureWeights != null && fieldFeatureWeights.containsKey(paramName)) {
             return fieldFeatureWeights.getDouble(paramName);
         } else {
@@ -125,7 +125,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         }
         double fieldWeight = 0.0;
         for (String featureName : fieldFeatureNames) {
-            double featureWeight = getFeatureWeight(depType, fieldName, featureName, queryParameters);
+            double featureWeight = getFeatureWeight(depType, featureName, queryParameters);
             if (featureWeight != 0.0) {
                 fieldWeight += featureWeight * getScaledFeatureValue(featureName, terms, fieldName, queryParameters.getString("number"));
             }
