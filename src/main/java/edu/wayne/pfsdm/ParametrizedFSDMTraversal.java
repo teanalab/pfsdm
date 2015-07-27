@@ -114,8 +114,6 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
     private double getScaledFeatureValue(String featureName, Iterable<String> terms, String fieldName, String queryId) {
         double phi = fieldFeatures.get(featureName).some().getPhi(terms, fieldName, queryId);
         double scaledPhi = scaleFeatureValue(featureName, phi);
-        logger.info(String.format("%s; field: %s; feature: %s -- phi = %g; scaledPhi = %g",
-                String.join(" ", terms), fieldName, featureName, phi, scaledPhi));
         assert scaledPhi >= 0 : scaledPhi;
         return scaledPhi;
     }
@@ -132,7 +130,6 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
                 fieldWeight += featureWeight * getScaledFeatureValue(featureName, terms, fieldName, queryParameters.getString("number"));
             }
         }
-        logger.info(String.format("%s; field: %s -- w = %g", String.join(" ", terms), fieldName, fieldWeight));
 
         return fieldWeight;
     }
@@ -182,7 +179,9 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         if (normalizer != 0) {
             for (i = 0; i < fields.size(); i++) {
                 String key = Integer.toString(i);
-                nodeweights.set(key, nodeweights.getDouble(key) / normalizer);
+                double normalizedWeight = nodeweights.getDouble(key) / normalizer;
+                logger.info(String.format("%s\t%s\t%s\t%g", queryParameters.getString("number"), term, fields.get(i), normalizedWeight));
+                nodeweights.set(key, normalizedWeight);
             }
         }
 
@@ -204,7 +203,9 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         if (normalizer != 0) {
             for (int i = 0; i < fields.size(); i++) {
                 String key = Integer.toString(i);
-                fieldWeights.set(key, fieldWeights.getDouble(key) / normalizer);
+                double normalizedWeight = fieldWeights.getDouble(key) / normalizer;
+                logger.info(String.format("%s\t%s\t%s\t%g", qp.getString("number"), String.join(" ", terms), fields.get(i), normalizedWeight));
+                fieldWeights.set(key, normalizedWeight);
             }
         }
 
