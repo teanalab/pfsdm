@@ -3,13 +3,12 @@ package edu.wayne.pfsdm.feature
 import org.lemurproject.galago.core.retrieval.Retrieval
 import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
 
-import scala.collection.JavaConversions._
 import scala.math.log
 
 /**
  * Created by fsqcds on 5/1/15.
  */
-class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFieldFeature {
+class NormalizedCF(val retrieval: Retrieval) extends MemoizedFieldFeature {
   val fields = retrieval.getGlobalParameters.getAsList("fields", classOf[String])
 
   private def getTermFieldFrequency(tokens: Seq[String], fieldName: String): Long = {
@@ -32,10 +31,6 @@ class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFie
     retrieval.getNodeStatistics(node).nodeFrequency
   }
 
-  private def getDivider(tokens: Seq[String]): Long = {
-    val Freqs: List[Long] = for (field <- fields.toList) yield getTermFieldFrequency(tokens, field)
-    Freqs.sum
-  }
 
   private def getFieldLength(fieldName: String): Long = {
     val fieldLen: Node = StructuredQuery.parse("#lengths:" + fieldName + ":part=lengths()")
@@ -43,12 +38,6 @@ class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFie
   }
 
   override def getNewPhi(tokens: Seq[String], fieldName: String): Double = {
-    val divider = getDivider(tokens)
-    if (divider == 0) {
-      Double.NegativeInfinity
-    } else {
-      log(getTermFieldFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName) /
-        divider)
-    }
+    log(getTermFieldFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName))
   }
 }
