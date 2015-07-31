@@ -47,17 +47,22 @@ object FeatureValuesTable extends App {
     }
     for (field <- fields;
          featureName <- fieldFeatureNames) {
-      output.print(qId)
-      output.print("\t")
-      output.print(ngramtype)
-      output.print("\t")
-      output.print(gram.mkString(" "))
-      output.print("\t")
-      output.print(field)
-      output.print("\t")
-      output.print(featureName)
-      output.print("\t")
-      output.println(features(featureName).getPhi(gram, field, qId))
+      try {
+        val phi = features(featureName).getPhi(gram, field, qId)
+        output.print(qId)
+        output.print("\t")
+        output.print(ngramtype)
+        output.print("\t")
+        output.print(gram.mkString(" "))
+        output.print("\t")
+        output.print(field)
+        output.print("\t")
+        output.print(featureName)
+        output.print("\t")
+        output.println(phi)
+      } catch {
+        case e:scala.MatchError =>
+      }
     }
   }
   output.close()

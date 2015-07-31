@@ -31,9 +31,10 @@ object FieldFeature {
   val FeaturesPath = """/(.+)""".r
 
   def apply(fieldFeatureName: String, retrieval: Retrieval) = fieldFeatureName match {
-    case "baselinetopscore" => new BaselineTopScoreFieldFeature(retrieval)
-    case "fieldlikelihood" => new FieldLMTermLikelihoodFeature(retrieval)
+    case "baselinetopscore" => new BaselineTopScore(retrieval)
+    case "fieldlikelihood" => new FieldLMTermLikelihood(retrieval)
     case "bigramcfratio" => new BigramCFRatio(retrieval)
+    case "cf" => new NormalizedCF(retrieval)
     case FeaturesPath(path) => new FileBasedFeature(path)
   }
 }

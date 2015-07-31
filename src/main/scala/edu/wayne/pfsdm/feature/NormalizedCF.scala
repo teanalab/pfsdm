@@ -8,8 +8,10 @@ import scala.math.log
 /**
  * Created by fsqcds on 5/1/15.
  */
-class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFieldFeature {
-  private def getTermFrequency(tokens: Seq[String], fieldName: String): Long = {
+class NormalizedCF(val retrieval: Retrieval) extends MemoizedFieldFeature {
+  val fields = retrieval.getGlobalParameters.getAsList("fields", classOf[String])
+
+  private def getTermFieldFrequency(tokens: Seq[String], fieldName: String): Long = {
     val node: Node = (tokens.toList: @unchecked) match {
       case term :: Nil =>
         val node: Node = new Node("counts", term)
@@ -29,12 +31,13 @@ class FieldLMTermLikelihoodFeature(val retrieval: Retrieval) extends MemoizedFie
     retrieval.getNodeStatistics(node).nodeFrequency
   }
 
+
   private def getFieldLength(fieldName: String): Long = {
     val fieldLen: Node = StructuredQuery.parse("#lengths:" + fieldName + ":part=lengths()")
     retrieval.getCollectionStatistics(fieldLen).collectionLength
   }
 
   override def getNewPhi(tokens: Seq[String], fieldName: String): Double = {
-    log(getTermFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName))
+    log(getTermFieldFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName))
   }
 }
