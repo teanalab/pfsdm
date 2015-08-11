@@ -183,6 +183,13 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
                 logger.info(String.format("%s\t%s\t%s\t%g", queryParameters.getString("number"), term, fields.get(i), normalizedWeight));
                 nodeweights.set(key, normalizedWeight);
             }
+        } else {
+            for (i = 0; i < fields.size(); i++) {
+                String key = Integer.toString(i);
+                double normalizedWeight = 1.0 / fields.size();
+                logger.info(String.format("%s\t%s\t%s\t%g", queryParameters.getString("number"), term, fields.get(i), normalizedWeight));
+                nodeweights.set(key, normalizedWeight);
+            }
         }
 
         return new Node("wsum", nodeweights, termFields);
@@ -204,6 +211,13 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
             for (int i = 0; i < fields.size(); i++) {
                 String key = Integer.toString(i);
                 double normalizedWeight = fieldWeights.getDouble(key) / normalizer;
+                logger.info(String.format("%s\t%s\t%s\t%g", qp.getString("number"), String.join(" ", terms), fields.get(i), normalizedWeight));
+                fieldWeights.set(key, normalizedWeight);
+            }
+        } else {
+            for (int i = 0; i < fields.size(); i++) {
+                String key = Integer.toString(i);
+                double normalizedWeight = 1 / fields.size();
                 logger.info(String.format("%s\t%s\t%s\t%g", qp.getString("number"), String.join(" ", terms), fields.get(i), normalizedWeight));
                 fieldWeights.set(key, normalizedWeight);
             }
