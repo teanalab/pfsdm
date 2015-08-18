@@ -1,5 +1,6 @@
-package edu.wayne.pfsdm.feature
+package edu.wayne.pfsdm.feature.field
 
+import edu.wayne.pfsdm.feature.FileBasedFeature
 import org.lemurproject.galago.core.retrieval.Retrieval
 
 import scala.collection.JavaConversions._
@@ -9,7 +10,7 @@ import scala.collection.JavaConversions._
  */
 trait FieldFeature {
   /**
-   * Returns feature value for field and tokens.
+   * Returns feature value for the field and tokens.
    *
    * @param tokens    terms for which feature is calculated
    * @param fieldName name of the field. This is ignored for features that doesn't depend on field
@@ -18,7 +19,7 @@ trait FieldFeature {
   def getPhi(tokens: Seq[String], fieldName: String, queryId: String): Double
 
   /**
-   * Returns feature value for field and tokens. This is Java wrapper for getPhi(Seq[String], String).
+   * Returns feature value for the field and tokens. This is a Java wrapper for getPhi(Seq[String], String, String).
    *
    * @param tokens    terms for which feature is calculated
    * @param fieldName name of the field. This is ignored for features that doesn't depend on field
@@ -30,7 +31,7 @@ trait FieldFeature {
 object FieldFeature {
   val FeaturesPath = """/(.+)""".r
 
-  def apply(fieldFeatureName: String, retrieval: Retrieval) = fieldFeatureName match {
+  def apply(fieldFeatureName: String, retrieval: Retrieval): FieldFeature = fieldFeatureName match {
     case "baselinetopscore" => new BaselineTopScore(retrieval)
     case "fieldlikelihood" => new FieldLMTermLikelihood(retrieval)
     case "bigramcfratio" => new BigramCFRatio(retrieval)

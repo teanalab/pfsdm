@@ -3,7 +3,7 @@ package edu.wayne.pfsdm.auxiliary
 import java.io._
 
 import edu.wayne.pfsdm.Util
-import edu.wayne.pfsdm.feature.FieldFeature
+import edu.wayne.pfsdm.feature.field.FieldFeature
 import org.lemurproject.galago.core.retrieval.{Retrieval, RetrievalFactory}
 import org.lemurproject.galago.utility.Parameters
 import org.lemurproject.galago.utility.tools.Arguments

@@ -1,6 +1,4 @@
-package edu.wayne.pfsdm.feature
-
-import org.lemurproject.galago.core.retrieval.Retrieval
+package edu.wayne.pfsdm.feature.field
 
 /**
  * Created by fsqcds on 7/1/15.

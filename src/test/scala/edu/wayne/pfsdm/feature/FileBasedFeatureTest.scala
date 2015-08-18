@@ -1,5 +1,6 @@
 package edu.wayne.pfsdm.feature
 
+import edu.wayne.pfsdm.feature.field.FieldFeature
 import org.scalatest.FunSuite
 
 /**

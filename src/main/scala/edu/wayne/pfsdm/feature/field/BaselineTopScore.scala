@@ -1,4 +1,4 @@
-package edu.wayne.pfsdm.feature
+package edu.wayne.pfsdm.feature.field
 
 import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
 import org.lemurproject.galago.core.retrieval.Retrieval

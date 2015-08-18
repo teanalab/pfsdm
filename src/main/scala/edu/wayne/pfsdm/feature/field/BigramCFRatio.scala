@@ -1,17 +1,15 @@
-package edu.wayne.pfsdm.feature
+package edu.wayne.pfsdm.feature.field
 
 import org.lemurproject.galago.core.retrieval.Retrieval
-import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
+import org.lemurproject.galago.core.retrieval.query.Node
 
 import scala.math.log
 
 /**
  * Created by fsqcds on 5/1/15.
  */
-class NormalizedCF(val retrieval: Retrieval) extends MemoizedFieldFeature {
-  val fields = retrieval.getGlobalParameters.getAsList("fields", classOf[String])
-
-  private def getTermFieldFrequency(tokens: Seq[String], fieldName: String): Long = {
+class BigramCFRatio(val retrieval: Retrieval) extends MemoizedFieldFeature {
+  private def getTermFrequency(tokens: Seq[String], fieldName: String): Long = {
     val node: Node = (tokens.toList: @unchecked) match {
       case term :: Nil =>
         val node: Node = new Node("counts", term)
@@ -31,13 +29,16 @@ class NormalizedCF(val retrieval: Retrieval) extends MemoizedFieldFeature {
     retrieval.getNodeStatistics(node).nodeFrequency
   }
 
-
-  private def getFieldLength(fieldName: String): Long = {
-    val fieldLen: Node = StructuredQuery.parse("#lengths:" + fieldName + ":part=lengths()")
-    retrieval.getCollectionStatistics(fieldLen).collectionLength
-  }
-
   override def getNewPhi(tokens: Seq[String], fieldName: String): Double = {
-    log(getTermFieldFrequency(tokens, fieldName).toDouble / getFieldLength(fieldName))
+    (tokens.toList: @unchecked) match {
+      case term1 :: term2 :: Nil =>
+        val term1Freq = getTermFrequency(Seq(term1), fieldName)
+        val term2Freq = getTermFrequency(Seq(term2), fieldName)
+        if (term1Freq == 0 || term2Freq == 0) {
+          Double.NegativeInfinity
+        } else {
+          log(getTermFrequency(tokens, fieldName).toDouble / (term1Freq * term2Freq))
+        }
+    }
   }
 }
