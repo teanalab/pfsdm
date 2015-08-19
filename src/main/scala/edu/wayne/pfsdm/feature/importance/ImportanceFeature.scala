@@ -26,7 +26,7 @@ trait ImportanceFeature {
   def getPhi(tokens: java.lang.Iterable[String], queryId: String): Double = getPhi(tokens.toList, queryId)
 }
 
-object FieldFeature {
+object ImportanceFeature {
   val FeaturesPath = """/(.+)""".r
 
   def apply(fieldFeatureName: String, retrieval: Retrieval): ImportanceFeature = fieldFeatureName match {
