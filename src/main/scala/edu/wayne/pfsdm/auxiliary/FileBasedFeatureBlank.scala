@@ -10,15 +10,18 @@ import scala.io._
  * Created by fsqcds on 6/10/15.
  */
 object FileBasedFeatureBlank extends App {
-  val queries: Seq[(String, String)] = Source.fromFile("data/sigir2013-dbpedia/queries.txt").getLines().
+  def queries: Seq[(String, String)] = Source.fromInputStream(
+    getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().
     map { line => line.split("\t") match {
     case Array(qId, qText) => (qId, qText)
   }
   }.toSeq
-  val tokenizedQueries: Seq[(String, Seq[String])] = queries.map { case (qId: String, qText: String) =>
+
+  def tokenizedQueries: Seq[(String, Seq[String])] = queries.map { case (qId: String, qText: String) =>
     (qId, Util.filterTokens(qText))
   }
-  val uniBiGrams: Seq[(String, Seq[Seq[String]])] = tokenizedQueries.map { case (qId, qTokens) =>
+
+  def uniBiGrams: Seq[(String, Seq[Seq[String]])] = tokenizedQueries.map { case (qId, qTokens) =>
     (qId, qTokens.map(Seq(_)) union (if (qTokens.size >= 2) qTokens.sliding(2).toSeq else Seq.empty))
   }
 

@@ -2,6 +2,7 @@ package edu.wayne.pfsdm.experiments
 
 import java.io._
 
+import edu.wayne.pfsdm.experiments.BigramUnigramFromQueriesFileMaker._
 import nzhiltsov.fsdm.{FieldedSequentialDependenceTraversal, MLMTraversal}
 import org.lemurproject.galago.core.retrieval.query.{StructuredQuery, Node}
 import org.lemurproject.galago.core.retrieval.{RetrievalFactory, Retrieval}
@@ -80,7 +81,8 @@ object BaselineScores {
 
   def main(args: Array[String]) {
     val mainParameters = Arguments.parse(args)
-    val queries: Map[String, String] = Source.fromFile("data/sigir2013-dbpedia/queries.txt").getLines().
+    val queries: Map[String, String] = Source.fromInputStream(
+      getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().
       map { line => line.split("\t") match {
       case Array(qId, qText) => (qId, qText)
     }
@@ -95,7 +97,8 @@ object BaselineScores {
       qTokens.length == 2
     }
 
-    val qrels: Map[String, Seq[String]] = Source.fromFile("data/sigir2013-dbpedia/qrels.txt").getLines().
+    val qrels: Map[String, Seq[String]] = Source.fromInputStream(
+      getClass.getResourceAsStream("/sigir2013-dbpedia/qrels.txt")).getLines().
       map { line => line.split("\t") match {
       case Array(qId, _, document, _) => (qId, document)
     }

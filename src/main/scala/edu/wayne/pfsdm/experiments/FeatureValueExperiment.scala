@@ -3,6 +3,7 @@ package edu.wayne.pfsdm.experiments
 import java.io._
 
 import edu.wayne.pfsdm.ParametrizedFSDMTraversal
+import edu.wayne.pfsdm.experiments.BigramUnigramFromQueriesFileMaker._
 import edu.wayne.pfsdm.feature.field.FieldFeature
 import org.lemurproject.galago.core.retrieval.{Retrieval, RetrievalFactory}
 import org.lemurproject.galago.utility.Parameters
@@ -28,7 +29,8 @@ object FeatureValueExperiment extends App {
   parameters.copyFrom(mainParameters)
   val fields: Seq[String] = parameters.getList("fields", classOf[String])
 
-  val queries: Seq[(String, String)] = Source.fromFile("data/sigir2013-dbpedia/queries.txt").getLines().
+  val queries: Seq[(String, String)] = Source.fromInputStream(
+    getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().
     map { line => line.split("\t") match {
     case Array(qId, qText) => (qId, qText)
   }

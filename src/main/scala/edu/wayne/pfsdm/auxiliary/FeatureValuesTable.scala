@@ -21,7 +21,8 @@ object FeatureValuesTable extends App {
   val fields: Seq[String] = parameters.getList("fields", classOf[String])
   val fieldFeatureNames = parameters.getAsList("tableFeatures", classOf[String])
 
-  val queries: Seq[(String, String)] = Source.fromFile("data/sigir2013-dbpedia/queries.txt").getLines().
+  val queries: Seq[(String, String)] = Source.fromInputStream(
+    getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().
     map { line => line.split("\t") match {
     case Array(qId, qText) => (qId, qText)
   }
@@ -61,7 +62,7 @@ object FeatureValuesTable extends App {
         output.print("\t")
         output.println(phi)
       } catch {
-        case e:scala.MatchError =>
+        case e: scala.MatchError =>
       }
     }
   }
