@@ -26,7 +26,7 @@ object WikiWordCount {
       val grams = stemmedTokens.map(Seq(_)) union stemmedTokens.sliding(2).toSeq
       val filteredGrams = grams.filter(gramsFromQueries.contains(_))
       filteredGrams
-    }).map(gram => (gram, 1)).reduceByKey(_ + _).collect().toMap
+    }).map(gram => (gram, 1)).reduceByKey(_ + _).collectAsMap()
 
     val output = new PrintWriter(pathToOutput)
 
@@ -39,5 +39,6 @@ object WikiWordCount {
       output.print("\t")
       output.println(FileBasedFeatureBlank.queries.toMap.get(qId).get)
     }
+    output.close()
   }
 }
