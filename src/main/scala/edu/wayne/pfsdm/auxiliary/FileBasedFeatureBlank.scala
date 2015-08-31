@@ -1,9 +1,8 @@
 package edu.wayne.pfsdm.auxiliary
 
-import java.io._
-
 import edu.wayne.pfsdm.Util
 
+import java.io._
 import scala.io._
 
 /**
