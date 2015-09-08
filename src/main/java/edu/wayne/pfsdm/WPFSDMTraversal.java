@@ -75,7 +75,7 @@ public class WPFSDMTraversal extends ParametrizedFSDMTraversal {
                 labmda += featureWeight * getScaledImportanceFeatureValue(featureName, terms, queryParameters.getString("number"));
             }
         }
-
+        logger.info(String.format("%s\t%s\t%s\t%g", queryParameters.getString("number"), String.join(" ", terms), "lambda for " + depType, labmda));
         return labmda;
     }
 
