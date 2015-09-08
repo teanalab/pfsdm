@@ -30,6 +30,7 @@ object ImportanceFeature {
   val FeaturesPath = """/(.+)""".r
 
   def apply(fieldFeatureName: String, retrieval: Retrieval): ImportanceFeature = fieldFeatureName match {
+    case "collectiontf" => new CollectionTF(retrieval)
     case FeaturesPath(path) => new FileBasedFeature(path)
   }
 }

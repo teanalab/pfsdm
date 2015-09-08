@@ -1,0 +1,3136 @@
+qid	ngramtype	gram	featurename	featurevalue
+INEX_LD-20120111	unigram	vietnam	collectiontf	9.824877151954217
+INEX_LD-20120111	unigram	war	collectiontf	11.821938408123838
+INEX_LD-20120111	unigram	movie	collectiontf	7.566311014772463
+INEX_LD-20120111	bigram	vietnam war	collectiontf	7.965545573129992
+INEX_LD-20120111	bigram	war movie	collectiontf	-Infinity
+INEX_LD-20120112	unigram	vietnam	collectiontf	9.824877151954217
+INEX_LD-20120112	unigram	war	collectiontf	11.821938408123838
+INEX_LD-20120112	unigram	fact	collectiontf	5.976350909297934
+INEX_LD-20120112	bigram	vietnam war	collectiontf	7.965545573129992
+INEX_LD-20120112	bigram	war fact	collectiontf	-Infinity
+INEX_LD-20120121	unigram	vietnam	collectiontf	9.824877151954217
+INEX_LD-20120121	unigram	food	collectiontf	8.680331928793418
+INEX_LD-20120121	unigram	recipe	collectiontf	4.23410650459726
+INEX_LD-20120121	bigram	vietnam food	collectiontf	-Infinity
+INEX_LD-20120121	bigram	food recipe	collectiontf	-Infinity
+INEX_LD-20120122	unigram	viet	collectiontf	7.5352967024440884
+INEX_LD-20120122	unigram	food	collectiontf	8.680331928793418
+INEX_LD-20120122	unigram	blog	collectiontf	6.380122536899765
+INEX_LD-20120122	bigram	viet food	collectiontf	-Infinity
+INEX_LD-20120122	bigram	food blog	collectiontf	-Infinity
+INEX_LD-20120131	unigram	vietnam	collectiontf	9.824877151954217
+INEX_LD-20120131	unigram	travel	collectiontf	7.6487397889562425
+INEX_LD-20120131	unigram	national	collectiontf	12.230496929440697
+INEX_LD-20120131	unigram	park	collectiontf	11.77732611613264
+INEX_LD-20120131	bigram	vietnam travel	collectiontf	-Infinity
+INEX_LD-20120131	bigram	travel national	collectiontf	-Infinity
+INEX_LD-20120131	bigram	national park	collectiontf	8.908964972392399
+INEX_LD-20120132	unigram	vietnam	collectiontf	9.824877151954217
+INEX_LD-20120132	unigram	travel	collectiontf	7.6487397889562425
+INEX_LD-20120132	unigram	airport	collectiontf	9.201198714058899
+INEX_LD-20120132	bigram	vietnam travel	collectiontf	-Infinity
+INEX_LD-20120132	bigram	travel airport	collectiontf	-Infinity
+INEX_LD-20120211	unigram	guitar	collectiontf	10.87719777527777
+INEX_LD-20120211	unigram	chord	collectiontf	7.00033446027523
+INEX_LD-20120211	unigram	tune	collectiontf	7.437206366871292
+INEX_LD-20120211	bigram	guitar chord	collectiontf	-Infinity
+INEX_LD-20120211	bigram	chord tune	collectiontf	-Infinity
+INEX_LD-20120212	unigram	guitar	collectiontf	10.87719777527777
+INEX_LD-20120212	unigram	chord	collectiontf	7.00033446027523
+INEX_LD-20120212	unigram	minor	collectiontf	9.114600099695346
+INEX_LD-20120212	bigram	guitar chord	collectiontf	-Infinity
+INEX_LD-20120212	bigram	chord minor	collectiontf	-Infinity
+INEX_LD-20120221	unigram	guitar	collectiontf	10.87719777527777
+INEX_LD-20120221	unigram	classical	collectiontf	9.477998292597036
+INEX_LD-20120221	unigram	flamenco	collectiontf	5.786897381366708
+INEX_LD-20120221	bigram	guitar classical	collectiontf	5.056245805348308
+INEX_LD-20120221	bigram	classical flamenco	collectiontf	-Infinity
+INEX_LD-20120222	unigram	guitar	collectiontf	10.87719777527777
+INEX_LD-20120222	unigram	classical	collectiontf	9.477998292597036
+INEX_LD-20120222	unigram	bach	collectiontf	7.323170717943469
+INEX_LD-20120222	bigram	guitar classical	collectiontf	5.056245805348308
+INEX_LD-20120222	bigram	classical bach	collectiontf	-Infinity
+INEX_LD-20120231	unigram	guitar	collectiontf	10.87719777527777
+INEX_LD-20120231	unigram	origin	collectiontf	11.360857614547074
+INEX_LD-20120231	unigram	russia	collectiontf	11.41132453985355
+INEX_LD-20120231	bigram	guitar origin	collectiontf	5.8805329864007
+INEX_LD-20120231	bigram	origin russia	collectiontf	4.77912349311153
+INEX_LD-20120232	unigram	guitar	collectiontf	10.87719777527777
+INEX_LD-20120232	unigram	origin	collectiontf	11.360857614547074
+INEX_LD-20120232	unigram	blues	collectiontf	11.699960893990403
+INEX_LD-20120232	bigram	guitar origin	collectiontf	5.8805329864007
+INEX_LD-20120232	bigram	origin blues	collectiontf	-Infinity
+INEX_LD-20120311	unigram	tango	collectiontf	8.929832503272403
+INEX_LD-20120311	unigram	culture	collectiontf	10.228284757576837
+INEX_LD-20120311	unigram	movies	collectiontf	6.8679744089702925
+INEX_LD-20120311	bigram	tango culture	collectiontf	-Infinity
+INEX_LD-20120311	bigram	culture movies	collectiontf	-Infinity
+INEX_LD-20120312	unigram	tango	collectiontf	8.929832503272403
+INEX_LD-20120312	unigram	culture	collectiontf	10.228284757576837
+INEX_LD-20120312	unigram	country	collectiontf	12.926088118951263
+INEX_LD-20120312	bigram	tango culture	collectiontf	-Infinity
+INEX_LD-20120312	bigram	culture country	collectiontf	4.955827057601261
+INEX_LD-20120321	unigram	tango	collectiontf	8.929832503272403
+INEX_LD-20120321	unigram	music	collectiontf	13.433926513717681
+INEX_LD-20120321	unigram	composer	collectiontf	9.436678814186912
+INEX_LD-20120321	bigram	tango music	collectiontf	4.762173934797756
+INEX_LD-20120321	bigram	music composer	collectiontf	5.099866427824199
+INEX_LD-20120322	unigram	tango	collectiontf	8.929832503272403
+INEX_LD-20120322	unigram	music	collectiontf	13.433926513717681
+INEX_LD-20120322	unigram	instrument	collectiontf	10.857035532765991
+INEX_LD-20120322	bigram	tango music	collectiontf	4.762173934797756
+INEX_LD-20120322	bigram	music instrument	collectiontf	7.427738840532894
+INEX_LD-20120331	unigram	tango	collectiontf	8.929832503272403
+INEX_LD-20120331	unigram	dance	collectiontf	10.707661664255449
+INEX_LD-20120331	unigram	style	collectiontf	9.558600006313569
+INEX_LD-20120331	bigram	tango dance	collectiontf	1.6094379124341003
+INEX_LD-20120331	bigram	dance style	collectiontf	3.258096538021482
+INEX_LD-20120332	unigram	tango	collectiontf	8.929832503272403
+INEX_LD-20120332	unigram	dance	collectiontf	10.707661664255449
+INEX_LD-20120332	unigram	history	collectiontf	11.091269997463336
+INEX_LD-20120332	bigram	tango dance	collectiontf	1.6094379124341003
+INEX_LD-20120332	bigram	dance history	collectiontf	1.6094379124341003
+INEX_LD-20120411	unigram	bicycle	collectiontf	7.669028288589683
+INEX_LD-20120411	unigram	sport	collectiontf	11.657129699651055
+INEX_LD-20120411	unigram	races	collectiontf	7.419979923661835
+INEX_LD-20120411	bigram	bicycle sport	collectiontf	-Infinity
+INEX_LD-20120411	bigram	sport races	collectiontf	-Infinity
+INEX_LD-20120412	unigram	bicycle	collectiontf	7.669028288589683
+INEX_LD-20120412	unigram	sport	collectiontf	11.657129699651055
+INEX_LD-20120412	unigram	discipline	collectiontf	6.6293632534374485
+INEX_LD-20120412	bigram	bicycle sport	collectiontf	-Infinity
+INEX_LD-20120412	bigram	sport discipline	collectiontf	-Infinity
+INEX_LD-20120421	unigram	bicycle	collectiontf	7.669028288589683
+INEX_LD-20120421	unigram	holiday	collectiontf	8.326758814511733
+INEX_LD-20120421	unigram	town	collectiontf	12.574040088518169
+INEX_LD-20120421	bigram	bicycle holiday	collectiontf	-Infinity
+INEX_LD-20120421	bigram	holiday town	collectiontf	-Infinity
+INEX_LD-20120422	unigram	bicycle	collectiontf	7.669028288589683
+INEX_LD-20120422	unigram	holiday	collectiontf	8.326758814511733
+INEX_LD-20120422	unigram	nature	collectiontf	8.167919362957816
+INEX_LD-20120422	bigram	bicycle holiday	collectiontf	-Infinity
+INEX_LD-20120422	bigram	holiday nature	collectiontf	-Infinity
+INEX_LD-20120431	unigram	bicycle	collectiontf	7.669028288589683
+INEX_LD-20120431	unigram	benefit	collectiontf	5.056245805348308
+INEX_LD-20120431	unigram	health	collectiontf	8.993799971795545
+INEX_LD-20120431	bigram	bicycle benefit	collectiontf	-Infinity
+INEX_LD-20120431	bigram	benefit health	collectiontf	-Infinity
+INEX_LD-20120432	unigram	bicycle	collectiontf	7.669028288589683
+INEX_LD-20120432	unigram	benefit	collectiontf	5.056245805348308
+INEX_LD-20120432	unigram	environment	collectiontf	8.823206220552741
+INEX_LD-20120432	bigram	bicycle benefit	collectiontf	-Infinity
+INEX_LD-20120432	bigram	benefit environment	collectiontf	-Infinity
+INEX_LD-20120511	unigram	female	collectiontf	7.86403565907245
+INEX_LD-20120511	unigram	rock	collectiontf	13.36020636075722
+INEX_LD-20120511	unigram	singe	collectiontf	10.638256407786892
+INEX_LD-20120511	bigram	female rock	collectiontf	1.791759469228055
+INEX_LD-20120511	bigram	rock singe	collectiontf	5.8944028342648505
+INEX_LD-20120512	unigram	south	collectiontf	12.507161938189274
+INEX_LD-20120512	unigram	korea	collectiontf	11.003482218613488
+INEX_LD-20120512	unigram	girl	collectiontf	9.496871782670567
+INEX_LD-20120512	unigram	group	collectiontf	11.606588834981899
+INEX_LD-20120512	bigram	south korea	collectiontf	10.224773632401687
+INEX_LD-20120512	bigram	korea girl	collectiontf	0.0
+INEX_LD-20120512	bigram	girl group	collectiontf	4.804021044733257
+INEX_LD-20120521	unigram	electronic	collectiontf	9.903087472514787
+INEX_LD-20120521	unigram	music	collectiontf	13.433926513717681
+INEX_LD-20120521	unigram	genre	collectiontf	12.943308479266454
+INEX_LD-20120521	bigram	electronic music	collectiontf	8.820994645747902
+INEX_LD-20120521	bigram	music genre	collectiontf	10.611621862904322
+INEX_LD-20120522	unigram	digital	collectiontf	8.465689348549121
+INEX_LD-20120522	unigram	music	collectiontf	13.433926513717681
+INEX_LD-20120522	unigram	notation	collectiontf	4.465908118654584
+INEX_LD-20120522	unigram	format	collectiontf	11.130624973392523
+INEX_LD-20120522	bigram	digital music	collectiontf	2.302585092994046
+INEX_LD-20120522	bigram	music notation	collectiontf	1.3862943611198906
+INEX_LD-20120522	bigram	notation format	collectiontf	-Infinity
+INEX_LD-20120531	unigram	music	collectiontf	13.433926513717681
+INEX_LD-20120531	unigram	conference	collectiontf	9.761578306353435
+INEX_LD-20120531	bigram	music conference	collectiontf	-Infinity
+INEX_LD-20120532	unigram	intellectual	collectiontf	5.62040086571715
+INEX_LD-20120532	unigram	property	collectiontf	9.292657414465397
+INEX_LD-20120532	unigram	rights	collectiontf	9.296151028389293
+INEX_LD-20120532	unigram	lobby	collectiontf	5.318119993844216
+INEX_LD-20120532	bigram	intellectual property	collectiontf	5.147494476813453
+INEX_LD-20120532	bigram	property rights	collectiontf	-Infinity
+INEX_LD-20120532	bigram	rights lobby	collectiontf	-Infinity
+INEX_LD-2009022	unigram	szechwan	collectiontf	-Infinity
+INEX_LD-2009022	unigram	dish	collectiontf	5.480638923341991
+INEX_LD-2009022	unigram	food	collectiontf	8.680331928793418
+INEX_LD-2009022	unigram	cuisine	collectiontf	8.165932137321585
+INEX_LD-2009022	bigram	szechwan dish	collectiontf	-Infinity
+INEX_LD-2009022	bigram	dish food	collectiontf	-Infinity
+INEX_LD-2009022	bigram	food cuisine	collectiontf	0.6931471805599453
+INEX_LD-2009039	unigram	roman	collectiontf	10.760261798384528
+INEX_LD-2009039	unigram	architecture	collectiontf	10.437873440711131
+INEX_LD-2009039	bigram	roman architecture	collectiontf	4.553876891600541
+INEX_LD-2009053	unigram	finland	collectiontf	10.581774870189049
+INEX_LD-2009053	unigram	car	collectiontf	9.395823592107716
+INEX_LD-2009053	unigram	industry	collectiontf	10.873849716198011
+INEX_LD-2009053	unigram	manufacturer	collectiontf	9.965898812657525
+INEX_LD-2009053	unigram	saab	collectiontf	5.932245187448011
+INEX_LD-2009053	unigram	sisu	collectiontf	1.9459101490553132
+INEX_LD-2009053	bigram	finland car	collectiontf	-Infinity
+INEX_LD-2009053	bigram	car industry	collectiontf	2.302585092994046
+INEX_LD-2009053	bigram	industry manufacturer	collectiontf	3.9512437185814275
+INEX_LD-2009053	bigram	manufacturer saab	collectiontf	3.6888794541139363
+INEX_LD-2009053	bigram	saab sisu	collectiontf	-Infinity
+INEX_LD-2009061	unigram	france	collectiontf	12.644340479603889
+INEX_LD-2009061	unigram	second	collectiontf	10.523445569477712
+INEX_LD-2009061	unigram	world	collectiontf	12.197526228728332
+INEX_LD-2009061	unigram	war	collectiontf	11.821938408123838
+INEX_LD-2009061	unigram	normandy	collectiontf	9.399554785027307
+INEX_LD-2009061	bigram	france second	collectiontf	4.787491742782046
+INEX_LD-2009061	bigram	second world	collectiontf	3.1780538303479458
+INEX_LD-2009061	bigram	world war	collectiontf	10.662282014331929
+INEX_LD-2009061	bigram	war normandy	collectiontf	0.0
+INEX_LD-2009062	unigram	social	collectiontf	9.888932134526929
+INEX_LD-2009062	unigram	network	collectiontf	10.963757408916045
+INEX_LD-2009062	unigram	group	collectiontf	11.606588834981899
+INEX_LD-2009062	unigram	selection	collectiontf	6.194405391104672
+INEX_LD-2009062	bigram	social network	collectiontf	6.045005314036012
+INEX_LD-2009062	bigram	network group	collectiontf	-Infinity
+INEX_LD-2009062	bigram	group selection	collectiontf	1.791759469228055
+INEX_LD-2009063	unigram	d	collectiontf	10.71159155655226
+INEX_LD-2009063	unigram	day	collectiontf	10.115327457678946
+INEX_LD-2009063	unigram	normandy	collectiontf	9.399554785027307
+INEX_LD-2009063	unigram	invasion	collectiontf	8.417593826193484
+INEX_LD-2009063	bigram	d day	collectiontf	0.0
+INEX_LD-2009063	bigram	day normandy	collectiontf	-Infinity
+INEX_LD-2009063	bigram	normandy invasion	collectiontf	4.762173934797756
+INEX_LD-2009074	unigram	web	collectiontf	9.423595190540022
+INEX_LD-2009074	unigram	ranking	collectiontf	5.459585514144159
+INEX_LD-2009074	unigram	score	collectiontf	7.71244383427499
+INEX_LD-2009074	unigram	algorithm	collectiontf	6.025865973825314
+INEX_LD-2009074	bigram	web ranking	collectiontf	-Infinity
+INEX_LD-2009074	bigram	ranking score	collectiontf	-Infinity
+INEX_LD-2009074	bigram	score algorithm	collectiontf	-Infinity
+INEX_LD-2009096	unigram	eiffel	collectiontf	5.634789603169249
+INEX_LD-2009111	unigram	europe	collectiontf	12.122343149998642
+INEX_LD-2009111	unigram	solar	collectiontf	7.977968093128549
+INEX_LD-2009111	unigram	power	collectiontf	10.506053354864834
+INEX_LD-2009111	unigram	facility	collectiontf	5.641907070938114
+INEX_LD-2009111	bigram	europe solar	collectiontf	-Infinity
+INEX_LD-2009111	bigram	solar power	collectiontf	5.37989735354046
+INEX_LD-2009111	bigram	power facility	collectiontf	-Infinity
+INEX_LD-2009115	unigram	virtual	collectiontf	7.944492163932159
+INEX_LD-2009115	unigram	museum	collectiontf	10.037712454627359
+INEX_LD-2009115	bigram	virtual museum	collectiontf	2.0794415416798357
+INEX_LD-2010004	unigram	indian	collectiontf	10.596134608054392
+INEX_LD-2010004	unigram	food	collectiontf	8.680331928793418
+INEX_LD-2010004	bigram	indian food	collectiontf	-Infinity
+INEX_LD-2010014	unigram	composer	collectiontf	9.436678814186912
+INEX_LD-2010014	unigram	museum	collectiontf	10.037712454627359
+INEX_LD-2010014	bigram	composer museum	collectiontf	-Infinity
+INEX_LD-2010019	unigram	gallo	collectiontf	7.7437032581737535
+INEX_LD-2010019	unigram	roman	collectiontf	10.760261798384528
+INEX_LD-2010019	unigram	architecture	collectiontf	10.437873440711131
+INEX_LD-2010019	unigram	paris	collectiontf	11.47237426711458
+INEX_LD-2010019	bigram	gallo roman	collectiontf	1.3862943611198906
+INEX_LD-2010019	bigram	roman architecture	collectiontf	4.553876891600541
+INEX_LD-2010019	bigram	architecture paris	collectiontf	1.0986122886681098
+INEX_LD-2010020	unigram	electricity	collectiontf	7.084226422097916
+INEX_LD-2010020	unigram	source	collectiontf	9.046055177668327
+INEX_LD-2010020	unigram	france	collectiontf	12.644340479603889
+INEX_LD-2010020	bigram	electricity source	collectiontf	-Infinity
+INEX_LD-2010020	bigram	source france	collectiontf	1.6094379124341003
+INEX_LD-2010037	unigram	social	collectiontf	9.888932134526929
+INEX_LD-2010037	unigram	network	collectiontf	10.963757408916045
+INEX_LD-2010037	unigram	api	collectiontf	3.1780538303479458
+INEX_LD-2010037	bigram	social network	collectiontf	6.045005314036012
+INEX_LD-2010037	bigram	network api	collectiontf	-Infinity
+INEX_LD-2010043	unigram	list	collectiontf	12.520149539528866
+INEX_LD-2010043	unigram	film	collectiontf	11.439644842775813
+INEX_LD-2010043	unigram	surrealist	collectiontf	3.6375861597263857
+INEX_LD-2010043	unigram	category	collectiontf	10.705870231302164
+INEX_LD-2010043	bigram	list film	collectiontf	2.0794415416798357
+INEX_LD-2010043	bigram	film surrealist	collectiontf	-Infinity
+INEX_LD-2010043	bigram	surrealist category	collectiontf	-Infinity
+INEX_LD-2010057	unigram	einstein	collectiontf	6.675823221634848
+INEX_LD-2010057	unigram	relativity	collectiontf	7.478169694159785
+INEX_LD-2010057	unigram	theory	collectiontf	8.471149252914831
+INEX_LD-2010057	bigram	einstein relativity	collectiontf	-Infinity
+INEX_LD-2010057	bigram	relativity theory	collectiontf	2.4849066497880004
+INEX_LD-2010069	unigram	summer	collectiontf	11.110296331681273
+INEX_LD-2010069	unigram	flower	collectiontf	8.929435283803425
+INEX_LD-2010069	bigram	summer flower	collectiontf	-Infinity
+INEX_LD-2010100	unigram	house	collectiontf	10.884273054590794
+INEX_LD-2010100	unigram	concrete	collectiontf	6.455198563340122
+INEX_LD-2010100	unigram	wood	collectiontf	10.456395176681486
+INEX_LD-2010100	bigram	house concrete	collectiontf	-Infinity
+INEX_LD-2010100	bigram	concrete wood	collectiontf	-Infinity
+INEX_LD-2010106	unigram	organic	collectiontf	6.309918278226516
+INEX_LD-2010106	unigram	food	collectiontf	8.680331928793418
+INEX_LD-2010106	unigram	advantage	collectiontf	4.812184355372417
+INEX_LD-2010106	unigram	disadvantage	collectiontf	-Infinity
+INEX_LD-2010106	bigram	organic food	collectiontf	3.58351893845611
+INEX_LD-2010106	bigram	food advantage	collectiontf	-Infinity
+INEX_LD-2010106	bigram	advantage disadvantage	collectiontf	-Infinity
+INEX_LD-2012301	unigram	niagara	collectiontf	8.55564437779049
+INEX_LD-2012301	unigram	falls	collectiontf	9.789534672460096
+INEX_LD-2012301	unigram	origin	collectiontf	11.360857614547074
+INEX_LD-2012301	unigram	lake	collectiontf	11.503571856043113
+INEX_LD-2012301	bigram	niagara falls	collectiontf	7.60489448081162
+INEX_LD-2012301	bigram	falls origin	collectiontf	1.0986122886681098
+INEX_LD-2012301	bigram	origin lake	collectiontf	4.3694478524670215
+INEX_LD-2012303	unigram	valley	collectiontf	10.458894495697496
+INEX_LD-2012303	unigram	fever	collectiontf	7.318539548567902
+INEX_LD-2012303	unigram	fungal	collectiontf	2.302585092994046
+INEX_LD-2012303	unigram	infection	collectiontf	4.110873864173311
+INEX_LD-2012303	unigram	san	collectiontf	12.371468432901187
+INEX_LD-2012303	unigram	joaquin	collectiontf	8.312626025674962
+INEX_LD-2012303	bigram	valley fever	collectiontf	-Infinity
+INEX_LD-2012303	bigram	fever fungal	collectiontf	-Infinity
+INEX_LD-2012303	bigram	fungal infection	collectiontf	-Infinity
+INEX_LD-2012303	bigram	infection san	collectiontf	-Infinity
+INEX_LD-2012303	bigram	san joaquin	collectiontf	7.951207156472972
+INEX_LD-2012305	unigram	north	collectiontf	12.518131427021517
+INEX_LD-2012305	unigram	dakota	collectiontf	10.529372506036905
+INEX_LD-2012305	unigram	lowest	collectiontf	3.295836866004329
+INEX_LD-2012305	unigram	river	collectiontf	11.46002034597524
+INEX_LD-2012305	unigram	colour	collectiontf	7.476472381163905
+INEX_LD-2012305	bigram	north dakota	collectiontf	9.62231756369957
+INEX_LD-2012305	bigram	dakota lowest	collectiontf	-Infinity
+INEX_LD-2012305	bigram	lowest river	collectiontf	-Infinity
+INEX_LD-2012305	bigram	river colour	collectiontf	-Infinity
+INEX_LD-2012307	unigram	july	collectiontf	6.829793737512425
+INEX_LD-2012307	unigram	1850	collectiontf	5.342334251964811
+INEX_LD-2012307	unigram	president	collectiontf	10.678007325311796
+INEX_LD-2012307	unigram	die	collectiontf	10.823730464248712
+INEX_LD-2012307	unigram	millard	collectiontf	7.417580402414544
+INEX_LD-2012307	unigram	fillmore	collectiontf	8.508959386489133
+INEX_LD-2012307	unigram	sworn	collectiontf	4.248495242049359
+INEX_LD-2012307	unigram	following	collectiontf	4.330733340286331
+INEX_LD-2012307	unigram	day	collectiontf	10.115327457678946
+INEX_LD-2012307	bigram	july 1850	collectiontf	-Infinity
+INEX_LD-2012307	bigram	1850 president	collectiontf	-Infinity
+INEX_LD-2012307	bigram	president die	collectiontf	-Infinity
+INEX_LD-2012307	bigram	die millard	collectiontf	-Infinity
+INEX_LD-2012307	bigram	millard fillmore	collectiontf	5.278114659230517
+INEX_LD-2012307	bigram	fillmore sworn	collectiontf	-Infinity
+INEX_LD-2012307	bigram	sworn following	collectiontf	-Infinity
+INEX_LD-2012307	bigram	following day	collectiontf	-Infinity
+INEX_LD-2012309	unigram	resident	collectiontf	6.511745329644728
+INEX_LD-2012309	unigram	small	collectiontf	9.30946146284399
+INEX_LD-2012309	unigram	island	collectiontf	11.377769896943771
+INEX_LD-2012309	unigram	city	collectiontf	14.618563160431117
+INEX_LD-2012309	unigram	state	collectiontf	14.145744088551588
+INEX_LD-2012309	unigram	malay	collectiontf	7.122059881629142
+INEX_LD-2012309	unigram	peninsula	collectiontf	8.302017809751204
+INEX_LD-2012309	unigram	china	collectiontf	11.487022870647118
+INEX_LD-2012309	bigram	resident small	collectiontf	-Infinity
+INEX_LD-2012309	bigram	small island	collectiontf	-Infinity
+INEX_LD-2012309	bigram	island city	collectiontf	8.371704884667631
+INEX_LD-2012309	bigram	city state	collectiontf	8.786609455061125
+INEX_LD-2012309	bigram	state malay	collectiontf	-Infinity
+INEX_LD-2012309	bigram	malay peninsula	collectiontf	1.791759469228055
+INEX_LD-2012309	bigram	peninsula china	collectiontf	1.3862943611198906
+INEX_LD-2012311	unigram	john	collectiontf	13.123904189743088
+INEX_LD-2012311	unigram	lennon	collectiontf	9.159468041602427
+INEX_LD-2012311	unigram	yoko	collectiontf	8.247220052745229
+INEX_LD-2012311	unigram	ono	collectiontf	8.007034012193408
+INEX_LD-2012311	unigram	album	collectiontf	12.513377181990881
+INEX_LD-2012311	unigram	start	collectiontf	8.892748769118258
+INEX_LD-2012311	bigram	john lennon	collectiontf	8.149890544402423
+INEX_LD-2012311	bigram	lennon yoko	collectiontf	6.202535517187923
+INEX_LD-2012311	bigram	yoko ono	collectiontf	7.324489979348532
+INEX_LD-2012311	bigram	ono album	collectiontf	2.0794415416798357
+INEX_LD-2012311	bigram	album start	collectiontf	3.6375861597263857
+INEX_LD-2012313	unigram	john	collectiontf	13.123904189743088
+INEX_LD-2012313	unigram	turturro	collectiontf	6.714170529909472
+INEX_LD-2012313	unigram	1991	collectiontf	8.177796683277778
+INEX_LD-2012313	unigram	coen	collectiontf	6.761572768804055
+INEX_LD-2012313	unigram	brother	collectiontf	10.182255007598334
+INEX_LD-2012313	unigram	film	collectiontf	11.439644842775813
+INEX_LD-2012313	bigram	john turturro	collectiontf	5.455321115357702
+INEX_LD-2012313	bigram	turturro 1991	collectiontf	-Infinity
+INEX_LD-2012313	bigram	1991 coen	collectiontf	-Infinity
+INEX_LD-2012313	bigram	coen brother	collectiontf	4.787491742782046
+INEX_LD-2012313	bigram	brother film	collectiontf	0.6931471805599453
+INEX_LD-2012315	unigram	baguio	collectiontf	6.519147287940395
+INEX_LD-2012315	unigram	quezon	collectiontf	9.172846167548602
+INEX_LD-2012315	unigram	city	collectiontf	14.618563160431117
+INEX_LD-2012315	unigram	manila	collectiontf	9.625821815359835
+INEX_LD-2012315	unigram	official	collectiontf	10.011669085380657
+INEX_LD-2012315	unigram	independence	collectiontf	9.9954740331485
+INEX_LD-2012315	unigram	1945	collectiontf	8.647870515057853
+INEX_LD-2012315	bigram	baguio quezon	collectiontf	-Infinity
+INEX_LD-2012315	bigram	quezon city	collectiontf	8.866158492284917
+INEX_LD-2012315	bigram	city manila	collectiontf	7.967973179662935
+INEX_LD-2012315	bigram	manila official	collectiontf	-Infinity
+INEX_LD-2012315	bigram	official independence	collectiontf	-Infinity
+INEX_LD-2012315	bigram	independence 1945	collectiontf	-Infinity
+INEX_LD-2012317	unigram	daggeroso	collectiontf	-Infinity
+INEX_LD-2012317	unigram	inclined	collectiontf	2.1972245773362196
+INEX_LD-2012317	unigram	use	collectiontf	9.00146947994869
+INEX_LD-2012317	unigram	dagger	collectiontf	6.628041376179533
+INEX_LD-2012317	unigram	novel	collectiontf	10.332766838743547
+INEX_LD-2012317	unigram	son	collectiontf	9.105202053852878
+INEX_LD-2012317	unigram	lovers	collectiontf	6.964135612418245
+INEX_LD-2012317	bigram	daggeroso inclined	collectiontf	-Infinity
+INEX_LD-2012317	bigram	inclined use	collectiontf	-Infinity
+INEX_LD-2012317	bigram	use dagger	collectiontf	-Infinity
+INEX_LD-2012317	bigram	dagger novel	collectiontf	-Infinity
+INEX_LD-2012317	bigram	novel son	collectiontf	-Infinity
+INEX_LD-2012317	bigram	son lovers	collectiontf	2.772588722239781
+INEX_LD-2012318	unigram	direct	collectiontf	7.471363088187097
+INEX_LD-2012318	unigram	bela	collectiontf	7.857093864902493
+INEX_LD-2012318	unigram	glen	collectiontf	9.528357644224037
+INEX_LD-2012318	unigram	glenda	collectiontf	6.456769655572163
+INEX_LD-2012318	unigram	bride	collectiontf	7.819636302367592
+INEX_LD-2012318	unigram	monster	collectiontf	8.28828304520769
+INEX_LD-2012318	unigram	plan	collectiontf	8.109826276018477
+INEX_LD-2012318	unigram	9	collectiontf	8.057377488557991
+INEX_LD-2012318	unigram	outer	collectiontf	7.502186486602924
+INEX_LD-2012318	unigram	space	collectiontf	9.663833449094929
+INEX_LD-2012318	bigram	direct bela	collectiontf	-Infinity
+INEX_LD-2012318	bigram	bela glen	collectiontf	-Infinity
+INEX_LD-2012318	bigram	glen glenda	collectiontf	-Infinity
+INEX_LD-2012318	bigram	glenda bride	collectiontf	-Infinity
+INEX_LD-2012318	bigram	bride monster	collectiontf	-Infinity
+INEX_LD-2012318	bigram	monster plan	collectiontf	-Infinity
+INEX_LD-2012318	bigram	plan 9	collectiontf	5.056245805348308
+INEX_LD-2012318	bigram	9 outer	collectiontf	-Infinity
+INEX_LD-2012318	bigram	outer space	collectiontf	4.6913478822291435
+INEX_LD-2012319	unigram	1994	collectiontf	8.410720946905721
+INEX_LD-2012319	unigram	short	collectiontf	10.271735272827476
+INEX_LD-2012319	unigram	story	collectiontf	9.38907215991958
+INEX_LD-2012319	unigram	collection	collectiontf	8.814330422638774
+INEX_LD-2012319	unigram	alice	collectiontf	9.5453830157878
+INEX_LD-2012319	unigram	munro	collectiontf	7.496652438168283
+INEX_LD-2012319	unigram	open	collectiontf	8.44741429680832
+INEX_LD-2012319	bigram	1994 short	collectiontf	-Infinity
+INEX_LD-2012319	bigram	short story	collectiontf	8.591558273371545
+INEX_LD-2012319	bigram	story collection	collectiontf	7.379008127628304
+INEX_LD-2012319	bigram	collection alice	collectiontf	-Infinity
+INEX_LD-2012319	bigram	alice munro	collectiontf	4.624972813284271
+INEX_LD-2012319	bigram	munro open	collectiontf	-Infinity
+INEX_LD-2012321	unigram	asia	collectiontf	10.578572590277664
+INEX_LD-2012321	unigram	port	collectiontf	10.713817588680424
+INEX_LD-2012321	unigram	state	collectiontf	14.145744088551588
+INEX_LD-2012321	unigram	city	collectiontf	14.618563160431117
+INEX_LD-2012321	unigram	sir	collectiontf	10.924066225065138
+INEX_LD-2012321	unigram	stamford	collectiontf	8.358900612421644
+INEX_LD-2012321	unigram	raffle	collectiontf	5.783825182329737
+INEX_LD-2012321	bigram	asia port	collectiontf	4.23410650459726
+INEX_LD-2012321	bigram	port state	collectiontf	1.791759469228055
+INEX_LD-2012321	bigram	state city	collectiontf	7.671360923190644
+INEX_LD-2012321	bigram	city sir	collectiontf	2.1972245773362196
+INEX_LD-2012321	bigram	sir stamford	collectiontf	-Infinity
+INEX_LD-2012321	bigram	stamford raffle	collectiontf	4.248495242049359
+INEX_LD-2012323	unigram	large	collectiontf	7.349873704738337
+INEX_LD-2012323	unigram	glacier	collectiontf	7.816416983691801
+INEX_LD-2012323	unigram	island	collectiontf	11.377769896943771
+INEX_LD-2012323	unigram	nation	collectiontf	9.68694715235549
+INEX_LD-2012323	unigram	langjokull	collectiontf	-Infinity
+INEX_LD-2012323	unigram	hofsjokull	collectiontf	-Infinity
+INEX_LD-2012323	unigram	vatnajokull	collectiontf	-Infinity
+INEX_LD-2012323	bigram	large glacier	collectiontf	-Infinity
+INEX_LD-2012323	bigram	glacier island	collectiontf	-Infinity
+INEX_LD-2012323	bigram	island nation	collectiontf	1.9459101490553132
+INEX_LD-2012323	bigram	nation langjokull	collectiontf	-Infinity
+INEX_LD-2012323	bigram	langjokull hofsjokull	collectiontf	-Infinity
+INEX_LD-2012323	bigram	hofsjokull vatnajokull	collectiontf	-Infinity
+INEX_LD-2012325	unigram	successor	collectiontf	10.762106797794535
+INEX_LD-2012325	unigram	james	collectiontf	12.501685684558153
+INEX_LD-2012325	unigram	g	collectiontf	10.525031314236381
+INEX_LD-2012325	unigram	blaine	collectiontf	8.537583881063972
+INEX_LD-2012325	unigram	studied	collectiontf	-Infinity
+INEX_LD-2012325	unigram	law	collectiontf	10.73880681223516
+INEX_LD-2012325	bigram	successor james	collectiontf	6.690842277418564
+INEX_LD-2012325	bigram	james g	collectiontf	6.593044534142437
+INEX_LD-2012325	bigram	g blaine	collectiontf	3.4965075614664802
+INEX_LD-2012325	bigram	blaine studied	collectiontf	-Infinity
+INEX_LD-2012325	bigram	studied law	collectiontf	-Infinity
+INEX_LD-2012327	unigram	beloved	collectiontf	5.71042701737487
+INEX_LD-2012327	unigram	author	collectiontf	10.61024173650229
+INEX_LD-2012327	unigram	africa	collectiontf	11.321510689897156
+INEX_LD-2012327	unigram	america	collectiontf	13.455079999095538
+INEX_LD-2012327	unigram	nobel	collectiontf	7.706162970199576
+INEX_LD-2012327	unigram	prize	collectiontf	8.74909824839902
+INEX_LD-2012327	unigram	literature	collectiontf	9.640498092674719
+INEX_LD-2012327	bigram	beloved author	collectiontf	-Infinity
+INEX_LD-2012327	bigram	author africa	collectiontf	1.9459101490553132
+INEX_LD-2012327	bigram	africa america	collectiontf	7.2305631534092925
+INEX_LD-2012327	bigram	america nobel	collectiontf	-Infinity
+INEX_LD-2012327	bigram	nobel prize	collectiontf	7.4570320891223805
+INEX_LD-2012327	bigram	prize literature	collectiontf	4.430816798843313
+INEX_LD-2012329	unigram	sweden	collectiontf	11.35924967236618
+INEX_LD-2012329	unigram	iceland	collectiontf	10.354977098955573
+INEX_LD-2012329	unigram	currency	collectiontf	6.45833828334479
+INEX_LD-2012329	bigram	sweden iceland	collectiontf	0.6931471805599453
+INEX_LD-2012329	bigram	iceland currency	collectiontf	-Infinity
+INEX_LD-2012331	unigram	seoul	collectiontf	10.17450656409137
+INEX_LD-2012331	unigram	korea	collectiontf	11.003482218613488
+INEX_LD-2012331	unigram	river	collectiontf	11.46002034597524
+INEX_LD-2012331	unigram	name	collectiontf	13.304433235858246
+INEX_LD-2012331	unigram	ethnic	collectiontf	9.62806337747985
+INEX_LD-2012331	unigram	group	collectiontf	11.606588834981899
+INEX_LD-2012331	unigram	china	collectiontf	11.487022870647118
+INEX_LD-2012331	bigram	seoul korea	collectiontf	4.406719247264253
+INEX_LD-2012331	bigram	korea river	collectiontf	2.1972245773362196
+INEX_LD-2012331	bigram	river name	collectiontf	-Infinity
+INEX_LD-2012331	bigram	name ethnic	collectiontf	0.0
+INEX_LD-2012331	bigram	ethnic group	collectiontf	8.025843344150903
+INEX_LD-2012331	bigram	group china	collectiontf	5.720311776607412
+INEX_LD-2012333	unigram	prime	collectiontf	9.230339058482873
+INEX_LD-2012333	unigram	minister	collectiontf	9.961520583786738
+INEX_LD-2012333	unigram	canada	collectiontf	12.751360563726237
+INEX_LD-2012333	unigram	nickname	collectiontf	9.774915271736365
+INEX_LD-2012333	unigram	silver	collectiontf	9.927838643399959
+INEX_LD-2012333	unigram	tongue	collectiontf	6.698268054115413
+INEX_LD-2012333	unigram	laurier	collectiontf	6.202535517187923
+INEX_LD-2012333	unigram	longest	collectiontf	5.003946305945459
+INEX_LD-2012333	unigram	unbroken	collectiontf	4.61512051684126
+INEX_LD-2012333	unigram	term	collectiontf	9.001222992395064
+INEX_LD-2012333	bigram	prime minister	collectiontf	9.106977858981029
+INEX_LD-2012333	bigram	minister canada	collectiontf	4.983606621708336
+INEX_LD-2012333	bigram	canada nickname	collectiontf	-Infinity
+INEX_LD-2012333	bigram	nickname silver	collectiontf	-Infinity
+INEX_LD-2012333	bigram	silver tongue	collectiontf	2.4849066497880004
+INEX_LD-2012333	bigram	tongue laurier	collectiontf	-Infinity
+INEX_LD-2012333	bigram	laurier longest	collectiontf	-Infinity
+INEX_LD-2012333	bigram	longest unbroken	collectiontf	-Infinity
+INEX_LD-2012333	bigram	unbroken term	collectiontf	-Infinity
+INEX_LD-2012335	unigram	us	collectiontf	10.894421827406049
+INEX_LD-2012335	unigram	president	collectiontf	10.678007325311796
+INEX_LD-2012335	unigram	authorise	collectiontf	2.70805020110221
+INEX_LD-2012335	unigram	nuclear	collectiontf	8.982561092257445
+INEX_LD-2012335	unigram	weapon	collectiontf	8.069342366811636
+INEX_LD-2012335	unigram	japan	collectiontf	12.203659736805884
+INEX_LD-2012335	bigram	us president	collectiontf	3.091042453358316
+INEX_LD-2012335	bigram	president authorise	collectiontf	-Infinity
+INEX_LD-2012335	bigram	authorise nuclear	collectiontf	-Infinity
+INEX_LD-2012335	bigram	nuclear weapon	collectiontf	5.575949103146316
+INEX_LD-2012335	bigram	weapon japan	collectiontf	3.58351893845611
+INEX_LD-2012336	unigram	1906	collectiontf	7.446585099157725
+INEX_LD-2012336	unigram	territory	collectiontf	10.3469546827773
+INEX_LD-2012336	unigram	papua	collectiontf	8.774158291205957
+INEX_LD-2012336	unigram	island	collectiontf	11.377769896943771
+INEX_LD-2012336	unigram	australia	collectiontf	12.235043896556526
+INEX_LD-2012336	bigram	1906 territory	collectiontf	-Infinity
+INEX_LD-2012336	bigram	territory papua	collectiontf	2.772588722239781
+INEX_LD-2012336	bigram	papua island	collectiontf	-Infinity
+INEX_LD-2012336	bigram	island australia	collectiontf	3.713572066704308
+INEX_LD-2012337	unigram	texas	collectiontf	12.000363723939207
+INEX_LD-2012337	unigram	city	collectiontf	14.618563160431117
+INEX_LD-2012337	unigram	baylor	collectiontf	8.568646473005153
+INEX_LD-2012337	unigram	university	collectiontf	12.834814629397782
+INEX_LD-2012337	unigram	tornado	collectiontf	7.9211727215870145
+INEX_LD-2012337	unigram	1953	collectiontf	7.431299675155903
+INEX_LD-2012337	bigram	texas city	collectiontf	9.316500567804573
+INEX_LD-2012337	bigram	city baylor	collectiontf	-Infinity
+INEX_LD-2012337	bigram	baylor university	collectiontf	7.191429330036379
+INEX_LD-2012337	bigram	university tornado	collectiontf	-Infinity
+INEX_LD-2012337	bigram	tornado 1953	collectiontf	-Infinity
+INEX_LD-2012339	unigram	nelson	collectiontf	10.480999389497148
+INEX_LD-2012339	unigram	mandela	collectiontf	6.343880434126331
+INEX_LD-2012339	unigram	john	collectiontf	13.123904189743088
+INEX_LD-2012339	unigram	dube	collectiontf	5.4510384535657
+INEX_LD-2012339	bigram	nelson mandela	collectiontf	5.996452088619021
+INEX_LD-2012339	bigram	mandela john	collectiontf	-Infinity
+INEX_LD-2012339	bigram	john dube	collectiontf	0.6931471805599453
+INEX_LD-2012341	unigram	1997	collectiontf	8.641179171197228
+INEX_LD-2012341	unigram	houston	collectiontf	10.698107702026707
+INEX_LD-2012341	unigram	airport	collectiontf	9.201198714058899
+INEX_LD-2012341	unigram	president	collectiontf	10.678007325311796
+INEX_LD-2012341	bigram	1997 houston	collectiontf	0.6931471805599453
+INEX_LD-2012341	bigram	houston airport	collectiontf	1.6094379124341003
+INEX_LD-2012341	bigram	airport president	collectiontf	-Infinity
+INEX_LD-2012343	unigram	heart	collectiontf	11.10566374391912
+INEX_LD-2012343	unigram	woman	collectiontf	7.974188669286011
+INEX_LD-2012343	unigram	poet	collectiontf	8.503499864284235
+INEX_LD-2012343	unigram	autobiography	collectiontf	6.421622267806518
+INEX_LD-2012343	bigram	heart woman	collectiontf	3.9889840465642745
+INEX_LD-2012343	bigram	woman poet	collectiontf	-Infinity
+INEX_LD-2012343	bigram	poet autobiography	collectiontf	0.6931471805599453
+INEX_LD-2012345	unigram	kennedy	collectiontf	9.751850377873168
+INEX_LD-2012345	unigram	assassinate	collectiontf	6.9975959829819265
+INEX_LD-2012345	unigram	governor	collectiontf	9.393994374003915
+INEX_LD-2012345	unigram	texas	collectiontf	12.000363723939207
+INEX_LD-2012345	unigram	seriously	collectiontf	4.2626798770413155
+INEX_LD-2012345	unigram	injure	collectiontf	2.833213344056216
+INEX_LD-2012345	bigram	kennedy assassinate	collectiontf	3.1354942159291497
+INEX_LD-2012345	bigram	assassinate governor	collectiontf	-Infinity
+INEX_LD-2012345	bigram	governor texas	collectiontf	4.543294782270004
+INEX_LD-2012345	bigram	texas seriously	collectiontf	-Infinity
+INEX_LD-2012345	bigram	seriously injure	collectiontf	-Infinity
+INEX_LD-2012347	unigram	seat	collectiontf	9.333177281935246
+INEX_LD-2012347	unigram	florida	collectiontf	11.825836591467786
+INEX_LD-2012347	unigram	country	collectiontf	12.926088118951263
+INEX_LD-2012347	unigram	dade	collectiontf	8.485496104672983
+INEX_LD-2012347	bigram	seat florida	collectiontf	2.8903717578961645
+INEX_LD-2012347	bigram	florida country	collectiontf	5.327876168789581
+INEX_LD-2012347	bigram	country dade	collectiontf	-Infinity
+INEX_LD-2012349	unigram	alexander	collectiontf	11.195430024544462
+INEX_LD-2012349	unigram	nevsky	collectiontf	4.624972813284271
+INEX_LD-2012349	unigram	cathedral	collectiontf	7.88758403166028
+INEX_LD-2012349	unigram	bulgaria	collectiontf	10.49135754729955
+INEX_LD-2012349	unigram	city	collectiontf	14.618563160431117
+INEX_LD-2012349	unigram	liberation	collectiontf	7.822044008185619
+INEX_LD-2012349	unigram	turk	collectiontf	7.51425465281641
+INEX_LD-2012349	bigram	alexander nevsky	collectiontf	4.499809670330265
+INEX_LD-2012349	bigram	nevsky cathedral	collectiontf	0.6931471805599453
+INEX_LD-2012349	bigram	cathedral bulgaria	collectiontf	-Infinity
+INEX_LD-2012349	bigram	bulgaria city	collectiontf	3.1780538303479458
+INEX_LD-2012349	bigram	city liberation	collectiontf	-Infinity
+INEX_LD-2012349	bigram	liberation turk	collectiontf	-Infinity
+INEX_LD-2012351	unigram	indian	collectiontf	10.596134608054392
+INEX_LD-2012351	unigram	cuisine	collectiontf	8.165932137321585
+INEX_LD-2012351	unigram	dish	collectiontf	5.480638923341991
+INEX_LD-2012351	unigram	rice	collectiontf	9.726272933110318
+INEX_LD-2012351	unigram	dhal	collectiontf	-Infinity
+INEX_LD-2012351	unigram	vegetable	collectiontf	4.709530201312334
+INEX_LD-2012351	unigram	roti	collectiontf	-Infinity
+INEX_LD-2012351	unigram	papad	collectiontf	-Infinity
+INEX_LD-2012351	bigram	indian cuisine	collectiontf	4.624972813284271
+INEX_LD-2012351	bigram	cuisine dish	collectiontf	-Infinity
+INEX_LD-2012351	bigram	dish rice	collectiontf	-Infinity
+INEX_LD-2012351	bigram	rice dhal	collectiontf	-Infinity
+INEX_LD-2012351	bigram	dhal vegetable	collectiontf	-Infinity
+INEX_LD-2012351	bigram	vegetable roti	collectiontf	-Infinity
+INEX_LD-2012351	bigram	roti papad	collectiontf	-Infinity
+INEX_LD-2012353	unigram	country	collectiontf	12.926088118951263
+INEX_LD-2012353	unigram	germany	collectiontf	12.511555342607462
+INEX_LD-2012353	unigram	language	collectiontf	12.34816231143625
+INEX_LD-2012353	bigram	country germany	collectiontf	7.892452043520352
+INEX_LD-2012353	bigram	germany language	collectiontf	8.153061946801051
+INEX_LD-2012354	unigram	greatest	collectiontf	8.856518497019858
+INEX_LD-2012354	unigram	guitarist	collectiontf	8.38160253710989
+INEX_LD-2012354	bigram	greatest guitarist	collectiontf	-Infinity
+INEX_LD-2012355	unigram	england	collectiontf	13.052337830033991
+INEX_LD-2012355	unigram	football	collectiontf	14.018406502993837
+INEX_LD-2012355	unigram	player	collectiontf	10.905331932762941
+INEX_LD-2012355	unigram	highest	collectiontf	4.356708826689592
+INEX_LD-2012355	unigram	paid	collectiontf	4.672828834461906
+INEX_LD-2012355	bigram	england football	collectiontf	6.0112671744041615
+INEX_LD-2012355	bigram	football player	collectiontf	8.212297138229768
+INEX_LD-2012355	bigram	player highest	collectiontf	-Infinity
+INEX_LD-2012355	bigram	highest paid	collectiontf	-Infinity
+INEX_LD-2012357	unigram	prima	collectiontf	6.436150368369428
+INEX_LD-2012357	unigram	ballerina	collectiontf	4.804021044733257
+INEX_LD-2012357	unigram	bolshoi	collectiontf	3.6109179126442243
+INEX_LD-2012357	unigram	theatre	collectiontf	9.534667728624708
+INEX_LD-2012357	unigram	1960	collectiontf	8.339023005744759
+INEX_LD-2012357	bigram	prima ballerina	collectiontf	-Infinity
+INEX_LD-2012357	bigram	ballerina bolshoi	collectiontf	-Infinity
+INEX_LD-2012357	bigram	bolshoi theatre	collectiontf	3.295836866004329
+INEX_LD-2012357	bigram	theatre 1960	collectiontf	0.0
+INEX_LD-2012359	unigram	bob	collectiontf	11.062269457560602
+INEX_LD-2012359	unigram	rick	collectiontf	10.069933760171793
+INEX_LD-2012359	unigram	executive	collectiontf	9.602855320908718
+INEX_LD-2012359	unigram	director	collectiontf	11.428869715806231
+INEX_LD-2012359	unigram	latest	collectiontf	4.663439094112067
+INEX_LD-2012359	unigram	group	collectiontf	11.606588834981899
+INEX_LD-2012359	unigram	anti	collectiontf	8.372860820526318
+INEX_LD-2012359	unigram	gun	collectiontf	8.773848885262895
+INEX_LD-2012359	unigram	movement	collectiontf	8.12740456269308
+INEX_LD-2012359	bigram	bob rick	collectiontf	2.70805020110221
+INEX_LD-2012359	bigram	rick executive	collectiontf	0.6931471805599453
+INEX_LD-2012359	bigram	executive director	collectiontf	5.389071729816501
+INEX_LD-2012359	bigram	director latest	collectiontf	-Infinity
+INEX_LD-2012359	bigram	latest group	collectiontf	-Infinity
+INEX_LD-2012359	bigram	group anti	collectiontf	2.302585092994046
+INEX_LD-2012359	bigram	anti gun	collectiontf	-Infinity
+INEX_LD-2012359	bigram	gun movement	collectiontf	-Infinity
+INEX_LD-2012361	unigram	famous	collectiontf	8.233503140233994
+INEX_LD-2012361	unigram	award	collectiontf	10.914942999089615
+INEX_LD-2012361	unigram	winning	collectiontf	7.217443431696533
+INEX_LD-2012361	unigram	actor	collectiontf	10.944170542073266
+INEX_LD-2012361	unigram	singe	collectiontf	10.638256407786892
+INEX_LD-2012361	bigram	famous award	collectiontf	-Infinity
+INEX_LD-2012361	bigram	award winning	collectiontf	4.634728988229636
+INEX_LD-2012361	bigram	winning actor	collectiontf	-Infinity
+INEX_LD-2012361	bigram	actor singe	collectiontf	6.950814768442584
+INEX_LD-2012363	unigram	america	collectiontf	13.455079999095538
+INEX_LD-2012363	unigram	twin	collectiontf	9.919754525
+INEX_LD-2012363	unigram	famous	collectiontf	8.233503140233994
+INEX_LD-2012363	unigram	america	collectiontf	13.455079999095538
+INEX_LD-2012363	unigram	professional	collectiontf	9.932317934204004
+INEX_LD-2012363	unigram	tennis	collectiontf	9.394576760974909
+INEX_LD-2012363	unigram	double	collectiontf	8.538758969330798
+INEX_LD-2012363	unigram	player	collectiontf	10.905331932762941
+INEX_LD-2012363	bigram	america twin	collectiontf	0.0
+INEX_LD-2012363	bigram	twin famous	collectiontf	-Infinity
+INEX_LD-2012363	bigram	famous america	collectiontf	-Infinity
+INEX_LD-2012363	bigram	america professional	collectiontf	5.0238805208462765
+INEX_LD-2012363	bigram	professional tennis	collectiontf	-Infinity
+INEX_LD-2012363	bigram	tennis double	collectiontf	0.0
+INEX_LD-2012363	bigram	double player	collectiontf	-Infinity
+INEX_LD-2012365	unigram	mathematician	collectiontf	7.20414929203594
+INEX_LD-2012365	unigram	computer	collectiontf	9.735423867488873
+INEX_LD-2012365	unigram	scientist	collectiontf	8.470101583882387
+INEX_LD-2012365	unigram	mit	collectiontf	6.338594078203183
+INEX_LD-2012365	unigram	six	collectiontf	8.155362120328135
+INEX_LD-2012365	unigram	inaugural	collectiontf	1.3862943611198906
+INEX_LD-2012365	unigram	macvicar	collectiontf	2.8903717578961645
+INEX_LD-2012365	unigram	faculty	collectiontf	8.203577736937952
+INEX_LD-2012365	unigram	fellow	collectiontf	8.09162741160107
+INEX_LD-2012365	bigram	mathematician computer	collectiontf	-Infinity
+INEX_LD-2012365	bigram	computer scientist	collectiontf	5.968707559985366
+INEX_LD-2012365	bigram	scientist mit	collectiontf	-Infinity
+INEX_LD-2012365	bigram	mit six	collectiontf	-Infinity
+INEX_LD-2012365	bigram	six inaugural	collectiontf	-Infinity
+INEX_LD-2012365	bigram	inaugural macvicar	collectiontf	-Infinity
+INEX_LD-2012365	bigram	macvicar faculty	collectiontf	-Infinity
+INEX_LD-2012365	bigram	faculty fellow	collectiontf	-Infinity
+INEX_LD-2012367	unigram	invent	collectiontf	3.4657359027997265
+INEX_LD-2012367	unigram	telescope	collectiontf	5.480638923341991
+INEX_LD-2012367	bigram	invent telescope	collectiontf	-Infinity
+INEX_LD-2012369	unigram	famous	collectiontf	8.233503140233994
+INEX_LD-2012369	unigram	civic	collectiontf	8.187299270155147
+INEX_LD-2012369	unigram	military	collectiontf	10.561396081003364
+INEX_LD-2012369	unigram	airport	collectiontf	9.201198714058899
+INEX_LD-2012369	bigram	famous civic	collectiontf	-Infinity
+INEX_LD-2012369	bigram	civic military	collectiontf	-Infinity
+INEX_LD-2012369	bigram	military airport	collectiontf	0.6931471805599453
+INEX_LD-2012371	unigram	beautiful	collectiontf	8.760923376338836
+INEX_LD-2012371	unigram	railway	collectiontf	10.921034388483017
+INEX_LD-2012371	unigram	station	collectiontf	10.980722975444653
+INEX_LD-2012371	unigram	world	collectiontf	12.197526228728332
+INEX_LD-2012371	unigram	city	collectiontf	14.618563160431117
+INEX_LD-2012371	unigram	located	collectiontf	4.2626798770413155
+INEX_LD-2012371	bigram	beautiful railway	collectiontf	-Infinity
+INEX_LD-2012371	bigram	railway station	collectiontf	9.839482222560216
+INEX_LD-2012371	bigram	station world	collectiontf	2.5649493574615367
+INEX_LD-2012371	bigram	world city	collectiontf	10.842380909619711
+INEX_LD-2012371	bigram	city located	collectiontf	-Infinity
+INEX_LD-2012372	unigram	famous	collectiontf	8.233503140233994
+INEX_LD-2012372	unigram	historical	collectiontf	8.794067065151415
+INEX_LD-2012372	unigram	battlefield	collectiontf	5.697093486505405
+INEX_LD-2012372	unigram	opponent	collectiontf	10.317251463458987
+INEX_LD-2012372	unigram	fought	collectiontf	4.74493212836325
+INEX_LD-2012372	bigram	famous historical	collectiontf	-Infinity
+INEX_LD-2012372	bigram	historical battlefield	collectiontf	-Infinity
+INEX_LD-2012372	bigram	battlefield opponent	collectiontf	-Infinity
+INEX_LD-2012372	bigram	opponent fought	collectiontf	-Infinity
+INEX_LD-2012373	unigram	bird	collectiontf	11.02002161583816
+INEX_LD-2012373	unigram	fly	collectiontf	9.275659838096825
+INEX_LD-2012373	bigram	bird fly	collectiontf	2.6390573296152584
+INEX_LD-2012375	unigram	animal	collectiontf	13.091054324367082
+INEX_LD-2012375	unigram	lay	collectiontf	7.352441100243583
+INEX_LD-2012375	unigram	egg	collectiontf	7.066466970136958
+INEX_LD-2012375	unigram	mammal	collectiontf	10.183880624651032
+INEX_LD-2012375	bigram	animal lay	collectiontf	-Infinity
+INEX_LD-2012375	bigram	lay egg	collectiontf	-Infinity
+INEX_LD-2012375	bigram	egg mammal	collectiontf	-Infinity
+INEX_LD-2012377	unigram	allegedly	collectiontf	-Infinity
+INEX_LD-2012377	unigram	cause	collectiontf	6.523562306149512
+INEX_LD-2012377	unigram	world	collectiontf	12.197526228728332
+INEX_LD-2012377	unigram	war	collectiontf	11.821938408123838
+INEX_LD-2012377	unigram	i	collectiontf	11.80201404782235
+INEX_LD-2012377	bigram	allegedly cause	collectiontf	-Infinity
+INEX_LD-2012377	bigram	cause world	collectiontf	-Infinity
+INEX_LD-2012377	bigram	world war	collectiontf	10.662282014331929
+INEX_LD-2012377	bigram	war i	collectiontf	9.877092241176596
+INEX_LD-2012379	unigram	pair	collectiontf	5.198497031265826
+INEX_LD-2012379	unigram	city	collectiontf	14.618563160431117
+INEX_LD-2012379	unigram	language	collectiontf	12.34816231143625
+INEX_LD-2012379	unigram	longitude	collectiontf	1.6094379124341003
+INEX_LD-2012379	unigram	different	collectiontf	7.030857476116121
+INEX_LD-2012379	unigram	country	collectiontf	12.926088118951263
+INEX_LD-2012379	bigram	pair city	collectiontf	-Infinity
+INEX_LD-2012379	bigram	city language	collectiontf	3.4965075614664802
+INEX_LD-2012379	bigram	language longitude	collectiontf	-Infinity
+INEX_LD-2012379	bigram	longitude different	collectiontf	-Infinity
+INEX_LD-2012379	bigram	different country	collectiontf	0.0
+INEX_LD-2012381	unigram	movie	collectiontf	7.566311014772463
+INEX_LD-2012381	unigram	director	collectiontf	11.428869715806231
+INEX_LD-2012381	unigram	direct	collectiontf	7.471363088187097
+INEX_LD-2012381	unigram	block	collectiontf	7.9420068084898565
+INEX_LD-2012381	unigram	buster	collectiontf	7.726212650507529
+INEX_LD-2012381	bigram	movie director	collectiontf	1.3862943611198906
+INEX_LD-2012381	bigram	director direct	collectiontf	-Infinity
+INEX_LD-2012381	bigram	direct block	collectiontf	-Infinity
+INEX_LD-2012381	bigram	block buster	collectiontf	1.3862943611198906
+INEX_LD-2012383	unigram	famous	collectiontf	8.233503140233994
+INEX_LD-2012383	unigram	computer	collectiontf	9.735423867488873
+INEX_LD-2012383	unigram	scientist	collectiontf	8.470101583882387
+INEX_LD-2012383	unigram	disappear	collectiontf	5.298317366548036
+INEX_LD-2012383	unigram	sea	collectiontf	9.973340054434962
+INEX_LD-2012383	bigram	famous computer	collectiontf	-Infinity
+INEX_LD-2012383	bigram	computer scientist	collectiontf	5.968707559985366
+INEX_LD-2012383	bigram	scientist disappear	collectiontf	-Infinity
+INEX_LD-2012383	bigram	disappear sea	collectiontf	-Infinity
+INEX_LD-2012385	unigram	famous	collectiontf	8.233503140233994
+INEX_LD-2012385	unigram	politician	collectiontf	10.793947524375762
+INEX_LD-2012385	unigram	vegetarian	collectiontf	5.267858159063328
+INEX_LD-2012385	bigram	famous politician	collectiontf	-Infinity
+INEX_LD-2012385	bigram	politician vegetarian	collectiontf	-Infinity
+INEX_LD-2012387	unigram	famous	collectiontf	8.233503140233994
+INEX_LD-2012387	unigram	river	collectiontf	11.46002034597524
+INEX_LD-2012387	unigram	confluence	collectiontf	3.784189633918261
+INEX_LD-2012387	unigram	dam	collectiontf	7.6838639802564295
+INEX_LD-2012387	unigram	construct	collectiontf	5.1298987149230735
+INEX_LD-2012387	bigram	famous river	collectiontf	-Infinity
+INEX_LD-2012387	bigram	river confluence	collectiontf	1.6094379124341003
+INEX_LD-2012387	bigram	confluence dam	collectiontf	-Infinity
+INEX_LD-2012387	bigram	dam construct	collectiontf	-Infinity
+INEX_LD-2012389	unigram	frequent	collectiontf	3.4339872044851463
+INEX_LD-2012389	unigram	visit	collectiontf	6.042632833682381
+INEX_LD-2012389	unigram	shark	collectiontf	9.1821466376054
+INEX_LD-2012389	unigram	gulf	collectiontf	8.893298144217916
+INEX_LD-2012389	unigram	indian	collectiontf	10.596134608054392
+INEX_LD-2012389	unigram	ocean	collectiontf	9.530538036104643
+INEX_LD-2012389	bigram	frequent visit	collectiontf	-Infinity
+INEX_LD-2012389	bigram	visit shark	collectiontf	-Infinity
+INEX_LD-2012389	bigram	shark gulf	collectiontf	-Infinity
+INEX_LD-2012389	bigram	gulf indian	collectiontf	2.302585092994046
+INEX_LD-2012389	bigram	indian ocean	collectiontf	6.7226297948554485
+INEX_LD-2012390	unigram	baseball	collectiontf	10.345220299814834
+INEX_LD-2012390	unigram	player	collectiontf	10.905331932762941
+INEX_LD-2012390	unigram	homerun	collectiontf	3.1780538303479458
+INEX_LD-2012390	unigram	national	collectiontf	12.230496929440697
+INEX_LD-2012390	unigram	league	collectiontf	11.858003423063298
+INEX_LD-2012390	bigram	baseball player	collectiontf	8.976009475021396
+INEX_LD-2012390	bigram	player homerun	collectiontf	-Infinity
+INEX_LD-2012390	bigram	homerun national	collectiontf	-Infinity
+INEX_LD-2012390	bigram	national league	collectiontf	7.175489713624222
+INEX_XER-60	unigram	olympic	collectiontf	10.547917066298643
+INEX_XER-60	unigram	class	collectiontf	11.071610356468307
+INEX_XER-60	unigram	dinghy	collectiontf	2.5649493574615367
+INEX_XER-60	unigram	sailing	collectiontf	7.805474625270857
+INEX_XER-60	bigram	olympic class	collectiontf	-Infinity
+INEX_XER-60	bigram	class dinghy	collectiontf	-Infinity
+INEX_XER-60	bigram	dinghy sailing	collectiontf	0.6931471805599453
+INEX_XER-62	unigram	neil	collectiontf	10.29200993991398
+INEX_XER-62	unigram	gaiman	collectiontf	6.875232087276577
+INEX_XER-62	unigram	novel	collectiontf	10.332766838743547
+INEX_XER-62	bigram	neil gaiman	collectiontf	6.452048954437226
+INEX_XER-62	bigram	gaiman novel	collectiontf	-Infinity
+INEX_XER-63	unigram	hugo	collectiontf	9.694616660508636
+INEX_XER-63	unigram	award	collectiontf	10.914942999089615
+INEX_XER-63	unigram	best	collectiontf	9.63469265580283
+INEX_XER-63	unigram	novel	collectiontf	10.332766838743547
+INEX_XER-63	bigram	hugo award	collectiontf	5.043425116919247
+INEX_XER-63	bigram	award best	collectiontf	7.524021415206125
+INEX_XER-63	bigram	best novel	collectiontf	1.9459101490553132
+INEX_XER-64	unigram	alan	collectiontf	11.026369600176976
+INEX_XER-64	unigram	moore	collectiontf	10.425905722337927
+INEX_XER-64	unigram	graphic	collectiontf	7.051855622955894
+INEX_XER-64	unigram	novel	collectiontf	10.332766838743547
+INEX_XER-64	unigram	adapt	collectiontf	4.430816798843313
+INEX_XER-64	unigram	film	collectiontf	11.439644842775813
+INEX_XER-64	bigram	alan moore	collectiontf	5.209486152841421
+INEX_XER-64	bigram	moore graphic	collectiontf	-Infinity
+INEX_XER-64	bigram	graphic novel	collectiontf	5.568344503761097
+INEX_XER-64	bigram	novel adapt	collectiontf	3.091042453358316
+INEX_XER-64	bigram	adapt film	collectiontf	3.332204510175204
+INEX_XER-65	unigram	pacific	collectiontf	10.215484117319336
+INEX_XER-65	unigram	navigator	collectiontf	4.927253685157205
+INEX_XER-65	unigram	australia	collectiontf	12.235043896556526
+INEX_XER-65	unigram	explore	collectiontf	6.834108738813838
+INEX_XER-65	bigram	pacific navigator	collectiontf	-Infinity
+INEX_XER-65	bigram	navigator australia	collectiontf	-Infinity
+INEX_XER-65	bigram	australia explore	collectiontf	2.8903717578961645
+INEX_XER-67	unigram	ferri	collectiontf	7.968665700466235
+INEX_XER-67	unigram	observation	collectiontf	6.263398262591624
+INEX_XER-67	unigram	wheels	collectiontf	5.971261839790462
+INEX_XER-67	bigram	ferri observation	collectiontf	-Infinity
+INEX_XER-67	bigram	observation wheels	collectiontf	-Infinity
+INEX_XER-72	unigram	film	collectiontf	11.439644842775813
+INEX_XER-72	unigram	shot	collectiontf	7.775695749915245
+INEX_XER-72	unigram	venice	collectiontf	9.1689974084418
+INEX_XER-72	bigram	film shot	collectiontf	6.184148890937483
+INEX_XER-72	bigram	shot venice	collectiontf	-Infinity
+INEX_XER-73	unigram	magazine	collectiontf	9.369819686521504
+INEX_XER-73	unigram	indie	collectiontf	11.113253543902827
+INEX_XER-73	unigram	music	collectiontf	13.433926513717681
+INEX_XER-73	bigram	magazine indie	collectiontf	-Infinity
+INEX_XER-73	bigram	indie music	collectiontf	2.5649493574615367
+INEX_XER-74	unigram	circus	collectiontf	7.385851078125209
+INEX_XER-74	unigram	mammal	collectiontf	10.183880624651032
+INEX_XER-74	bigram	circus mammal	collectiontf	-Infinity
+INEX_XER-79	unigram	works	collectiontf	10.333059735987526
+INEX_XER-79	unigram	charles	collectiontf	11.944740348401174
+INEX_XER-79	unigram	rennie	collectiontf	7.409741954080923
+INEX_XER-79	unigram	mackintosh	collectiontf	6.255750041753367
+INEX_XER-79	bigram	works charles	collectiontf	3.4011973816621555
+INEX_XER-79	bigram	charles rennie	collectiontf	2.0794415416798357
+INEX_XER-79	bigram	rennie mackintosh	collectiontf	1.791759469228055
+INEX_XER-81	unigram	movies	collectiontf	6.8679744089702925
+INEX_XER-81	unigram	english	collectiontf	12.4924726464794
+INEX_XER-81	unigram	hooligan	collectiontf	4.290459441148391
+INEX_XER-81	bigram	movies english	collectiontf	1.3862943611198906
+INEX_XER-81	bigram	english hooligan	collectiontf	-Infinity
+INEX_XER-86	unigram	list	collectiontf	12.520149539528866
+INEX_XER-86	unigram	country	collectiontf	12.926088118951263
+INEX_XER-86	unigram	world	collectiontf	12.197526228728332
+INEX_XER-86	unigram	war	collectiontf	11.821938408123838
+INEX_XER-86	unigram	two	collectiontf	9.265869681768663
+INEX_XER-86	bigram	list country	collectiontf	2.5649493574615367
+INEX_XER-86	bigram	country world	collectiontf	4.736198448394496
+INEX_XER-86	bigram	world war	collectiontf	10.662282014331929
+INEX_XER-86	bigram	war two	collectiontf	-Infinity
+INEX_XER-87	unigram	axis	collectiontf	6.371611847231857
+INEX_XER-87	unigram	powers	collectiontf	7.741533589281828
+INEX_XER-87	unigram	world	collectiontf	12.197526228728332
+INEX_XER-87	unigram	war	collectiontf	11.821938408123838
+INEX_XER-87	unigram	ii	collectiontf	11.219828759816949
+INEX_XER-87	bigram	axis powers	collectiontf	4.418840607796598
+INEX_XER-87	bigram	powers world	collectiontf	0.6931471805599453
+INEX_XER-87	bigram	world war	collectiontf	10.662282014331929
+INEX_XER-87	bigram	war ii	collectiontf	10.05065677575275
+INEX_XER-88	unigram	nordic	collectiontf	6.398594934535208
+INEX_XER-88	unigram	author	collectiontf	10.61024173650229
+INEX_XER-88	unigram	known	collectiontf	9.167745974343763
+INEX_XER-88	unigram	children	collectiontf	9.619664690410067
+INEX_XER-88	unigram	literature	collectiontf	9.640498092674719
+INEX_XER-88	bigram	nordic author	collectiontf	-Infinity
+INEX_XER-88	bigram	author known	collectiontf	1.9459101490553132
+INEX_XER-88	bigram	known children	collectiontf	0.6931471805599453
+INEX_XER-88	bigram	children literature	collectiontf	8.098034756176071
+INEX_XER-91	unigram	paul	collectiontf	12.081353737222678
+INEX_XER-91	unigram	auster	collectiontf	6.282266746896006
+INEX_XER-91	unigram	novel	collectiontf	10.332766838743547
+INEX_XER-91	bigram	paul auster	collectiontf	5.537334267018537
+INEX_XER-91	bigram	auster novel	collectiontf	1.3862943611198906
+INEX_XER-94	unigram	hybrid	collectiontf	6.342121418721152
+INEX_XER-94	unigram	car	collectiontf	9.395823592107716
+INEX_XER-94	unigram	sold	collectiontf	5.6131281063880705
+INEX_XER-94	unigram	europe	collectiontf	12.122343149998642
+INEX_XER-94	bigram	hybrid car	collectiontf	0.6931471805599453
+INEX_XER-94	bigram	car sold	collectiontf	-Infinity
+INEX_XER-94	bigram	sold europe	collectiontf	0.0
+INEX_XER-95	unigram	tom	collectiontf	11.54718195364832
+INEX_XER-95	unigram	hank	collectiontf	8.888342869109282
+INEX_XER-95	unigram	movies	collectiontf	6.8679744089702925
+INEX_XER-95	unigram	play	collectiontf	10.224918665034282
+INEX_XER-95	unigram	leading	collectiontf	5.673323267171493
+INEX_XER-95	unigram	role	collectiontf	8.463792414689122
+INEX_XER-95	bigram	tom hank	collectiontf	6.0112671744041615
+INEX_XER-95	bigram	hank movies	collectiontf	-Infinity
+INEX_XER-95	bigram	movies play	collectiontf	-Infinity
+INEX_XER-95	bigram	play leading	collectiontf	-Infinity
+INEX_XER-95	bigram	leading role	collectiontf	3.044522437723423
+INEX_XER-96	unigram	pure	collectiontf	7.190676034332207
+INEX_XER-96	unigram	object	collectiontf	6.912742820493176
+INEX_XER-96	unigram	orient	collectiontf	9.579072337028126
+INEX_XER-96	unigram	program	collectiontf	8.916103530553727
+INEX_XER-96	unigram	language	collectiontf	12.34816231143625
+INEX_XER-96	bigram	pure object	collectiontf	-Infinity
+INEX_XER-96	bigram	object orient	collectiontf	3.828641396489095
+INEX_XER-96	bigram	orient program	collectiontf	3.912023005428146
+INEX_XER-96	bigram	program language	collectiontf	7.497207223203318
+INEX_XER-97	unigram	compile	collectiontf	5.834810737062605
+INEX_XER-97	unigram	compile	collectiontf	5.834810737062605
+INEX_XER-97	unigram	c	collectiontf	10.98220320948978
+INEX_XER-97	unigram	c	collectiontf	10.98220320948978
+INEX_XER-97	bigram	compile compile	collectiontf	3.4657359027997265
+INEX_XER-97	bigram	compile c	collectiontf	1.0986122886681098
+INEX_XER-97	bigram	c c	collectiontf	7.077498053569231
+INEX_XER-98	unigram	maker	collectiontf	7.151485463904735
+INEX_XER-98	unigram	lawn	collectiontf	6.182084906716632
+INEX_XER-98	unigram	tennis	collectiontf	9.394576760974909
+INEX_XER-98	unigram	rackets	collectiontf	1.6094379124341003
+INEX_XER-98	bigram	maker lawn	collectiontf	-Infinity
+INEX_XER-98	bigram	lawn tennis	collectiontf	4.23410650459726
+INEX_XER-98	bigram	tennis rackets	collectiontf	-Infinity
+INEX_XER-99	unigram	computer	collectiontf	9.735423867488873
+INEX_XER-99	unigram	system	collectiontf	10.386469103072121
+INEX_XER-99	unigram	recursive	collectiontf	0.6931471805599453
+INEX_XER-99	unigram	acronym	collectiontf	2.772588722239781
+INEX_XER-99	unigram	name	collectiontf	13.304433235858246
+INEX_XER-99	bigram	computer system	collectiontf	4.07753744390572
+INEX_XER-99	bigram	system recursive	collectiontf	-Infinity
+INEX_XER-99	bigram	recursive acronym	collectiontf	-Infinity
+INEX_XER-99	bigram	acronym name	collectiontf	-Infinity
+INEX_XER-100	unigram	operate	collectiontf	7.872836175025724
+INEX_XER-100	unigram	system	collectiontf	10.386469103072121
+INEX_XER-100	unigram	steve	collectiontf	11.201401418032876
+INEX_XER-100	unigram	job	collectiontf	6.748759547491679
+INEX_XER-100	unigram	related	collectiontf	9.965992757887525
+INEX_XER-100	bigram	operate system	collectiontf	6.5337888379333435
+INEX_XER-100	bigram	system steve	collectiontf	-Infinity
+INEX_XER-100	bigram	steve job	collectiontf	3.9512437185814275
+INEX_XER-100	bigram	job related	collectiontf	-Infinity
+INEX_XER-106	unigram	noble	collectiontf	9.676273226851437
+INEX_XER-106	unigram	english	collectiontf	12.4924726464794
+INEX_XER-106	unigram	person	collectiontf	8.746716349694486
+INEX_XER-106	unigram	hundred	collectiontf	7.045776576879511
+INEX_XER-106	unigram	years	collectiontf	10.018199209668024
+INEX_XER-106	unigram	war	collectiontf	11.821938408123838
+INEX_XER-106	bigram	noble english	collectiontf	0.6931471805599453
+INEX_XER-106	bigram	english person	collectiontf	-Infinity
+INEX_XER-106	bigram	person hundred	collectiontf	-Infinity
+INEX_XER-106	bigram	hundred years	collectiontf	4.852030263919617
+INEX_XER-106	bigram	years war	collectiontf	7.025538314638521
+INEX_XER-108	unigram	state	collectiontf	14.145744088551588
+INEX_XER-108	unigram	capitals	collectiontf	7.899524472032198
+INEX_XER-108	unigram	united	collectiontf	14.5437376789604
+INEX_XER-108	unigram	states	collectiontf	14.307209629843593
+INEX_XER-108	unigram	america	collectiontf	13.455079999095538
+INEX_XER-108	bigram	state capitals	collectiontf	5.594711379601839
+INEX_XER-108	bigram	capitals united	collectiontf	4.762173934797756
+INEX_XER-108	bigram	united states	collectiontf	14.206640067305072
+INEX_XER-108	bigram	states america	collectiontf	12.893903217942592
+INEX_XER-109	unigram	national	collectiontf	12.230496929440697
+INEX_XER-109	unigram	capitals	collectiontf	7.899524472032198
+INEX_XER-109	unigram	situated	collectiontf	-Infinity
+INEX_XER-109	unigram	island	collectiontf	11.377769896943771
+INEX_XER-109	bigram	national capitals	collectiontf	3.784189633918261
+INEX_XER-109	bigram	capitals situated	collectiontf	-Infinity
+INEX_XER-109	bigram	situated island	collectiontf	-Infinity
+INEX_XER-110	unigram	nobel	collectiontf	7.706162970199576
+INEX_XER-110	unigram	prize	collectiontf	8.74909824839902
+INEX_XER-110	unigram	literature	collectiontf	9.640498092674719
+INEX_XER-110	unigram	winner	collectiontf	8.432506383249043
+INEX_XER-110	unigram	poet	collectiontf	8.503499864284235
+INEX_XER-110	bigram	nobel prize	collectiontf	7.4570320891223805
+INEX_XER-110	bigram	prize literature	collectiontf	4.430816798843313
+INEX_XER-110	bigram	literature winner	collectiontf	-Infinity
+INEX_XER-110	bigram	winner poet	collectiontf	-Infinity
+INEX_XER-113	unigram	formula	collectiontf	8.183397369998433
+INEX_XER-113	unigram	1	collectiontf	10.46820459264593
+INEX_XER-113	unigram	driver	collectiontf	7.930206206684683
+INEX_XER-113	unigram	won	collectiontf	9.469931564261438
+INEX_XER-113	unigram	monaco	collectiontf	9.229162126216771
+INEX_XER-113	unigram	grand	collectiontf	10.451204254885868
+INEX_XER-113	unigram	prix	collectiontf	8.128290171607052
+INEX_XER-113	bigram	formula 1	collectiontf	1.0986122886681098
+INEX_XER-113	bigram	1 driver	collectiontf	-Infinity
+INEX_XER-113	bigram	driver won	collectiontf	-Infinity
+INEX_XER-113	bigram	won monaco	collectiontf	-Infinity
+INEX_XER-113	bigram	monaco grand	collectiontf	3.332204510175204
+INEX_XER-113	bigram	grand prix	collectiontf	7.7823903355874595
+INEX_XER-114	unigram	formula	collectiontf	8.183397369998433
+INEX_XER-114	unigram	races	collectiontf	7.419979923661835
+INEX_XER-114	unigram	europe	collectiontf	12.122343149998642
+INEX_XER-114	bigram	formula races	collectiontf	2.8903717578961645
+INEX_XER-114	bigram	races europe	collectiontf	0.0
+INEX_XER-115	unigram	formula	collectiontf	8.183397369998433
+INEX_XER-115	unigram	world	collectiontf	12.197526228728332
+INEX_XER-115	unigram	constructor	collectiontf	5.0689042022202315
+INEX_XER-115	unigram	champion	collectiontf	9.76249985923515
+INEX_XER-115	bigram	formula world	collectiontf	4.07753744390572
+INEX_XER-115	bigram	world constructor	collectiontf	3.4339872044851463
+INEX_XER-115	bigram	constructor champion	collectiontf	3.4339872044851463
+INEX_XER-116	unigram	italy	collectiontf	12.033325111170493
+INEX_XER-116	unigram	nobel	collectiontf	7.706162970199576
+INEX_XER-116	unigram	prize	collectiontf	8.74909824839902
+INEX_XER-116	unigram	winner	collectiontf	8.432506383249043
+INEX_XER-116	bigram	italy nobel	collectiontf	0.6931471805599453
+INEX_XER-116	bigram	nobel prize	collectiontf	7.4570320891223805
+INEX_XER-116	bigram	prize winner	collectiontf	4.605170185988092
+INEX_XER-117	unigram	musician	collectiontf	10.932928382342938
+INEX_XER-117	unigram	appear	collectiontf	6.762729506931879
+INEX_XER-117	unigram	blues	collectiontf	11.699960893990403
+INEX_XER-117	unigram	brother	collectiontf	10.182255007598334
+INEX_XER-117	unigram	movies	collectiontf	6.8679744089702925
+INEX_XER-117	bigram	musician appear	collectiontf	-Infinity
+INEX_XER-117	bigram	appear blues	collectiontf	-Infinity
+INEX_XER-117	bigram	blues brother	collectiontf	5.117993812416755
+INEX_XER-117	bigram	brother movies	collectiontf	-Infinity
+INEX_XER-118	unigram	france	collectiontf	12.644340479603889
+INEX_XER-118	unigram	car	collectiontf	9.395823592107716
+INEX_XER-118	unigram	model	collectiontf	8.843037724962366
+INEX_XER-118	unigram	1960	collectiontf	8.339023005744759
+INEX_XER-118	unigram	s	collectiontf	10.971039078250866
+INEX_XER-118	bigram	france car	collectiontf	2.302585092994046
+INEX_XER-118	bigram	car model	collectiontf	1.0986122886681098
+INEX_XER-118	bigram	model 1960	collectiontf	-Infinity
+INEX_XER-118	bigram	1960 s	collectiontf	-Infinity
+INEX_XER-119	unigram	switzerland	collectiontf	10.607896085373092
+INEX_XER-119	unigram	canton	collectiontf	9.4054136126953
+INEX_XER-119	unigram	speak	collectiontf	7.711548979629146
+INEX_XER-119	unigram	germany	collectiontf	12.511555342607462
+INEX_XER-119	bigram	switzerland canton	collectiontf	6.311734809152915
+INEX_XER-119	bigram	canton speak	collectiontf	-Infinity
+INEX_XER-119	bigram	speak germany	collectiontf	0.0
+INEX_XER-121	unigram	us	collectiontf	10.894421827406049
+INEX_XER-121	unigram	president	collectiontf	10.678007325311796
+INEX_XER-121	unigram	1960	collectiontf	8.339023005744759
+INEX_XER-121	bigram	us president	collectiontf	3.091042453358316
+INEX_XER-121	bigram	president 1960	collectiontf	-Infinity
+INEX_XER-122	unigram	movies	collectiontf	6.8679744089702925
+INEX_XER-122	unigram	eight	collectiontf	7.92588031673756
+INEX_XER-122	unigram	academy	collectiontf	9.637306011530349
+INEX_XER-122	unigram	award	collectiontf	10.914942999089615
+INEX_XER-122	bigram	movies eight	collectiontf	-Infinity
+INEX_XER-122	bigram	eight academy	collectiontf	-Infinity
+INEX_XER-122	bigram	academy award	collectiontf	6.52795791762255
+INEX_XER-123	unigram	fifa	collectiontf	8.039802343736485
+INEX_XER-123	unigram	world	collectiontf	12.197526228728332
+INEX_XER-123	unigram	cup	collectiontf	9.407550541263888
+INEX_XER-123	unigram	national	collectiontf	12.230496929440697
+INEX_XER-123	unigram	team	collectiontf	12.921732014501975
+INEX_XER-123	unigram	winner	collectiontf	8.432506383249043
+INEX_XER-123	unigram	1974	collectiontf	8.066207568006265
+INEX_XER-123	bigram	fifa world	collectiontf	7.8567067930958405
+INEX_XER-123	bigram	world cup	collectiontf	8.621373010325902
+INEX_XER-123	bigram	cup national	collectiontf	4.143134726391533
+INEX_XER-123	bigram	national team	collectiontf	7.27931883541462
+INEX_XER-123	bigram	team winner	collectiontf	1.791759469228055
+INEX_XER-123	bigram	winner 1974	collectiontf	-Infinity
+INEX_XER-124	unigram	novel	collectiontf	10.332766838743547
+INEX_XER-124	unigram	won	collectiontf	9.469931564261438
+INEX_XER-124	unigram	book	collectiontf	8.963288275610298
+INEX_XER-124	unigram	prize	collectiontf	8.74909824839902
+INEX_XER-124	bigram	novel won	collectiontf	-Infinity
+INEX_XER-124	bigram	won book	collectiontf	-Infinity
+INEX_XER-124	bigram	book prize	collectiontf	5.2574953720277815
+INEX_XER-125	unigram	country	collectiontf	12.926088118951263
+INEX_XER-125	unigram	won	collectiontf	9.469931564261438
+INEX_XER-125	unigram	fifa	collectiontf	8.039802343736485
+INEX_XER-125	unigram	world	collectiontf	12.197526228728332
+INEX_XER-125	unigram	cup	collectiontf	9.407550541263888
+INEX_XER-125	bigram	country won	collectiontf	-Infinity
+INEX_XER-125	bigram	won fifa	collectiontf	-Infinity
+INEX_XER-125	bigram	fifa world	collectiontf	7.8567067930958405
+INEX_XER-125	bigram	world cup	collectiontf	8.621373010325902
+INEX_XER-126	unigram	toy	collectiontf	7.804251383528112
+INEX_XER-126	unigram	train	collectiontf	9.106866963499908
+INEX_XER-126	unigram	manufacturer	collectiontf	9.965898812657525
+INEX_XER-126	unigram	business	collectiontf	9.157783121237507
+INEX_XER-126	bigram	toy train	collectiontf	1.9459101490553132
+INEX_XER-126	bigram	train manufacturer	collectiontf	2.302585092994046
+INEX_XER-126	bigram	manufacturer business	collectiontf	-Infinity
+INEX_XER-127	unigram	germany	collectiontf	12.511555342607462
+INEX_XER-127	unigram	female	collectiontf	7.86403565907245
+INEX_XER-127	unigram	politician	collectiontf	10.793947524375762
+INEX_XER-127	bigram	germany female	collectiontf	3.5553480614894135
+INEX_XER-127	bigram	female politician	collectiontf	-Infinity
+INEX_XER-128	unigram	bond	collectiontf	8.72453251118548
+INEX_XER-128	unigram	girl	collectiontf	9.496871782670567
+INEX_XER-128	bigram	bond girl	collectiontf	4.418840607796598
+INEX_XER-129	unigram	science	collectiontf	10.488520429241627
+INEX_XER-129	unigram	fiction	collectiontf	10.684760072732194
+INEX_XER-129	unigram	book	collectiontf	8.963288275610298
+INEX_XER-129	unigram	written	collectiontf	6.4692503167957724
+INEX_XER-129	unigram	1980	collectiontf	8.300528606199737
+INEX_XER-129	bigram	science fiction	collectiontf	9.54438108340598
+INEX_XER-129	bigram	fiction book	collectiontf	5.342334251964811
+INEX_XER-129	bigram	book written	collectiontf	-Infinity
+INEX_XER-129	bigram	written 1980	collectiontf	-Infinity
+INEX_XER-130	unigram	star	collectiontf	12.420752480432188
+INEX_XER-130	unigram	trek	collectiontf	8.941545475242885
+INEX_XER-130	unigram	captain	collectiontf	8.828494129466652
+INEX_XER-130	bigram	star trek	collectiontf	8.934586870389676
+INEX_XER-130	bigram	trek captain	collectiontf	-Infinity
+INEX_XER-132	unigram	living	collectiontf	8.363342466597977
+INEX_XER-132	unigram	nordic	collectiontf	6.398594934535208
+INEX_XER-132	unigram	classical	collectiontf	9.477998292597036
+INEX_XER-132	unigram	composer	collectiontf	9.436678814186912
+INEX_XER-132	bigram	living nordic	collectiontf	-Infinity
+INEX_XER-132	bigram	nordic classical	collectiontf	-Infinity
+INEX_XER-132	bigram	classical composer	collectiontf	3.871201010907891
+INEX_XER-133	unigram	eu	collectiontf	5.929589143389895
+INEX_XER-133	unigram	country	collectiontf	12.926088118951263
+INEX_XER-133	bigram	eu country	collectiontf	0.0
+INEX_XER-134	unigram	record	collectiontf	13.04574363801813
+INEX_XER-134	unigram	break	collectiontf	7.87777633327726
+INEX_XER-134	unigram	sprint	collectiontf	6.6895992691789665
+INEX_XER-134	unigram	male	collectiontf	8.263332667439967
+INEX_XER-134	unigram	100	collectiontf	7.713784616598755
+INEX_XER-134	unigram	meter	collectiontf	6.565264970035361
+INEX_XER-134	unigram	sprint	collectiontf	6.6895992691789665
+INEX_XER-134	bigram	record break	collectiontf	3.828641396489095
+INEX_XER-134	bigram	break sprint	collectiontf	-Infinity
+INEX_XER-134	bigram	sprint male	collectiontf	0.0
+INEX_XER-134	bigram	male 100	collectiontf	-Infinity
+INEX_XER-134	bigram	100 meter	collectiontf	-Infinity
+INEX_XER-134	bigram	meter sprint	collectiontf	-Infinity
+INEX_XER-135	unigram	professional	collectiontf	9.932317934204004
+INEX_XER-135	unigram	baseball	collectiontf	10.345220299814834
+INEX_XER-135	unigram	team	collectiontf	12.921732014501975
+INEX_XER-135	unigram	japan	collectiontf	12.203659736805884
+INEX_XER-135	bigram	professional baseball	collectiontf	6.639875833826536
+INEX_XER-135	bigram	baseball team	collectiontf	7.8343923029104365
+INEX_XER-135	bigram	team japan	collectiontf	5.159055299214529
+INEX_XER-136	unigram	japan	collectiontf	12.203659736805884
+INEX_XER-136	unigram	player	collectiontf	10.905331932762941
+INEX_XER-136	unigram	major	collectiontf	9.495068084601527
+INEX_XER-136	unigram	league	collectiontf	11.858003423063298
+INEX_XER-136	unigram	baseball	collectiontf	10.345220299814834
+INEX_XER-136	bigram	japan player	collectiontf	0.0
+INEX_XER-136	bigram	player major	collectiontf	5.0369526024136295
+INEX_XER-136	bigram	major league	collectiontf	8.689632748355741
+INEX_XER-136	bigram	league baseball	collectiontf	9.510296805303351
+INEX_XER-138	unigram	national	collectiontf	12.230496929440697
+INEX_XER-138	unigram	park	collectiontf	11.77732611613264
+INEX_XER-138	unigram	east	collectiontf	11.430966756271793
+INEX_XER-138	unigram	coast	collectiontf	10.455272761356362
+INEX_XER-138	unigram	canada	collectiontf	12.751360563726237
+INEX_XER-138	unigram	us	collectiontf	10.894421827406049
+INEX_XER-138	bigram	national park	collectiontf	8.908964972392399
+INEX_XER-138	bigram	park east	collectiontf	5.236441962829949
+INEX_XER-138	bigram	east coast	collectiontf	8.438366410870266
+INEX_XER-138	bigram	coast canada	collectiontf	0.0
+INEX_XER-138	bigram	canada us	collectiontf	0.6931471805599453
+INEX_XER-139	unigram	film	collectiontf	11.439644842775813
+INEX_XER-139	unigram	direct	collectiontf	7.471363088187097
+INEX_XER-139	unigram	akira	collectiontf	8.209580483475577
+INEX_XER-139	unigram	kurosawa	collectiontf	7.072421900537371
+INEX_XER-139	bigram	film direct	collectiontf	7.055312843339752
+INEX_XER-139	bigram	direct akira	collectiontf	0.6931471805599453
+INEX_XER-139	bigram	akira kurosawa	collectiontf	6.569481420414296
+INEX_XER-140	unigram	airport	collectiontf	9.201198714058899
+INEX_XER-140	unigram	germany	collectiontf	12.511555342607462
+INEX_XER-140	bigram	airport germany	collectiontf	2.772588722239781
+INEX_XER-141	unigram	university	collectiontf	12.834814629397782
+INEX_XER-141	unigram	catalunya	collectiontf	5.910796644040527
+INEX_XER-141	bigram	university catalunya	collectiontf	-Infinity
+INEX_XER-143	unigram	hanseatic	collectiontf	8.163086375583216
+INEX_XER-143	unigram	league	collectiontf	11.858003423063298
+INEX_XER-143	unigram	germany	collectiontf	12.511555342607462
+INEX_XER-143	unigram	netherlands	collectiontf	11.25285855955142
+INEX_XER-143	unigram	circle	collectiontf	8.695841342843883
+INEX_XER-143	bigram	hanseatic league	collectiontf	4.174387269895637
+INEX_XER-143	bigram	league germany	collectiontf	4.204692619390966
+INEX_XER-143	bigram	germany netherlands	collectiontf	3.1354942159291497
+INEX_XER-143	bigram	netherlands circle	collectiontf	0.0
+INEX_XER-144	unigram	chess	collectiontf	8.31115254800169
+INEX_XER-144	unigram	world	collectiontf	12.197526228728332
+INEX_XER-144	unigram	champion	collectiontf	9.76249985923515
+INEX_XER-144	bigram	chess world	collectiontf	1.3862943611198906
+INEX_XER-144	bigram	world champion	collectiontf	5.204006687076795
+INEX_XER-147	unigram	chemical	collectiontf	8.53050420547591
+INEX_XER-147	unigram	elements	collectiontf	6.782192056006791
+INEX_XER-147	unigram	name	collectiontf	13.304433235858246
+INEX_XER-147	unigram	people	collectiontf	12.521248282290877
+INEX_XER-147	bigram	chemical elements	collectiontf	5.846438775057725
+INEX_XER-147	bigram	elements name	collectiontf	-Infinity
+INEX_XER-147	bigram	name people	collectiontf	8.000349495324684
+QALD2_te-1	unigram	germany	collectiontf	12.511555342607462
+QALD2_te-1	unigram	city	collectiontf	14.618563160431117
+QALD2_te-1	unigram	250000	collectiontf	-Infinity
+QALD2_te-1	unigram	inhabitant	collectiontf	6.674561391814426
+QALD2_te-1	bigram	germany city	collectiontf	5.958424693029782
+QALD2_te-1	bigram	city 250000	collectiontf	-Infinity
+QALD2_te-1	bigram	250000 inhabitant	collectiontf	-Infinity
+QALD2_te-2	unigram	successor	collectiontf	10.762106797794535
+QALD2_te-2	unigram	john	collectiontf	13.123904189743088
+QALD2_te-2	unigram	f	collectiontf	10.457286455149985
+QALD2_te-2	unigram	kennedy	collectiontf	9.751850377873168
+QALD2_te-2	bigram	successor john	collectiontf	7.553286605600419
+QALD2_te-2	bigram	john f	collectiontf	7.766840537085513
+QALD2_te-2	bigram	f kennedy	collectiontf	7.323830566202317
+QALD2_te-3	unigram	mayor	collectiontf	9.8022297204619
+QALD2_te-3	unigram	berlin	collectiontf	10.299979185845183
+QALD2_te-3	bigram	mayor berlin	collectiontf	2.6390573296152584
+QALD2_te-5	unigram	second	collectiontf	10.523445569477712
+QALD2_te-5	unigram	highest	collectiontf	4.356708826689592
+QALD2_te-5	unigram	mountain	collectiontf	10.444910274279497
+QALD2_te-5	unigram	earth	collectiontf	9.280425979542871
+QALD2_te-5	bigram	second highest	collectiontf	-Infinity
+QALD2_te-5	bigram	highest mountain	collectiontf	-Infinity
+QALD2_te-5	bigram	mountain earth	collectiontf	-Infinity
+QALD2_te-6	unigram	give	collectiontf	8.642768014324304
+QALD2_te-6	unigram	professional	collectiontf	9.932317934204004
+QALD2_te-6	unigram	skateboard	collectiontf	5.62040086571715
+QALD2_te-6	unigram	sweden	collectiontf	11.35924967236618
+QALD2_te-6	bigram	give professional	collectiontf	-Infinity
+QALD2_te-6	bigram	professional skateboard	collectiontf	0.6931471805599453
+QALD2_te-6	bigram	skateboard sweden	collectiontf	-Infinity
+QALD2_te-8	unigram	country	collectiontf	12.926088118951263
+QALD2_te-8	unigram	himalayan	collectiontf	3.828641396489095
+QALD2_te-8	unigram	mountain	collectiontf	10.444910274279497
+QALD2_te-8	unigram	system	collectiontf	10.386469103072121
+QALD2_te-8	unigram	extend	collectiontf	7.716015266642587
+QALD2_te-8	bigram	country himalayan	collectiontf	-Infinity
+QALD2_te-8	bigram	himalayan mountain	collectiontf	-Infinity
+QALD2_te-8	bigram	mountain system	collectiontf	-Infinity
+QALD2_te-8	bigram	system extend	collectiontf	-Infinity
+QALD2_te-9	unigram	give	collectiontf	8.642768014324304
+QALD2_te-9	unigram	list	collectiontf	12.520149539528866
+QALD2_te-9	unigram	trumpet	collectiontf	7.949444420250626
+QALD2_te-9	unigram	player	collectiontf	10.905331932762941
+QALD2_te-9	unigram	bandleader	collectiontf	6.698268054115413
+QALD2_te-9	bigram	give list	collectiontf	-Infinity
+QALD2_te-9	bigram	list trumpet	collectiontf	-Infinity
+QALD2_te-9	bigram	trumpet player	collectiontf	-Infinity
+QALD2_te-9	bigram	player bandleader	collectiontf	0.0
+QALD2_te-11	unigram	formula	collectiontf	8.183397369998433
+QALD2_te-11	unigram	1	collectiontf	10.46820459264593
+QALD2_te-11	unigram	race	collectiontf	9.923878242183862
+QALD2_te-11	unigram	driver	collectiontf	7.930206206684683
+QALD2_te-11	unigram	races	collectiontf	7.419979923661835
+QALD2_te-11	bigram	formula 1	collectiontf	1.0986122886681098
+QALD2_te-11	bigram	1 race	collectiontf	-Infinity
+QALD2_te-11	bigram	race driver	collectiontf	0.0
+QALD2_te-11	bigram	driver races	collectiontf	-Infinity
+QALD2_te-12	unigram	give	collectiontf	8.642768014324304
+QALD2_te-12	unigram	world	collectiontf	12.197526228728332
+QALD2_te-12	unigram	heritage	collectiontf	8.326516830239528
+QALD2_te-12	unigram	site	collectiontf	11.117613637416579
+QALD2_te-12	unigram	designate	collectiontf	9.48402493478411
+QALD2_te-12	unigram	past	collectiontf	9.437396260110308
+QALD2_te-12	unigram	five	collectiontf	9.160204302482386
+QALD2_te-12	unigram	years	collectiontf	10.018199209668024
+QALD2_te-12	bigram	give world	collectiontf	1.0986122886681098
+QALD2_te-12	bigram	world heritage	collectiontf	7.771910256435763
+QALD2_te-12	bigram	heritage site	collectiontf	7.803435056952168
+QALD2_te-12	bigram	site designate	collectiontf	-Infinity
+QALD2_te-12	bigram	designate past	collectiontf	-Infinity
+QALD2_te-12	bigram	past five	collectiontf	-Infinity
+QALD2_te-12	bigram	five years	collectiontf	3.2188758248682006
+QALD2_te-13	unigram	youngest	collectiontf	3.8918202981106265
+QALD2_te-13	unigram	player	collectiontf	10.905331932762941
+QALD2_te-13	unigram	premier	collectiontf	9.807912337613098
+QALD2_te-13	unigram	league	collectiontf	11.858003423063298
+QALD2_te-13	bigram	youngest player	collectiontf	-Infinity
+QALD2_te-13	bigram	player premier	collectiontf	1.0986122886681098
+QALD2_te-13	bigram	premier league	collectiontf	8.374938143835367
+QALD2_te-14	unigram	give	collectiontf	8.642768014324304
+QALD2_te-14	unigram	member	collectiontf	10.522988192927775
+QALD2_te-14	unigram	prodigy	collectiontf	6.75110146893676
+QALD2_te-14	bigram	give member	collectiontf	-Infinity
+QALD2_te-14	bigram	member prodigy	collectiontf	0.0
+QALD2_te-15	unigram	longest	collectiontf	5.003946305945459
+QALD2_te-15	unigram	river	collectiontf	11.46002034597524
+QALD2_te-15	bigram	longest river	collectiontf	-Infinity
+QALD2_te-17	unigram	give	collectiontf	8.642768014324304
+QALD2_te-17	unigram	car	collectiontf	9.395823592107716
+QALD2_te-17	unigram	produce	collectiontf	4.897839799950911
+QALD2_te-17	unigram	germany	collectiontf	12.511555342607462
+QALD2_te-17	bigram	give car	collectiontf	-Infinity
+QALD2_te-17	bigram	car produce	collectiontf	-Infinity
+QALD2_te-17	bigram	produce germany	collectiontf	-Infinity
+QALD2_te-19	unigram	give	collectiontf	8.642768014324304
+QALD2_te-19	unigram	people	collectiontf	12.521248282290877
+QALD2_te-19	unigram	born	collectiontf	9.84070748441342
+QALD2_te-19	unigram	vienna	collectiontf	10.002518075999083
+QALD2_te-19	unigram	die	collectiontf	10.823730464248712
+QALD2_te-19	unigram	berlin	collectiontf	10.299979185845183
+QALD2_te-19	bigram	give people	collectiontf	3.044522437723423
+QALD2_te-19	bigram	people born	collectiontf	2.0794415416798357
+QALD2_te-19	bigram	born vienna	collectiontf	2.302585092994046
+QALD2_te-19	bigram	vienna die	collectiontf	-Infinity
+QALD2_te-19	bigram	die berlin	collectiontf	-Infinity
+QALD2_te-21	unigram	capital	collectiontf	12.118044388056427
+QALD2_te-21	unigram	canada	collectiontf	12.751360563726237
+QALD2_te-21	bigram	capital canada	collectiontf	8.273591798199632
+QALD2_te-22	unigram	governor	collectiontf	9.393994374003915
+QALD2_te-22	unigram	texas	collectiontf	12.000363723939207
+QALD2_te-22	bigram	governor texas	collectiontf	4.543294782270004
+QALD2_te-24	unigram	father	collectiontf	7.9208096792886
+QALD2_te-24	unigram	queen	collectiontf	11.000548638711502
+QALD2_te-24	unigram	elizabeth	collectiontf	10.36385111529173
+QALD2_te-24	unigram	ii	collectiontf	11.219828759816949
+QALD2_te-24	bigram	father queen	collectiontf	-Infinity
+QALD2_te-24	bigram	queen elizabeth	collectiontf	6.821107472256465
+QALD2_te-24	bigram	elizabeth ii	collectiontf	7.05444965813294
+QALD2_te-25	unigram	us	collectiontf	10.894421827406049
+QALD2_te-25	unigram	state	collectiontf	14.145744088551588
+QALD2_te-25	unigram	admitted	collectiontf	-Infinity
+QALD2_te-25	unigram	latest	collectiontf	4.663439094112067
+QALD2_te-25	bigram	us state	collectiontf	10.07120295694072
+QALD2_te-25	bigram	state admitted	collectiontf	-Infinity
+QALD2_te-25	bigram	admitted latest	collectiontf	-Infinity
+QALD2_te-27	unigram	sean	collectiontf	10.45207128190472
+QALD2_te-27	unigram	parnell	collectiontf	7.22983877815125
+QALD2_te-27	unigram	governor	collectiontf	9.393994374003915
+QALD2_te-27	unigram	us	collectiontf	10.894421827406049
+QALD2_te-27	unigram	state	collectiontf	14.145744088551588
+QALD2_te-27	bigram	sean parnell	collectiontf	4.0943445622221
+QALD2_te-27	bigram	parnell governor	collectiontf	-Infinity
+QALD2_te-27	bigram	governor us	collectiontf	-Infinity
+QALD2_te-27	bigram	us state	collectiontf	10.07120295694072
+QALD2_te-28	unigram	give	collectiontf	8.642768014324304
+QALD2_te-28	unigram	movies	collectiontf	6.8679744089702925
+QALD2_te-28	unigram	direct	collectiontf	7.471363088187097
+QALD2_te-28	unigram	francis	collectiontf	10.834883622185886
+QALD2_te-28	unigram	ford	collectiontf	10.144078017454058
+QALD2_te-28	unigram	coppola	collectiontf	7.856319571406588
+QALD2_te-28	bigram	give movies	collectiontf	-Infinity
+QALD2_te-28	bigram	movies direct	collectiontf	-Infinity
+QALD2_te-28	bigram	direct francis	collectiontf	1.791759469228055
+QALD2_te-28	bigram	francis ford	collectiontf	7.240649694255466
+QALD2_te-28	bigram	ford coppola	collectiontf	6.593044534142437
+QALD2_te-29	unigram	give	collectiontf	8.642768014324304
+QALD2_te-29	unigram	actor	collectiontf	10.944170542073266
+QALD2_te-29	unigram	star	collectiontf	12.420752480432188
+QALD2_te-29	unigram	movies	collectiontf	6.8679744089702925
+QALD2_te-29	unigram	direct	collectiontf	7.471363088187097
+QALD2_te-29	unigram	star	collectiontf	12.420752480432188
+QALD2_te-29	unigram	william	collectiontf	12.431262102551305
+QALD2_te-29	unigram	shatner	collectiontf	7.020190708311925
+QALD2_te-29	bigram	give actor	collectiontf	-Infinity
+QALD2_te-29	bigram	actor star	collectiontf	8.004365564979574
+QALD2_te-29	bigram	star movies	collectiontf	3.044522437723423
+QALD2_te-29	bigram	movies direct	collectiontf	-Infinity
+QALD2_te-29	bigram	direct star	collectiontf	-Infinity
+QALD2_te-29	bigram	star william	collectiontf	7.290292882446597
+QALD2_te-29	bigram	william shatner	collectiontf	6.434546518787453
+QALD2_te-31	unigram	give	collectiontf	8.642768014324304
+QALD2_te-31	unigram	current	collectiontf	9.776506090775339
+QALD2_te-31	unigram	methodist	collectiontf	8.226840890408578
+QALD2_te-31	unigram	national	collectiontf	12.230496929440697
+QALD2_te-31	unigram	leader	collectiontf	10.636264016619267
+QALD2_te-31	bigram	give current	collectiontf	-Infinity
+QALD2_te-31	bigram	current methodist	collectiontf	-Infinity
+QALD2_te-31	bigram	methodist national	collectiontf	-Infinity
+QALD2_te-31	bigram	national leader	collectiontf	5.017279836814924
+QALD2_te-33	unigram	give	collectiontf	8.642768014324304
+QALD2_te-33	unigram	australia	collectiontf	12.235043896556526
+QALD2_te-33	unigram	nonprofit	collectiontf	7.4570320891223805
+QALD2_te-33	unigram	organization	collectiontf	10.00960278332483
+QALD2_te-33	bigram	give australia	collectiontf	-Infinity
+QALD2_te-33	bigram	australia nonprofit	collectiontf	1.0986122886681098
+QALD2_te-33	bigram	nonprofit organization	collectiontf	7.452402451223638
+QALD2_te-34	unigram	military	collectiontf	10.561396081003364
+QALD2_te-34	unigram	conflict	collectiontf	9.035391569511642
+QALD2_te-34	unigram	lawrence	collectiontf	10.783031309043167
+QALD2_te-34	unigram	arabia	collectiontf	9.192278229157774
+QALD2_te-34	unigram	participate	collectiontf	3.332204510175204
+QALD2_te-34	bigram	military conflict	collectiontf	3.58351893845611
+QALD2_te-34	bigram	conflict lawrence	collectiontf	-Infinity
+QALD2_te-34	bigram	lawrence arabia	collectiontf	3.5553480614894135
+QALD2_te-34	bigram	arabia participate	collectiontf	-Infinity
+QALD2_te-35	unigram	develop	collectiontf	6.90875477931522
+QALD2_te-35	unigram	skype	collectiontf	2.8903717578961645
+QALD2_te-35	bigram	develop skype	collectiontf	-Infinity
+QALD2_te-39	unigram	give	collectiontf	8.642768014324304
+QALD2_te-39	unigram	company	collectiontf	11.908905733867178
+QALD2_te-39	unigram	munich	collectiontf	9.86250929580757
+QALD2_te-39	bigram	give company	collectiontf	-Infinity
+QALD2_te-39	bigram	company munich	collectiontf	0.0
+QALD2_te-40	unigram	list	collectiontf	12.520149539528866
+QALD2_te-40	unigram	boardgame	collectiontf	-Infinity
+QALD2_te-40	unigram	gmt	collectiontf	3.8501476017100584
+QALD2_te-40	bigram	list boardgame	collectiontf	-Infinity
+QALD2_te-40	bigram	boardgame gmt	collectiontf	-Infinity
+QALD2_te-41	unigram	found	collectiontf	9.741262697441297
+QALD2_te-41	unigram	intel	collectiontf	5.652489180268651
+QALD2_te-41	bigram	found intel	collectiontf	-Infinity
+QALD2_te-42	unigram	husband	collectiontf	5.771441123130016
+QALD2_te-42	unigram	amanda	collectiontf	8.978408314628894
+QALD2_te-42	unigram	palmer	collectiontf	9.33078652505205
+QALD2_te-42	bigram	husband amanda	collectiontf	-Infinity
+QALD2_te-42	bigram	amanda palmer	collectiontf	5.278114659230517
+QALD2_te-43	unigram	give	collectiontf	8.642768014324304
+QALD2_te-43	unigram	breed	collectiontf	8.00603417874901
+QALD2_te-43	unigram	germany	collectiontf	12.511555342607462
+QALD2_te-43	unigram	shepherd	collectiontf	8.008032846969307
+QALD2_te-43	unigram	dog	collectiontf	8.470520783217808
+QALD2_te-43	bigram	give breed	collectiontf	-Infinity
+QALD2_te-43	bigram	breed germany	collectiontf	-Infinity
+QALD2_te-43	bigram	germany shepherd	collectiontf	-Infinity
+QALD2_te-43	bigram	shepherd dog	collectiontf	-Infinity
+QALD2_te-44	unigram	city	collectiontf	14.618563160431117
+QALD2_te-44	unigram	weser	collectiontf	6.810142450115136
+QALD2_te-44	unigram	flow	collectiontf	6.248042874508429
+QALD2_te-44	bigram	city weser	collectiontf	-Infinity
+QALD2_te-44	bigram	weser flow	collectiontf	-Infinity
+QALD2_te-45	unigram	country	collectiontf	12.926088118951263
+QALD2_te-45	unigram	connected	collectiontf	4.143134726391533
+QALD2_te-45	unigram	rhine	collectiontf	8.174702882469461
+QALD2_te-45	bigram	country connected	collectiontf	-Infinity
+QALD2_te-45	bigram	connected rhine	collectiontf	-Infinity
+QALD2_te-46	unigram	professional	collectiontf	9.932317934204004
+QALD2_te-46	unigram	surfer	collectiontf	6.371611847231857
+QALD2_te-46	unigram	born	collectiontf	9.84070748441342
+QALD2_te-46	unigram	philippines	collectiontf	11.058732190770712
+QALD2_te-46	bigram	professional surfer	collectiontf	-Infinity
+QALD2_te-46	bigram	surfer born	collectiontf	-Infinity
+QALD2_te-46	bigram	born philippines	collectiontf	-Infinity
+QALD2_te-48	unigram	uk	collectiontf	9.911852468867755
+QALD2_te-48	unigram	city	collectiontf	14.618563160431117
+QALD2_te-48	unigram	headquarters	collectiontf	9.888475432415625
+QALD2_te-48	unigram	mi6	collectiontf	3.5553480614894135
+QALD2_te-48	bigram	uk city	collectiontf	3.871201010907891
+QALD2_te-48	bigram	city headquarters	collectiontf	5.84354441703136
+QALD2_te-48	bigram	headquarters mi6	collectiontf	-Infinity
+QALD2_te-49	unigram	weapon	collectiontf	8.069342366811636
+QALD2_te-49	unigram	designer	collectiontf	9.263786347681808
+QALD2_te-49	unigram	uzi	collectiontf	3.912023005428146
+QALD2_te-49	unigram	develop	collectiontf	6.90875477931522
+QALD2_te-49	bigram	weapon designer	collectiontf	2.302585092994046
+QALD2_te-49	bigram	designer uzi	collectiontf	-Infinity
+QALD2_te-49	bigram	uzi develop	collectiontf	-Infinity
+QALD2_te-51	unigram	give	collectiontf	8.642768014324304
+QALD2_te-51	unigram	frisian	collectiontf	5.062595033026967
+QALD2_te-51	unigram	island	collectiontf	11.377769896943771
+QALD2_te-51	unigram	belong	collectiontf	5.87493073085203
+QALD2_te-51	unigram	netherlands	collectiontf	11.25285855955142
+QALD2_te-51	bigram	give frisian	collectiontf	-Infinity
+QALD2_te-51	bigram	frisian island	collectiontf	2.8903717578961645
+QALD2_te-51	bigram	island belong	collectiontf	-Infinity
+QALD2_te-51	bigram	belong netherlands	collectiontf	-Infinity
+QALD2_te-53	unigram	ruling	collectiontf	4.02535169073515
+QALD2_te-53	unigram	party	collectiontf	12.320962611404129
+QALD2_te-53	unigram	lisbon	collectiontf	9.00146947994869
+QALD2_te-53	bigram	ruling party	collectiontf	0.0
+QALD2_te-53	bigram	party lisbon	collectiontf	0.6931471805599453
+QALD2_te-55	unigram	greece	collectiontf	10.769684270598214
+QALD2_te-55	unigram	goddesse	collectiontf	5.971261839790462
+QALD2_te-55	unigram	dwelt	collectiontf	-Infinity
+QALD2_te-55	unigram	mount	collectiontf	9.736547097780475
+QALD2_te-55	unigram	olympus	collectiontf	4.709530201312334
+QALD2_te-55	bigram	greece goddesse	collectiontf	3.1780538303479458
+QALD2_te-55	bigram	goddesse dwelt	collectiontf	-Infinity
+QALD2_te-55	bigram	dwelt mount	collectiontf	-Infinity
+QALD2_te-55	bigram	mount olympus	collectiontf	3.6375861597263857
+QALD2_te-57	unigram	give	collectiontf	8.642768014324304
+QALD2_te-57	unigram	apollo	collectiontf	7.0967213784947605
+QALD2_te-57	unigram	14	collectiontf	6.8679744089702925
+QALD2_te-57	unigram	astronaut	collectiontf	6.434546518787453
+QALD2_te-57	bigram	give apollo	collectiontf	-Infinity
+QALD2_te-57	bigram	apollo 14	collectiontf	1.3862943611198906
+QALD2_te-57	bigram	14 astronaut	collectiontf	-Infinity
+QALD2_te-58	unigram	time	collectiontf	12.711343872152824
+QALD2_te-58	unigram	zone	collectiontf	11.896955814580414
+QALD2_te-58	unigram	salt	collectiontf	9.595466709088816
+QALD2_te-58	unigram	lake	collectiontf	11.503571856043113
+QALD2_te-58	unigram	city	collectiontf	14.618563160431117
+QALD2_te-58	bigram	time zone	collectiontf	11.759590211325785
+QALD2_te-58	bigram	zone salt	collectiontf	1.0986122886681098
+QALD2_te-58	bigram	salt lake	collectiontf	9.329278296047697
+QALD2_te-58	bigram	lake city	collectiontf	9.193194213141211
+QALD2_te-59	unigram	us	collectiontf	10.894421827406049
+QALD2_te-59	unigram	states	collectiontf	14.307209629843593
+QALD2_te-59	unigram	timezone	collectiontf	11.970103446097184
+QALD2_te-59	unigram	utah	collectiontf	10.540355344564857
+QALD2_te-59	bigram	us states	collectiontf	6.061456918928017
+QALD2_te-59	bigram	states timezone	collectiontf	9.690727406601606
+QALD2_te-59	bigram	timezone utah	collectiontf	-Infinity
+QALD2_te-60	unigram	give	collectiontf	8.642768014324304
+QALD2_te-60	unigram	list	collectiontf	12.520149539528866
+QALD2_te-60	unigram	lake	collectiontf	11.503571856043113
+QALD2_te-60	unigram	denmark	collectiontf	10.822973175306803
+QALD2_te-60	bigram	give list	collectiontf	-Infinity
+QALD2_te-60	bigram	list lake	collectiontf	-Infinity
+QALD2_te-60	bigram	lake denmark	collectiontf	-Infinity
+QALD2_te-63	unigram	give	collectiontf	8.642768014324304
+QALD2_te-63	unigram	argentina	collectiontf	11.54960448922872
+QALD2_te-63	unigram	film	collectiontf	11.439644842775813
+QALD2_te-63	bigram	give argentina	collectiontf	-Infinity
+QALD2_te-63	bigram	argentina film	collectiontf	4.007333185232471
+QALD2_te-64	unigram	give	collectiontf	8.642768014324304
+QALD2_te-64	unigram	launch	collectiontf	6.161207321695077
+QALD2_te-64	unigram	pad	collectiontf	5.37989735354046
+QALD2_te-64	unigram	operate	collectiontf	7.872836175025724
+QALD2_te-64	unigram	nasa	collectiontf	6.584791392385716
+QALD2_te-64	bigram	give launch	collectiontf	-Infinity
+QALD2_te-64	bigram	launch pad	collectiontf	3.8918202981106265
+QALD2_te-64	bigram	pad operate	collectiontf	-Infinity
+QALD2_te-64	bigram	operate nasa	collectiontf	-Infinity
+QALD2_te-65	unigram	instrument	collectiontf	10.857035532765991
+QALD2_te-65	unigram	john	collectiontf	13.123904189743088
+QALD2_te-65	unigram	lennon	collectiontf	9.159468041602427
+QALD2_te-65	unigram	play	collectiontf	10.224918665034282
+QALD2_te-65	bigram	instrument john	collectiontf	2.0794415416798357
+QALD2_te-65	bigram	john lennon	collectiontf	8.149890544402423
+QALD2_te-65	bigram	lennon play	collectiontf	-Infinity
+QALD2_te-66	unigram	ship	collectiontf	10.34631266940137
+QALD2_te-66	unigram	call	collectiontf	8.678631537293768
+QALD2_te-66	unigram	benjamin	collectiontf	10.451435535603869
+QALD2_te-66	unigram	franklin	collectiontf	10.864369167738158
+QALD2_te-66	bigram	ship call	collectiontf	-Infinity
+QALD2_te-66	bigram	call benjamin	collectiontf	0.0
+QALD2_te-66	bigram	benjamin franklin	collectiontf	6.723832440821209
+QALD2_te-67	unigram	parent	collectiontf	6.284134161070802
+QALD2_te-67	unigram	wife	collectiontf	6.003887067106539
+QALD2_te-67	unigram	juan	collectiontf	10.413042369168673
+QALD2_te-67	unigram	carlos	collectiontf	10.321868885910838
+QALD2_te-67	unigram	i	collectiontf	11.80201404782235
+QALD2_te-67	bigram	parent wife	collectiontf	-Infinity
+QALD2_te-67	bigram	wife juan	collectiontf	-Infinity
+QALD2_te-67	bigram	juan carlos	collectiontf	7.424761761823209
+QALD2_te-67	bigram	carlos i	collectiontf	5.459585514144159
+QALD2_te-72	unigram	us	collectiontf	10.894421827406049
+QALD2_te-72	unigram	state	collectiontf	14.145744088551588
+QALD2_te-72	unigram	area	collectiontf	11.005411019863262
+QALD2_te-72	unigram	51	collectiontf	6.0844994130751715
+QALD2_te-72	unigram	located	collectiontf	4.2626798770413155
+QALD2_te-72	bigram	us state	collectiontf	10.07120295694072
+QALD2_te-72	bigram	state area	collectiontf	5.5093883366279774
+QALD2_te-72	bigram	area 51	collectiontf	3.2188758248682006
+QALD2_te-72	bigram	51 located	collectiontf	-Infinity
+QALD2_te-75	unigram	daughter	collectiontf	6.890609120147166
+QALD2_te-75	unigram	britain	collectiontf	12.181877284289856
+QALD2_te-75	unigram	earl	collectiontf	10.818457412442868
+QALD2_te-75	unigram	die	collectiontf	10.823730464248712
+QALD2_te-75	unigram	place	collectiontf	13.987378498945096
+QALD2_te-75	unigram	born	collectiontf	9.84070748441342
+QALD2_te-75	bigram	daughter britain	collectiontf	1.3862943611198906
+QALD2_te-75	bigram	britain earl	collectiontf	3.4657359027997265
+QALD2_te-75	bigram	earl die	collectiontf	-Infinity
+QALD2_te-75	bigram	die place	collectiontf	1.6094379124341003
+QALD2_te-75	bigram	place born	collectiontf	1.0986122886681098
+QALD2_te-76	unigram	list	collectiontf	12.520149539528866
+QALD2_te-76	unigram	children	collectiontf	9.619664690410067
+QALD2_te-76	unigram	margaret	collectiontf	9.707776758623158
+QALD2_te-76	unigram	thatch	collectiontf	6.877296071497429
+QALD2_te-76	bigram	list children	collectiontf	0.0
+QALD2_te-76	bigram	children margaret	collectiontf	2.3978952727983707
+QALD2_te-76	bigram	margaret thatch	collectiontf	4.060443010546419
+QALD2_te-77	unigram	call	collectiontf	8.678631537293768
+QALD2_te-77	unigram	scarface	collectiontf	6.617402977974478
+QALD2_te-77	bigram	call scarface	collectiontf	-Infinity
+QALD2_te-80	unigram	give	collectiontf	8.642768014324304
+QALD2_te-80	unigram	books	collectiontf	10.15979505022877
+QALD2_te-80	unigram	william	collectiontf	12.431262102551305
+QALD2_te-80	unigram	goldman	collectiontf	7.990576881743923
+QALD2_te-80	unigram	300	collectiontf	5.0689042022202315
+QALD2_te-80	unigram	page	collectiontf	9.671933733861948
+QALD2_te-80	bigram	give books	collectiontf	-Infinity
+QALD2_te-80	bigram	books william	collectiontf	1.791759469228055
+QALD2_te-80	bigram	william goldman	collectiontf	5.598421958998375
+QALD2_te-80	bigram	goldman 300	collectiontf	-Infinity
+QALD2_te-80	bigram	300 page	collectiontf	-Infinity
+QALD2_te-81	unigram	books	collectiontf	10.15979505022877
+QALD2_te-81	unigram	kerouac	collectiontf	6.755768921984255
+QALD2_te-81	unigram	publish	collectiontf	7.942717540573791
+QALD2_te-81	unigram	viking	collectiontf	9.11866358340428
+QALD2_te-81	unigram	press	collectiontf	8.962135390066601
+QALD2_te-81	bigram	books kerouac	collectiontf	-Infinity
+QALD2_te-81	bigram	kerouac publish	collectiontf	-Infinity
+QALD2_te-81	bigram	publish viking	collectiontf	-Infinity
+QALD2_te-81	bigram	viking press	collectiontf	6.591673732008658
+QALD2_te-82	unigram	give	collectiontf	8.642768014324304
+QALD2_te-82	unigram	list	collectiontf	12.520149539528866
+QALD2_te-82	unigram	america	collectiontf	13.455079999095538
+QALD2_te-82	unigram	invention	collectiontf	7.561121589530238
+QALD2_te-82	bigram	give list	collectiontf	-Infinity
+QALD2_te-82	bigram	list america	collectiontf	1.0986122886681098
+QALD2_te-82	bigram	america invention	collectiontf	1.3862943611198906
+QALD2_te-84	unigram	create	collectiontf	5.950642552587727
+QALD2_te-84	unigram	comic	collectiontf	8.326274787396764
+QALD2_te-84	unigram	captain	collectiontf	8.828494129466652
+QALD2_te-84	unigram	america	collectiontf	13.455079999095538
+QALD2_te-84	bigram	create comic	collectiontf	-Infinity
+QALD2_te-84	bigram	comic captain	collectiontf	-Infinity
+QALD2_te-84	bigram	captain america	collectiontf	3.4657359027997265
+QALD2_te-86	unigram	largest	collectiontf	7.579678823090456
+QALD2_te-86	unigram	city	collectiontf	14.618563160431117
+QALD2_te-86	unigram	australia	collectiontf	12.235043896556526
+QALD2_te-86	bigram	largest city	collectiontf	7.533158807455563
+QALD2_te-86	bigram	city australia	collectiontf	5.25227342804663
+QALD2_te-87	unigram	compose	collectiontf	3.7612001156935624
+QALD2_te-87	unigram	music	collectiontf	13.433926513717681
+QALD2_te-87	unigram	harold	collectiontf	10.284625814486557
+QALD2_te-87	unigram	maude	collectiontf	6.734591659972948
+QALD2_te-87	bigram	compose music	collectiontf	-Infinity
+QALD2_te-87	bigram	music harold	collectiontf	4.727387818712341
+QALD2_te-87	bigram	harold maude	collectiontf	-Infinity
+QALD2_te-88	unigram	film	collectiontf	11.439644842775813
+QALD2_te-88	unigram	star	collectiontf	12.420752480432188
+QALD2_te-88	unigram	clint	collectiontf	8.352082671352637
+QALD2_te-88	unigram	eastwood	collectiontf	8.107720061910534
+QALD2_te-88	unigram	direct	collectiontf	7.471363088187097
+QALD2_te-88	bigram	film star	collectiontf	6.35088571671474
+QALD2_te-88	bigram	star clint	collectiontf	4.248495242049359
+QALD2_te-88	bigram	clint eastwood	collectiontf	6.52649485957079
+QALD2_te-88	bigram	eastwood direct	collectiontf	-Infinity
+QALD2_te-89	unigram	city	collectiontf	14.618563160431117
+QALD2_te-89	unigram	former	collectiontf	10.211339831777291
+QALD2_te-89	unigram	dutch	collectiontf	10.303001655150853
+QALD2_te-89	unigram	queen	collectiontf	11.000548638711502
+QALD2_te-89	unigram	juliana	collectiontf	7.556427969440253
+QALD2_te-89	unigram	bury	collectiontf	9.14889040965996
+QALD2_te-89	bigram	city former	collectiontf	4.343805421853684
+QALD2_te-89	bigram	former dutch	collectiontf	3.258096538021482
+QALD2_te-89	bigram	dutch queen	collectiontf	-Infinity
+QALD2_te-89	bigram	queen juliana	collectiontf	2.5649493574615367
+QALD2_te-89	bigram	juliana bury	collectiontf	-Infinity
+QALD2_te-90	unigram	residence	collectiontf	10.290245433178596
+QALD2_te-90	unigram	prime	collectiontf	9.230339058482873
+QALD2_te-90	unigram	minister	collectiontf	9.961520583786738
+QALD2_te-90	unigram	spain	collectiontf	12.070023801066897
+QALD2_te-90	bigram	residence prime	collectiontf	0.6931471805599453
+QALD2_te-90	bigram	prime minister	collectiontf	9.106977858981029
+QALD2_te-90	bigram	minister spain	collectiontf	4.30406509320417
+QALD2_te-91	unigram	us	collectiontf	10.894421827406049
+QALD2_te-91	unigram	state	collectiontf	14.145744088551588
+QALD2_te-91	unigram	abbreviation	collectiontf	4.2626798770413155
+QALD2_te-91	unigram	mn	collectiontf	5.910796644040527
+QALD2_te-91	bigram	us state	collectiontf	10.07120295694072
+QALD2_te-91	bigram	state abbreviation	collectiontf	-Infinity
+QALD2_te-91	bigram	abbreviation mn	collectiontf	-Infinity
+QALD2_te-92	unigram	show	collectiontf	9.860632242229698
+QALD2_te-92	unigram	song	collectiontf	11.33077989269009
+QALD2_te-92	unigram	bruce	collectiontf	10.705556400319987
+QALD2_te-92	unigram	springsteen	collectiontf	8.059908334578276
+QALD2_te-92	unigram	release	collectiontf	7.85979918056211
+QALD2_te-92	unigram	1980	collectiontf	8.300528606199737
+QALD2_te-92	unigram	1990	collectiontf	8.35819745992578
+QALD2_te-92	bigram	show song	collectiontf	2.4849066497880004
+QALD2_te-92	bigram	song bruce	collectiontf	1.6094379124341003
+QALD2_te-92	bigram	bruce springsteen	collectiontf	7.149916836132109
+QALD2_te-92	bigram	springsteen release	collectiontf	-Infinity
+QALD2_te-92	bigram	release 1980	collectiontf	1.0986122886681098
+QALD2_te-92	bigram	1980 1990	collectiontf	2.8903717578961645
+QALD2_te-93	unigram	movies	collectiontf	6.8679744089702925
+QALD2_te-93	unigram	sam	collectiontf	10.892340777211498
+QALD2_te-93	unigram	raimi	collectiontf	6.918695219020472
+QALD2_te-93	unigram	direct	collectiontf	7.471363088187097
+QALD2_te-93	unigram	army	collectiontf	11.640245104542457
+QALD2_te-93	unigram	dark	collectiontf	9.557893841465354
+QALD2_te-93	bigram	movies sam	collectiontf	-Infinity
+QALD2_te-93	bigram	sam raimi	collectiontf	4.897839799950911
+QALD2_te-93	bigram	raimi direct	collectiontf	-Infinity
+QALD2_te-93	bigram	direct army	collectiontf	-Infinity
+QALD2_te-93	bigram	army dark	collectiontf	-Infinity
+QALD2_te-95	unigram	wrote	collectiontf	4.204692619390966
+QALD2_te-95	unigram	lyrics	collectiontf	5.799092654460526
+QALD2_te-95	unigram	polish	collectiontf	9.111072370317514
+QALD2_te-95	unigram	national	collectiontf	12.230496929440697
+QALD2_te-95	unigram	anthem	collectiontf	7.162397497355718
+QALD2_te-95	bigram	wrote lyrics	collectiontf	-Infinity
+QALD2_te-95	bigram	lyrics polish	collectiontf	-Infinity
+QALD2_te-95	bigram	polish national	collectiontf	2.0794415416798357
+QALD2_te-95	bigram	national anthem	collectiontf	3.784189633918261
+QALD2_te-97	unigram	paint	collectiontf	6.539585955617669
+QALD2_te-97	unigram	storm	collectiontf	9.109525066737367
+QALD2_te-97	unigram	sea	collectiontf	9.973340054434962
+QALD2_te-97	unigram	galilee	collectiontf	5.605802066295998
+QALD2_te-97	bigram	paint storm	collectiontf	-Infinity
+QALD2_te-97	bigram	storm sea	collectiontf	-Infinity
+QALD2_te-97	bigram	sea galilee	collectiontf	2.4849066497880004
+QALD2_te-98	unigram	country	collectiontf	12.926088118951263
+QALD2_te-98	unigram	creator	collectiontf	9.465060106725137
+QALD2_te-98	unigram	miffy	collectiontf	-Infinity
+QALD2_te-98	unigram	come	collectiontf	9.018695487721343
+QALD2_te-98	bigram	country creator	collectiontf	0.6931471805599453
+QALD2_te-98	bigram	creator miffy	collectiontf	-Infinity
+QALD2_te-98	bigram	miffy come	collectiontf	-Infinity
+QALD2_te-99	unigram	label	collectiontf	12.045504752698445
+QALD2_te-99	unigram	elvi	collectiontf	9.82140944150052
+QALD2_te-99	unigram	record	collectiontf	13.04574363801813
+QALD2_te-99	unigram	first	collectiontf	10.915288444217275
+QALD2_te-99	unigram	album	collectiontf	12.513377181990881
+QALD2_te-99	bigram	label elvi	collectiontf	-Infinity
+QALD2_te-99	bigram	elvi record	collectiontf	4.836281906951478
+QALD2_te-99	bigram	record first	collectiontf	3.9318256327243257
+QALD2_te-99	bigram	first album	collectiontf	4.6443908991413725
+QALD2_te-100	unigram	produce	collectiontf	4.897839799950911
+QALD2_te-100	unigram	orangina	collectiontf	0.6931471805599453
+QALD2_te-100	bigram	produce orangina	collectiontf	-Infinity
+QALD2_tr-1	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-1	unigram	female	collectiontf	7.86403565907245
+QALD2_tr-1	unigram	russia	collectiontf	11.41132453985355
+QALD2_tr-1	unigram	astronaut	collectiontf	6.434546518787453
+QALD2_tr-1	bigram	give female	collectiontf	-Infinity
+QALD2_tr-1	bigram	female russia	collectiontf	-Infinity
+QALD2_tr-1	bigram	russia astronaut	collectiontf	1.9459101490553132
+QALD2_tr-3	unigram	daughter	collectiontf	6.890609120147166
+QALD2_tr-3	unigram	bill	collectiontf	11.054502519997286
+QALD2_tr-3	unigram	clinton	collectiontf	10.31705309667816
+QALD2_tr-3	unigram	married	collectiontf	5.598421958998375
+QALD2_tr-3	bigram	daughter bill	collectiontf	-Infinity
+QALD2_tr-3	bigram	bill clinton	collectiontf	7.4377951216719325
+QALD2_tr-3	bigram	clinton married	collectiontf	-Infinity
+QALD2_tr-4	unigram	river	collectiontf	11.46002034597524
+QALD2_tr-4	unigram	brooklyn	collectiontf	10.21405572877461
+QALD2_tr-4	unigram	bridge	collectiontf	10.071541137532378
+QALD2_tr-4	unigram	cross	collectiontf	10.873300093812649
+QALD2_tr-4	bigram	river brooklyn	collectiontf	-Infinity
+QALD2_tr-4	bigram	brooklyn bridge	collectiontf	4.948759890378168
+QALD2_tr-4	bigram	bridge cross	collectiontf	1.791759469228055
+QALD2_tr-6	unigram	abraham	collectiontf	9.071767722112243
+QALD2_tr-6	unigram	lincoln	collectiontf	11.001849809949029
+QALD2_tr-6	unigram	die	collectiontf	10.823730464248712
+QALD2_tr-6	bigram	abraham lincoln	collectiontf	5.8805329864007
+QALD2_tr-6	bigram	lincoln die	collectiontf	-Infinity
+QALD2_tr-8	unigram	states	collectiontf	14.307209629843593
+QALD2_tr-8	unigram	germany	collectiontf	12.511555342607462
+QALD2_tr-8	unigram	govern	collectiontf	6.257667587882639
+QALD2_tr-8	unigram	social	collectiontf	9.888932134526929
+QALD2_tr-8	unigram	democratic	collectiontf	11.365434228412877
+QALD2_tr-8	unigram	party	collectiontf	12.320962611404129
+QALD2_tr-8	bigram	states germany	collectiontf	5.2832037287379885
+QALD2_tr-8	bigram	germany govern	collectiontf	-Infinity
+QALD2_tr-8	bigram	govern social	collectiontf	-Infinity
+QALD2_tr-8	bigram	social democratic	collectiontf	7.310550158534422
+QALD2_tr-8	bigram	democratic party	collectiontf	10.92374182475231
+QALD2_tr-9	unigram	us	collectiontf	10.894421827406049
+QALD2_tr-9	unigram	states	collectiontf	14.307209629843593
+QALD2_tr-9	unigram	possess	collectiontf	1.791759469228055
+QALD2_tr-9	unigram	gold	collectiontf	9.984652706953636
+QALD2_tr-9	unigram	mineral	collectiontf	8.430981494597171
+QALD2_tr-9	bigram	us states	collectiontf	6.061456918928017
+QALD2_tr-9	bigram	states possess	collectiontf	-Infinity
+QALD2_tr-9	bigram	possess gold	collectiontf	-Infinity
+QALD2_tr-9	bigram	gold mineral	collectiontf	-Infinity
+QALD2_tr-10	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-10	unigram	nile	collectiontf	8.339261982923576
+QALD2_tr-10	unigram	start	collectiontf	8.892748769118258
+QALD2_tr-10	bigram	country nile	collectiontf	-Infinity
+QALD2_tr-10	bigram	nile start	collectiontf	-Infinity
+QALD2_tr-11	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-11	unigram	place	collectiontf	13.987378498945096
+QALD2_tr-11	unigram	two	collectiontf	9.265869681768663
+QALD2_tr-11	unigram	cave	collectiontf	8.274611946209552
+QALD2_tr-11	bigram	country place	collectiontf	5.762051382780177
+QALD2_tr-11	bigram	place two	collectiontf	2.833213344056216
+QALD2_tr-11	bigram	two cave	collectiontf	-Infinity
+QALD2_tr-13	unigram	classi	collectiontf	11.707694232815939
+QALD2_tr-13	unigram	millepede	collectiontf	-Infinity
+QALD2_tr-13	unigram	belong	collectiontf	5.87493073085203
+QALD2_tr-13	bigram	classi millepede	collectiontf	-Infinity
+QALD2_tr-13	bigram	millepede belong	collectiontf	-Infinity
+QALD2_tr-15	unigram	create	collectiontf	5.950642552587727
+QALD2_tr-15	unigram	goofy	collectiontf	3.1780538303479458
+QALD2_tr-15	bigram	create goofy	collectiontf	-Infinity
+QALD2_tr-16	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-16	unigram	capitals	collectiontf	7.899524472032198
+QALD2_tr-16	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-16	unigram	africa	collectiontf	11.321510689897156
+QALD2_tr-16	bigram	give capitals	collectiontf	-Infinity
+QALD2_tr-16	bigram	capitals country	collectiontf	4.584967478670572
+QALD2_tr-16	bigram	country africa	collectiontf	6.037870919922137
+QALD2_tr-17	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-17	unigram	city	collectiontf	14.618563160431117
+QALD2_tr-17	unigram	new	collectiontf	13.619945694418456
+QALD2_tr-17	unigram	jersey	collectiontf	11.610913873298433
+QALD2_tr-17	unigram	100000	collectiontf	-Infinity
+QALD2_tr-17	unigram	inhabitant	collectiontf	6.674561391814426
+QALD2_tr-17	bigram	give city	collectiontf	-Infinity
+QALD2_tr-17	bigram	city new	collectiontf	11.682457246835789
+QALD2_tr-17	bigram	new jersey	collectiontf	11.521508524900703
+QALD2_tr-17	bigram	jersey 100000	collectiontf	-Infinity
+QALD2_tr-17	bigram	100000 inhabitant	collectiontf	-Infinity
+QALD2_tr-18	unigram	museum	collectiontf	10.037712454627359
+QALD2_tr-18	unigram	exhibit	collectiontf	3.4339872044851463
+QALD2_tr-18	unigram	scream	collectiontf	7.829630389150193
+QALD2_tr-18	unigram	munch	collectiontf	5.093750200806762
+QALD2_tr-18	bigram	museum exhibit	collectiontf	-Infinity
+QALD2_tr-18	bigram	exhibit scream	collectiontf	-Infinity
+QALD2_tr-18	bigram	scream munch	collectiontf	-Infinity
+QALD2_tr-21	unigram	states	collectiontf	14.307209629843593
+QALD2_tr-21	unigram	border	collectiontf	8.921457578947884
+QALD2_tr-21	unigram	illinois	collectiontf	11.864504446520591
+QALD2_tr-21	bigram	states border	collectiontf	5.288267030694535
+QALD2_tr-21	bigram	border illinois	collectiontf	-Infinity
+QALD2_tr-22	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-22	unigram	limerick	collectiontf	8.618123909994678
+QALD2_tr-22	unigram	lake	collectiontf	11.503571856043113
+QALD2_tr-22	bigram	country limerick	collectiontf	-Infinity
+QALD2_tr-22	bigram	limerick lake	collectiontf	-Infinity
+QALD2_tr-23	unigram	television	collectiontf	10.960339906956007
+QALD2_tr-23	unigram	show	collectiontf	9.860632242229698
+QALD2_tr-23	unigram	create	collectiontf	5.950642552587727
+QALD2_tr-23	unigram	walt	collectiontf	9.2299469016151
+QALD2_tr-23	unigram	disney	collectiontf	9.655026193237628
+QALD2_tr-23	bigram	television show	collectiontf	5.961005339623274
+QALD2_tr-23	bigram	show create	collectiontf	-Infinity
+QALD2_tr-23	bigram	create walt	collectiontf	-Infinity
+QALD2_tr-23	bigram	walt disney	collectiontf	8.877939834725023
+QALD2_tr-24	unigram	mountain	collectiontf	10.444910274279497
+QALD2_tr-24	unigram	highest	collectiontf	4.356708826689592
+QALD2_tr-24	unigram	annapurna	collectiontf	4.189654742026425
+QALD2_tr-24	bigram	mountain highest	collectiontf	-Infinity
+QALD2_tr-24	bigram	highest annapurna	collectiontf	-Infinity
+QALD2_tr-25	unigram	film	collectiontf	11.439644842775813
+QALD2_tr-25	unigram	direct	collectiontf	7.471363088187097
+QALD2_tr-25	unigram	garry	collectiontf	8.305236829492593
+QALD2_tr-25	unigram	marshall	collectiontf	10.630480449879682
+QALD2_tr-25	unigram	julia	collectiontf	8.872627365918836
+QALD2_tr-25	unigram	robert	collectiontf	12.465848948728246
+QALD2_tr-25	unigram	star	collectiontf	12.420752480432188
+QALD2_tr-25	bigram	film direct	collectiontf	7.055312843339752
+QALD2_tr-25	bigram	direct garry	collectiontf	-Infinity
+QALD2_tr-25	bigram	garry marshall	collectiontf	5.799092654460526
+QALD2_tr-25	bigram	marshall julia	collectiontf	-Infinity
+QALD2_tr-25	bigram	julia robert	collectiontf	5.111987788356544
+QALD2_tr-25	bigram	robert star	collectiontf	6.659293919683638
+QALD2_tr-26	unigram	bridge	collectiontf	10.071541137532378
+QALD2_tr-26	unigram	type	collectiontf	13.534198818453666
+QALD2_tr-26	unigram	manhattan	collectiontf	9.443196602144186
+QALD2_tr-26	unigram	bridge	collectiontf	10.071541137532378
+QALD2_tr-26	bigram	bridge type	collectiontf	2.995732273553991
+QALD2_tr-26	bigram	type manhattan	collectiontf	-Infinity
+QALD2_tr-26	bigram	manhattan bridge	collectiontf	-Infinity
+QALD2_tr-28	unigram	europe	collectiontf	12.122343149998642
+QALD2_tr-28	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-28	unigram	constitutional	collectiontf	6.335054251498059
+QALD2_tr-28	unigram	monarchy	collectiontf	8.718827059242566
+QALD2_tr-28	bigram	europe country	collectiontf	6.843749949006225
+QALD2_tr-28	bigram	country constitutional	collectiontf	2.5649493574615367
+QALD2_tr-28	bigram	constitutional monarchy	collectiontf	2.6390573296152584
+QALD2_tr-29	unigram	award	collectiontf	10.914942999089615
+QALD2_tr-29	unigram	wikileak	collectiontf	1.6094379124341003
+QALD2_tr-29	unigram	win	collectiontf	9.079662048334066
+QALD2_tr-29	bigram	award wikileak	collectiontf	0.0
+QALD2_tr-29	bigram	wikileak win	collectiontf	-Infinity
+QALD2_tr-30	unigram	state	collectiontf	14.145744088551588
+QALD2_tr-30	unigram	usa	collectiontf	9.681655640646714
+QALD2_tr-30	unigram	highest	collectiontf	4.356708826689592
+QALD2_tr-30	unigram	population	collectiontf	7.695757990554761
+QALD2_tr-30	unigram	density	collectiontf	3.5553480614894135
+QALD2_tr-30	bigram	state usa	collectiontf	3.295836866004329
+QALD2_tr-30	bigram	usa highest	collectiontf	-Infinity
+QALD2_tr-30	bigram	highest population	collectiontf	-Infinity
+QALD2_tr-30	bigram	population density	collectiontf	2.0794415416798357
+QALD2_tr-31	unigram	currency	collectiontf	6.45833828334479
+QALD2_tr-31	unigram	czech	collectiontf	10.514285200079048
+QALD2_tr-31	unigram	republic	collectiontf	13.615336183758792
+QALD2_tr-31	bigram	currency czech	collectiontf	-Infinity
+QALD2_tr-31	bigram	czech republic	collectiontf	10.373834872713369
+QALD2_tr-32	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-32	unigram	europe	collectiontf	12.122343149998642
+QALD2_tr-32	unigram	union	collectiontf	11.765829739886065
+QALD2_tr-32	unigram	adopt	collectiontf	3.367295829986474
+QALD2_tr-32	unigram	euro	collectiontf	7.232010331664759
+QALD2_tr-32	bigram	country europe	collectiontf	6.311734809152915
+QALD2_tr-32	bigram	europe union	collectiontf	7.1846291527173145
+QALD2_tr-32	bigram	union adopt	collectiontf	-Infinity
+QALD2_tr-32	bigram	adopt euro	collectiontf	-Infinity
+QALD2_tr-34	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-34	unigram	two	collectiontf	9.265869681768663
+QALD2_tr-34	unigram	official	collectiontf	10.011669085380657
+QALD2_tr-34	unigram	language	collectiontf	12.34816231143625
+QALD2_tr-34	bigram	country two	collectiontf	-Infinity
+QALD2_tr-34	bigram	two official	collectiontf	-Infinity
+QALD2_tr-34	bigram	official language	collectiontf	2.772588722239781
+QALD2_tr-35	unigram	owner	collectiontf	10.200884779674478
+QALD2_tr-35	unigram	universal	collectiontf	10.808373496346844
+QALD2_tr-35	unigram	studio	collectiontf	11.099876673288643
+QALD2_tr-35	bigram	owner universal	collectiontf	2.5649493574615367
+QALD2_tr-35	bigram	universal studio	collectiontf	8.964439833539357
+QALD2_tr-36	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-36	unigram	yenisei	collectiontf	2.772588722239781
+QALD2_tr-36	unigram	river	collectiontf	11.46002034597524
+QALD2_tr-36	unigram	flow	collectiontf	6.248042874508429
+QALD2_tr-36	bigram	country yenisei	collectiontf	-Infinity
+QALD2_tr-36	bigram	yenisei river	collectiontf	2.70805020110221
+QALD2_tr-36	bigram	river flow	collectiontf	2.772588722239781
+QALD2_tr-38	unigram	monarch	collectiontf	8.592300663903043
+QALD2_tr-38	unigram	united	collectiontf	14.5437376789604
+QALD2_tr-38	unigram	kingdom	collectiontf	12.922377114331551
+QALD2_tr-38	unigram	married	collectiontf	5.598421958998375
+QALD2_tr-38	unigram	germany	collectiontf	12.511555342607462
+QALD2_tr-38	bigram	monarch united	collectiontf	0.0
+QALD2_tr-38	bigram	united kingdom	collectiontf	12.553947481855287
+QALD2_tr-38	bigram	kingdom married	collectiontf	0.6931471805599453
+QALD2_tr-38	bigram	married germany	collectiontf	-Infinity
+QALD2_tr-40	unigram	highest	collectiontf	4.356708826689592
+QALD2_tr-40	unigram	mountain	collectiontf	10.444910274279497
+QALD2_tr-40	unigram	australia	collectiontf	12.235043896556526
+QALD2_tr-40	bigram	highest mountain	collectiontf	-Infinity
+QALD2_tr-40	bigram	mountain australia	collectiontf	2.9444389791664403
+QALD2_tr-41	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-41	unigram	soccer	collectiontf	10.313409381361234
+QALD2_tr-41	unigram	club	collectiontf	14.43092806206363
+QALD2_tr-41	unigram	spain	collectiontf	12.070023801066897
+QALD2_tr-41	bigram	give soccer	collectiontf	-Infinity
+QALD2_tr-41	bigram	soccer club	collectiontf	9.389323027504624
+QALD2_tr-41	bigram	club spain	collectiontf	5.017279836814924
+QALD2_tr-42	unigram	official	collectiontf	10.011669085380657
+QALD2_tr-42	unigram	language	collectiontf	12.34816231143625
+QALD2_tr-42	unigram	philippines	collectiontf	11.058732190770712
+QALD2_tr-42	bigram	official language	collectiontf	2.772588722239781
+QALD2_tr-42	bigram	language philippines	collectiontf	6.297109319933935
+QALD2_tr-43	unigram	mayor	collectiontf	9.8022297204619
+QALD2_tr-43	unigram	new	collectiontf	13.619945694418456
+QALD2_tr-43	unigram	york	collectiontf	13.019060742855947
+QALD2_tr-43	unigram	city	collectiontf	14.618563160431117
+QALD2_tr-43	bigram	mayor new	collectiontf	5.241747015059643
+QALD2_tr-43	bigram	new york	collectiontf	12.959425536646071
+QALD2_tr-43	bigram	york city	collectiontf	11.541872429591866
+QALD2_tr-44	unigram	design	collectiontf	8.37539918579835
+QALD2_tr-44	unigram	brooklyn	collectiontf	10.21405572877461
+QALD2_tr-44	unigram	bridge	collectiontf	10.071541137532378
+QALD2_tr-44	bigram	design brooklyn	collectiontf	0.0
+QALD2_tr-44	bigram	brooklyn bridge	collectiontf	4.948759890378168
+QALD2_tr-45	unigram	telecommunications	collectiontf	7.403670290012373
+QALD2_tr-45	unigram	organization	collectiontf	10.00960278332483
+QALD2_tr-45	unigram	located	collectiontf	4.2626798770413155
+QALD2_tr-45	unigram	belgium	collectiontf	10.757051454501978
+QALD2_tr-45	bigram	telecommunications organization	collectiontf	2.0794415416798357
+QALD2_tr-45	bigram	organization located	collectiontf	-Infinity
+QALD2_tr-45	bigram	located belgium	collectiontf	-Infinity
+QALD2_tr-47	unigram	highest	collectiontf	4.356708826689592
+QALD2_tr-47	unigram	place	collectiontf	13.987378498945096
+QALD2_tr-47	unigram	karakoram	collectiontf	3.784189633918261
+QALD2_tr-47	bigram	highest place	collectiontf	-Infinity
+QALD2_tr-47	bigram	place karakoram	collectiontf	0.6931471805599453
+QALD2_tr-49	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-49	unigram	company	collectiontf	11.908905733867178
+QALD2_tr-49	unigram	advertising	collectiontf	6.78105762593618
+QALD2_tr-49	unigram	industry	collectiontf	10.873849716198011
+QALD2_tr-49	bigram	give company	collectiontf	-Infinity
+QALD2_tr-49	bigram	company advertising	collectiontf	2.772588722239781
+QALD2_tr-49	bigram	advertising industry	collectiontf	4.330733340286331
+QALD2_tr-50	unigram	bruce	collectiontf	10.705556400319987
+QALD2_tr-50	unigram	carver	collectiontf	8.448485993406447
+QALD2_tr-50	unigram	die	collectiontf	10.823730464248712
+QALD2_tr-50	bigram	bruce carver	collectiontf	2.70805020110221
+QALD2_tr-50	bigram	carver die	collectiontf	-Infinity
+QALD2_tr-51	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-51	unigram	school	collectiontf	11.64066763232114
+QALD2_tr-51	unigram	type	collectiontf	13.534198818453666
+QALD2_tr-51	bigram	give school	collectiontf	-Infinity
+QALD2_tr-51	bigram	school type	collectiontf	8.682029433869172
+QALD2_tr-52	unigram	president	collectiontf	10.678007325311796
+QALD2_tr-52	unigram	born	collectiontf	9.84070748441342
+QALD2_tr-52	unigram	1945	collectiontf	8.647870515057853
+QALD2_tr-52	bigram	president born	collectiontf	-Infinity
+QALD2_tr-52	bigram	born 1945	collectiontf	-Infinity
+QALD2_tr-53	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-53	unigram	president	collectiontf	10.678007325311796
+QALD2_tr-53	unigram	united	collectiontf	14.5437376789604
+QALD2_tr-53	unigram	states	collectiontf	14.307209629843593
+QALD2_tr-53	bigram	give president	collectiontf	-Infinity
+QALD2_tr-53	bigram	president united	collectiontf	6.98100574072173
+QALD2_tr-53	bigram	united states	collectiontf	14.206640067305072
+QALD2_tr-54	unigram	wife	collectiontf	6.003887067106539
+QALD2_tr-54	unigram	us	collectiontf	10.894421827406049
+QALD2_tr-54	unigram	president	collectiontf	10.678007325311796
+QALD2_tr-54	unigram	lincoln	collectiontf	11.001849809949029
+QALD2_tr-54	bigram	wife us	collectiontf	-Infinity
+QALD2_tr-54	bigram	us president	collectiontf	3.091042453358316
+QALD2_tr-54	bigram	president lincoln	collectiontf	-Infinity
+QALD2_tr-55	unigram	develop	collectiontf	6.90875477931522
+QALD2_tr-55	unigram	video	collectiontf	10.679135954607817
+QALD2_tr-55	unigram	game	collectiontf	11.200226393987311
+QALD2_tr-55	unigram	world	collectiontf	12.197526228728332
+QALD2_tr-55	unigram	warcraft	collectiontf	4.127134385045092
+QALD2_tr-55	bigram	develop video	collectiontf	-Infinity
+QALD2_tr-55	bigram	video game	collectiontf	10.306449530426175
+QALD2_tr-55	bigram	game world	collectiontf	6.6895992691789665
+QALD2_tr-55	bigram	world warcraft	collectiontf	1.3862943611198906
+QALD2_tr-57	unigram	list	collectiontf	12.520149539528866
+QALD2_tr-57	unigram	episode	collectiontf	7.990238185720363
+QALD2_tr-57	unigram	first	collectiontf	10.915288444217275
+QALD2_tr-57	unigram	season	collectiontf	9.859222136238113
+QALD2_tr-57	unigram	hbo	collectiontf	6.988413181999592
+QALD2_tr-57	unigram	television	collectiontf	10.960339906956007
+QALD2_tr-57	unigram	series	collectiontf	10.779976602527347
+QALD2_tr-57	unigram	soprano	collectiontf	7.04141166379481
+QALD2_tr-57	bigram	list episode	collectiontf	-Infinity
+QALD2_tr-57	bigram	episode first	collectiontf	2.772588722239781
+QALD2_tr-57	bigram	first season	collectiontf	-Infinity
+QALD2_tr-57	bigram	season hbo	collectiontf	-Infinity
+QALD2_tr-57	bigram	hbo television	collectiontf	0.0
+QALD2_tr-57	bigram	television series	collectiontf	9.001839097398843
+QALD2_tr-57	bigram	series soprano	collectiontf	4.382026634673881
+QALD2_tr-58	unigram	produce	collectiontf	4.897839799950911
+QALD2_tr-58	unigram	film	collectiontf	11.439644842775813
+QALD2_tr-58	bigram	produce film	collectiontf	-Infinity
+QALD2_tr-59	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-59	unigram	people	collectiontf	12.521248282290877
+QALD2_tr-59	unigram	first	collectiontf	10.915288444217275
+QALD2_tr-59	unigram	name	collectiontf	13.304433235858246
+QALD2_tr-59	unigram	jimmy	collectiontf	10.395802913543022
+QALD2_tr-59	bigram	give people	collectiontf	3.044522437723423
+QALD2_tr-59	bigram	people first	collectiontf	5.8377304471659395
+QALD2_tr-59	bigram	first name	collectiontf	3.6375861597263857
+QALD2_tr-59	bigram	name jimmy	collectiontf	-Infinity
+QALD2_tr-61	unigram	mountain	collectiontf	10.444910274279497
+QALD2_tr-61	unigram	higher	collectiontf	7.890956716138919
+QALD2_tr-61	unigram	nanga	collectiontf	3.784189633918261
+QALD2_tr-61	unigram	parbat	collectiontf	5.0369526024136295
+QALD2_tr-61	bigram	mountain higher	collectiontf	-Infinity
+QALD2_tr-61	bigram	higher nanga	collectiontf	-Infinity
+QALD2_tr-61	bigram	nanga parbat	collectiontf	3.58351893845611
+QALD2_tr-62	unigram	create	collectiontf	5.950642552587727
+QALD2_tr-62	unigram	wikipedia	collectiontf	10.223540005018359
+QALD2_tr-62	bigram	create wikipedia	collectiontf	-Infinity
+QALD2_tr-63	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-63	unigram	actor	collectiontf	10.944170542073266
+QALD2_tr-63	unigram	star	collectiontf	12.420752480432188
+QALD2_tr-63	unigram	batman	collectiontf	6.786716950605081
+QALD2_tr-63	unigram	begin	collectiontf	6.523562306149512
+QALD2_tr-63	bigram	give actor	collectiontf	-Infinity
+QALD2_tr-63	bigram	actor star	collectiontf	8.004365564979574
+QALD2_tr-63	bigram	star batman	collectiontf	-Infinity
+QALD2_tr-63	bigram	batman begin	collectiontf	2.70805020110221
+QALD2_tr-64	unigram	software	collectiontf	9.894446807883979
+QALD2_tr-64	unigram	develop	collectiontf	6.90875477931522
+QALD2_tr-64	unigram	organization	collectiontf	10.00960278332483
+QALD2_tr-64	unigram	found	collectiontf	9.741262697441297
+QALD2_tr-64	unigram	california	collectiontf	12.639959987901031
+QALD2_tr-64	bigram	software develop	collectiontf	-Infinity
+QALD2_tr-64	bigram	develop organization	collectiontf	-Infinity
+QALD2_tr-64	bigram	organization found	collectiontf	0.6931471805599453
+QALD2_tr-64	bigram	found california	collectiontf	-Infinity
+QALD2_tr-65	unigram	company	collectiontf	11.908905733867178
+QALD2_tr-65	unigram	work	collectiontf	8.372860820526318
+QALD2_tr-65	unigram	aerospace	collectiontf	7.5251007461258
+QALD2_tr-65	unigram	industry	collectiontf	10.873849716198011
+QALD2_tr-65	unigram	nuclear	collectiontf	8.982561092257445
+QALD2_tr-65	unigram	reactor	collectiontf	5.883322388488279
+QALD2_tr-65	unigram	technology	collectiontf	9.885018036252466
+QALD2_tr-65	bigram	company work	collectiontf	-Infinity
+QALD2_tr-65	bigram	work aerospace	collectiontf	-Infinity
+QALD2_tr-65	bigram	aerospace industry	collectiontf	4.709530201312334
+QALD2_tr-65	bigram	industry nuclear	collectiontf	2.772588722239781
+QALD2_tr-65	bigram	nuclear reactor	collectiontf	3.5263605246161616
+QALD2_tr-65	bigram	reactor technology	collectiontf	1.6094379124341003
+QALD2_tr-68	unigram	actor	collectiontf	10.944170542073266
+QALD2_tr-68	unigram	born	collectiontf	9.84070748441342
+QALD2_tr-68	unigram	germany	collectiontf	12.511555342607462
+QALD2_tr-68	bigram	actor born	collectiontf	3.6375861597263857
+QALD2_tr-68	bigram	born germany	collectiontf	4.927253685157205
+QALD2_tr-69	unigram	cave	collectiontf	8.274611946209552
+QALD2_tr-69	unigram	3	collectiontf	9.664341643744413
+QALD2_tr-69	unigram	entrance	collectiontf	5.214935757608986
+QALD2_tr-69	bigram	cave 3	collectiontf	-Infinity
+QALD2_tr-69	bigram	3 entrance	collectiontf	-Infinity
+QALD2_tr-70	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-70	unigram	film	collectiontf	11.439644842775813
+QALD2_tr-70	unigram	produce	collectiontf	4.897839799950911
+QALD2_tr-70	unigram	hal	collectiontf	9.816239783971849
+QALD2_tr-70	unigram	roach	collectiontf	9.633710883953182
+QALD2_tr-70	bigram	give film	collectiontf	-Infinity
+QALD2_tr-70	bigram	film produce	collectiontf	0.6931471805599453
+QALD2_tr-70	bigram	produce hal	collectiontf	-Infinity
+QALD2_tr-70	bigram	hal roach	collectiontf	8.594154232552366
+QALD2_tr-71	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-71	unigram	video	collectiontf	10.679135954607817
+QALD2_tr-71	unigram	games	collectiontf	10.407288561365155
+QALD2_tr-71	unigram	publish	collectiontf	7.942717540573791
+QALD2_tr-71	unigram	mean	collectiontf	8.797246236703527
+QALD2_tr-71	unigram	hamster	collectiontf	5.948034989180646
+QALD2_tr-71	unigram	software	collectiontf	9.894446807883979
+QALD2_tr-71	bigram	give video	collectiontf	-Infinity
+QALD2_tr-71	bigram	video games	collectiontf	8.815221555922163
+QALD2_tr-71	bigram	games publish	collectiontf	-Infinity
+QALD2_tr-71	bigram	publish mean	collectiontf	-Infinity
+QALD2_tr-71	bigram	mean hamster	collectiontf	2.8903717578961645
+QALD2_tr-71	bigram	hamster software	collectiontf	2.8903717578961645
+QALD2_tr-72	unigram	language	collectiontf	12.34816231143625
+QALD2_tr-72	unigram	spoken	collectiontf	6.715383386334681
+QALD2_tr-72	unigram	estonia	collectiontf	10.271493062483911
+QALD2_tr-72	bigram	language spoken	collectiontf	-Infinity
+QALD2_tr-72	bigram	spoken estonia	collectiontf	-Infinity
+QALD2_tr-73	unigram	own	collectiontf	7.851661177889265
+QALD2_tr-73	unigram	aldi	collectiontf	5.71042701737487
+QALD2_tr-73	bigram	own aldi	collectiontf	-Infinity
+QALD2_tr-74	unigram	capitals	collectiontf	7.899524472032198
+QALD2_tr-74	unigram	europe	collectiontf	12.122343149998642
+QALD2_tr-74	unigram	host	collectiontf	7.3427791893318455
+QALD2_tr-74	unigram	city	collectiontf	14.618563160431117
+QALD2_tr-74	unigram	summer	collectiontf	11.110296331681273
+QALD2_tr-74	unigram	olympic	collectiontf	10.547917066298643
+QALD2_tr-74	unigram	games	collectiontf	10.407288561365155
+QALD2_tr-74	bigram	capitals europe	collectiontf	4.6913478822291435
+QALD2_tr-74	bigram	europe host	collectiontf	4.1588830833596715
+QALD2_tr-74	bigram	host city	collectiontf	3.044522437723423
+QALD2_tr-74	bigram	city summer	collectiontf	2.4849066497880004
+QALD2_tr-74	bigram	summer olympic	collectiontf	8.20303024171486
+QALD2_tr-74	bigram	olympic games	collectiontf	6.19644412779452
+QALD2_tr-75	unigram	5th	collectiontf	8.432288684325794
+QALD2_tr-75	unigram	president	collectiontf	10.678007325311796
+QALD2_tr-75	unigram	united	collectiontf	14.5437376789604
+QALD2_tr-75	unigram	states	collectiontf	14.307209629843593
+QALD2_tr-75	unigram	america	collectiontf	13.455079999095538
+QALD2_tr-75	bigram	5th president	collectiontf	-Infinity
+QALD2_tr-75	bigram	president united	collectiontf	6.98100574072173
+QALD2_tr-75	bigram	united states	collectiontf	14.206640067305072
+QALD2_tr-75	bigram	states america	collectiontf	12.893903217942592
+QALD2_tr-77	unigram	music	collectiontf	13.433926513717681
+QALD2_tr-77	unigram	album	collectiontf	12.513377181990881
+QALD2_tr-77	unigram	contain	collectiontf	4.51085950651685
+QALD2_tr-77	unigram	song	collectiontf	11.33077989269009
+QALD2_tr-77	unigram	christmas	collectiontf	8.906528917594517
+QALD2_tr-77	bigram	music album	collectiontf	8.614138397472717
+QALD2_tr-77	bigram	album contain	collectiontf	-Infinity
+QALD2_tr-77	bigram	contain song	collectiontf	-Infinity
+QALD2_tr-77	bigram	song christmas	collectiontf	5.429345628954441
+QALD2_tr-78	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-78	unigram	books	collectiontf	10.15979505022877
+QALD2_tr-78	unigram	written	collectiontf	6.4692503167957724
+QALD2_tr-78	unigram	danielle	collectiontf	8.475746001502063
+QALD2_tr-78	unigram	steel	collectiontf	10.22408443999905
+QALD2_tr-78	bigram	give books	collectiontf	-Infinity
+QALD2_tr-78	bigram	books written	collectiontf	3.091042453358316
+QALD2_tr-78	bigram	written danielle	collectiontf	-Infinity
+QALD2_tr-78	bigram	danielle steel	collectiontf	5.752572638825633
+QALD2_tr-79	unigram	airport	collectiontf	9.201198714058899
+QALD2_tr-79	unigram	located	collectiontf	4.2626798770413155
+QALD2_tr-79	unigram	california	collectiontf	12.639959987901031
+QALD2_tr-79	unigram	usa	collectiontf	9.681655640646714
+QALD2_tr-79	bigram	airport located	collectiontf	-Infinity
+QALD2_tr-79	bigram	located california	collectiontf	-Infinity
+QALD2_tr-79	bigram	california usa	collectiontf	4.9344739331306915
+QALD2_tr-80	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-80	unigram	canada	collectiontf	12.751360563726237
+QALD2_tr-80	unigram	grunge	collectiontf	9.426821780416843
+QALD2_tr-80	unigram	record	collectiontf	13.04574363801813
+QALD2_tr-80	unigram	label	collectiontf	12.045504752698445
+QALD2_tr-80	bigram	give canada	collectiontf	-Infinity
+QALD2_tr-80	bigram	canada grunge	collectiontf	-Infinity
+QALD2_tr-80	bigram	grunge record	collectiontf	0.6931471805599453
+QALD2_tr-80	bigram	record label	collectiontf	10.5505384372031
+QALD2_tr-81	unigram	country	collectiontf	12.926088118951263
+QALD2_tr-81	unigram	official	collectiontf	10.011669085380657
+QALD2_tr-81	unigram	language	collectiontf	12.34816231143625
+QALD2_tr-81	bigram	country official	collectiontf	8.194229304819817
+QALD2_tr-81	bigram	official language	collectiontf	2.772588722239781
+QALD2_tr-82	unigram	program	collectiontf	8.916103530553727
+QALD2_tr-82	unigram	language	collectiontf	12.34816231143625
+QALD2_tr-82	unigram	gimp	collectiontf	1.6094379124341003
+QALD2_tr-82	unigram	written	collectiontf	6.4692503167957724
+QALD2_tr-82	bigram	program language	collectiontf	7.497207223203318
+QALD2_tr-82	bigram	language gimp	collectiontf	-Infinity
+QALD2_tr-82	bigram	gimp written	collectiontf	-Infinity
+QALD2_tr-83	unigram	produce	collectiontf	4.897839799950911
+QALD2_tr-83	unigram	film	collectiontf	11.439644842775813
+QALD2_tr-83	unigram	star	collectiontf	12.420752480432188
+QALD2_tr-83	unigram	natalie	collectiontf	8.734881892047483
+QALD2_tr-83	unigram	portman	collectiontf	7.7706452341291765
+QALD2_tr-83	bigram	produce film	collectiontf	-Infinity
+QALD2_tr-83	bigram	film star	collectiontf	6.35088571671474
+QALD2_tr-83	bigram	star natalie	collectiontf	4.736198448394496
+QALD2_tr-83	bigram	natalie portman	collectiontf	4.927253685157205
+QALD2_tr-84	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-84	unigram	movies	collectiontf	6.8679744089702925
+QALD2_tr-84	unigram	tom	collectiontf	11.54718195364832
+QALD2_tr-84	unigram	cruise	collectiontf	7.685703061234547
+QALD2_tr-84	bigram	give movies	collectiontf	-Infinity
+QALD2_tr-84	bigram	movies tom	collectiontf	-Infinity
+QALD2_tr-84	bigram	tom cruise	collectiontf	5.641907070938114
+QALD2_tr-85	unigram	film	collectiontf	11.439644842775813
+QALD2_tr-85	unigram	julia	collectiontf	8.872627365918836
+QALD2_tr-85	unigram	robert	collectiontf	12.465848948728246
+QALD2_tr-85	unigram	richard	collectiontf	11.924750307030974
+QALD2_tr-85	unigram	gere	collectiontf	6.396929655216146
+QALD2_tr-85	unigram	play	collectiontf	10.224918665034282
+QALD2_tr-85	bigram	film julia	collectiontf	0.0
+QALD2_tr-85	bigram	julia robert	collectiontf	5.111987788356544
+QALD2_tr-85	bigram	robert richard	collectiontf	4.77912349311153
+QALD2_tr-85	bigram	richard gere	collectiontf	5.170483995038151
+QALD2_tr-85	bigram	gere play	collectiontf	-Infinity
+QALD2_tr-86	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-86	unigram	female	collectiontf	7.86403565907245
+QALD2_tr-86	unigram	germany	collectiontf	12.511555342607462
+QALD2_tr-86	unigram	chancellor	collectiontf	7.879291485082271
+QALD2_tr-86	bigram	give female	collectiontf	-Infinity
+QALD2_tr-86	bigram	female germany	collectiontf	-Infinity
+QALD2_tr-86	bigram	germany chancellor	collectiontf	0.0
+QALD2_tr-87	unigram	wrote	collectiontf	4.204692619390966
+QALD2_tr-87	unigram	book	collectiontf	8.963288275610298
+QALD2_tr-87	unigram	pillar	collectiontf	6.318968113746434
+QALD2_tr-87	unigram	earth	collectiontf	9.280425979542871
+QALD2_tr-87	bigram	wrote book	collectiontf	-Infinity
+QALD2_tr-87	bigram	book pillar	collectiontf	-Infinity
+QALD2_tr-87	bigram	pillar earth	collectiontf	1.791759469228055
+QALD2_tr-89	unigram	give	collectiontf	8.642768014324304
+QALD2_tr-89	unigram	soccer	collectiontf	10.313409381361234
+QALD2_tr-89	unigram	club	collectiontf	14.43092806206363
+QALD2_tr-89	unigram	premier	collectiontf	9.807912337613098
+QALD2_tr-89	unigram	league	collectiontf	11.858003423063298
+QALD2_tr-89	bigram	give soccer	collectiontf	-Infinity
+QALD2_tr-89	bigram	soccer club	collectiontf	9.389323027504624
+QALD2_tr-89	bigram	club premier	collectiontf	4.143134726391533
+QALD2_tr-89	bigram	premier league	collectiontf	8.374938143835367
+QALD2_tr-91	unigram	organization	collectiontf	10.00960278332483
+QALD2_tr-91	unigram	found	collectiontf	9.741262697441297
+QALD2_tr-91	unigram	1950	collectiontf	7.653494909661253
+QALD2_tr-91	bigram	organization found	collectiontf	0.6931471805599453
+QALD2_tr-91	bigram	found 1950	collectiontf	-Infinity
+QALD2_tr-92	unigram	highest	collectiontf	4.356708826689592
+QALD2_tr-92	unigram	mountain	collectiontf	10.444910274279497
+QALD2_tr-92	bigram	highest mountain	collectiontf	-Infinity
+SemSearch_ES-1	unigram	44	collectiontf	6.543911845564792
+SemSearch_ES-1	unigram	magnum	collectiontf	6.2324480165505225
+SemSearch_ES-1	unigram	hunting	collectiontf	6.184148890937483
+SemSearch_ES-1	bigram	44 magnum	collectiontf	-Infinity
+SemSearch_ES-1	bigram	magnum hunting	collectiontf	-Infinity
+SemSearch_ES-2	unigram	b	collectiontf	11.548340870191183
+SemSearch_ES-2	unigram	f	collectiontf	10.457286455149985
+SemSearch_ES-2	unigram	skin	collectiontf	8.774467601446593
+SemSearch_ES-2	bigram	b f	collectiontf	3.044522437723423
+SemSearch_ES-2	bigram	f skin	collectiontf	2.302585092994046
+SemSearch_ES-3	unigram	bookwork	collectiontf	-Infinity
+SemSearch_ES-4	unigram	naacp	collectiontf	2.3978952727983707
+SemSearch_ES-4	unigram	image	collectiontf	9.615205300012315
+SemSearch_ES-4	unigram	award	collectiontf	10.914942999089615
+SemSearch_ES-4	bigram	naacp image	collectiontf	2.3978952727983707
+SemSearch_ES-4	bigram	image award	collectiontf	2.3978952727983707
+SemSearch_ES-5	unigram	scott	collectiontf	11.538476245814234
+SemSearch_ES-5	unigram	county	collectiontf	13.929931503680491
+SemSearch_ES-5	bigram	scott county	collectiontf	6.966967138613983
+SemSearch_ES-6	unigram	air	collectiontf	10.8568428285471
+SemSearch_ES-6	unigram	wisconsin	collectiontf	11.186849004531135
+SemSearch_ES-6	bigram	air wisconsin	collectiontf	-Infinity
+SemSearch_ES-7	unigram	airsoft	collectiontf	2.0794415416798357
+SemSearch_ES-7	unigram	glock	collectiontf	3.9889840465642745
+SemSearch_ES-7	bigram	airsoft glock	collectiontf	-Infinity
+SemSearch_ES-8	unigram	aloha	collectiontf	7.8156105320351905
+SemSearch_ES-8	unigram	sol	collectiontf	8.840724916761715
+SemSearch_ES-8	bigram	aloha sol	collectiontf	-Infinity
+SemSearch_ES-9	unigram	america	collectiontf	13.455079999095538
+SemSearch_ES-9	unigram	embassy	collectiontf	6.580639137284949
+SemSearch_ES-9	unigram	nairobi	collectiontf	7.8838232148921525
+SemSearch_ES-9	bigram	america embassy	collectiontf	-Infinity
+SemSearch_ES-9	bigram	embassy nairobi	collectiontf	-Infinity
+SemSearch_ES-10	unigram	asheville	collectiontf	7.4318919168078
+SemSearch_ES-10	unigram	north	collectiontf	12.518131427021517
+SemSearch_ES-10	unigram	carolina	collectiontf	11.656402237940616
+SemSearch_ES-10	bigram	asheville north	collectiontf	7.204892510204673
+SemSearch_ES-10	bigram	north carolina	collectiontf	11.155550275917102
+SemSearch_ES-11	unigram	austin	collectiontf	10.193803652888551
+SemSearch_ES-11	unigram	powers	collectiontf	7.741533589281828
+SemSearch_ES-11	bigram	austin powers	collectiontf	4.8283137373023015
+SemSearch_ES-12	unigram	austin	collectiontf	10.193803652888551
+SemSearch_ES-12	unigram	texas	collectiontf	12.000363723939207
+SemSearch_ES-12	bigram	austin texas	collectiontf	7.878534196140362
+SemSearch_ES-13	unigram	banana	collectiontf	6.641182169740591
+SemSearch_ES-13	unigram	paper	collectiontf	7.467942332285852
+SemSearch_ES-13	unigram	making	collectiontf	6.063785208687608
+SemSearch_ES-13	bigram	banana paper	collectiontf	-Infinity
+SemSearch_ES-13	bigram	paper making	collectiontf	-Infinity
+SemSearch_ES-14	unigram	ben	collectiontf	10.84663440857928
+SemSearch_ES-14	unigram	franklin	collectiontf	10.864369167738158
+SemSearch_ES-14	bigram	ben franklin	collectiontf	2.8903717578961645
+SemSearch_ES-15	unigram	bradley	collectiontf	10.130583283688766
+SemSearch_ES-15	unigram	center	collectiontf	10.958113121999125
+SemSearch_ES-15	bigram	bradley center	collectiontf	5.337538079701318
+SemSearch_ES-16	unigram	brooklyn	collectiontf	10.21405572877461
+SemSearch_ES-16	unigram	bridge	collectiontf	10.071541137532378
+SemSearch_ES-16	bigram	brooklyn bridge	collectiontf	4.948759890378168
+SemSearch_ES-17	unigram	butte	collectiontf	8.721276239991704
+SemSearch_ES-17	unigram	montana	collectiontf	10.054920256296338
+SemSearch_ES-17	bigram	butte montana	collectiontf	5.501258210544727
+SemSearch_ES-18	unigram	canasta	collectiontf	1.9459101490553132
+SemSearch_ES-18	unigram	cards	collectiontf	7.912789220690681
+SemSearch_ES-18	bigram	canasta cards	collectiontf	-Infinity
+SemSearch_ES-19	unigram	carl	collectiontf	11.283751265798667
+SemSearch_ES-19	unigram	lewis	collectiontf	11.08315741833889
+SemSearch_ES-19	bigram	carl lewis	collectiontf	2.4849066497880004
+SemSearch_ES-20	unigram	carolina	collectiontf	11.656402237940616
+SemSearch_ES-21	unigram	charles	collectiontf	11.944740348401174
+SemSearch_ES-21	unigram	darwin	collectiontf	7.8674885686991285
+SemSearch_ES-21	bigram	charles darwin	collectiontf	5.855071922202427
+SemSearch_ES-22	unigram	city	collectiontf	14.618563160431117
+SemSearch_ES-22	unigram	charlotte	collectiontf	9.825093485108116
+SemSearch_ES-22	bigram	city charlotte	collectiontf	8.25608813381491
+SemSearch_ES-23	unigram	city	collectiontf	14.618563160431117
+SemSearch_ES-23	unigram	virginia	collectiontf	11.971893424595699
+SemSearch_ES-23	unigram	beach	collectiontf	10.437492449249524
+SemSearch_ES-23	bigram	city virginia	collectiontf	7.551186867296149
+SemSearch_ES-23	bigram	virginia beach	collectiontf	8.261526448396468
+SemSearch_ES-24	unigram	coastal	collectiontf	7.555905093611346
+SemSearch_ES-24	unigram	carolina	collectiontf	11.656402237940616
+SemSearch_ES-24	bigram	coastal carolina	collectiontf	5.5053315359323625
+SemSearch_ES-25	unigram	david	collectiontf	12.551076243518468
+SemSearch_ES-25	unigram	suchet	collectiontf	5.442417710521793
+SemSearch_ES-25	bigram	david suchet	collectiontf	4.7535901911063645
+SemSearch_ES-26	unigram	disney	collectiontf	9.655026193237628
+SemSearch_ES-26	unigram	orlando	collectiontf	9.378816521948083
+SemSearch_ES-26	bigram	disney orlando	collectiontf	0.0
+SemSearch_ES-27	unigram	earl	collectiontf	10.818457412442868
+SemSearch_ES-28	unigram	el	collectiontf	11.704239798599229
+SemSearch_ES-28	unigram	salvador	collectiontf	9.856605566635997
+SemSearch_ES-28	bigram	el salvador	collectiontf	9.231024963169016
+SemSearch_ES-29	unigram	elli	collectiontf	9.772239265926174
+SemSearch_ES-29	unigram	college	collectiontf	12.015892289105924
+SemSearch_ES-29	bigram	elli college	collectiontf	0.0
+SemSearch_ES-30	unigram	eloan	collectiontf	-Infinity
+SemSearch_ES-30	unigram	line	collectiontf	10.64974886874556
+SemSearch_ES-30	unigram	credit	collectiontf	8.358666283188
+SemSearch_ES-30	bigram	eloan line	collectiontf	-Infinity
+SemSearch_ES-30	bigram	line credit	collectiontf	0.0
+SemSearch_ES-31	unigram	emery	collectiontf	8.008698182988528
+SemSearch_ES-32	unigram	fitzgerald	collectiontf	9.261793653565098
+SemSearch_ES-32	unigram	auto	collectiontf	7.827639546366422
+SemSearch_ES-32	unigram	mall	collectiontf	7.751475318021456
+SemSearch_ES-32	unigram	chambersburg	collectiontf	6.003887067106539
+SemSearch_ES-32	unigram	pa	collectiontf	7.68937110752969
+SemSearch_ES-32	bigram	fitzgerald auto	collectiontf	-Infinity
+SemSearch_ES-32	bigram	auto mall	collectiontf	-Infinity
+SemSearch_ES-32	bigram	mall chambersburg	collectiontf	-Infinity
+SemSearch_ES-32	bigram	chambersburg pa	collectiontf	-Infinity
+SemSearch_ES-33	unigram	harry	collectiontf	10.779060451131723
+SemSearch_ES-33	unigram	potter	collectiontf	9.404837504700271
+SemSearch_ES-33	bigram	harry potter	collectiontf	5.7899601708972535
+SemSearch_ES-34	unigram	harry	collectiontf	10.779060451131723
+SemSearch_ES-34	unigram	potter	collectiontf	9.404837504700271
+SemSearch_ES-34	unigram	movie	collectiontf	7.566311014772463
+SemSearch_ES-34	bigram	harry potter	collectiontf	5.7899601708972535
+SemSearch_ES-34	bigram	potter movie	collectiontf	-Infinity
+SemSearch_ES-35	unigram	hospice	collectiontf	2.772588722239781
+SemSearch_ES-35	unigram	cincinnati	collectiontf	10.072090437189145
+SemSearch_ES-35	bigram	hospice cincinnati	collectiontf	-Infinity
+SemSearch_ES-36	unigram	imdb	collectiontf	3.4657359027997265
+SemSearch_ES-36	unigram	batman	collectiontf	6.786716950605081
+SemSearch_ES-36	unigram	returns	collectiontf	5.267858159063328
+SemSearch_ES-36	bigram	imdb batman	collectiontf	-Infinity
+SemSearch_ES-36	bigram	batman returns	collectiontf	1.791759469228055
+SemSearch_ES-37	unigram	jack	collectiontf	11.511214001251352
+SemSearch_ES-37	unigram	johnson	collectiontf	11.117153228832963
+SemSearch_ES-37	bigram	jack johnson	collectiontf	6.3835066348840055
+SemSearch_ES-38	unigram	jack	collectiontf	11.511214001251352
+SemSearch_ES-38	unigram	rip	collectiontf	8.330622620332868
+SemSearch_ES-38	bigram	jack rip	collectiontf	2.6390573296152584
+SemSearch_ES-39	unigram	james	collectiontf	12.501685684558153
+SemSearch_ES-39	unigram	caldwell	collectiontf	8.909910726701899
+SemSearch_ES-39	unigram	high	collectiontf	10.355740822143051
+SemSearch_ES-39	unigram	school	collectiontf	11.64066763232114
+SemSearch_ES-39	bigram	james caldwell	collectiontf	3.044522437723423
+SemSearch_ES-39	bigram	caldwell high	collectiontf	1.0986122886681098
+SemSearch_ES-39	bigram	high school	collectiontf	9.488956472414216
+SemSearch_ES-40	unigram	james	collectiontf	12.501685684558153
+SemSearch_ES-40	unigram	clayton	collectiontf	9.30301070681749
+SemSearch_ES-40	unigram	md	collectiontf	7.360103972989152
+SemSearch_ES-40	bigram	james clayton	collectiontf	2.3978952727983707
+SemSearch_ES-40	bigram	clayton md	collectiontf	-Infinity
+SemSearch_ES-41	unigram	joan	collectiontf	9.974924102473977
+SemSearch_ES-41	unigram	arc	collectiontf	7.126087273299125
+SemSearch_ES-41	bigram	joan arc	collectiontf	5.846438775057725
+SemSearch_ES-42	unigram	john	collectiontf	13.123904189743088
+SemSearch_ES-42	unigram	maxwell	collectiontf	8.786303878282583
+SemSearch_ES-42	bigram	john maxwell	collectiontf	5.655991810819852
+SemSearch_ES-45	unigram	keith	collectiontf	10.489800910432063
+SemSearch_ES-45	unigram	urban	collectiontf	9.414178772232386
+SemSearch_ES-45	bigram	keith urban	collectiontf	6.740519359606223
+SemSearch_ES-47	unigram	king	collectiontf	11.100012691726906
+SemSearch_ES-47	unigram	arthur	collectiontf	10.984003756934829
+SemSearch_ES-47	bigram	king arthur	collectiontf	4.454347296253507
+SemSearch_ES-48	unigram	la	collectiontf	12.519762319254143
+SemSearch_ES-48	unigram	scala	collectiontf	5.983936280687191
+SemSearch_ES-48	unigram	restaurant	collectiontf	7.6236419465115715
+SemSearch_ES-48	unigram	philadelphia	collectiontf	10.9652802430657
+SemSearch_ES-48	bigram	la scala	collectiontf	4.1588830833596715
+SemSearch_ES-48	bigram	scala restaurant	collectiontf	-Infinity
+SemSearch_ES-48	bigram	restaurant philadelphia	collectiontf	-Infinity
+SemSearch_ES-49	unigram	laura	collectiontf	9.48918349576076
+SemSearch_ES-49	unigram	bush	collectiontf	9.493487175626202
+SemSearch_ES-49	bigram	laura bush	collectiontf	3.9318256327243257
+SemSearch_ES-50	unigram	laura	collectiontf	9.48918349576076
+SemSearch_ES-50	unigram	steele	collectiontf	8.865170419651774
+SemSearch_ES-50	unigram	bob	collectiontf	11.062269457560602
+SemSearch_ES-50	unigram	tom	collectiontf	11.54718195364832
+SemSearch_ES-50	bigram	laura steele	collectiontf	-Infinity
+SemSearch_ES-50	bigram	steele bob	collectiontf	2.772588722239781
+SemSearch_ES-50	bigram	bob tom	collectiontf	6.068425588244111
+SemSearch_ES-51	unigram	lexu	collectiontf	5.384495062789089
+SemSearch_ES-51	unigram	maplewood	collectiontf	5.5053315359323625
+SemSearch_ES-51	bigram	lexu maplewood	collectiontf	-Infinity
+SemSearch_ES-52	unigram	lincoln	collectiontf	11.001849809949029
+SemSearch_ES-52	unigram	park	collectiontf	11.77732611613264
+SemSearch_ES-52	bigram	lincoln park	collectiontf	4.430816798843313
+SemSearch_ES-53	unigram	lynchburg	collectiontf	8.099554282376364
+SemSearch_ES-53	unigram	virginia	collectiontf	11.971893424595699
+SemSearch_ES-53	bigram	lynchburg virginia	collectiontf	7.122866658599083
+SemSearch_ES-54	unigram	marc	collectiontf	10.084725188767045
+SemSearch_ES-54	unigram	anthony	collectiontf	11.366279884628744
+SemSearch_ES-54	bigram	marc anthony	collectiontf	6.171700597410915
+SemSearch_ES-55	unigram	marcu	collectiontf	9.779680156808055
+SemSearch_ES-55	unigram	theater	collectiontf	7.520776415062797
+SemSearch_ES-55	bigram	marcu theater	collectiontf	-Infinity
+SemSearch_ES-56	unigram	mario	collectiontf	10.348141322001869
+SemSearch_ES-56	unigram	bro	collectiontf	10.59335435854593
+SemSearch_ES-56	bigram	mario bro	collectiontf	3.7376696182833684
+SemSearch_ES-57	unigram	martin	collectiontf	11.677430920018907
+SemSearch_ES-57	unigram	luther	collectiontf	8.61794309451638
+SemSearch_ES-57	unigram	king	collectiontf	11.100012691726906
+SemSearch_ES-57	bigram	martin luther	collectiontf	6.499787040655854
+SemSearch_ES-57	bigram	luther king	collectiontf	5.170483995038151
+SemSearch_ES-58	unigram	mason	collectiontf	10.108059718264903
+SemSearch_ES-58	unigram	ohio	collectiontf	11.791723188208477
+SemSearch_ES-58	bigram	mason ohio	collectiontf	4.31748811353631
+SemSearch_ES-59	unigram	mercy	collectiontf	7.811163385025279
+SemSearch_ES-59	unigram	hospital	collectiontf	8.616676469901188
+SemSearch_ES-59	unigram	des	collectiontf	9.965992757887525
+SemSearch_ES-59	unigram	moines	collectiontf	8.562740006372207
+SemSearch_ES-59	unigram	ia	collectiontf	5.003946305945459
+SemSearch_ES-59	bigram	mercy hospital	collectiontf	-Infinity
+SemSearch_ES-59	bigram	hospital des	collectiontf	-Infinity
+SemSearch_ES-59	bigram	des moines	collectiontf	8.562740006372207
+SemSearch_ES-59	bigram	moines ia	collectiontf	1.0986122886681098
+SemSearch_ES-60	unigram	michael	collectiontf	12.467290098814871
+SemSearch_ES-60	unigram	douglas	collectiontf	10.859844793623367
+SemSearch_ES-60	bigram	michael douglas	collectiontf	6.1675164908883415
+SemSearch_ES-61	unigram	rourke	collectiontf	6.590301048196686
+SemSearch_ES-61	unigram	fantasy	collectiontf	9.458137510729049
+SemSearch_ES-61	unigram	island	collectiontf	11.377769896943771
+SemSearch_ES-61	bigram	rourke fantasy	collectiontf	-Infinity
+SemSearch_ES-61	bigram	fantasy island	collectiontf	2.8903717578961645
+SemSearch_ES-63	unigram	old	collectiontf	10.627939582924485
+SemSearch_ES-63	unigram	winchester	collectiontf	8.847647355711887
+SemSearch_ES-63	unigram	shotgun	collectiontf	5.91350300563827
+SemSearch_ES-63	bigram	old winchester	collectiontf	-Infinity
+SemSearch_ES-63	bigram	winchester shotgun	collectiontf	-Infinity
+SemSearch_ES-64	unigram	omeara	collectiontf	5.4116460518550396
+SemSearch_ES-64	unigram	ford	collectiontf	10.144078017454058
+SemSearch_ES-64	bigram	omeara ford	collectiontf	-Infinity
+SemSearch_ES-65	unigram	orlando	collectiontf	9.378816521948083
+SemSearch_ES-65	unigram	florida	collectiontf	11.825836591467786
+SemSearch_ES-65	bigram	orlando florida	collectiontf	7.492760300922379
+SemSearch_ES-66	unigram	overeater	collectiontf	-Infinity
+SemSearch_ES-66	unigram	anonymous	collectiontf	4.852030263919617
+SemSearch_ES-66	bigram	overeater anonymous	collectiontf	-Infinity
+SemSearch_ES-67	unigram	ovguide	collectiontf	-Infinity
+SemSearch_ES-67	unigram	movies	collectiontf	6.8679744089702925
+SemSearch_ES-67	bigram	ovguide movies	collectiontf	-Infinity
+SemSearch_ES-68	unigram	pierce	collectiontf	9.292012520620208
+SemSearch_ES-68	unigram	county	collectiontf	13.929931503680491
+SemSearch_ES-68	unigram	washington	collectiontf	11.974707892556888
+SemSearch_ES-68	bigram	pierce county	collectiontf	6.641182169740591
+SemSearch_ES-68	bigram	county washington	collectiontf	8.813735892300215
+SemSearch_ES-69	unigram	piosenki	collectiontf	-Infinity
+SemSearch_ES-69	unigram	mp3	collectiontf	5.0369526024136295
+SemSearch_ES-69	bigram	piosenki mp3	collectiontf	-Infinity
+SemSearch_ES-70	unigram	radio	collectiontf	10.551951125469433
+SemSearch_ES-70	unigram	italia	collectiontf	6.376726947898627
+SemSearch_ES-70	unigram	online	collectiontf	9.123365357961776
+SemSearch_ES-70	bigram	radio italia	collectiontf	1.0986122886681098
+SemSearch_ES-70	bigram	italia online	collectiontf	-Infinity
+SemSearch_ES-71	unigram	richmond	collectiontf	10.36110225496905
+SemSearch_ES-71	unigram	virginia	collectiontf	11.971893424595699
+SemSearch_ES-71	bigram	richmond virginia	collectiontf	7.847762537473608
+SemSearch_ES-72	unigram	rock	collectiontf	13.36020636075722
+SemSearch_ES-72	unigram	103	collectiontf	4.919980925828125
+SemSearch_ES-72	unigram	memphis	collectiontf	9.25770094333602
+SemSearch_ES-72	bigram	rock 103	collectiontf	-Infinity
+SemSearch_ES-72	bigram	103 memphis	collectiontf	-Infinity
+SemSearch_ES-73	unigram	rowan	collectiontf	8.19478163844336
+SemSearch_ES-73	unigram	university	collectiontf	12.834814629397782
+SemSearch_ES-73	bigram	rowan university	collectiontf	3.7376696182833684
+SemSearch_ES-74	unigram	sacred	collectiontf	6.952728644624869
+SemSearch_ES-74	unigram	heart	collectiontf	11.10566374391912
+SemSearch_ES-74	unigram	u	collectiontf	9.819834167538875
+SemSearch_ES-74	bigram	sacred heart	collectiontf	5.393627546352362
+SemSearch_ES-74	bigram	heart u	collectiontf	2.4849066497880004
+SemSearch_ES-75	unigram	sagemont	collectiontf	-Infinity
+SemSearch_ES-75	unigram	church	collectiontf	11.058889668606032
+SemSearch_ES-75	unigram	houston	collectiontf	10.698107702026707
+SemSearch_ES-75	unigram	tx	collectiontf	6.4692503167957724
+SemSearch_ES-75	bigram	sagemont church	collectiontf	-Infinity
+SemSearch_ES-75	bigram	church houston	collectiontf	0.0
+SemSearch_ES-75	bigram	houston tx	collectiontf	1.791759469228055
+SemSearch_ES-76	unigram	san	collectiontf	12.371468432901187
+SemSearch_ES-76	unigram	antonio	collectiontf	10.675029930523447
+SemSearch_ES-76	bigram	san antonio	collectiontf	9.232786560806012
+SemSearch_ES-77	unigram	savannah	collectiontf	8.263590432617319
+SemSearch_ES-77	unigram	tech	collectiontf	8.64135583403666
+SemSearch_ES-77	bigram	savannah tech	collectiontf	-Infinity
+SemSearch_ES-78	unigram	sharp	collectiontf	8.296795865770052
+SemSearch_ES-78	unigram	pc	collectiontf	7.537962659768208
+SemSearch_ES-78	bigram	sharp pc	collectiontf	-Infinity
+SemSearch_ES-79	unigram	shobana	collectiontf	6.478509642208569
+SemSearch_ES-79	unigram	masala	collectiontf	4.02535169073515
+SemSearch_ES-79	bigram	shobana masala	collectiontf	-Infinity
+SemSearch_ES-80	unigram	sonny	collectiontf	8.832149906002899
+SemSearch_ES-80	unigram	cher	collectiontf	8.520388082312756
+SemSearch_ES-80	bigram	sonny cher	collectiontf	5.5134287461649825
+SemSearch_ES-81	unigram	south	collectiontf	12.507161938189274
+SemSearch_ES-81	unigram	dakota	collectiontf	10.529372506036905
+SemSearch_ES-81	unigram	state	collectiontf	14.145744088551588
+SemSearch_ES-81	unigram	university	collectiontf	12.834814629397782
+SemSearch_ES-81	bigram	south dakota	collectiontf	9.634038248345407
+SemSearch_ES-81	bigram	dakota state	collectiontf	8.645762292210945
+SemSearch_ES-81	bigram	state university	collectiontf	10.57029075775647
+SemSearch_ES-82	unigram	st	collectiontf	11.842617625879068
+SemSearch_ES-82	unigram	lucia	collectiontf	7.862497197230545
+SemSearch_ES-82	bigram	st lucia	collectiontf	3.970291913552122
+SemSearch_ES-83	unigram	st	collectiontf	11.842617625879068
+SemSearch_ES-83	unigram	paul	collectiontf	12.081353737222678
+SemSearch_ES-83	unigram	saint	collectiontf	11.589534592340119
+SemSearch_ES-83	bigram	st paul	collectiontf	7.071573364211532
+SemSearch_ES-83	bigram	paul saint	collectiontf	5.3981627015177525
+SemSearch_ES-84	unigram	dish	collectiontf	5.480638923341991
+SemSearch_ES-84	unigram	danielle	collectiontf	8.475746001502063
+SemSearch_ES-84	unigram	fishel	collectiontf	4.564348191467836
+SemSearch_ES-84	bigram	dish danielle	collectiontf	-Infinity
+SemSearch_ES-84	bigram	danielle fishel	collectiontf	3.871201010907891
+SemSearch_ES-85	unigram	longest	collectiontf	5.003946305945459
+SemSearch_ES-85	unigram	yard	collectiontf	7.768533300926033
+SemSearch_ES-85	unigram	sale	collectiontf	7.692113339595466
+SemSearch_ES-85	bigram	longest yard	collectiontf	1.0986122886681098
+SemSearch_ES-85	bigram	yard sale	collectiontf	-Infinity
+SemSearch_ES-86	unigram	morning	collectiontf	8.448271745949816
+SemSearch_ES-86	unigram	call	collectiontf	8.678631537293768
+SemSearch_ES-86	unigram	lehigh	collectiontf	8.068089626278244
+SemSearch_ES-86	unigram	valley	collectiontf	10.458894495697496
+SemSearch_ES-86	unigram	pa	collectiontf	7.68937110752969
+SemSearch_ES-86	bigram	morning call	collectiontf	2.70805020110221
+SemSearch_ES-86	bigram	call lehigh	collectiontf	-Infinity
+SemSearch_ES-86	bigram	lehigh valley	collectiontf	5.442417710521793
+SemSearch_ES-86	bigram	valley pa	collectiontf	-Infinity
+SemSearch_ES-87	unigram	quick	collectiontf	6.841615476477592
+SemSearch_ES-87	unigram	lift	collectiontf	6.025865973825314
+SemSearch_ES-87	bigram	quick lift	collectiontf	-Infinity
+SemSearch_ES-88	unigram	thomas	collectiontf	11.958040681207942
+SemSearch_ES-88	unigram	jefferson	collectiontf	10.717612659648976
+SemSearch_ES-88	bigram	thomas jefferson	collectiontf	6.5998704992128365
+SemSearch_ES-89	unigram	university	collectiontf	12.834814629397782
+SemSearch_ES-89	unigram	north	collectiontf	12.518131427021517
+SemSearch_ES-89	unigram	dakota	collectiontf	10.529372506036905
+SemSearch_ES-89	bigram	university north	collectiontf	8.330622620332868
+SemSearch_ES-89	bigram	north dakota	collectiontf	9.62231756369957
+SemSearch_ES-90	unigram	university	collectiontf	12.834814629397782
+SemSearch_ES-90	unigram	phoenix	collectiontf	9.749345206007481
+SemSearch_ES-90	bigram	university phoenix	collectiontf	5.54907608489522
+SemSearch_ES-91	unigram	westminster	collectiontf	8.722580021141189
+SemSearch_ES-91	unigram	abbey	collectiontf	7.881559917056899
+SemSearch_ES-91	bigram	westminster abbey	collectiontf	4.3694478524670215
+SemSearch_ES-93	unigram	08	collectiontf	8.01532730902172
+SemSearch_ES-93	unigram	toyota	collectiontf	8.488587934405903
+SemSearch_ES-93	unigram	tundra	collectiontf	5.2832037287379885
+SemSearch_ES-93	bigram	08 toyota	collectiontf	-Infinity
+SemSearch_ES-93	bigram	toyota tundra	collectiontf	3.6635616461296463
+SemSearch_ES-94	unigram	hugh	collectiontf	10.094768850701554
+SemSearch_ES-94	unigram	downs	collectiontf	7.269616749608169
+SemSearch_ES-94	bigram	hugh downs	collectiontf	3.1780538303479458
+SemSearch_ES-95	unigram	madrid	collectiontf	10.642921767047387
+SemSearch_ES-96	unigram	new	collectiontf	13.619945694418456
+SemSearch_ES-96	unigram	england	collectiontf	13.052337830033991
+SemSearch_ES-96	unigram	coffee	collectiontf	8.250620082174692
+SemSearch_ES-96	bigram	new england	collectiontf	9.451323841418724
+SemSearch_ES-96	bigram	england coffee	collectiontf	-Infinity
+SemSearch_ES-97	unigram	pink	collectiontf	8.926251835034533
+SemSearch_ES-97	unigram	panther	collectiontf	9.142061531222888
+SemSearch_ES-97	unigram	2	collectiontf	10.422668175884853
+SemSearch_ES-97	bigram	pink panther	collectiontf	6.115892125483034
+SemSearch_ES-97	bigram	panther 2	collectiontf	-Infinity
+SemSearch_ES-98	unigram	university	collectiontf	12.834814629397782
+SemSearch_ES-98	unigram	texas	collectiontf	12.000363723939207
+SemSearch_ES-98	unigram	austin	collectiontf	10.193803652888551
+SemSearch_ES-98	bigram	university texas	collectiontf	8.087025470667701
+SemSearch_ES-98	bigram	texas austin	collectiontf	6.643789733147672
+SemSearch_ES-99	unigram	university	collectiontf	12.834814629397782
+SemSearch_ES-99	unigram	york	collectiontf	13.019060742855947
+SemSearch_ES-99	bigram	university york	collectiontf	6.021023349349527
+SemSearch_ES-100	unigram	ymca	collectiontf	5.327876168789581
+SemSearch_ES-100	unigram	tampa	collectiontf	9.744843459096531
+SemSearch_ES-100	bigram	ymca tampa	collectiontf	-Infinity
+SemSearch_ES-101	unigram	ashley	collectiontf	9.53935630792094
+SemSearch_ES-101	unigram	wagner	collectiontf	8.67846133901236
+SemSearch_ES-101	bigram	ashley wagner	collectiontf	-Infinity
+SemSearch_ES-102	unigram	beach	collectiontf	10.437492449249524
+SemSearch_ES-102	unigram	flower	collectiontf	8.929435283803425
+SemSearch_ES-102	bigram	beach flower	collectiontf	-Infinity
+SemSearch_ES-103	unigram	bounce	collectiontf	5.332718793265369
+SemSearch_ES-103	unigram	city	collectiontf	14.618563160431117
+SemSearch_ES-103	unigram	humble	collectiontf	6.464588303689961
+SemSearch_ES-103	unigram	tx	collectiontf	6.4692503167957724
+SemSearch_ES-103	bigram	bounce city	collectiontf	-Infinity
+SemSearch_ES-103	bigram	city humble	collectiontf	4.30406509320417
+SemSearch_ES-103	bigram	humble tx	collectiontf	-Infinity
+SemSearch_ES-104	unigram	bourbonnai	collectiontf	3.6375861597263857
+SemSearch_ES-104	unigram	il	collectiontf	10.09009159305939
+SemSearch_ES-104	bigram	bourbonnai il	collectiontf	-Infinity
+SemSearch_ES-105	unigram	cedar	collectiontf	8.913684824725294
+SemSearch_ES-105	unigram	garden	collectiontf	10.716947898606081
+SemSearch_ES-105	unigram	apartments	collectiontf	4.454347296253507
+SemSearch_ES-105	bigram	cedar garden	collectiontf	-Infinity
+SemSearch_ES-105	bigram	garden apartments	collectiontf	-Infinity
+SemSearch_ES-106	unigram	chase	collectiontf	9.069813136839207
+SemSearch_ES-106	unigram	masterson	collectiontf	7.38770923908104
+SemSearch_ES-106	bigram	chase masterson	collectiontf	4.969813299576001
+SemSearch_ES-107	unigram	concord	collectiontf	8.183118079394745
+SemSearch_ES-107	unigram	steel	collectiontf	10.22408443999905
+SemSearch_ES-107	bigram	concord steel	collectiontf	-Infinity
+SemSearch_ES-108	unigram	danielia	collectiontf	-Infinity
+SemSearch_ES-108	unigram	cotton	collectiontf	9.381010986029276
+SemSearch_ES-108	bigram	danielia cotton	collectiontf	-Infinity
+SemSearch_ES-109	unigram	david	collectiontf	12.551076243518468
+SemSearch_ES-109	unigram	hewlett	collectiontf	6.985641817639208
+SemSearch_ES-109	bigram	david hewlett	collectiontf	5.043425116919247
+SemSearch_ES-111	unigram	eagle	collectiontf	10.243845088739151
+SemSearch_ES-111	unigram	rock	collectiontf	13.36020636075722
+SemSearch_ES-111	unigram	ca	collectiontf	8.556029215201436
+SemSearch_ES-111	bigram	eagle rock	collectiontf	5.37989735354046
+SemSearch_ES-111	bigram	rock ca	collectiontf	0.0
+SemSearch_ES-112	unigram	espresso	collectiontf	3.6635616461296463
+SemSearch_ES-112	unigram	tv	collectiontf	10.26074232833987
+SemSearch_ES-112	unigram	stand	collectiontf	7.7354333524996886
+SemSearch_ES-112	bigram	espresso tv	collectiontf	-Infinity
+SemSearch_ES-112	bigram	tv stand	collectiontf	-Infinity
+SemSearch_ES-114	unigram	glenn	collectiontf	9.828925631209223
+SemSearch_ES-114	unigram	frey	collectiontf	7.22983877815125
+SemSearch_ES-114	bigram	glenn frey	collectiontf	6.259581464064923
+SemSearch_ES-115	unigram	goodwill	collectiontf	5.2574953720277815
+SemSearch_ES-115	unigram	michigan	collectiontf	11.56351401108104
+SemSearch_ES-115	bigram	goodwill michigan	collectiontf	-Infinity
+SemSearch_ES-118	unigram	iowa	collectiontf	10.986630810300307
+SemSearch_ES-118	unigram	energy	collectiontf	9.025696119812583
+SemSearch_ES-118	bigram	iowa energy	collectiontf	4.532599493153256
+SemSearch_ES-119	unigram	john	collectiontf	13.123904189743088
+SemSearch_ES-119	unigram	elliott	collectiontf	9.92896034850916
+SemSearch_ES-119	bigram	john elliott	collectiontf	3.6109179126442243
+SemSearch_ES-120	unigram	lawrence	collectiontf	10.783031309043167
+SemSearch_ES-120	unigram	general	collectiontf	10.176943917723927
+SemSearch_ES-120	unigram	hospital	collectiontf	8.616676469901188
+SemSearch_ES-120	bigram	lawrence general	collectiontf	-Infinity
+SemSearch_ES-120	bigram	general hospital	collectiontf	6.267200548541362
+SemSearch_ES-123	unigram	michael	collectiontf	12.467290098814871
+SemSearch_ES-123	unigram	zimmerman	collectiontf	8.47261414801827
+SemSearch_ES-123	bigram	michael zimmerman	collectiontf	-Infinity
+SemSearch_ES-124	unigram	motorola	collectiontf	5.4638318050256105
+SemSearch_ES-124	unigram	bluetooth	collectiontf	3.295836866004329
+SemSearch_ES-124	unigram	hs850	collectiontf	-Infinity
+SemSearch_ES-124	bigram	motorola bluetooth	collectiontf	-Infinity
+SemSearch_ES-124	bigram	bluetooth hs850	collectiontf	-Infinity
+SemSearch_ES-125	unigram	nokia	collectiontf	7.075808863978387
+SemSearch_ES-125	unigram	e73	collectiontf	-Infinity
+SemSearch_ES-125	bigram	nokia e73	collectiontf	-Infinity
+SemSearch_ES-127	unigram	palm	collectiontf	9.41450495669259
+SemSearch_ES-127	unigram	tungsten	collectiontf	4.976733742420574
+SemSearch_ES-127	unigram	e2	collectiontf	3.1780538303479458
+SemSearch_ES-127	unigram	handheld	collectiontf	5.0689042022202315
+SemSearch_ES-127	bigram	palm tungsten	collectiontf	0.0
+SemSearch_ES-127	bigram	tungsten e2	collectiontf	-Infinity
+SemSearch_ES-127	bigram	e2 handheld	collectiontf	-Infinity
+SemSearch_ES-128	unigram	philadelphia	collectiontf	10.9652802430657
+SemSearch_ES-128	unigram	neufchatel	collectiontf	-Infinity
+SemSearch_ES-128	unigram	cheese	collectiontf	6.762729506931879
+SemSearch_ES-128	bigram	philadelphia neufchatel	collectiontf	-Infinity
+SemSearch_ES-128	bigram	neufchatel cheese	collectiontf	-Infinity
+SemSearch_ES-129	unigram	pizza	collectiontf	6.453624998892692
+SemSearch_ES-129	unigram	populous	collectiontf	4.770684624465665
+SemSearch_ES-129	unigram	detroit	collectiontf	10.3988847681449
+SemSearch_ES-129	unigram	mi	collectiontf	8.051022208190679
+SemSearch_ES-129	bigram	pizza populous	collectiontf	-Infinity
+SemSearch_ES-129	bigram	populous detroit	collectiontf	-Infinity
+SemSearch_ES-129	bigram	detroit mi	collectiontf	2.1972245773362196
+SemSearch_ES-130	unigram	plymouth	collectiontf	9.957170489452313
+SemSearch_ES-130	unigram	police	collectiontf	9.001715906761175
+SemSearch_ES-130	unigram	department	collectiontf	11.285899386391794
+SemSearch_ES-130	bigram	plymouth police	collectiontf	-Infinity
+SemSearch_ES-130	bigram	police department	collectiontf	6.401917196727186
+SemSearch_ES-131	unigram	scpa	collectiontf	-Infinity
+SemSearch_ES-131	unigram	san	collectiontf	12.371468432901187
+SemSearch_ES-131	unigram	diego	collectiontf	10.812572384159955
+SemSearch_ES-131	bigram	scpa san	collectiontf	-Infinity
+SemSearch_ES-131	bigram	san diego	collectiontf	10.53297582498551
+SemSearch_ES-132	unigram	sea	collectiontf	9.973340054434962
+SemSearch_ES-132	unigram	mattress	collectiontf	4.820281565605037
+SemSearch_ES-132	unigram	co	collectiontf	10.141086124819923
+SemSearch_ES-132	bigram	sea mattress	collectiontf	-Infinity
+SemSearch_ES-132	bigram	mattress co	collectiontf	-Infinity
+SemSearch_ES-133	unigram	sedona	collectiontf	4.770684624465665
+SemSearch_ES-133	unigram	hike	collectiontf	6.490723534502507
+SemSearch_ES-133	unigram	trail	collectiontf	8.001019961323651
+SemSearch_ES-133	bigram	sedona hike	collectiontf	-Infinity
+SemSearch_ES-133	bigram	hike trail	collectiontf	5.840641657373398
+SemSearch_ES-134	unigram	skye	collectiontf	6.738152494595957
+SemSearch_ES-134	unigram	wood	collectiontf	10.456395176681486
+SemSearch_ES-134	bigram	skye wood	collectiontf	-Infinity
+SemSearch_ES-135	unigram	spring	collectiontf	10.090879566143188
+SemSearch_ES-135	unigram	shoe	collectiontf	8.15162164696975
+SemSearch_ES-135	unigram	canada	collectiontf	12.751360563726237
+SemSearch_ES-135	bigram	spring shoe	collectiontf	-Infinity
+SemSearch_ES-135	bigram	shoe canada	collectiontf	0.0
+SemSearch_ES-136	unigram	sri	collectiontf	10.536194469284657
+SemSearch_ES-136	unigram	lanka	collectiontf	10.443017244430473
+SemSearch_ES-136	unigram	government	collectiontf	11.210549294438875
+SemSearch_ES-136	unigram	gazette	collectiontf	5.996452088619021
+SemSearch_ES-136	bigram	sri lanka	collectiontf	10.435585311577658
+SemSearch_ES-136	bigram	lanka government	collectiontf	3.871201010907891
+SemSearch_ES-136	bigram	government gazette	collectiontf	-Infinity
+SemSearch_ES-137	unigram	steak	collectiontf	3.6375861597263857
+SemSearch_ES-137	unigram	express	collectiontf	8.454466361507933
+SemSearch_ES-137	bigram	steak express	collectiontf	-Infinity
+SemSearch_ES-138	unigram	syracuse	collectiontf	8.91918561004543
+SemSearch_ES-138	unigram	spca	collectiontf	-Infinity
+SemSearch_ES-138	bigram	syracuse spca	collectiontf	-Infinity
+SemSearch_ES-139	unigram	big	collectiontf	11.494893868472772
+SemSearch_ES-139	unigram	texas	collectiontf	12.000363723939207
+SemSearch_ES-139	unigram	steak	collectiontf	3.6375861597263857
+SemSearch_ES-139	unigram	house	collectiontf	10.884273054590794
+SemSearch_ES-139	bigram	big texas	collectiontf	-Infinity
+SemSearch_ES-139	bigram	texas steak	collectiontf	-Infinity
+SemSearch_ES-139	bigram	steak house	collectiontf	-Infinity
+SemSearch_ES-140	unigram	toledo	collectiontf	9.147294070258548
+SemSearch_ES-140	unigram	bend	collectiontf	8.967376693212666
+SemSearch_ES-140	unigram	realty	collectiontf	6.428105272684596
+SemSearch_ES-140	bigram	toledo bend	collectiontf	-Infinity
+SemSearch_ES-140	bigram	bend realty	collectiontf	-Infinity
+SemSearch_ES-141	unigram	ventura	collectiontf	8.669914278433902
+SemSearch_ES-141	unigram	county	collectiontf	13.929931503680491
+SemSearch_ES-141	unigram	court	collectiontf	9.179674957665297
+SemSearch_ES-141	bigram	ventura county	collectiontf	6.841615476477592
+SemSearch_ES-141	bigram	county court	collectiontf	1.0986122886681098
+SemSearch_ES-142	unigram	windsor	collectiontf	9.234837843576571
+SemSearch_ES-142	unigram	hotel	collectiontf	8.46779284112111
+SemSearch_ES-142	unigram	philadelphia	collectiontf	10.9652802430657
+SemSearch_ES-142	bigram	windsor hotel	collectiontf	-Infinity
+SemSearch_ES-142	bigram	hotel philadelphia	collectiontf	-Infinity
+SemSearch_LS-1	unigram	apollo	collectiontf	7.0967213784947605
+SemSearch_LS-1	unigram	astronaut	collectiontf	6.434546518787453
+SemSearch_LS-1	unigram	walk	collectiontf	7.779466967458324
+SemSearch_LS-1	unigram	moon	collectiontf	9.508591395777199
+SemSearch_LS-1	bigram	apollo astronaut	collectiontf	-Infinity
+SemSearch_LS-1	bigram	astronaut walk	collectiontf	-Infinity
+SemSearch_LS-1	bigram	walk moon	collectiontf	-Infinity
+SemSearch_LS-2	unigram	arab	collectiontf	10.094273187742212
+SemSearch_LS-2	unigram	states	collectiontf	14.307209629843593
+SemSearch_LS-2	unigram	persian	collectiontf	8.173293438966228
+SemSearch_LS-2	unigram	gulf	collectiontf	8.893298144217916
+SemSearch_LS-2	bigram	arab states	collectiontf	4.59511985013459
+SemSearch_LS-2	bigram	states persian	collectiontf	3.295836866004329
+SemSearch_LS-2	bigram	persian gulf	collectiontf	7.106606137727303
+SemSearch_LS-3	unigram	astronaut	collectiontf	6.434546518787453
+SemSearch_LS-3	unigram	landed	collectiontf	4.3694478524670215
+SemSearch_LS-3	unigram	moon	collectiontf	9.508591395777199
+SemSearch_LS-3	bigram	astronaut landed	collectiontf	-Infinity
+SemSearch_LS-3	bigram	landed moon	collectiontf	-Infinity
+SemSearch_LS-4	unigram	axis	collectiontf	6.371611847231857
+SemSearch_LS-4	unigram	powers	collectiontf	7.741533589281828
+SemSearch_LS-4	unigram	world	collectiontf	12.197526228728332
+SemSearch_LS-4	unigram	war	collectiontf	11.821938408123838
+SemSearch_LS-4	unigram	ii	collectiontf	11.219828759816949
+SemSearch_LS-4	bigram	axis powers	collectiontf	4.418840607796598
+SemSearch_LS-4	bigram	powers world	collectiontf	0.6931471805599453
+SemSearch_LS-4	bigram	world war	collectiontf	10.662282014331929
+SemSearch_LS-4	bigram	war ii	collectiontf	10.05065677575275
+SemSearch_LS-5	unigram	books	collectiontf	10.15979505022877
+SemSearch_LS-5	unigram	jewish	collectiontf	8.24143968982973
+SemSearch_LS-5	unigram	canon	collectiontf	7.1569563646156364
+SemSearch_LS-5	bigram	books jewish	collectiontf	1.9459101490553132
+SemSearch_LS-5	bigram	jewish canon	collectiontf	-Infinity
+SemSearch_LS-6	unigram	borough	collectiontf	10.765617725450847
+SemSearch_LS-6	unigram	new	collectiontf	13.619945694418456
+SemSearch_LS-6	unigram	york	collectiontf	13.019060742855947
+SemSearch_LS-6	unigram	city	collectiontf	14.618563160431117
+SemSearch_LS-6	bigram	borough new	collectiontf	6.773080375655535
+SemSearch_LS-6	bigram	new york	collectiontf	12.959425536646071
+SemSearch_LS-6	bigram	york city	collectiontf	11.541872429591866
+SemSearch_LS-7	unigram	branch	collectiontf	10.348045160450388
+SemSearch_LS-7	unigram	us	collectiontf	10.894421827406049
+SemSearch_LS-7	unigram	military	collectiontf	10.561396081003364
+SemSearch_LS-7	bigram	branch us	collectiontf	2.4849066497880004
+SemSearch_LS-7	bigram	us military	collectiontf	2.0794415416798357
+SemSearch_LS-8	unigram	continent	collectiontf	8.74321260347591
+SemSearch_LS-8	unigram	world	collectiontf	12.197526228728332
+SemSearch_LS-8	bigram	continent world	collectiontf	1.6094379124341003
+SemSearch_LS-9	unigram	degree	collectiontf	6.76849321164863
+SemSearch_LS-9	unigram	eastern	collectiontf	11.618995728697294
+SemSearch_LS-9	unigram	orthodox	collectiontf	8.941414628006845
+SemSearch_LS-9	unigram	monasticism	collectiontf	4.204692619390966
+SemSearch_LS-9	bigram	degree eastern	collectiontf	-Infinity
+SemSearch_LS-9	bigram	eastern orthodox	collectiontf	7.8434564043761155
+SemSearch_LS-9	bigram	orthodox monasticism	collectiontf	-Infinity
+SemSearch_LS-10	unigram	nicole	collectiontf	9.020147920801659
+SemSearch_LS-10	unigram	kidman	collectiontf	6.480044561926653
+SemSearch_LS-10	unigram	sibling	collectiontf	4.07753744390572
+SemSearch_LS-10	bigram	nicole kidman	collectiontf	4.61512051684126
+SemSearch_LS-10	bigram	kidman sibling	collectiontf	-Infinity
+SemSearch_LS-11	unigram	diocese	collectiontf	8.554874258383926
+SemSearch_LS-11	unigram	church	collectiontf	11.058889668606032
+SemSearch_LS-11	unigram	ireland	collectiontf	12.365419800264249
+SemSearch_LS-11	bigram	diocese church	collectiontf	4.127134385045092
+SemSearch_LS-11	bigram	church ireland	collectiontf	6.424869023905388
+SemSearch_LS-12	unigram	first	collectiontf	10.915288444217275
+SemSearch_LS-12	unigram	target	collectiontf	6.405228458030842
+SemSearch_LS-12	unigram	atomic	collectiontf	7.313886831633462
+SemSearch_LS-12	unigram	bomb	collectiontf	7.766840537085513
+SemSearch_LS-12	bigram	first target	collectiontf	1.791759469228055
+SemSearch_LS-12	bigram	target atomic	collectiontf	-Infinity
+SemSearch_LS-12	bigram	atomic bomb	collectiontf	5.0238805208462765
+SemSearch_LS-13	unigram	five	collectiontf	9.160204302482386
+SemSearch_LS-13	unigram	great	collectiontf	11.752658644284848
+SemSearch_LS-13	unigram	epic	collectiontf	9.009691898489343
+SemSearch_LS-13	unigram	tamil	collectiontf	10.120170277588102
+SemSearch_LS-13	unigram	literature	collectiontf	9.640498092674719
+SemSearch_LS-13	bigram	five great	collectiontf	1.791759469228055
+SemSearch_LS-13	bigram	great epic	collectiontf	-Infinity
+SemSearch_LS-13	bigram	epic tamil	collectiontf	-Infinity
+SemSearch_LS-13	bigram	tamil literature	collectiontf	2.995732273553991
+SemSearch_LS-14	unigram	gods	collectiontf	7.368339686311381
+SemSearch_LS-14	unigram	dwelt	collectiontf	-Infinity
+SemSearch_LS-14	unigram	mount	collectiontf	9.736547097780475
+SemSearch_LS-14	unigram	olympus	collectiontf	4.709530201312334
+SemSearch_LS-14	bigram	gods dwelt	collectiontf	-Infinity
+SemSearch_LS-14	bigram	dwelt mount	collectiontf	-Infinity
+SemSearch_LS-14	bigram	mount olympus	collectiontf	3.6375861597263857
+SemSearch_LS-16	unigram	hijack	collectiontf	4.189654742026425
+SemSearch_LS-16	unigram	september	collectiontf	7.05444965813294
+SemSearch_LS-16	unigram	11	collectiontf	8.312135107648412
+SemSearch_LS-16	unigram	attack	collectiontf	7.895436006942965
+SemSearch_LS-16	bigram	hijack september	collectiontf	-Infinity
+SemSearch_LS-16	bigram	september 11	collectiontf	4.543294782270004
+SemSearch_LS-16	bigram	11 attack	collectiontf	4.465908118654584
+SemSearch_LS-17	unigram	house	collectiontf	10.884273054590794
+SemSearch_LS-17	unigram	russia	collectiontf	11.41132453985355
+SemSearch_LS-17	unigram	parliament	collectiontf	9.338029733117072
+SemSearch_LS-17	bigram	house russia	collectiontf	2.1972245773362196
+SemSearch_LS-17	bigram	russia parliament	collectiontf	-Infinity
+SemSearch_LS-18	unigram	john	collectiontf	13.123904189743088
+SemSearch_LS-18	unigram	lennon	collectiontf	9.159468041602427
+SemSearch_LS-18	unigram	parent	collectiontf	6.284134161070802
+SemSearch_LS-18	bigram	john lennon	collectiontf	8.149890544402423
+SemSearch_LS-18	bigram	lennon parent	collectiontf	-Infinity
+SemSearch_LS-19	unigram	kenya	collectiontf	10.269241160408065
+SemSearch_LS-19	unigram	captain	collectiontf	8.828494129466652
+SemSearch_LS-19	unigram	cricket	collectiontf	10.673711508275499
+SemSearch_LS-19	bigram	kenya captain	collectiontf	-Infinity
+SemSearch_LS-19	bigram	captain cricket	collectiontf	3.784189633918261
+SemSearch_LS-20	unigram	kublai	collectiontf	4.418840607796598
+SemSearch_LS-20	unigram	khan	collectiontf	10.10242037513528
+SemSearch_LS-20	unigram	sibling	collectiontf	4.07753744390572
+SemSearch_LS-20	bigram	kublai khan	collectiontf	3.7612001156935624
+SemSearch_LS-20	bigram	khan sibling	collectiontf	-Infinity
+SemSearch_LS-21	unigram	lil	collectiontf	9.121946221213587
+SemSearch_LS-21	unigram	allen	collectiontf	10.85263262128123
+SemSearch_LS-21	unigram	parent	collectiontf	6.284134161070802
+SemSearch_LS-21	bigram	lil allen	collectiontf	-Infinity
+SemSearch_LS-21	bigram	allen parent	collectiontf	-Infinity
+SemSearch_LS-22	unigram	major	collectiontf	9.495068084601527
+SemSearch_LS-22	unigram	league	collectiontf	11.858003423063298
+SemSearch_LS-22	unigram	united	collectiontf	14.5437376789604
+SemSearch_LS-22	unigram	states	collectiontf	14.307209629843593
+SemSearch_LS-22	bigram	major league	collectiontf	8.689632748355741
+SemSearch_LS-22	bigram	league united	collectiontf	7.085901464365611
+SemSearch_LS-22	bigram	united states	collectiontf	14.206640067305072
+SemSearch_LS-24	unigram	matt	collectiontf	10.734024298391375
+SemSearch_LS-24	unigram	berry	collectiontf	9.338117741918008
+SemSearch_LS-24	unigram	tv	collectiontf	10.26074232833987
+SemSearch_LS-24	unigram	series	collectiontf	10.779976602527347
+SemSearch_LS-24	bigram	matt berry	collectiontf	4.852030263919617
+SemSearch_LS-24	bigram	berry tv	collectiontf	-Infinity
+SemSearch_LS-24	bigram	tv series	collectiontf	8.797548488481558
+SemSearch_LS-25	unigram	member	collectiontf	10.522988192927775
+SemSearch_LS-25	unigram	u2	collectiontf	7.395721608602045
+SemSearch_LS-25	bigram	member u2	collectiontf	-Infinity
+SemSearch_LS-26	unigram	movies	collectiontf	6.8679744089702925
+SemSearch_LS-26	unigram	star	collectiontf	12.420752480432188
+SemSearch_LS-26	unigram	erykah	collectiontf	6.440946540632921
+SemSearch_LS-26	unigram	badu	collectiontf	6.461468176353717
+SemSearch_LS-26	bigram	movies star	collectiontf	3.332204510175204
+SemSearch_LS-26	bigram	star erykah	collectiontf	0.6931471805599453
+SemSearch_LS-26	bigram	erykah badu	collectiontf	6.440946540632921
+SemSearch_LS-29	unigram	nation	collectiontf	9.68694715235549
+SemSearch_LS-29	unigram	portugal	collectiontf	10.84778248081988
+SemSearch_LS-29	unigram	official	collectiontf	10.011669085380657
+SemSearch_LS-29	unigram	language	collectiontf	12.34816231143625
+SemSearch_LS-29	bigram	nation portugal	collectiontf	1.0986122886681098
+SemSearch_LS-29	bigram	portugal official	collectiontf	-Infinity
+SemSearch_LS-29	bigram	official language	collectiontf	2.772588722239781
+SemSearch_LS-30	unigram	orders	collectiontf	7.745435610274381
+SemSearch_LS-30	unigram	choir	collectiontf	7.087573705557973
+SemSearch_LS-30	unigram	angel	collectiontf	10.494214335496604
+SemSearch_LS-30	bigram	orders choir	collectiontf	-Infinity
+SemSearch_LS-30	bigram	choir angel	collectiontf	-Infinity
+SemSearch_LS-31	unigram	permanent	collectiontf	6.946975992135418
+SemSearch_LS-31	unigram	member	collectiontf	10.522988192927775
+SemSearch_LS-31	unigram	un	collectiontf	7.407924322559599
+SemSearch_LS-31	unigram	security	collectiontf	8.131824785007195
+SemSearch_LS-31	unigram	council	collectiontf	9.81694879111889
+SemSearch_LS-31	bigram	permanent member	collectiontf	-Infinity
+SemSearch_LS-31	bigram	member un	collectiontf	-Infinity
+SemSearch_LS-31	bigram	un security	collectiontf	-Infinity
+SemSearch_LS-31	bigram	security council	collectiontf	5.924255797414532
+SemSearch_LS-32	unigram	president	collectiontf	10.678007325311796
+SemSearch_LS-32	unigram	depict	collectiontf	4.955827057601261
+SemSearch_LS-32	unigram	mount	collectiontf	9.736547097780475
+SemSearch_LS-32	unigram	rushmore	collectiontf	7.423568444259167
+SemSearch_LS-32	unigram	die	collectiontf	10.823730464248712
+SemSearch_LS-32	unigram	shoot	collectiontf	9.072456664612796
+SemSearch_LS-32	bigram	president depict	collectiontf	-Infinity
+SemSearch_LS-32	bigram	depict mount	collectiontf	-Infinity
+SemSearch_LS-32	bigram	mount rushmore	collectiontf	7.388327859577107
+SemSearch_LS-32	bigram	rushmore die	collectiontf	-Infinity
+SemSearch_LS-32	bigram	die shoot	collectiontf	-Infinity
+SemSearch_LS-33	unigram	provinces	collectiontf	10.722275703049045
+SemSearch_LS-33	unigram	territory	collectiontf	10.3469546827773
+SemSearch_LS-33	unigram	canada	collectiontf	12.751360563726237
+SemSearch_LS-33	bigram	provinces territory	collectiontf	8.035278911144667
+SemSearch_LS-33	bigram	territory canada	collectiontf	8.160518247477505
+SemSearch_LS-34	unigram	ratt	collectiontf	6.270988431858299
+SemSearch_LS-34	unigram	album	collectiontf	12.513377181990881
+SemSearch_LS-34	bigram	ratt album	collectiontf	2.772588722239781
+SemSearch_LS-35	unigram	republic	collectiontf	13.615336183758792
+SemSearch_LS-35	unigram	former	collectiontf	10.211339831777291
+SemSearch_LS-35	unigram	yugoslavia	collectiontf	10.634821257814647
+SemSearch_LS-35	bigram	republic former	collectiontf	4.997212273764115
+SemSearch_LS-35	bigram	former yugoslavia	collectiontf	4.394449154672439
+SemSearch_LS-36	unigram	revolutionary	collectiontf	8.386400901166214
+SemSearch_LS-36	unigram	1959	collectiontf	7.880804344674901
+SemSearch_LS-36	unigram	cuba	collectiontf	9.561701221091147
+SemSearch_LS-36	bigram	revolutionary 1959	collectiontf	-Infinity
+SemSearch_LS-36	bigram	1959 cuba	collectiontf	-Infinity
+SemSearch_LS-37	unigram	standard	collectiontf	11.172643982375057
+SemSearch_LS-37	unigram	axiom	collectiontf	4.948759890378168
+SemSearch_LS-37	unigram	set	collectiontf	8.81744592104187
+SemSearch_LS-37	unigram	theory	collectiontf	8.471149252914831
+SemSearch_LS-37	bigram	standard axiom	collectiontf	-Infinity
+SemSearch_LS-37	bigram	axiom set	collectiontf	1.6094379124341003
+SemSearch_LS-37	bigram	set theory	collectiontf	4.584967478670572
+SemSearch_LS-38	unigram	states	collectiontf	14.307209629843593
+SemSearch_LS-38	unigram	border	collectiontf	8.921457578947884
+SemSearch_LS-38	unigram	oklahoma	collectiontf	10.818056803511944
+SemSearch_LS-38	bigram	states border	collectiontf	5.288267030694535
+SemSearch_LS-38	bigram	border oklahoma	collectiontf	-Infinity
+SemSearch_LS-39	unigram	ten	collectiontf	8.661639795781266
+SemSearch_LS-39	unigram	ancient	collectiontf	9.249080200292113
+SemSearch_LS-39	unigram	greece	collectiontf	10.769684270598214
+SemSearch_LS-39	unigram	city	collectiontf	14.618563160431117
+SemSearch_LS-39	unigram	kingdom	collectiontf	12.922377114331551
+SemSearch_LS-39	unigram	cyprus	collectiontf	9.298168082341704
+SemSearch_LS-39	bigram	ten ancient	collectiontf	-Infinity
+SemSearch_LS-39	bigram	ancient greece	collectiontf	7.6255950721324535
+SemSearch_LS-39	bigram	greece city	collectiontf	5.521460917862246
+SemSearch_LS-39	bigram	city kingdom	collectiontf	3.4657359027997265
+SemSearch_LS-39	bigram	kingdom cyprus	collectiontf	4.07753744390572
+SemSearch_LS-40	unigram	first	collectiontf	10.915288444217275
+SemSearch_LS-40	unigram	13	collectiontf	7.683403681053826
+SemSearch_LS-40	unigram	america	collectiontf	13.455079999095538
+SemSearch_LS-40	unigram	states	collectiontf	14.307209629843593
+SemSearch_LS-40	bigram	first 13	collectiontf	-Infinity
+SemSearch_LS-40	bigram	13 america	collectiontf	2.3978952727983707
+SemSearch_LS-40	bigram	america states	collectiontf	3.871201010907891
+SemSearch_LS-41	unigram	four	collectiontf	8.55429627936774
+SemSearch_LS-41	unigram	companion	collectiontf	5.231108616854587
+SemSearch_LS-41	unigram	prophet	collectiontf	6.023447592961033
+SemSearch_LS-41	bigram	four companion	collectiontf	-Infinity
+SemSearch_LS-41	bigram	companion prophet	collectiontf	-Infinity
+SemSearch_LS-42	unigram	twelve	collectiontf	7.048386408721883
+SemSearch_LS-42	unigram	tribe	collectiontf	8.923324744067562
+SemSearch_LS-42	unigram	son	collectiontf	9.105202053852878
+SemSearch_LS-42	unigram	israel	collectiontf	10.505505799684972
+SemSearch_LS-42	bigram	twelve tribe	collectiontf	3.5553480614894135
+SemSearch_LS-42	bigram	tribe son	collectiontf	-Infinity
+SemSearch_LS-42	bigram	son israel	collectiontf	1.3862943611198906
+SemSearch_LS-43	unigram	books	collectiontf	10.15979505022877
+SemSearch_LS-43	unigram	paul	collectiontf	12.081353737222678
+SemSearch_LS-43	unigram	tarsus	collectiontf	5.493061443340548
+SemSearch_LS-43	unigram	write	collectiontf	6.437751649736401
+SemSearch_LS-43	bigram	books paul	collectiontf	2.1972245773362196
+SemSearch_LS-43	bigram	paul tarsus	collectiontf	3.6109179126442243
+SemSearch_LS-43	bigram	tarsus write	collectiontf	-Infinity
+SemSearch_LS-44	unigram	language	collectiontf	12.34816231143625
+SemSearch_LS-44	unigram	speak	collectiontf	7.711548979629146
+SemSearch_LS-44	unigram	afghanistan	collectiontf	9.687940077843546
+SemSearch_LS-44	bigram	language speak	collectiontf	0.6931471805599453
+SemSearch_LS-44	bigram	speak afghanistan	collectiontf	-Infinity
+SemSearch_LS-46	unigram	britain	collectiontf	12.181877284289856
+SemSearch_LS-46	unigram	monarch	collectiontf	8.592300663903043
+SemSearch_LS-46	unigram	head	collectiontf	9.628787514307517
+SemSearch_LS-46	unigram	state	collectiontf	14.145744088551588
+SemSearch_LS-46	bigram	britain monarch	collectiontf	4.852030263919617
+SemSearch_LS-46	bigram	monarch head	collectiontf	3.871201010907891
+SemSearch_LS-46	bigram	head state	collectiontf	8.066207568006265
+SemSearch_LS-49	unigram	invent	collectiontf	3.4657359027997265
+SemSearch_LS-49	unigram	python	collectiontf	6.966024187106113
+SemSearch_LS-49	unigram	program	collectiontf	8.916103530553727
+SemSearch_LS-49	unigram	language	collectiontf	12.34816231143625
+SemSearch_LS-49	bigram	invent python	collectiontf	-Infinity
+SemSearch_LS-49	bigram	python program	collectiontf	4.219507705176107
+SemSearch_LS-49	bigram	program language	collectiontf	7.497207223203318
+SemSearch_LS-50	unigram	wonders	collectiontf	5.908082938168931
+SemSearch_LS-50	unigram	ancient	collectiontf	9.249080200292113
+SemSearch_LS-50	unigram	world	collectiontf	12.197526228728332
+SemSearch_LS-50	bigram	wonders ancient	collectiontf	-Infinity
+SemSearch_LS-50	bigram	ancient world	collectiontf	-Infinity
+TREC_Entity-1	unigram	carrier	collectiontf	7.167809184316444
+TREC_Entity-1	unigram	blackberry	collectiontf	4.983606621708336
+TREC_Entity-1	unigram	make	collectiontf	8.159374736775426
+TREC_Entity-1	unigram	phone	collectiontf	7.3537223303996315
+TREC_Entity-1	bigram	carrier blackberry	collectiontf	-Infinity
+TREC_Entity-1	bigram	blackberry make	collectiontf	-Infinity
+TREC_Entity-1	bigram	make phone	collectiontf	-Infinity
+TREC_Entity-2	unigram	winner	collectiontf	8.432506383249043
+TREC_Entity-2	unigram	acm	collectiontf	6.082218910376446
+TREC_Entity-2	unigram	athena	collectiontf	6.63200177739563
+TREC_Entity-2	unigram	award	collectiontf	10.914942999089615
+TREC_Entity-2	bigram	winner acm	collectiontf	-Infinity
+TREC_Entity-2	bigram	acm athena	collectiontf	-Infinity
+TREC_Entity-2	bigram	athena award	collectiontf	-Infinity
+TREC_Entity-4	unigram	professional	collectiontf	9.932317934204004
+TREC_Entity-4	unigram	sports	collectiontf	11.437889369935991
+TREC_Entity-4	unigram	team	collectiontf	12.921732014501975
+TREC_Entity-4	unigram	philadelphia	collectiontf	10.9652802430657
+TREC_Entity-4	bigram	professional sports	collectiontf	6.148468295917647
+TREC_Entity-4	bigram	sports team	collectiontf	8.843182098022606
+TREC_Entity-4	bigram	team philadelphia	collectiontf	7.005789019253503
+TREC_Entity-5	unigram	product	collectiontf	9.747067633264827
+TREC_Entity-5	unigram	medimmune	collectiontf	-Infinity
+TREC_Entity-5	unigram	inc	collectiontf	11.72791586952805
+TREC_Entity-5	bigram	product medimmune	collectiontf	-Infinity
+TREC_Entity-5	bigram	medimmune inc	collectiontf	-Infinity
+TREC_Entity-6	unigram	organization	collectiontf	10.00960278332483
+TREC_Entity-6	unigram	award	collectiontf	10.914942999089615
+TREC_Entity-6	unigram	nobel	collectiontf	7.706162970199576
+TREC_Entity-6	unigram	prize	collectiontf	8.74909824839902
+TREC_Entity-6	bigram	organization award	collectiontf	1.0986122886681098
+TREC_Entity-6	bigram	award nobel	collectiontf	4.7535901911063645
+TREC_Entity-6	bigram	nobel prize	collectiontf	7.4570320891223805
+TREC_Entity-7	unigram	airline	collectiontf	8.465899897028686
+TREC_Entity-7	unigram	current	collectiontf	9.776506090775339
+TREC_Entity-7	unigram	use	collectiontf	9.00146947994869
+TREC_Entity-7	unigram	boeing	collectiontf	6.645090969505644
+TREC_Entity-7	unigram	747	collectiontf	7.233455418621439
+TREC_Entity-7	unigram	plane	collectiontf	7.037905963447182
+TREC_Entity-7	bigram	airline current	collectiontf	-Infinity
+TREC_Entity-7	bigram	current use	collectiontf	0.6931471805599453
+TREC_Entity-7	bigram	use boeing	collectiontf	-Infinity
+TREC_Entity-7	bigram	boeing 747	collectiontf	2.6390573296152584
+TREC_Entity-7	bigram	747 plane	collectiontf	-Infinity
+TREC_Entity-9	unigram	member	collectiontf	10.522988192927775
+TREC_Entity-9	unigram	beaux	collectiontf	6.251903883165888
+TREC_Entity-9	unigram	arts	collectiontf	9.862248804519531
+TREC_Entity-9	unigram	trio	collectiontf	7.565793282428515
+TREC_Entity-9	bigram	member beaux	collectiontf	-Infinity
+TREC_Entity-9	bigram	beaux arts	collectiontf	6.251903883165888
+TREC_Entity-9	bigram	arts trio	collectiontf	-Infinity
+TREC_Entity-10	unigram	campus	collectiontf	7.377133712833954
+TREC_Entity-10	unigram	indiana	collectiontf	11.528247481068012
+TREC_Entity-10	unigram	university	collectiontf	12.834814629397782
+TREC_Entity-10	bigram	campus indiana	collectiontf	-Infinity
+TREC_Entity-10	bigram	indiana university	collectiontf	7.701652362642226
+TREC_Entity-11	unigram	donor	collectiontf	2.995732273553991
+TREC_Entity-11	unigram	home	collectiontf	10.372553242053888
+TREC_Entity-11	unigram	depot	collectiontf	7.1316985104669115
+TREC_Entity-11	unigram	foundation	collectiontf	9.01042494678118
+TREC_Entity-11	bigram	donor home	collectiontf	-Infinity
+TREC_Entity-11	bigram	home depot	collectiontf	6.825460036255307
+TREC_Entity-11	bigram	depot foundation	collectiontf	-Infinity
+TREC_Entity-12	unigram	airline	collectiontf	8.465899897028686
+TREC_Entity-12	unigram	air	collectiontf	10.8568428285471
+TREC_Entity-12	unigram	canada	collectiontf	12.751360563726237
+TREC_Entity-12	unigram	code	collectiontf	11.104295353518907
+TREC_Entity-12	unigram	share	collectiontf	6.2285110035911835
+TREC_Entity-12	unigram	flight	collectiontf	8.017637159908478
+TREC_Entity-12	bigram	airline air	collectiontf	0.6931471805599453
+TREC_Entity-12	bigram	air canada	collectiontf	4.219507705176107
+TREC_Entity-12	bigram	canada code	collectiontf	-Infinity
+TREC_Entity-12	bigram	code share	collectiontf	-Infinity
+TREC_Entity-12	bigram	share flight	collectiontf	-Infinity
+TREC_Entity-14	unigram	author	collectiontf	10.61024173650229
+TREC_Entity-14	unigram	award	collectiontf	10.914942999089615
+TREC_Entity-14	unigram	anthony	collectiontf	11.366279884628744
+TREC_Entity-14	unigram	award	collectiontf	10.914942999089615
+TREC_Entity-14	unigram	bouchercon	collectiontf	-Infinity
+TREC_Entity-14	unigram	2007	collectiontf	9.139488631004232
+TREC_Entity-14	bigram	author award	collectiontf	0.6931471805599453
+TREC_Entity-14	bigram	award anthony	collectiontf	1.791759469228055
+TREC_Entity-14	bigram	anthony award	collectiontf	1.6094379124341003
+TREC_Entity-14	bigram	award bouchercon	collectiontf	-Infinity
+TREC_Entity-14	bigram	bouchercon 2007	collectiontf	-Infinity
+TREC_Entity-15	unigram	university	collectiontf	12.834814629397782
+TREC_Entity-15	unigram	member	collectiontf	10.522988192927775
+TREC_Entity-15	unigram	sec	collectiontf	6.56244409369372
+TREC_Entity-15	unigram	conference	collectiontf	9.761578306353435
+TREC_Entity-15	unigram	football	collectiontf	14.018406502993837
+TREC_Entity-15	bigram	university member	collectiontf	3.4965075614664802
+TREC_Entity-15	bigram	member sec	collectiontf	-Infinity
+TREC_Entity-15	bigram	sec conference	collectiontf	-Infinity
+TREC_Entity-15	bigram	conference football	collectiontf	6.616065185132817
+TREC_Entity-16	unigram	sponsor	collectiontf	5.003946305945459
+TREC_Entity-16	unigram	mancuso	collectiontf	6.807934943699926
+TREC_Entity-16	unigram	quilt	collectiontf	4.454347296253507
+TREC_Entity-16	unigram	festival	collectiontf	9.836439217783001
+TREC_Entity-16	bigram	sponsor mancuso	collectiontf	-Infinity
+TREC_Entity-16	bigram	mancuso quilt	collectiontf	-Infinity
+TREC_Entity-16	bigram	quilt festival	collectiontf	-Infinity
+TREC_Entity-17	unigram	chef	collectiontf	6.486160788944089
+TREC_Entity-17	unigram	show	collectiontf	9.860632242229698
+TREC_Entity-17	unigram	food	collectiontf	8.680331928793418
+TREC_Entity-17	unigram	network	collectiontf	10.963757408916045
+TREC_Entity-17	bigram	chef show	collectiontf	-Infinity
+TREC_Entity-17	bigram	show food	collectiontf	2.4849066497880004
+TREC_Entity-17	bigram	food network	collectiontf	6.075346031088684
+TREC_Entity-18	unigram	member	collectiontf	10.522988192927775
+TREC_Entity-18	unigram	band	collectiontf	11.565252225147995
+TREC_Entity-18	unigram	jefferson	collectiontf	10.717612659648976
+TREC_Entity-18	unigram	airplane	collectiontf	6.7650389767805414
+TREC_Entity-18	bigram	member band	collectiontf	2.6390573296152584
+TREC_Entity-18	bigram	band jefferson	collectiontf	3.044522437723423
+TREC_Entity-18	bigram	jefferson airplane	collectiontf	6.244166900663736
+TREC_Entity-19	unigram	company	collectiontf	11.908905733867178
+TREC_Entity-19	unigram	john	collectiontf	13.123904189743088
+TREC_Entity-19	unigram	hennessey	collectiontf	5.288267030694535
+TREC_Entity-19	unigram	serve	collectiontf	5.14166355650266
+TREC_Entity-19	unigram	board	collectiontf	8.502891406705377
+TREC_Entity-19	bigram	company john	collectiontf	6.0867747269123065
+TREC_Entity-19	bigram	john hennessey	collectiontf	-Infinity
+TREC_Entity-19	bigram	hennessey serve	collectiontf	-Infinity
+TREC_Entity-19	bigram	serve board	collectiontf	-Infinity
+TREC_Entity-20	unigram	scotch	collectiontf	5.697093486505405
+TREC_Entity-20	unigram	whisky	collectiontf	5.480638923341991
+TREC_Entity-20	unigram	distillery	collectiontf	6.78105762593618
+TREC_Entity-20	unigram	island	collectiontf	11.377769896943771
+TREC_Entity-20	unigram	islay	collectiontf	5.056245805348308
+TREC_Entity-20	bigram	scotch whisky	collectiontf	3.58351893845611
+TREC_Entity-20	bigram	whisky distillery	collectiontf	-Infinity
+TREC_Entity-20	bigram	distillery island	collectiontf	-Infinity
+TREC_Entity-20	bigram	island islay	collectiontf	-Infinity

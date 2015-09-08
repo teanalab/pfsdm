@@ -2,6 +2,7 @@
   "traversals" : [
     {"name" : "nzhiltsov.fsdm.MLMTraversal", "order" : "before"},
     {"name" : "nzhiltsov.fsdm.FieldedSequentialDependenceTraversal", "order" : "before"},
-    {"name" : "edu.wayne.pfsdm.ParametrizedFSDMTraversal", "order" : "before"}
+    {"name" : "edu.wayne.pfsdm.ParametrizedFSDMTraversal", "order" : "before"},
+    {"name" : "edu.wayne.pfsdm.WPFSDMTraversal", "order" : "before"}
   ]
 }

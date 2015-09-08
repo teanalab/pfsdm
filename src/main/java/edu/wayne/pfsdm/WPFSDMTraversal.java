@@ -38,6 +38,15 @@ public class WPFSDMTraversal extends ParametrizedFSDMTraversal {
 
     }
 
+    @Override
+    public Node afterNode(Node original, Parameters qp) throws Exception {
+        if (original.getOperator().equals("wpfsdm")) {
+            return buildSDMNode(original, qp);
+        } else {
+            return original;
+        }
+    }
+
     private double getImportanceFeatureWeight(String depType, String featureName, Parameters queryParameters) {
         String paramName = depType + featureName;
         if (importanceFeatureWeights != null && importanceFeatureWeights.containsKey(paramName)) {
