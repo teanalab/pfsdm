@@ -1,0 +1,12 @@
+{
+    "requested" : 100,
+    "traversals" : [
+        {"name" : "nzhiltsov.fsdm.MLMTraversal", "order" : "before"},
+        {"name" : "nzhiltsov.fsdm.FieldedSequentialDependenceTraversal", "order" : "before"},
+        {"name" : "edu.wayne.pfsdm.ParametrizedFSDMTraversal", "order" : "before"},
+        {"name" : "edu.wayne.pfsdm.WPFSDMTraversal", "order" : "before"}
+    ],
+    "fields" : [ "names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames"],
+    "fieldFeatures" : [ "baselinetopscore" , "fieldlikelihood" , "bigramcfratio" , "/nnp" , "/nns" , "/np-exact" , "/np-part" , "/nn-only", "/nns-only", "/question-dep" ],
+    "importanceFeatures" : [ "collectiontf", "wiki-word-count" ]
+}
