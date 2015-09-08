@@ -1,0 +1,16 @@
+{
+    "featuresScaling" : [
+        { "name" : "baselinetopscore", "min" : -20.5986, "max" : -1.2121 },
+        { "name" : "fieldlikelihood", "min" :  -28.7532, "max" : -16.7445 },
+        { "name" : "bigramcfratio", "min" : -24.8767, "max" : -3.1781},
+        { "name" : "/nnp" },
+        { "name" : "/nns" },
+        { "name" : "/np-exact" },
+        { "name" : "/np-part" },
+        { "name" : "/nn-only" },
+        { "name" : "/nns-only" },
+        { "name" : "/question-dep" },
+        { "name" : "/wiki-word-count", "min" : 0, "max" : 9464468},
+        { "name" : "collectiontf", "min" : 0, "max" : 14.6186},
+    ]
+}

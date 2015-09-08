@@ -1,0 +1,451 @@
+{
+"queries" : [
+{
+"number": "QALD2_te-2",
+"text": "#pfsdm(successor john f kennedy)"
+},
+{
+"number": "QALD2_tr-28",
+"text": "#pfsdm(europe country constitutional monarchy)"
+},
+{
+"number": "QALD2_te-59",
+"text": "#pfsdm(us states timezone utah)"
+},
+{
+"number": "QALD2_te-6",
+"text": "#pfsdm(give professional skateboard sweden)"
+},
+{
+"number": "QALD2_tr-65",
+"text": "#pfsdm(company work aerospace industry nuclear reactor technology)"
+},
+{
+"number": "QALD2_te-46",
+"text": "#pfsdm(professional surfer born philippines)"
+},
+{
+"number": "QALD2_te-25",
+"text": "#pfsdm(us state admitted latest)"
+},
+{
+"number": "QALD2_tr-63",
+"text": "#pfsdm(give actor star batman begin)"
+},
+{
+"number": "QALD2_tr-92",
+"text": "#pfsdm(highest mountain)"
+},
+{
+"number": "QALD2_tr-6",
+"text": "#pfsdm(abraham lincoln die)"
+},
+{
+"number": "QALD2_tr-41",
+"text": "#pfsdm(give soccer club spain)"
+},
+{
+"number": "QALD2_te-76",
+"text": "#pfsdm(list children margaret thatch)"
+},
+{
+"number": "QALD2_tr-22",
+"text": "#pfsdm(country limerick lake)"
+},
+{
+"number": "QALD2_tr-44",
+"text": "#pfsdm(design brooklyn bridge)"
+},
+{
+"number": "QALD2_tr-29",
+"text": "#pfsdm(award wikileak win)"
+},
+{
+"number": "QALD2_tr-68",
+"text": "#pfsdm(actor born germany)"
+},
+{
+"number": "QALD2_te-72",
+"text": "#pfsdm(us state area 51 located)"
+},
+{
+"number": "QALD2_te-57",
+"text": "#pfsdm(give apollo 14 astronaut)"
+},
+{
+"number": "QALD2_tr-80",
+"text": "#pfsdm(give canada grunge record label)"
+},
+{
+"number": "QALD2_tr-13",
+"text": "#pfsdm(classi millepede belong)"
+},
+{
+"number": "QALD2_te-33",
+"text": "#pfsdm(give australia nonprofit organization)"
+},
+{
+"number": "QALD2_tr-84",
+"text": "#pfsdm(give movies tom cruise)"
+},
+{
+"number": "QALD2_tr-8",
+"text": "#pfsdm(states germany govern social democratic party)"
+},
+{
+"number": "QALD2_te-28",
+"text": "#pfsdm(give movies direct francis ford coppola)"
+},
+{
+"number": "QALD2_tr-35",
+"text": "#pfsdm(owner universal studio)"
+},
+{
+"number": "QALD2_tr-21",
+"text": "#pfsdm(states border illinois)"
+},
+{
+"number": "QALD2_tr-31",
+"text": "#pfsdm(currency czech republic)"
+},
+{
+"number": "QALD2_tr-74",
+"text": "#pfsdm(capitals europe host city summer olympic games)"
+},
+{
+"number": "QALD2_te-53",
+"text": "#pfsdm(ruling party lisbon)"
+},
+{
+"number": "QALD2_tr-83",
+"text": "#pfsdm(produce film star natalie portman)"
+},
+{
+"number": "QALD2_te-84",
+"text": "#pfsdm(create comic captain america)"
+},
+{
+"number": "QALD2_tr-62",
+"text": "#pfsdm(create wikipedia)"
+},
+{
+"number": "QALD2_te-13",
+"text": "#pfsdm(youngest player premier league)"
+},
+{
+"number": "QALD2_te-15",
+"text": "#pfsdm(longest river)"
+},
+{
+"number": "QALD2_tr-4",
+"text": "#pfsdm(river brooklyn bridge cross)"
+},
+{
+"number": "QALD2_tr-82",
+"text": "#pfsdm(program language gimp written)"
+},
+{
+"number": "QALD2_tr-32",
+"text": "#pfsdm(country europe union adopt euro)"
+},
+{
+"number": "QALD2_tr-72",
+"text": "#pfsdm(language spoken estonia)"
+},
+{
+"number": "QALD2_tr-77",
+"text": "#pfsdm(music album contain song christmas)"
+},
+{
+"number": "QALD2_tr-40",
+"text": "#pfsdm(highest mountain australia)"
+},
+{
+"number": "QALD2_te-5",
+"text": "#pfsdm(second highest mountain earth)"
+},
+{
+"number": "QALD2_tr-11",
+"text": "#pfsdm(country place two cave)"
+},
+{
+"number": "QALD2_tr-9",
+"text": "#pfsdm(us states possess gold mineral)"
+},
+{
+"number": "QALD2_te-22",
+"text": "#pfsdm(governor texas)"
+},
+{
+"number": "QALD2_te-3",
+"text": "#pfsdm(mayor berlin)"
+},
+{
+"number": "QALD2_te-66",
+"text": "#pfsdm(ship call benjamin franklin)"
+},
+{
+"number": "QALD2_tr-38",
+"text": "#pfsdm(monarch united kingdom married germany)"
+},
+{
+"number": "QALD2_tr-42",
+"text": "#pfsdm(official language philippines)"
+},
+{
+"number": "QALD2_tr-59",
+"text": "#pfsdm(give people first name jimmy)"
+},
+{
+"number": "QALD2_te-65",
+"text": "#pfsdm(instrument john lennon play)"
+},
+{
+"number": "QALD2_tr-61",
+"text": "#pfsdm(mountain higher nanga parbat)"
+},
+{
+"number": "QALD2_te-100",
+"text": "#pfsdm(produce orangina)"
+},
+{
+"number": "QALD2_tr-10",
+"text": "#pfsdm(country nile start)"
+},
+{
+"number": "QALD2_tr-51",
+"text": "#pfsdm(give school type)"
+},
+{
+"number": "QALD2_tr-58",
+"text": "#pfsdm(produce film)"
+},
+{
+"number": "QALD2_tr-81",
+"text": "#pfsdm(country official language)"
+},
+{
+"number": "QALD2_tr-26",
+"text": "#pfsdm(bridge type manhattan bridge)"
+},
+{
+"number": "QALD2_te-88",
+"text": "#pfsdm(film star clint eastwood direct)"
+},
+{
+"number": "QALD2_te-81",
+"text": "#pfsdm(books kerouac publish viking press)"
+},
+{
+"number": "QALD2_tr-91",
+"text": "#pfsdm(organization found 1950)"
+},
+{
+"number": "QALD2_tr-70",
+"text": "#pfsdm(give film produce hal roach)"
+},
+{
+"number": "QALD2_te-55",
+"text": "#pfsdm(greece goddesse dwelt mount olympus)"
+},
+{
+"number": "QALD2_te-14",
+"text": "#pfsdm(give member prodigy)"
+},
+{
+"number": "QALD2_te-1",
+"text": "#pfsdm(germany city 250000 inhabitant)"
+},
+{
+"number": "QALD2_te-95",
+"text": "#pfsdm(wrote lyrics polish national anthem)"
+},
+{
+"number": "QALD2_te-92",
+"text": "#pfsdm(show song bruce springsteen release 1980 1990)"
+},
+{
+"number": "QALD2_te-21",
+"text": "#pfsdm(capital canada)"
+},
+{
+"number": "QALD2_tr-3",
+"text": "#pfsdm(daughter bill clinton married)"
+},
+{
+"number": "QALD2_te-43",
+"text": "#pfsdm(give breed germany shepherd dog)"
+},
+{
+"number": "QALD2_te-44",
+"text": "#pfsdm(city weser flow)"
+},
+{
+"number": "QALD2_te-42",
+"text": "#pfsdm(husband amanda palmer)"
+},
+{
+"number": "QALD2_tr-79",
+"text": "#pfsdm(airport located california usa)"
+},
+{
+"number": "QALD2_te-67",
+"text": "#pfsdm(parent wife juan carlos i)"
+},
+{
+"number": "QALD2_tr-64",
+"text": "#pfsdm(software develop organization found california)"
+},
+{
+"number": "QALD2_te-60",
+"text": "#pfsdm(give list lake denmark)"
+},
+{
+"number": "QALD2_tr-73",
+"text": "#pfsdm(own aldi)"
+},
+{
+"number": "QALD2_te-97",
+"text": "#pfsdm(paint storm sea galilee)"
+},
+{
+"number": "QALD2_te-80",
+"text": "#pfsdm(give books william goldman 300 page)"
+},
+{
+"number": "QALD2_tr-52",
+"text": "#pfsdm(president born 1945)"
+},
+{
+"number": "QALD2_tr-55",
+"text": "#pfsdm(develop video game world warcraft)"
+},
+{
+"number": "QALD2_tr-23",
+"text": "#pfsdm(television show create walt disney)"
+},
+{
+"number": "QALD2_te-41",
+"text": "#pfsdm(found intel)"
+},
+{
+"number": "QALD2_tr-87",
+"text": "#pfsdm(wrote book pillar earth)"
+},
+{
+"number": "QALD2_tr-47",
+"text": "#pfsdm(highest place karakoram)"
+},
+{
+"number": "QALD2_te-45",
+"text": "#pfsdm(country connected rhine)"
+},
+{
+"number": "QALD2_te-19",
+"text": "#pfsdm(give people born vienna die berlin)"
+},
+{
+"number": "QALD2_tr-24",
+"text": "#pfsdm(mountain highest annapurna)"
+},
+{
+"number": "QALD2_tr-25",
+"text": "#pfsdm(film direct garry marshall julia robert star)"
+},
+{
+"number": "QALD2_tr-50",
+"text": "#pfsdm(bruce carver die)"
+},
+{
+"number": "QALD2_tr-16",
+"text": "#pfsdm(give capitals country africa)"
+},
+{
+"number": "QALD2_tr-53",
+"text": "#pfsdm(give president united states)"
+},
+{
+"number": "QALD2_te-98",
+"text": "#pfsdm(country creator miffy come)"
+},
+{
+"number": "QALD2_te-63",
+"text": "#pfsdm(give argentina film)"
+},
+{
+"number": "QALD2_te-9",
+"text": "#pfsdm(give list trumpet player bandleader)"
+},
+{
+"number": "QALD2_tr-57",
+"text": "#pfsdm(list episode first season hbo television series soprano)"
+},
+{
+"number": "QALD2_te-86",
+"text": "#pfsdm(largest city australia)"
+},
+{
+"number": "QALD2_tr-17",
+"text": "#pfsdm(give city new jersey 100000 inhabitant)"
+},
+{
+"number": "QALD2_te-27",
+"text": "#pfsdm(sean parnell governor us state)"
+},
+{
+"number": "QALD2_te-77",
+"text": "#pfsdm(call scarface)"
+},
+{
+"number": "QALD2_te-99",
+"text": "#pfsdm(label elvi record first album)"
+},
+{
+"number": "QALD2_tr-1",
+"text": "#pfsdm(give female russia astronaut)"
+},
+{
+"number": "QALD2_tr-34",
+"text": "#pfsdm(country two official language)"
+},
+{
+"number": "QALD2_te-93",
+"text": "#pfsdm(movies sam raimi direct army dark)"
+},
+{
+"number": "QALD2_tr-85",
+"text": "#pfsdm(film julia robert richard gere play)"
+},
+{
+"number": "QALD2_tr-49",
+"text": "#pfsdm(give company advertising industry)"
+},
+{
+"number": "QALD2_te-51",
+"text": "#pfsdm(give frisian island belong netherlands)"
+},
+{
+"number": "QALD2_te-35",
+"text": "#pfsdm(develop skype)"
+},
+{
+"number": "QALD2_tr-71",
+"text": "#pfsdm(give video games publish mean hamster software)"
+},
+{
+"number": "QALD2_te-12",
+"text": "#pfsdm(give world heritage site designate past five years)"
+},
+{
+"number": "QALD2_tr-18",
+"text": "#pfsdm(museum exhibit scream munch)"
+},
+{
+"number": "QALD2_tr-78",
+"text": "#pfsdm(give books written danielle steel)"
+},
+{
+"number": "QALD2_te-31",
+"text": "#pfsdm(give current methodist national leader)"
+}]
+}
