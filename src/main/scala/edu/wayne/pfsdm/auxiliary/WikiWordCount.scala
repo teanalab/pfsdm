@@ -7,6 +7,8 @@ import org.apache.spark.SparkContext._
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 
+import scala.math.log
+
 /** Finds TF in wikipedia of concepts from queries using output from https://github.com/idio/wiki2vec */
 object WikiWordCount {
   def main(args: Array[String]): Unit = {
@@ -35,7 +37,7 @@ object WikiWordCount {
       output.print("\t")
       output.print(gram.mkString(" "))
       output.print("\t")
-      output.print(wordCount.getOrElse(gram, 0))
+      output.print(log(wordCount.getOrElse(gram, 0).toDouble))
       output.print("\t")
       output.println(FileBasedFeatureBlank.queries.toMap.get(qId).get)
     }
