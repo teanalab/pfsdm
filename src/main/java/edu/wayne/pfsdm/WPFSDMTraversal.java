@@ -69,7 +69,7 @@ public class WPFSDMTraversal extends ParametrizedFSDMTraversal {
             throw new IllegalArgumentException("terms shouldn't be null");
         }
         double labmda = 0.0;
-        for (String featureName : fieldFeatureNames) {
+        for (String featureName : importanceFeatureNames) {
             double featureWeight = getImportanceFeatureWeight(depType, featureName, queryParameters);
             if (featureWeight != 0.0) {
                 labmda += featureWeight * getScaledImportanceFeatureValue(featureName, terms, queryParameters.getString("number"));
