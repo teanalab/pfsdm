@@ -10,7 +10,7 @@
         { "name" : "/nn-only" },
         { "name" : "/nns-only" },
         { "name" : "/question-dep" },
-        { "name" : "/wiki-word-count", "min" : 0, "max" : 9464468},
-        { "name" : "collectiontf", "min" : 0, "max" : 14.6186},
+        { "name" : "/wiki-word-count", "min" : 0.0, "max" : 9464468.0},
+        { "name" : "collectiontf", "min" : 0.0, "max" : 14.6186},
     ]
 }
