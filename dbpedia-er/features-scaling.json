@@ -12,5 +12,7 @@
         { "name" : "/question-dep" },
         { "name" : "/wiki-word-count", "min" : 0.0, "max" : 15.5305},
         { "name" : "collectiontf", "min" : 0.0, "max" : 14.6186},
+        { "name" : "/wiki-titles-word-count", "min" : 0.0, "max" : 9.9703 },
+        { "name" : "/wiki-titles-word-presence" }
     ]
 }
