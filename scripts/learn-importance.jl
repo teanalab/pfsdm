@@ -23,5 +23,5 @@ for feature = features
 end
 
 for ref = refs
-    println(fetch(ref))
+    wait(ref)
 end
