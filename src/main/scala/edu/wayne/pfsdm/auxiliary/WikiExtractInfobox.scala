@@ -31,11 +31,11 @@ object WikiExtractInfobox {
     // RDD (WikiTitle, Article Text)
     val wikiTitleTexts = getPairRDD(readableWikipedia)
 
-    wikiTitleTexts.map {
+    wikiTitleTexts.flatMap {
       case (title, text) =>
-        val infobox = """\{\{(Infobox.* (?:\|.* )+)\}\}""".r
+        val infobox = """\{\{Infobox.*? \}\}""".r findFirstIn text
 
-        title + "\t" + infobox
+        infobox.map(title + "\t" + _)
     }.saveAsTextFile(pathToOutput)
   }
 }
