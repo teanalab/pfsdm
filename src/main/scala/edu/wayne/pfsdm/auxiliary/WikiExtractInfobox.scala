@@ -38,18 +38,18 @@ object WikiExtractInfobox {
         val infobox = """\{\{Infobox """.r findFirstMatchIn text
         infobox.map { infoboxMatch =>
           var depth = 1
-          var lastMatch: Match = null
+          var lastMatch: Option[Match] = None
           val parenses = """(\{\{|\}\})""".r
           parenses.findAllMatchIn(infoboxMatch.after).takeWhile { _ => depth > 0 }.foreach { parens =>
             parens.matched match {
               case "{{" => depth = depth + 1
               case "}}" => {
                 depth = depth - 1
-                lastMatch = parens
+                lastMatch = Some(parens)
               }
             }
           }
-          text.substring(infoboxMatch.start, infoboxMatch.end + lastMatch.end)
+          lastMatch.map(lastMatch => text.substring(infoboxMatch.start, infoboxMatch.end + lastMatch.end))
         }.map(title + "\t" + _)
     }.saveAsTextFile(pathToOutput)
   }
