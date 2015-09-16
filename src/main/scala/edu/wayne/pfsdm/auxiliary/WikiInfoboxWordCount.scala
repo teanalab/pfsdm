@@ -44,7 +44,7 @@ object WikiInfoboxWordCount {
     val wordCount = wikiTexts.flatMap {
       case (title, text) =>
         val infobox = """\{\{Infobox """.r findFirstMatchIn text
-        infobox.map { infoboxMatch =>
+        infobox.flatMap { infoboxMatch =>
           var depth = 1
           var lastMatch: Option[Match] = None
           val parenses = """(\{\{|\}\})""".r
