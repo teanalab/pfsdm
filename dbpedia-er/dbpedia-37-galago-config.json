@@ -8,5 +8,5 @@
     ],
     "fields" : [ "names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames"],
     "fieldFeatures" : [ "baselinetopscore" , "fieldlikelihood" , "bigramcfratio" , "/nnp" , "/nns" , "/np-exact" , "/np-part" , "/nn-only", "/nns-only", "/question-dep" ],
-    "importanceFeatures" : [ "collectiontf", "/wiki-word-count" , "/wiki-titles-word-count", "/wiki-titles-word-presence"]
+    "importanceFeatures" : [ "collectiontf", "/wiki-word-count" , "/wiki-titles-word-count", "/wiki-titles-word-presence", "/wiki-infobox-word-count", "/wiki-infobox-word-presence"]
 }

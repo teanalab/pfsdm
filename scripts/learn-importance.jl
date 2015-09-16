@@ -2,7 +2,7 @@ using JavaCall
 
 collections = ["SemSearch_ES", "ListSearch", "INEX_LD", "QALD2"]
 folds = [1:5;]
-features = ["title-binary", "title-count"]
+features = ["infobox-binary", "infobox-count"]
 wd = pwd()
 refs = RemoteRef[]
 
