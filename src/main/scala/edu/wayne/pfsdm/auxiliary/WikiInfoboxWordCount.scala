@@ -1,12 +1,17 @@
 package edu.wayne.pfsdm.auxiliary
 
+import java.io.PrintWriter
+
+import edu.wayne.pfsdm.Util
+import org.apache.spark.SparkContext._
 import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 
+import scala.math.log
 import scala.util.matching.Regex.Match
 
-/** Delete everything from Readable Wikipedia except infoboxes for further processing with Word2Vec from https://github.com/idio/wiki2vec */
-object WikiExtractInfobox {
+/** Extract infoboxes from Readable Wikipedia and count words in them */
+object WikiInfoboxWordCount {
   private def getPairRDD(articlesLines: RDD[String]) = {
     articlesLines.map { line =>
       val splitLine = line.split("\t")
@@ -23,6 +28,9 @@ object WikiExtractInfobox {
   def main(args: Array[String]): Unit = {
     val pathToReadableWiki = args(0)
     val pathToOutput = args(1)
+    val binary = args(2) == "binary"
+    val gramsFromQueries = (for ((qId, grams) <- FileBasedFeatureBlank.uniBiGrams; gram <- grams)
+      yield gram).toList
 
     val conf = new SparkConf().setAppName("WikiExtractInfobox")
     val sc = new SparkContext(conf)
@@ -31,9 +39,9 @@ object WikiExtractInfobox {
     //  article Title <tab> article text
     val readableWikipedia = sc.textFile(pathToReadableWiki)
     // RDD (WikiTitle, Article Text)
-    val wikiTitleTexts = getPairRDD(readableWikipedia)
+    val wikiTexts = getPairRDD(readableWikipedia)
 
-    wikiTitleTexts.flatMap {
+    val wordCount = wikiTexts.flatMap {
       case (title, text) =>
         val infobox = """\{\{Infobox """.r findFirstMatchIn text
         infobox.map { infoboxMatch =>
@@ -50,7 +58,29 @@ object WikiExtractInfobox {
             }
           }
           lastMatch.map(lastMatch => text.substring(infoboxMatch.start, infoboxMatch.end + lastMatch.end))
-        }.map(title + "\t" + _)
-    }.saveAsTextFile(pathToOutput)
+        }
+    }.flatMap { line =>
+      val stemmedTokens = Util.filterTokens(line).tail
+      val grams = stemmedTokens.map(Seq(_)) union stemmedTokens.sliding(2).toSeq
+      val filteredGrams = grams.filter(gramsFromQueries.contains(_))
+      filteredGrams
+    }.map(gram => (gram, 1)).reduceByKey(_ + _).collectAsMap()
+
+    val output = new PrintWriter(pathToOutput)
+
+    for ((qId, grams) <- FileBasedFeatureBlank.uniBiGrams; gram <- grams) {
+      output.print(qId)
+      output.print("\t")
+      output.print(gram.mkString(" "))
+      output.print("\t")
+      if (binary) {
+        output.print(if (wordCount.getOrElse(gram, 0) > 0) 1 else 0)
+      } else {
+        output.print(log(wordCount.getOrElse(gram, 0).toDouble))
+      }
+      output.print("\t")
+      output.println(FileBasedFeatureBlank.queries.toMap.get(qId).get)
+    }
+    output.close()
   }
 }
