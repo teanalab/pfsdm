@@ -1,0 +1,4 @@
+{
+    "metrics": ["map", "P10", "P20", "bpref"],
+    "judgments": "dbpedia-er/dbpedia-3.7.rel"
+}
