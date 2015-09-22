@@ -24,7 +24,7 @@ object GoogleNgramsWordCount {
     val wordCount = ngrams.filter(_.contains("_")).flatMap { line =>
       val splitLine = line.split("\t")
       val stemmedTokens = Util.filterTokens(splitLine(0))
-      val matchCount = splitLine(2).toInt
+      val matchCount = splitLine(2).toLong
       if (gramsFromQueries.contains(stemmedTokens)) {
         Some((stemmedTokens, matchCount))
       } else {
@@ -40,9 +40,9 @@ object GoogleNgramsWordCount {
       output.print(gram.mkString(" "))
       output.print("\t")
       if (binary) {
-        output.print(if (wordCount.getOrElse(gram.toList, 0) > 0) 1 else 0)
+        output.print(if (wordCount.getOrElse(gram.toList, 0L) > 0) 1 else 0)
       } else {
-        output.print(log(wordCount.getOrElse(gram.toList, 0).toDouble))
+        output.print(log(wordCount.getOrElse(gram.toList, 0L).toDouble))
       }
       output.print("\t")
       output.println(FileBasedFeatureBlank.queries.toMap.get(qId).get)
