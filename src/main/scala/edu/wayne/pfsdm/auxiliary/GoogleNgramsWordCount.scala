@@ -21,7 +21,7 @@ object GoogleNgramsWordCount {
     val sc = new SparkContext(conf)
     val ngrams = sc.textFile(pathToGoogleNgrams)
 
-    val wordCount = ngrams.filter(_.contains("_")).flatMap { line =>
+    val wordCount = ngrams.filter(!_.contains("_")).flatMap { line =>
       val splitLine = line.split("\t")
       val stemmedTokens = Util.filterTokens(splitLine(0))
       val matchCount = splitLine(2).toLong
