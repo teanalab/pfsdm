@@ -1,0 +1,58 @@
+{
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-collectiontf" : 0.08333333333,
+        "od-collectiontf" : 0.08333333333,
+        "uww-collectiontf" : 0.08333333333,
+        "uni-/wiki-infobox-word-presence" : 0.08333333333,
+        "od-/wiki-infobox-word-presence" : 0.08333333333,
+        "uww-/wiki-infobox-word-presence" : 0.08333333333,
+        "uni-/wiki-titles-word-presence" : 0.08333333333,
+        "od-/wiki-titles-word-presence" : 0.08333333333,
+        "uww-/wiki-titles-word-presence" : 0.08333333333,
+        "uni-/wiki-titles-word-count" : 0.08333333333,
+        "od-/wiki-titles-word-count" : 0.08333333333,
+        "uww-/wiki-titles-word-count" : 0.08333333333,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-collectiontf"},
+        {"max":1.0, "min":0.0, "name":"od-collectiontf"},
+        {"max":1.0, "min":0.0, "name":"uww-collectiontf"},
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-infobox-word-presence"},
+        {"max":1.0, "min":0.0, "name":"od-/wiki-infobox-word-presence"},
+        {"max":1.0, "min":0.0, "name":"uww-/wiki-infobox-word-presence"},
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-titles-word-presence"},
+        {"max":1.0, "min":0.0, "name":"od-/wiki-titles-word-presence"},
+        {"max":1.0, "min":0.0, "name":"uww-/wiki-titles-word-presence"},
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-titles-word-count"},
+        {"max":1.0, "min":0.0, "name":"od-/wiki-titles-word-count"},
+        {"max":1.0, "min":0.0, "name":"uww-/wiki-titles-word-count"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-collectiontf",
+                "od-collectiontf",
+                "uww-collectiontf",
+                "uni-/wiki-infobox-word-presence",
+                "od-/wiki-infobox-word-presence",
+                "uww-/wiki-infobox-word-presence",
+                "uni-/wiki-titles-word-presence",
+                "od-/wiki-titles-word-presence",
+                "uww-/wiki-titles-word-presence",
+                "uni-/wiki-titles-word-count",
+                "od-/wiki-titles-word-count",
+                "uww-/wiki-titles-word-count",
+            ],
+            "value":1.0
+        }
+    ]
+}
