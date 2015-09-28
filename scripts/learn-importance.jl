@@ -13,14 +13,11 @@ parsed_args = parse_args(ARGS, s)
 collections = ["SemSearch_ES", "ListSearch", "INEX_LD", "QALD2"]
 folds = [1:5;]
 features = parsed_args["feature"]
-println(features)
 wd = pwd()
 refs = RemoteRef[]
 
 for feature = features
-    println(feature)
     mkpath("../importance/weights/$feature")
-    println(feature)
     for collection = collections
         for fold = folds
             r = @spawn (

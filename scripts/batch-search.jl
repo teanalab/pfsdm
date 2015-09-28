@@ -8,6 +8,8 @@ refs = RemoteRef[]
 weights = ARGS[1]
 runs = ARGS[2]
 
+mkpath(runs)
+
 galago = @jimport org.lemurproject.galago.core.tools.App;
 ps = @jimport java.io.PrintStream;
 
