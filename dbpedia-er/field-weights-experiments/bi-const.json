@@ -1,0 +1,41 @@
+{
+    "uniw" : 0.0,
+    "odw" : 1.0,
+    "uww" : 1.0,
+
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "bi-names-/const" : 0.2,
+        "bi-attributes-/const" : 0.2,
+        "bi-similarentitynames-/const" : 0.2,
+        "bi-categories-/const" : 0.2,
+        "bi-outgoingentitynames-/const" : 0.2,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"bi-names-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-attributes-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-similarentitynames-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-categories-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-outgoingentitynames-/const"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "bi-names-/const",
+                "bi-attributes-/const",
+                "bi-similarentitynames-/const",
+                "bi-categories-/const",
+                "bi-outgoingentitynames-/const",
+            ],
+            "value":1.0
+        }
+    ]
+}
