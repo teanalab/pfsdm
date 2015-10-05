@@ -1,0 +1,58 @@
+{
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-/const" : 0.08333333333,
+        "od-/const" : 0.08333333333,
+        "uww-/const" : 0.08333333333,
+        "uni-/google-ngrams-word-invcount" : 0.08333333333,
+        "od-/google-ngrams-word-invcount" : 0.08333333333,
+        "uww-/google-ngrams-word-invcount" : 0.08333333333,
+        "uni-/google-ngrams-word-presence" : 0.08333333333,
+        "od-/google-ngrams-word-presence" : 0.08333333333,
+        "uww-/google-ngrams-word-presence" : 0.08333333333,
+        "uni-/wiki-infobox-word-presence" : 0.08333333333,
+        "od-/wiki-infobox-word-presence" : 0.08333333333,
+        "uww-/wiki-infobox-word-presence" : 0.08333333333,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-/const"},
+        {"max":1.0, "min":0.0, "name":"od-/const"},
+        {"max":1.0, "min":0.0, "name":"uww-/const"},
+        {"max":1.0, "min":0.0, "name":"uni-/google-ngrams-word-invcount"},
+        {"max":1.0, "min":0.0, "name":"od-/google-ngrams-word-invcount"},
+        {"max":1.0, "min":0.0, "name":"uww-/google-ngrams-word-invcount"},
+        {"max":1.0, "min":0.0, "name":"uni-/google-ngrams-word-presence"},
+        {"max":1.0, "min":0.0, "name":"od-/google-ngrams-word-presence"},
+        {"max":1.0, "min":0.0, "name":"uww-/google-ngrams-word-presence"},
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-infobox-word-presence"},
+        {"max":1.0, "min":0.0, "name":"od-/wiki-infobox-word-presence"},
+        {"max":1.0, "min":0.0, "name":"uww-/wiki-infobox-word-presence"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-/const",
+                "od-/const",
+                "uww-/const",
+                "uni-/google-ngrams-word-invcount",
+                "od-/google-ngrams-word-invcount",
+                "uww-/google-ngrams-word-invcount",
+                "uni-/google-ngrams-word-presence",
+                "od-/google-ngrams-word-presence",
+                "uww-/google-ngrams-word-presence",
+                "uni-/wiki-infobox-word-presence",
+                "od-/wiki-infobox-word-presence",
+                "uww-/wiki-infobox-word-presence",
+            ],
+            "value":1.0
+        }
+    ]
+}

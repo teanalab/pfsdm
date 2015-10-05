@@ -22,6 +22,7 @@
         { "name" : "/google-ngrams-word-presence" },
         { "name" : "/const" },
         { "name" : "/google-ngrams-word-invcount", "min" : -22.139, "max" : -3.7135 },
-        { "name" : "collectionitf", "min" : -14.6186, "max" : 0.0}
+        { "name" : "collectionitf", "min" : -14.6186, "max" : 0.0},
+        { "name" : "/wiki-word-invcount", "min" : -16.0631, "max" : 0.0},
     ]
 }
