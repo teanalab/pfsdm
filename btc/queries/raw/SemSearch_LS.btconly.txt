@@ -1,0 +1,7 @@
+SemSearch_LS-15	henry ii's brothers and sisters
+SemSearch_LS-23	manfred von richthofen parents
+SemSearch_LS-27	movies starring joe frazier
+SemSearch_LS-28	movies starring rafael rosell
+SemSearch_LS-45	what tv shows has thomas jane been in
+SemSearch_LS-47	who created stumbleupon
+SemSearch_LS-48	who has jackie weaver been married to

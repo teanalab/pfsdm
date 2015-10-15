@@ -1,0 +1,142 @@
+1	44 magnum hunting
+2	B.F.Skinner
+3	Bookwork
+4	NAACP Image Awards
+5	Scott County
+6	air wisconsin
+7	airsoft glock
+8	aloha sol
+9	american embassy nairobi
+10	asheville north carolina
+11	austin powers
+12	austin texas
+13	banana paper making
+14	ben franklin
+15	bradley center
+16	brooklyn bridge
+17	butte montana
+18	canasta cards
+19	carl lewis
+20	carolina
+21	charles darwin
+22	city of charlotte
+23	city of virginia beach
+24	coastal carolina
+25	david suchet
+26	disney orlando
+27	earl may
+28	el salvador
+29	ellis college
+30	eloan line of credit
+31	emery
+32	fitzgerald auto mall chambersburg pa
+33	harry potter
+34	harry potter movie
+35	hospice of cincinnati
+36	imdb batman returns
+37	jack johnson
+38	jack the ripper
+39	james caldwell high school
+40	james clayton md
+41	joan of arc
+42	john maxwell
+43	katt williams live
+44	kaz vaporizer
+45	keith urban
+46	key hooks
+47	king arthur
+48	la scala restaurant philadelphia
+49	laura bush
+50	laura steele bob and tom
+51	lexus of maplewood
+52	lincoln park
+53	lynchburg virginia
+54	marc anthony
+55	marcus theaters
+56	mario bros
+57	martin luther king
+58	mason ohio
+59	mercy hospital in des moines, ia
+60	michael douglas
+61	mr rourke fantasy island
+62	mst3000
+63	old winchester shotguns
+64	omeara ford
+65	orlando florida
+66	overeaters anonymous
+67	ovguide movies
+68	pierce county washington
+69	piosenki mp3
+70	radio italia online
+71	richmond virginia
+72	rock 103 memphis
+73	rowan university
+74	sacred heart u
+75	sagemont church houston tx
+76	san antonio
+77	savannah tech
+78	sharp pc
+79	shobana masala
+80	sonny and cher
+81	south dakota state university
+82	st lucia
+83	st paul saints
+84	the dish danielle fishel
+85	the longest yard sale
+86	the morning call lehigh valley pa
+87	the quick lift
+88	thomas jefferson
+89	university of north dakota
+90	university of phoenix
+91	westminster abbey
+92	willow ridge
+111	08 toyota tundra
+112	Hugh Downs
+113	MADRID
+114	New England Coffee
+115	PINK PANTHER 2
+116	University of Texas at Austin
+117	University of York
+118	YMCA Tampa
+119	ashley wagner
+1110	beach flowers
+1111	bounce city humble tx
+1112	bourbonnais il
+1113	cedar garden apartments
+1114	chase masterson
+1115	concord steel
+1116	danielia cotton
+1117	david hewlett
+1118	dr dan martin
+1119	eagle rock, ca
+1120	espresso tv stands
+1121	geneva construction
+1122	glenn frey
+1123	goodwill of michigan
+1124	hockessin library
+1125	holland bakery jakarta
+1126	iowa energy
+1127	john elliott
+1128	lawrence general hospital
+1129	marie kojzar
+1130	metropark clothing
+1131	michael zimmerman
+1132	motorola bluetooth hs850
+1133	nokia e73
+1134	oakland flea market
+1135	palm tungsten e2 handheld
+1136	philadelphia neufchatel cheese
+1137	pizza papalis detroit mi
+1138	plymouth police department
+1139	scpa san diego
+1140	sealy mattress co
+1141	sedona hiking trails
+1142	skye woods
+1143	spring shoes canada
+1144	sri lanka government gazette
+1145	steak express
+1146	syracuse spca
+1147	the big texan steak house
+1148	toledo bend realty
+1149	ventura county court
+1150	windsor hotel philadelphia
