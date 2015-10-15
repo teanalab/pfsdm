@@ -1,0 +1,572 @@
+{
+"queries" : [
+{
+"number": "q1",
+"text": "#sdm(44 magnum hunting)"
+},
+{
+"number": "q2",
+"text": "#sdm(bfskinner)"
+},
+{
+"number": "q3",
+"text": "#sdm(bookwork)"
+},
+{
+"number": "q4",
+"text": "#sdm(naacp image award)"
+},
+{
+"number": "q5",
+"text": "#sdm(scott county)"
+},
+{
+"number": "q6",
+"text": "#sdm(air wisconsin)"
+},
+{
+"number": "q7",
+"text": "#sdm(airsoft glock)"
+},
+{
+"number": "q8",
+"text": "#sdm(aloha sol)"
+},
+{
+"number": "q9",
+"text": "#sdm(america embassy nairobi)"
+},
+{
+"number": "q10",
+"text": "#sdm(asheville north carolina)"
+},
+{
+"number": "q11",
+"text": "#sdm(austin powers)"
+},
+{
+"number": "q12",
+"text": "#sdm(austin texas)"
+},
+{
+"number": "q13",
+"text": "#sdm(banana paper making)"
+},
+{
+"number": "q14",
+"text": "#sdm(ben franklin)"
+},
+{
+"number": "q15",
+"text": "#sdm(bradley center)"
+},
+{
+"number": "q16",
+"text": "#sdm(brooklyn bridge)"
+},
+{
+"number": "q17",
+"text": "#sdm(butte montana)"
+},
+{
+"number": "q18",
+"text": "#sdm(canasta cards)"
+},
+{
+"number": "q19",
+"text": "#sdm(carl lewis)"
+},
+{
+"number": "q20",
+"text": "#sdm(carolina)"
+},
+{
+"number": "q21",
+"text": "#sdm(charles darwin)"
+},
+{
+"number": "q22",
+"text": "#sdm(city charlotte)"
+},
+{
+"number": "q23",
+"text": "#sdm(city virginia beach)"
+},
+{
+"number": "q24",
+"text": "#sdm(coastal carolina)"
+},
+{
+"number": "q25",
+"text": "#sdm(david suchet)"
+},
+{
+"number": "q26",
+"text": "#sdm(disney orlando)"
+},
+{
+"number": "q27",
+"text": "#sdm(earl)"
+},
+{
+"number": "q28",
+"text": "#sdm(el salvador)"
+},
+{
+"number": "q29",
+"text": "#sdm(elli college)"
+},
+{
+"number": "q30",
+"text": "#sdm(eloan line credit)"
+},
+{
+"number": "q31",
+"text": "#sdm(emery)"
+},
+{
+"number": "q32",
+"text": "#sdm(fitzgerald auto mall chambersburg pa)"
+},
+{
+"number": "q33",
+"text": "#sdm(harry potter)"
+},
+{
+"number": "q34",
+"text": "#sdm(harry potter movie)"
+},
+{
+"number": "q35",
+"text": "#sdm(hospice cincinnati)"
+},
+{
+"number": "q36",
+"text": "#sdm(imdb batman returns)"
+},
+{
+"number": "q37",
+"text": "#sdm(jack johnson)"
+},
+{
+"number": "q38",
+"text": "#sdm(jack rip)"
+},
+{
+"number": "q39",
+"text": "#sdm(james caldwell high school)"
+},
+{
+"number": "q40",
+"text": "#sdm(james clayton md)"
+},
+{
+"number": "q41",
+"text": "#sdm(joan arc)"
+},
+{
+"number": "q42",
+"text": "#sdm(john maxwell)"
+},
+{
+"number": "q43",
+"text": "#sdm(katt williams live)"
+},
+{
+"number": "q44",
+"text": "#sdm(kaz vaporize)"
+},
+{
+"number": "q45",
+"text": "#sdm(keith urban)"
+},
+{
+"number": "q46",
+"text": "#sdm(key hook)"
+},
+{
+"number": "q47",
+"text": "#sdm(king arthur)"
+},
+{
+"number": "q48",
+"text": "#sdm(la scala restaurant philadelphia)"
+},
+{
+"number": "q49",
+"text": "#sdm(laura bush)"
+},
+{
+"number": "q50",
+"text": "#sdm(laura steele bob tom)"
+},
+{
+"number": "q51",
+"text": "#sdm(lexu maplewood)"
+},
+{
+"number": "q52",
+"text": "#sdm(lincoln park)"
+},
+{
+"number": "q53",
+"text": "#sdm(lynchburg virginia)"
+},
+{
+"number": "q54",
+"text": "#sdm(marc anthony)"
+},
+{
+"number": "q55",
+"text": "#sdm(marcu theater)"
+},
+{
+"number": "q56",
+"text": "#sdm(mario bro)"
+},
+{
+"number": "q57",
+"text": "#sdm(martin luther king)"
+},
+{
+"number": "q58",
+"text": "#sdm(mason ohio)"
+},
+{
+"number": "q59",
+"text": "#sdm(mercy hospital des moines ia)"
+},
+{
+"number": "q60",
+"text": "#sdm(michael douglas)"
+},
+{
+"number": "q61",
+"text": "#sdm(rourke fantasy island)"
+},
+{
+"number": "q62",
+"text": "#sdm(mst3000)"
+},
+{
+"number": "q63",
+"text": "#sdm(old winchester shotgun)"
+},
+{
+"number": "q64",
+"text": "#sdm(omeara ford)"
+},
+{
+"number": "q65",
+"text": "#sdm(orlando florida)"
+},
+{
+"number": "q66",
+"text": "#sdm(overeater anonymous)"
+},
+{
+"number": "q67",
+"text": "#sdm(ovguide movies)"
+},
+{
+"number": "q68",
+"text": "#sdm(pierce county washington)"
+},
+{
+"number": "q69",
+"text": "#sdm(piosenki mp3)"
+},
+{
+"number": "q70",
+"text": "#sdm(radio italia online)"
+},
+{
+"number": "q71",
+"text": "#sdm(richmond virginia)"
+},
+{
+"number": "q72",
+"text": "#sdm(rock 103 memphis)"
+},
+{
+"number": "q73",
+"text": "#sdm(rowan university)"
+},
+{
+"number": "q74",
+"text": "#sdm(sacred heart u)"
+},
+{
+"number": "q75",
+"text": "#sdm(sagemont church houston tx)"
+},
+{
+"number": "q76",
+"text": "#sdm(san antonio)"
+},
+{
+"number": "q77",
+"text": "#sdm(savannah tech)"
+},
+{
+"number": "q78",
+"text": "#sdm(sharp pc)"
+},
+{
+"number": "q79",
+"text": "#sdm(shobana masala)"
+},
+{
+"number": "q80",
+"text": "#sdm(sonny cher)"
+},
+{
+"number": "q81",
+"text": "#sdm(south dakota state university)"
+},
+{
+"number": "q82",
+"text": "#sdm(st lucia)"
+},
+{
+"number": "q83",
+"text": "#sdm(st paul saint)"
+},
+{
+"number": "q84",
+"text": "#sdm(dish danielle fishel)"
+},
+{
+"number": "q85",
+"text": "#sdm(longest yard sale)"
+},
+{
+"number": "q86",
+"text": "#sdm(morning call lehigh valley pa)"
+},
+{
+"number": "q87",
+"text": "#sdm(quick lift)"
+},
+{
+"number": "q88",
+"text": "#sdm(thomas jefferson)"
+},
+{
+"number": "q89",
+"text": "#sdm(university north dakota)"
+},
+{
+"number": "q90",
+"text": "#sdm(university phoenix)"
+},
+{
+"number": "q91",
+"text": "#sdm(westminster abbey)"
+},
+{
+"number": "q92",
+"text": "#sdm(willow ridge)"
+},
+{
+"number": "q111",
+"text": "#sdm(08 toyota tundra)"
+},
+{
+"number": "q112",
+"text": "#sdm(hugh downs)"
+},
+{
+"number": "q113",
+"text": "#sdm(madrid)"
+},
+{
+"number": "q114",
+"text": "#sdm(new england coffee)"
+},
+{
+"number": "q115",
+"text": "#sdm(pink panther 2)"
+},
+{
+"number": "q116",
+"text": "#sdm(university texas austin)"
+},
+{
+"number": "q117",
+"text": "#sdm(university york)"
+},
+{
+"number": "q118",
+"text": "#sdm(ymca tampa)"
+},
+{
+"number": "q119",
+"text": "#sdm(ashley wagner)"
+},
+{
+"number": "q1110",
+"text": "#sdm(beach flower)"
+},
+{
+"number": "q1111",
+"text": "#sdm(bounce city humble tx)"
+},
+{
+"number": "q1112",
+"text": "#sdm(bourbonnai il)"
+},
+{
+"number": "q1113",
+"text": "#sdm(cedar garden apartments)"
+},
+{
+"number": "q1114",
+"text": "#sdm(chase masterson)"
+},
+{
+"number": "q1115",
+"text": "#sdm(concord steel)"
+},
+{
+"number": "q1116",
+"text": "#sdm(danielia cotton)"
+},
+{
+"number": "q1117",
+"text": "#sdm(david hewlett)"
+},
+{
+"number": "q1118",
+"text": "#sdm(dr dan martin)"
+},
+{
+"number": "q1119",
+"text": "#sdm(eagle rock ca)"
+},
+{
+"number": "q1120",
+"text": "#sdm(espresso tv stand)"
+},
+{
+"number": "q1121",
+"text": "#sdm(geneva construction)"
+},
+{
+"number": "q1122",
+"text": "#sdm(glenn frey)"
+},
+{
+"number": "q1123",
+"text": "#sdm(goodwill michigan)"
+},
+{
+"number": "q1124",
+"text": "#sdm(hockessin library)"
+},
+{
+"number": "q1125",
+"text": "#sdm(dutch bakery jakarta)"
+},
+{
+"number": "q1126",
+"text": "#sdm(iowa energy)"
+},
+{
+"number": "q1127",
+"text": "#sdm(john elliott)"
+},
+{
+"number": "q1128",
+"text": "#sdm(lawrence general hospital)"
+},
+{
+"number": "q1129",
+"text": "#sdm(marie kojzar)"
+},
+{
+"number": "q1130",
+"text": "#sdm(metropark clothing)"
+},
+{
+"number": "q1131",
+"text": "#sdm(michael zimmerman)"
+},
+{
+"number": "q1132",
+"text": "#sdm(motorola bluetooth hs850)"
+},
+{
+"number": "q1133",
+"text": "#sdm(nokia e73)"
+},
+{
+"number": "q1134",
+"text": "#sdm(oakland flea market)"
+},
+{
+"number": "q1135",
+"text": "#sdm(palm tungsten e2 handheld)"
+},
+{
+"number": "q1136",
+"text": "#sdm(philadelphia neufchatel cheese)"
+},
+{
+"number": "q1137",
+"text": "#sdm(pizza papali detroit mi)"
+},
+{
+"number": "q1138",
+"text": "#sdm(plymouth police department)"
+},
+{
+"number": "q1139",
+"text": "#sdm(scpa san diego)"
+},
+{
+"number": "q1140",
+"text": "#sdm(sea mattress co)"
+},
+{
+"number": "q1141",
+"text": "#sdm(sedona hike trail)"
+},
+{
+"number": "q1142",
+"text": "#sdm(skye wood)"
+},
+{
+"number": "q1143",
+"text": "#sdm(spring shoe canada)"
+},
+{
+"number": "q1144",
+"text": "#sdm(sri lanka government gazette)"
+},
+{
+"number": "q1145",
+"text": "#sdm(steak express)"
+},
+{
+"number": "q1146",
+"text": "#sdm(syracuse spca)"
+},
+{
+"number": "q1147",
+"text": "#sdm(big texas steak house)"
+},
+{
+"number": "q1148",
+"text": "#sdm(toledo bend realty)"
+},
+{
+"number": "q1149",
+"text": "#sdm(ventura county court)"
+},
+{
+"number": "q1150",
+"text": "#sdm(windsor hotel philadelphia)"
+},
+]
+}
