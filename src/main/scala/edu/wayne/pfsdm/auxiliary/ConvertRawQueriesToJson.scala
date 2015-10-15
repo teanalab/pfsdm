@@ -4,18 +4,21 @@ import java.io.PrintWriter
 
 import edu.wayne.pfsdm.Util
 
-import scala.io.Source
+import scala.io._
 
 /**
  * Created by fsqcds on 10/15/15.
  */
-object ConvertLsQueries extends App {
+object ConvertRawQueriesToJson extends App {
   val inputPath = args(0)
   val outputPath = args(1)
   val operator = args(2)
 
-  def queries: Seq[(String, String)] = Source.fromFile(inputPath).getLines().zipWithIndex.
-    map { case (line, i) => ("q" + (i + 1), line) }.toSeq
+  def queries: Seq[(String, String)] = Source.fromFile(inputPath).getLines().
+    map { line => line.split("\t") match {
+    case Array(qId, qText) => (qId, qText)
+  }
+  }.toSeq
 
   def tokenizedQueries: Seq[(String, Seq[String])] = queries.map { case (qId: String, qText: String) =>
     (qId, Util.filterTokens(qText))
