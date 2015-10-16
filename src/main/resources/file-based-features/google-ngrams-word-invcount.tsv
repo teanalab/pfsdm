@@ -3133,3 +3133,88 @@ TREC_Entity-20	scotch whisky	-10.710945079273484	Scotch whisky distilleries on t
 TREC_Entity-20	whisky distillery	-8.155362120328135	Scotch whisky distilleries on the island of Islay.
 TREC_Entity-20	distillery island	-Infinity	Scotch whisky distilleries on the island of Islay.
 TREC_Entity-20	island islay	-Infinity	Scotch whisky distilleries on the island of Islay.
+SemSearch_ES-43	katt	-10.510477536644899	katt williams live
+SemSearch_ES-43	williams	-17.203142341562998	katt williams live
+SemSearch_ES-43	live	-19.334839637072196	katt williams live
+SemSearch_ES-43	katt williams	-Infinity	katt williams live
+SemSearch_ES-43	williams live	-8.188133414510478	katt williams live
+SemSearch_ES-44	kaz	-10.967456635260664	kaz vaporizer
+SemSearch_ES-44	vaporize	-14.647321251759958	kaz vaporizer
+SemSearch_ES-44	kaz vaporize	-Infinity	kaz vaporizer
+SemSearch_ES-46	key	-18.468036041097054	key hooks
+SemSearch_ES-46	hook	-16.595107664009294	key hooks
+SemSearch_ES-46	key hook	-6.035481432524756	key hooks
+SemSearch_ES-62	mst3000	-Infinity	mst3000
+SemSearch_ES-92	willow	-15.577942481542252	willow ridge
+SemSearch_ES-92	ridge	-16.949719557051612	willow ridge
+SemSearch_ES-92	willow ridge	-6.3578422665081	willow ridge
+SemSearch_ES-110	dr	-18.468258153985072	dr dan martin
+SemSearch_ES-110	dan	-16.952492623018507	dr dan martin
+SemSearch_ES-110	martin	-17.376699868947014	dr dan martin
+SemSearch_ES-110	dr dan	-10.006675710332297	dr dan martin
+SemSearch_ES-110	dan martin	-7.751475318021456	dr dan martin
+SemSearch_ES-113	geneva	-16.370244220135845	geneva construction
+SemSearch_ES-113	construction	-18.408974725080558	geneva construction
+SemSearch_ES-113	geneva construction	-Infinity	geneva construction
+SemSearch_ES-116	hockessin	-8.791941988456118	hockessin library
+SemSearch_ES-116	library	-18.46721984304153	hockessin library
+SemSearch_ES-116	hockessin library	-Infinity	hockessin library
+SemSearch_ES-117	dutch	-17.775182695880346	holland bakery jakarta
+SemSearch_ES-117	bakery	-14.619622471181305	holland bakery jakarta
+SemSearch_ES-117	jakarta	-14.334915474129698	holland bakery jakarta
+SemSearch_ES-117	dutch bakery	-5.857933154483459	holland bakery jakarta
+SemSearch_ES-117	bakery jakarta	-Infinity	holland bakery jakarta
+SemSearch_ES-121	marie	-16.37298853558691	marie kojzar
+SemSearch_ES-121	kojzar	-Infinity	marie kojzar
+SemSearch_ES-121	marie kojzar	-Infinity	marie kojzar
+SemSearch_ES-122	metropark	-8.858510813033927	metropark clothing
+SemSearch_ES-122	clothing	-17.11941097413652	metropark clothing
+SemSearch_ES-122	metropark clothing	-Infinity	metropark clothing
+SemSearch_ES-126	oakland	-14.938151499012552	oakland flea market
+SemSearch_ES-126	flea	-14.90383746632308	oakland flea market
+SemSearch_ES-126	market	-19.086426665599365	oakland flea market
+SemSearch_ES-126	oakland flea	-Infinity	oakland flea market
+SemSearch_ES-126	flea market	-11.809683723946089	oakland flea market
+SemSearch_LS-15	henry	-18.13148261620262	henry ii's brothers and sisters
+SemSearch_LS-15	ii	-19.244606489080137	henry ii's brothers and sisters
+SemSearch_LS-15	brother	-18.69509371496913	henry ii's brothers and sisters
+SemSearch_LS-15	sister	-18.208390506768293	henry ii's brothers and sisters
+SemSearch_LS-15	henry ii	-13.308220343932522	henry ii's brothers and sisters
+SemSearch_LS-15	ii brother	-5.8916442118257715	henry ii's brothers and sisters
+SemSearch_LS-15	brother sister	-8.726156679156613	henry ii's brothers and sisters
+SemSearch_LS-23	manfre	-13.955609834740134	manfred von richthofen parents
+SemSearch_LS-23	von	-17.148792630218015	manfred von richthofen parents
+SemSearch_LS-23	richthofen	-12.130653814576352	manfred von richthofen parents
+SemSearch_LS-23	parent	-18.959198461753463	manfred von richthofen parents
+SemSearch_LS-23	manfre von	-9.440499258184298	manfred von richthofen parents
+SemSearch_LS-23	von richthofen	-10.607475756273947	manfred von richthofen parents
+SemSearch_LS-23	richthofen parent	-Infinity	manfred von richthofen parents
+SemSearch_LS-27	movies	-16.248028576860555	movies starring joe frazier
+SemSearch_LS-27	star	-17.53797393081389	movies starring joe frazier
+SemSearch_LS-27	joe	-16.73247940105393	movies starring joe frazier
+SemSearch_LS-27	frazier	-13.881511758864061	movies starring joe frazier
+SemSearch_LS-27	movies star	-8.024534871605695	movies starring joe frazier
+SemSearch_LS-27	star joe	-7.598399329323964	movies starring joe frazier
+SemSearch_LS-27	joe frazier	-9.391244257682517	movies starring joe frazier
+SemSearch_LS-28	movies	-16.248028576860555	movies starring rafael rosell
+SemSearch_LS-28	star	-17.53797393081389	movies starring rafael rosell
+SemSearch_LS-28	rafael	-14.339229701901935	movies starring rafael rosell
+SemSearch_LS-28	rosell	-10.808717337050858	movies starring rafael rosell
+SemSearch_LS-28	movies star	-8.024534871605695	movies starring rafael rosell
+SemSearch_LS-28	star rafael	-3.8501476017100584	movies starring rafael rosell
+SemSearch_LS-28	rafael rosell	-Infinity	movies starring rafael rosell
+SemSearch_LS-45	tv	-16.86945093590694	what tv shows has thomas jane been in
+SemSearch_LS-45	show	-19.851755299572982	what tv shows has thomas jane been in
+SemSearch_LS-45	thomas	-18.15730309818745	what tv shows has thomas jane been in
+SemSearch_LS-45	jane	-16.6884051425989	what tv shows has thomas jane been in
+SemSearch_LS-45	tv show	-12.729999077723624	what tv shows has thomas jane been in
+SemSearch_LS-45	show thomas	-8.014666370464942	what tv shows has thomas jane been in
+SemSearch_LS-45	thomas jane	-6.728628613084702	what tv shows has thomas jane been in
+SemSearch_LS-47	create	-19.33887945846945	who created stumbleupon
+SemSearch_LS-47	stumbleupon	-6.455198563340122	who created stumbleupon
+SemSearch_LS-47	create stumbleupon	-Infinity	who created stumbleupon
+SemSearch_LS-48	jackie	-14.823252396626115	who has jackie weaver been married to
+SemSearch_LS-48	weaver	-15.77417869102599	who has jackie weaver been married to
+SemSearch_LS-48	married	-18.13684145188658	who has jackie weaver been married to
+SemSearch_LS-48	jackie weaver	-3.9318256327243257	who has jackie weaver been married to
+SemSearch_LS-48	weaver married	-6.16541785423142	who has jackie weaver been married to
