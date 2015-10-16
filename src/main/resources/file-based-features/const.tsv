@@ -3133,3 +3133,88 @@ TREC_Entity-20	scotch whisky	1	Scotch whisky distilleries on the island of Islay
 TREC_Entity-20	whisky distillery	1	Scotch whisky distilleries on the island of Islay.
 TREC_Entity-20	distillery island	1	Scotch whisky distilleries on the island of Islay.
 TREC_Entity-20	island islay	1	Scotch whisky distilleries on the island of Islay.
+SemSearch_ES-43	katt	1	katt williams live
+SemSearch_ES-43	williams	1	katt williams live
+SemSearch_ES-43	live	1	katt williams live
+SemSearch_ES-43	katt williams	1	katt williams live
+SemSearch_ES-43	williams live	1	katt williams live
+SemSearch_ES-44	kaz	1	kaz vaporizer
+SemSearch_ES-44	vaporize	1	kaz vaporizer
+SemSearch_ES-44	kaz vaporize	1	kaz vaporizer
+SemSearch_ES-46	key	1	key hooks
+SemSearch_ES-46	hook	1	key hooks
+SemSearch_ES-46	key hook	1	key hooks
+SemSearch_ES-62	mst3000	1	mst3000
+SemSearch_ES-92	willow	1	willow ridge
+SemSearch_ES-92	ridge	1	willow ridge
+SemSearch_ES-92	willow ridge	1	willow ridge
+SemSearch_ES-110	dr	1	dr dan martin
+SemSearch_ES-110	dan	1	dr dan martin
+SemSearch_ES-110	martin	1	dr dan martin
+SemSearch_ES-110	dr dan	1	dr dan martin
+SemSearch_ES-110	dan martin	1	dr dan martin
+SemSearch_ES-113	geneva	1	geneva construction
+SemSearch_ES-113	construction	1	geneva construction
+SemSearch_ES-113	geneva construction	1	geneva construction
+SemSearch_ES-116	hockessin	1	hockessin library
+SemSearch_ES-116	library	1	hockessin library
+SemSearch_ES-116	hockessin library	1	hockessin library
+SemSearch_ES-117	dutch	1	holland bakery jakarta
+SemSearch_ES-117	bakery	1	holland bakery jakarta
+SemSearch_ES-117	jakarta	1	holland bakery jakarta
+SemSearch_ES-117	dutch bakery	1	holland bakery jakarta
+SemSearch_ES-117	bakery jakarta	1	holland bakery jakarta
+SemSearch_ES-121	marie	1	marie kojzar
+SemSearch_ES-121	kojzar	1	marie kojzar
+SemSearch_ES-121	marie kojzar	1	marie kojzar
+SemSearch_ES-122	metropark	1	metropark clothing
+SemSearch_ES-122	clothing	1	metropark clothing
+SemSearch_ES-122	metropark clothing	1	metropark clothing
+SemSearch_ES-126	oakland	1	oakland flea market
+SemSearch_ES-126	flea	1	oakland flea market
+SemSearch_ES-126	market	1	oakland flea market
+SemSearch_ES-126	oakland flea	1	oakland flea market
+SemSearch_ES-126	flea market	1	oakland flea market
+SemSearch_LS-15	henry	1	henry ii's brothers and sisters
+SemSearch_LS-15	ii	1	henry ii's brothers and sisters
+SemSearch_LS-15	brother	1	henry ii's brothers and sisters
+SemSearch_LS-15	sister	1	henry ii's brothers and sisters
+SemSearch_LS-15	henry ii	1	henry ii's brothers and sisters
+SemSearch_LS-15	ii brother	1	henry ii's brothers and sisters
+SemSearch_LS-15	brother sister	1	henry ii's brothers and sisters
+SemSearch_LS-23	manfre	1	manfred von richthofen parents
+SemSearch_LS-23	von	1	manfred von richthofen parents
+SemSearch_LS-23	richthofen	1	manfred von richthofen parents
+SemSearch_LS-23	parent	1	manfred von richthofen parents
+SemSearch_LS-23	manfre von	1	manfred von richthofen parents
+SemSearch_LS-23	von richthofen	1	manfred von richthofen parents
+SemSearch_LS-23	richthofen parent	1	manfred von richthofen parents
+SemSearch_LS-27	movies	1	movies starring joe frazier
+SemSearch_LS-27	star	1	movies starring joe frazier
+SemSearch_LS-27	joe	1	movies starring joe frazier
+SemSearch_LS-27	frazier	1	movies starring joe frazier
+SemSearch_LS-27	movies star	1	movies starring joe frazier
+SemSearch_LS-27	star joe	1	movies starring joe frazier
+SemSearch_LS-27	joe frazier	1	movies starring joe frazier
+SemSearch_LS-28	movies	1	movies starring rafael rosell
+SemSearch_LS-28	star	1	movies starring rafael rosell
+SemSearch_LS-28	rafael	1	movies starring rafael rosell
+SemSearch_LS-28	rosell	1	movies starring rafael rosell
+SemSearch_LS-28	movies star	1	movies starring rafael rosell
+SemSearch_LS-28	star rafael	1	movies starring rafael rosell
+SemSearch_LS-28	rafael rosell	1	movies starring rafael rosell
+SemSearch_LS-45	tv	1	what tv shows has thomas jane been in
+SemSearch_LS-45	show	1	what tv shows has thomas jane been in
+SemSearch_LS-45	thomas	1	what tv shows has thomas jane been in
+SemSearch_LS-45	jane	1	what tv shows has thomas jane been in
+SemSearch_LS-45	tv show	1	what tv shows has thomas jane been in
+SemSearch_LS-45	show thomas	1	what tv shows has thomas jane been in
+SemSearch_LS-45	thomas jane	1	what tv shows has thomas jane been in
+SemSearch_LS-47	create	1	who created stumbleupon
+SemSearch_LS-47	stumbleupon	1	who created stumbleupon
+SemSearch_LS-47	create stumbleupon	1	who created stumbleupon
+SemSearch_LS-48	jackie	1	who has jackie weaver been married to
+SemSearch_LS-48	weaver	1	who has jackie weaver been married to
+SemSearch_LS-48	married	1	who has jackie weaver been married to
+SemSearch_LS-48	jackie weaver	1	who has jackie weaver been married to
+SemSearch_LS-48	weaver married	1	who has jackie weaver been married to
