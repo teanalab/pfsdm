@@ -10,7 +10,7 @@ import scala.io._
  */
 object FileBasedFeatureBlank extends App {
   def queries: Seq[(String, String)] = Source.fromInputStream(
-    getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().
+    getClass.getResourceAsStream("/btc/new-queries.txt")).getLines().
     map { line => line.split("\t") match {
     case Array(qId, qText) => (qId, qText)
   }
@@ -24,7 +24,7 @@ object FileBasedFeatureBlank extends App {
     (qId, qTokens.map(Seq(_)) union (if (qTokens.size >= 2) qTokens.sliding(2).toSeq else Seq.empty))
   }
 
-  val output = new PrintWriter("./output/file-based-feature-blank.tsv")
+  val output = new PrintWriter("./output/file-based-feature-blank-btc.tsv")
 
   for ((qId, grams) <- uniBiGrams; gram <- grams) {
     output.print(qId)
