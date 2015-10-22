@@ -10,7 +10,7 @@ import scala.io._
  */
 object FileBasedFeatureBlank extends App {
   def queries: Seq[(String, String)] = Source.fromInputStream(
-    getClass.getResourceAsStream("/btc/new-queries.txt")).getLines().
+    getClass.getResourceAsStream("/btc/all-queries.txt")).getLines().
     map { line => line.split("\t") match {
     case Array(qId, qText) => (qId, qText)
   }
