@@ -25,7 +25,7 @@ object WikiCategoriesWordCount {
       val row = """\(\d+,'([^']+)',\d+,\d+,\d+\)""".r
       for (m <- row findAllMatchIn insertLine) yield m group 1
     }.flatMap { line =>
-      val stemmedTokens = Util.filterTokens(line.replaceAll("_", ""))
+      val stemmedTokens = Util.filterTokens(line.replaceAll("_", " "))
       val grams = stemmedTokens.map(Seq(_)) union stemmedTokens.sliding(2).toSeq
       val filteredGrams = grams.filter(gramsFromQueries.contains(_))
       filteredGrams
