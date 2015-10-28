@@ -61,7 +61,7 @@ object WikiInfoboxWordCount {
         }
     }.flatMap { line =>
       val stemmedTokens = Util.filterTokens(line).tail
-      val grams = stemmedTokens.map(Seq(_)) union stemmedTokens.sliding(2).toSeq
+      val grams = stemmedTokens.map(Seq(_)) union Util.unorderedBigrams(stemmedTokens)
       val filteredGrams = grams.filter(gramsFromQueries.contains(_))
       filteredGrams
     }.map(gram => (gram, 1)).reduceByKey(_ + _).collectAsMap()
