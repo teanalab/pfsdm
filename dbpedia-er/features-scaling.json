@@ -16,7 +16,7 @@
         { "name" : "/wiki-titles-word-presence" },
         { "name" : "/wiki-infobox-word-count", "min" : 0.0, "max" : 9.9989 },
         { "name" : "/wiki-infobox-word-presence" },
-        { "name" : "/wiki-categories-word-count", "min" : 0.0, "max" : 8.7751 },
+        { "name" : "/wiki-categories-word-count", "min" : 0.0, "max" : 11.5637 },
         { "name" : "/wiki-categories-word-presence" },
         { "name" : "/google-ngrams-word-count", "min" : 3.7135, "max" : 21.7636 },
         { "name" : "/google-ngrams-word-presence" },
