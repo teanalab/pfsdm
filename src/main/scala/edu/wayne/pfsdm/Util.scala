@@ -29,9 +29,9 @@ object Util {
     tokens.map(_.replace(".", ""))
   }
 
-  def unorderedBigrams(tokens: Seq[String]) : Seq[Seq[String]] = {
+  def unorderedBigrams(tokens: Seq[String], width: Int) : Seq[Seq[String]] = {
     for (token1index <- tokens.indices; token2index <- tokens.indices
-         if token1index != token2index && math.abs(token2index - token1index) < 8)
+         if token1index != token2index && math.abs(token2index - token1index) < width)
       yield Seq(tokens(token1index), tokens(token2index))
   }
 }

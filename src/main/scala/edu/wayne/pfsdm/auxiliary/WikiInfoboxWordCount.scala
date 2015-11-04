@@ -29,6 +29,7 @@ object WikiInfoboxWordCount {
     val pathToReadableWiki = args(0)
     val pathToOutput = args(1)
     val binary = args(2) == "binary"
+    val width = args(3).toInt
     val gramsFromQueries = (for ((qId, grams) <- FileBasedFeatureBlank.uniBiGrams; gram <- grams)
       yield gram).toList
 
@@ -61,7 +62,7 @@ object WikiInfoboxWordCount {
         }
     }.flatMap { line =>
       val stemmedTokens = Util.filterTokens(line).tail
-      val grams = stemmedTokens.map(Seq(_)) union Util.unorderedBigrams(stemmedTokens)
+      val grams = stemmedTokens.map(Seq(_)) union Util.unorderedBigrams(stemmedTokens, width)
       val filteredGrams = grams.filter(gramsFromQueries.contains(_))
       filteredGrams
     }.map(gram => (gram, 1)).reduceByKey(_ + _).collectAsMap()
