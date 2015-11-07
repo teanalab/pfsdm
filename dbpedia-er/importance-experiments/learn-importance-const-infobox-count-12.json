@@ -1,0 +1,40 @@
+{
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-/wiki-infobox-word-count-12" : 0.1666666667,
+        "uni-/const" : 0.1666666667,
+        "od-/wiki-infobox-word-count-12" : 0.1666666667,
+        "od-/const" : 0.1666666667,
+        "uww-/wiki-infobox-word-count-12" : 0.1666666667,
+        "uww-/const" : 0.1666666667,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-infobox-word-count-12"},
+        {"max":1.0, "min":0.0, "name":"uni-/const"},
+        {"max":1.0, "min":0.0, "name":"od-/wiki-infobox-word-count-12"},
+        {"max":1.0, "min":0.0, "name":"od-/const"},
+        {"max":1.0, "min":0.0, "name":"uww-/wiki-infobox-word-count-12"},
+        {"max":1.0, "min":0.0, "name":"uww-/const"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-/wiki-infobox-word-count-12",
+                "uni-/const",
+                "od-/wiki-infobox-word-count-12",
+                "od-/const",
+                "uww-/wiki-infobox-word-count-12",
+                "uww-/const",
+            ],
+            "value":1.0
+        }
+    ]
+}
