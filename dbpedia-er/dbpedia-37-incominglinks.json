@@ -1,0 +1,8 @@
+{
+    "requested" : 100,
+    "traversals" : [
+        {"name" : "nzhiltsov.fsdm.MLMTraversal", "order" : "before"},
+        {"name" : "nzhiltsov.fsdm.FieldedSequentialDependenceTraversal", "order" : "before"},
+    ],
+    "fields" : [ "names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames", "incomingentitynames"]
+}
