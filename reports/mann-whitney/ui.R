@@ -27,7 +27,7 @@ shinyUI(fluidPage(
     mainPanel(
       plotOutput("distPlot"),
       h3("Mann-Whitney test"),
-      strong("Alternative hypotesis"),
+      strong("Alternative hypothesis"),
       br(),
       "P(A > B) > P(B > A)",
       br(),
