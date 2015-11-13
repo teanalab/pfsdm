@@ -25,7 +25,7 @@ object CountEntityDomains {
       }.toOption
       val obj = Try {
         splitLine(2).drop(1).dropRight(1)
-      }
+      }.toOption
       Seq(subj, obj).flatten
     }.distinct().flatMap { url =>
       Try {
