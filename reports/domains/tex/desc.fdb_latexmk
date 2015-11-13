@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex desc"] 1447447131 "desc.aux" "desc.bbl" "desc" 1447448032
+["bibtex desc"] 1447447131 "desc.aux" "desc.bbl" "desc" 1447448501
   "/usr/local/texlive/2015/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "desc.aux" 1447448031 626 168adb8c2b52f6b7585ba2752b3dd7a2 ""
+  "desc.aux" 1447448501 626 168adb8c2b52f6b7585ba2752b3dd7a2 ""
   "desc.bcf" 0 -1 0 ""
   "desc.bib" 1447396910 810 d6159c8f18ab29f1c946fdf6a3c61c10 ""
   (generated)
   "desc.blg"
   "desc.bbl"
-["pdflatex"] 1447448030 "desc.tex" "desc.pdf" "desc" 1447448032
+["pdflatex"] 1447448500 "desc.tex" "desc.pdf" "desc" 1447448501
   "../btc-2009.eps" 1447393096 7746 ad922783f13c67210b9bcd0bf24d3cc0 ""
   "../relevant.eps" 1447392974 7965 8a24c74c9c105ca2e06d694d0abe22fd ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -26,10 +26,10 @@
   "/usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf" 1428852030 31983 18aeec08f48baa3cf3508d538dd5f459 ""
   "/usr/local/texlive/2015/texmf-var/web2c/xetex/xelatex.fmt" 1432479679 3445950 7f6125c6eb78b33bcedbe55e49dbfd83 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "desc.aux" 1447448031 626 168adb8c2b52f6b7585ba2752b3dd7a2 ""
+  "desc.aux" 1447448501 626 168adb8c2b52f6b7585ba2752b3dd7a2 ""
   "desc.bbl" 1447447131 333 96ba47301008a4bd3bca1ad43f5e1912 "bibtex desc"
-  "desc.tex" 1447448028 2061 7a24c472668a3413ac587353b170280d ""
+  "desc.tex" 1447448500 2329 6dd48007e6ece19a7391beaae11f6e3a ""
   (generated)
-  "desc.log"
   "desc.pdf"
   "desc.aux"
+  "desc.log"
