@@ -23,13 +23,13 @@ object CountEntityDomains {
         val url = splitLine(0).drop(1).dropRight(1)
         new URL(url)
       }.toOption.map {
-        _.getHost
+        _.getHost.split('.').takeRight(2).mkString(".")
       }
       val hostObj = Try {
         val url = splitLine(2).drop(1).dropRight(1)
         new URL(url)
       }.toOption.map {
-        _.getHost
+        _.getHost.split('.').takeRight(2).mkString(".")
       }
       Seq(hostSubj, hostObj).flatten
     }.map(domain => (domain, 1)).reduceByKey(_ + _).map { case (d, c) => s"$d\t$c" }.saveAsTextFile(pathToOutput)
