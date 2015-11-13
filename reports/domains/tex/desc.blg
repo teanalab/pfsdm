@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: desc.aux
+The style file: plain.bst
+Database file #1: desc.bib
+I was expecting an "="---line 10 of file desc.bib
+ : @Comment   
+ :            author = {Andreas Harth},
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 16 of file desc.bib
+ : @Comment   
+ :            author = {Gunnar Grimnes},
+I'm skipping whatever remains of this entry
+You've used 1 entry,
+            2118 wiz_defined-function locations,
+            503 strings with 4203 characters,
+and the built_in function-call counts, 487 in all, are:
+= -- 52
+> -- 13
+< -- 1
++ -- 6
+- -- 4
+* -- 27
+:= -- 73
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 23
+empty$ -- 42
+format.name$ -- 4
+if$ -- 112
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 2
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 4
+quote$ -- 0
+skip$ -- 19
+stack$ -- 0
+substring$ -- 38
+swap$ -- 11
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 5
+width$ -- 2
+write$ -- 14
+(There were 2 error messages)
