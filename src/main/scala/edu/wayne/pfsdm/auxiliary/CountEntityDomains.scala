@@ -31,7 +31,7 @@ object CountEntityDomains {
       }.toOption.map {
         _.getHost
       }
-      Seq(hostSubj,hostObj).flatten
-    }.distinct().map(domain => (domain, 1)).reduceByKey(_ + _).saveAsTextFile(pathToOutput)
+      Seq(hostSubj, hostObj).flatten
+    }.distinct().map(domain => (domain, 1)).reduceByKey(_ + _).map { case (d, c) => "$d\t$c" }.saveAsTextFile(pathToOutput)
   }
 }
