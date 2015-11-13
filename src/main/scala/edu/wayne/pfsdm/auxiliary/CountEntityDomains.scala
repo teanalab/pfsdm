@@ -2,6 +2,7 @@ package edu.wayne.pfsdm.auxiliary
 
 import java.net.URL
 
+import com.google.common.net.InternetDomainName
 import org.apache.spark.SparkContext._
 import org.apache.spark.{SparkConf, SparkContext}
 
@@ -19,19 +20,19 @@ object CountEntityDomains {
 
     val wordCount = descriptions.flatMap { line =>
       val splitLine = line.split("\t")
-      val hostSubj = Try {
-        val url = splitLine(0).drop(1).dropRight(1)
-        new URL(url)
-      }.toOption.map {
-        _.getHost.split('.').takeRight(2).mkString(".")
+      val subj = Try {
+        splitLine(0).drop(1).dropRight(1)
+      }.toOption
+      val obj = Try {
+        splitLine(2).drop(1).dropRight(1)
       }
-      val hostObj = Try {
-        val url = splitLine(2).drop(1).dropRight(1)
+      Seq(subj, obj).flatten
+    }.distinct().flatMap { url =>
+      Try {
         new URL(url)
-      }.toOption.map {
-        _.getHost.split('.').takeRight(2).mkString(".")
+      }.toOption.map { url =>
+        InternetDomainName.from(url.getHost).topPrivateDomain().name();
       }
-      Seq(hostSubj, hostObj).flatten
     }.map(domain => (domain, 1)).reduceByKey(_ + _).map { case (d, c) => s"$d\t$c" }.saveAsTextFile(pathToOutput)
   }
 }
