@@ -1,6 +1,14 @@
 (TeX-add-style-hook
  "desc"
  (lambda ()
-   (LaTeX-add-bibitems
-    "balog2013test")))
+   (TeX-run-style-hooks
+    "latex2e"
+    "article"
+    "art10"
+    "cite"
+    "graphicx")
+   (LaTeX-add-labels
+    "fig:btc2009"
+    "fig:relevant")
+   (LaTeX-add-bibliographies)))
 
