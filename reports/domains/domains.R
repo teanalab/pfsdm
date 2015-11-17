@@ -22,3 +22,9 @@ ggplot(btc.domain.counts[0:20,], aes(x=reorder(domain,count), y=count)) +
   geom_bar(stat="identity") + coord_flip() + ylab("Number of entities") + xlab("PLD")
 
 btc.domain.counts[btc.domain.counts$domain == "dbpedia.org",]$count / sum(btc.domain.counts$count)
+
+btc.2012.domain.counts <- read.table("btc-2012-counts", sep = "\t", quote = "", comment.char = "", as.is = TRUE, header = FALSE, col.names=c("domain","count")) %>% arrange(-count)
+ggplot(btc.2012.domain.counts[0:20,], aes(x=reorder(domain,count), y=count)) +
+  geom_bar(stat="identity") + coord_flip() + ylab("Number of entities") + xlab("PLD")
+
+btc.2012.domain.counts[btc.2012.domain.counts$domain == "dbpedia.org",]$count / sum(btc.2012.domain.counts$count)

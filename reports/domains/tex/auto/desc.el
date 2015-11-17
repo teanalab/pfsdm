@@ -9,6 +9,7 @@
     "graphicx")
    (LaTeX-add-labels
     "fig:btc2009"
+    "fig:btc2012"
     "fig:relevant")
    (LaTeX-add-bibliographies)))
 

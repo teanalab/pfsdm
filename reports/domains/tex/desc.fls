@@ -30,6 +30,8 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ../btc-2009.eps
 INPUT ../btc-2009.eps
+INPUT ../btc-2012.eps
+INPUT ../btc-2012.eps
 INPUT ../relevant.eps
 INPUT ../relevant.eps
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
