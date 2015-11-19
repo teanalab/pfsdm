@@ -6,7 +6,7 @@
         {"name" : "edu.wayne.pfsdm.ParametrizedFSDMTraversal", "order" : "before"},
         {"name" : "edu.wayne.pfsdm.WPFSDMTraversal", "order" : "before"}
     ],
-    "fields" : [ "names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames", "incomingentitynames"].
+    "fields" : [ "names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames", "incomingentitynames"],
     "fieldFeatures" : [ "baselinetopscore" , "fieldlikelihood" , "bigramcfratio" , "/nnp" , "/nns" , "/np-exact" , "/np-part" , "/nn-only", "/nns-only", "/question-dep" , "/const" ],
     "importanceFeatures" : [ "collectiontf", "/wiki-word-count" , "/wiki-titles-word-count", "/wiki-titles-word-presence",
         "/wiki-infobox-word-count", "/wiki-infobox-word-presence", "/wiki-categories-word-count", "/wiki-categories-word-presence",
