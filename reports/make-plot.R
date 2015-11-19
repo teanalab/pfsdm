@@ -23,17 +23,17 @@ features <- c("fieldlikelihood", "baselinetopscore", "bigramcfratio")
 #   ggsave(paste0("plots-features/", feature, ".eps"), plot, height=5, width=5)
 # }
 
-filtered <- filtered %>% mutate(field = revalue(field, c("outgoingentitynames"="related entity names","similarentitynames"="similar entity names")))
+filtered <- filtered %>% mutate(field = revalue(field, c("outgoingentitynames"="related entity names","similarentitynames"="similar entity names","names"="entity names")))
 filtered.long <- filtered %>% rename(FP=fieldlikelihood,TS=baselinetopscore,MI=bigramcfratio)
-filtered.long <- gather(filtered.long, feature, value, c(FP,TS,MI))
+filtered.long <- gather(filtered.long, feature, value, c(FP,TS))#,MI))
 
 plot.real <- ggplot(na.omit(filtered.long), aes_string(y = "value", x = "field", fill = "type")) +
   geom_boxplot() + theme(axis.text.x=element_text(angle=30,hjust=1)) +
-  facet_grid(feature~., scales="free")+
+  facet_wrap(~feature, scales = "free")+
   labs(y="feature value", fill="concept type", x="") +
   theme(legend.position="bottom")
 
-ggsave("plots-features/real.eps", plot.real, height=11, width=5.5, scale=0.8)
+ggsave("plots-features/real.eps", plot.real, width=9, height=6, scale=0.8)
 #ggsave("plots-features/real.eps", plot.real, height=10, scale=0.8)
 
 cf <- read.table("..//output//cf.tsv", header = TRUE, sep = "\t") # edu.wayne.pfsdm.auxiliary.FeatureValuesTable
@@ -82,11 +82,11 @@ merged.np.exact$feature <- "NPE"
 merged.np.part$feature <- "NPP"
 merged.qd$feature <- "QD"
 
-all.nlp <- bind_rows(merged.nnp,merged.nns,merged.np.exact,merged.np.part,merged.qd)
-all.nlp <- all.nlp %>% mutate(field = revalue(field, c("outgoingentitynames"="related entity names","similarentitynames"="similar entity names")))
+all.nlp <- bind_rows(merged.nnp,merged.nns,merged.np.exact,merged.np.part)#,merged.qd)
+all.nlp <- all.nlp %>% mutate(field = revalue(field, c("outgoingentitynames"="related entity names","similarentitynames"="similar entity names","names"="entity names")))
 plot.nlp <- ggplot(na.omit(all.nlp), aes(y = cf, x = field, fill=factor(value))) +
   geom_boxplot() + theme(axis.text.x=element_text(angle=30,hjust=1)) +
   labs(y="log(field frequency)", fill="feature value", x="") +
   facet_grid(.~feature) +
   theme(legend.position="bottom")
-ggsave("plots-features/nlp.eps", plot.nlp, width=13, height=5, scale=0.8)
+ggsave("plots-features/nlp.eps", plot.nlp, width=10, height=5, scale=0.8)
