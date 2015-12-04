@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-142",
+"text": "#fieldedsdm(windsor hotel philadelphia)"
+},
+{
+"number": "SemSearch_ES-101",
+"text": "#fieldedsdm(ashley wagner)"
+},
+{
+"number": "SemSearch_ES-141",
+"text": "#fieldedsdm(ventura county court)"
+},
+{
+"number": "SemSearch_ES-105",
+"text": "#fieldedsdm(cedar garden apartments)"
+},
+{
+"number": "SemSearch_ES-120",
+"text": "#fieldedsdm(lawrence general hospital)"
+},
+{
+"number": "SemSearch_ES-109",
+"text": "#fieldedsdm(david hewlett)"
+},
+{
+"number": "SemSearch_ES-104",
+"text": "#fieldedsdm(bourbonnai il)"
+},
+{
+"number": "SemSearch_ES-136",
+"text": "#fieldedsdm(sri lanka government gazette)"
+},
+{
+"number": "SemSearch_ES-129",
+"text": "#fieldedsdm(pizza populous detroit mi)"
+},
+{
+"number": "SemSearch_ES-118",
+"text": "#fieldedsdm(iowa energy)"
+},
+]
+}
