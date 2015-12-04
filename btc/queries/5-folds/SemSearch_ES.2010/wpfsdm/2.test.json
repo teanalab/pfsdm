@@ -1,0 +1,80 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-37",
+"text": "#wpfsdm(jack johnson)"
+},
+{
+"number": "SemSearch_ES-26",
+"text": "#wpfsdm(disney orlando)"
+},
+{
+"number": "SemSearch_ES-17",
+"text": "#wpfsdm(butte montana)"
+},
+{
+"number": "SemSearch_ES-38",
+"text": "#wpfsdm(jack rip)"
+},
+{
+"number": "SemSearch_ES-35",
+"text": "#wpfsdm(hospice cincinnati)"
+},
+{
+"number": "SemSearch_ES-88",
+"text": "#wpfsdm(thomas jefferson)"
+},
+{
+"number": "SemSearch_ES-27",
+"text": "#wpfsdm(earl)"
+},
+{
+"number": "SemSearch_ES-84",
+"text": "#wpfsdm(dish danielle fishel)"
+},
+{
+"number": "SemSearch_ES-47",
+"text": "#wpfsdm(king arthur)"
+},
+{
+"number": "SemSearch_ES-61",
+"text": "#wpfsdm(rourke fantasy island)"
+},
+{
+"number": "SemSearch_ES-64",
+"text": "#wpfsdm(omeara ford)"
+},
+{
+"number": "SemSearch_ES-49",
+"text": "#wpfsdm(laura bush)"
+},
+{
+"number": "SemSearch_ES-50",
+"text": "#wpfsdm(laura steele bob tom)"
+},
+{
+"number": "SemSearch_ES-81",
+"text": "#wpfsdm(south dakota state university)"
+},
+{
+"number": "SemSearch_ES-48",
+"text": "#wpfsdm(la scala restaurant philadelphia)"
+},
+{
+"number": "SemSearch_ES-20",
+"text": "#wpfsdm(carolina)"
+},
+{
+"number": "SemSearch_ES-73",
+"text": "#wpfsdm(rowan university)"
+},
+{
+"number": "SemSearch_ES-43",
+"text": "#wpfsdm(katt williams live)"
+},
+{
+"number": "SemSearch_ES-55",
+"text": "#wpfsdm(marcu theater)"
+},
+]
+}

@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-98",
+"text": "#pfsdm(university texas austin)"
+},
+{
+"number": "SemSearch_ES-137",
+"text": "#pfsdm(steak express)"
+},
+{
+"number": "SemSearch_ES-126",
+"text": "#pfsdm(oakland flea market)"
+},
+{
+"number": "SemSearch_ES-125",
+"text": "#pfsdm(nokia e73)"
+},
+{
+"number": "SemSearch_ES-134",
+"text": "#pfsdm(skye wood)"
+},
+{
+"number": "SemSearch_ES-130",
+"text": "#pfsdm(plymouth police department)"
+},
+{
+"number": "SemSearch_ES-121",
+"text": "#pfsdm(marie kojzar)"
+},
+{
+"number": "SemSearch_ES-95",
+"text": "#pfsdm(madrid)"
+},
+{
+"number": "SemSearch_ES-107",
+"text": "#pfsdm(concord steel)"
+},
+{
+"number": "SemSearch_ES-94",
+"text": "#pfsdm(hugh downs)"
+},
+]
+}
