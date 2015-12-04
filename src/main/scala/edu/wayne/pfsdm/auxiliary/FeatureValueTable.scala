@@ -15,9 +15,7 @@ import scala.io._
  * Created by fsqcds on 6/10/15.
  */
 object FeatureValueTable extends App {
-  val parameters = Parameters.parseFile(new File(getClass.getResource("/traversal-config.json").toURI))
-  val mainParameters = Arguments.parse(args)
-  parameters.copyFrom(mainParameters)
+  val parameters = Arguments.parse(args)
   val fields: Seq[String] = parameters.getList("fields", classOf[String])
   val fieldFeatureName = parameters.get("tableFeature", "")
 
@@ -38,9 +36,8 @@ object FeatureValueTable extends App {
   val retrieval: Retrieval = RetrievalFactory.create(parameters)
   val feature: FieldFeature = FieldFeature(fieldFeatureName, retrieval)
 
-  val output = new PrintWriter(mainParameters.getString("output"))
+  val output = new PrintWriter(parameters.getString("output"))
 
-  output.println(Seq("qid", "gram", "featurevalue", "field").mkString("\t"))
   for ((qId, grams) <- uniBiGrams; gram <- grams) {
     val ngramtype = gram.length match {
       case 1 => "unigram";
