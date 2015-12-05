@@ -5,26 +5,25 @@ import java.io._
 import edu.wayne.pfsdm.Util
 import edu.wayne.pfsdm.feature.field.FieldFeature
 import org.lemurproject.galago.core.retrieval.{Retrieval, RetrievalFactory}
-import org.lemurproject.galago.utility.Parameters
 import org.lemurproject.galago.utility.tools.Arguments
 
 import scala.collection.JavaConversions._
-import scala.io._
+import scala.io.Source
 
 /**
- * Created by fsqcds on 6/10/15.
- */
+  * Created by fsqcds on 6/10/15.
+  */
 object FeatureValueTable extends App {
   val parameters = Arguments.parse(args)
   val fields: Seq[String] = parameters.getList("fields", classOf[String])
   val fieldFeatureName = parameters.get("tableFeature", "")
+  val queriesPath = parameters.get("queries", "")
 
-  val queries: Seq[(String, String)] = Source.fromInputStream(
-    getClass.getResourceAsStream("/sigir2013-dbpedia/queries.txt")).getLines().
+  val queries: Seq[(String, String)] = Source.fromFile(queriesPath).getLines().
     map { line => line.split("\t") match {
-    case Array(qId, qText) => (qId, qText)
-  }
-  }.toSeq
+      case Array(qId, qText) => (qId, qText)
+    }
+    }.toSeq
   val tokenizedQueries: Seq[(String, Seq[String])] = queries.map { case (qId: String, qText: String) =>
     (qId, Util.filterTokens(qText))
   }
