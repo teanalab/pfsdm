@@ -1,0 +1,32 @@
+{
+    "featuresScaling" : [
+        { "name" : "baselinetopscore", "min" : -22.7861, "max" : -0.6643 },
+        { "name" : "fieldlikelihood", "min" :  -30.746, "max" : -17.3579 },
+        { "name" : "bigramcfratio"},
+        { "name" : "/nnp" },
+        { "name" : "/nns" },
+        { "name" : "/np-exact" },
+        { "name" : "/np-part" },
+        { "name" : "/nn-only" },
+        { "name" : "/nns-only" },
+        { "name" : "/question-dep" },
+        { "name" : "/wiki-word-count"},
+        { "name" : "collectiontf"},
+        { "name" : "/wiki-titles-word-count"},
+        { "name" : "/wiki-titles-word-presence" },
+        { "name" : "/wiki-infobox-word-count"},
+        { "name" : "/wiki-infobox-word-count-12"},
+        { "name" : "/wiki-infobox-word-count-16"},
+        { "name" : "/wiki-infobox-word-presence" },
+        { "name" : "/wiki-categories-word-count"},
+        { "name" : "/wiki-categories-word-presence" },
+        { "name" : "/google-ngrams-word-count"},
+        { "name" : "/google-ngrams-word-presence" },
+        { "name" : "/const" },
+        { "name" : "/google-ngrams-word-invcount", "min" : -22.139, "max" : -3.7135 },
+        { "name" : "collectionitf"},
+        { "name" : "/wiki-word-invcount"},
+        { "name" : "/web1t-word-count"},
+        { "name" : "/web1t-word-invcount"}
+    ]
+}
