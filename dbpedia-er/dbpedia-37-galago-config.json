@@ -1,15 +1,67 @@
 {
-    "requested" : 100,
-    "traversals" : [
-        {"name" : "nzhiltsov.fsdm.MLMTraversal", "order" : "before"},
-        {"name" : "nzhiltsov.fsdm.FieldedSequentialDependenceTraversal", "order" : "before"},
-        {"name" : "edu.wayne.pfsdm.ParametrizedFSDMTraversal", "order" : "before"},
-        {"name" : "edu.wayne.pfsdm.WPFSDMTraversal", "order" : "before"}
-    ],
-    "fields" : [ "names" , "attributes" , "similarentitynames" , "categories" , "outgoingentitynames"],
-    "fieldFeatures" : [ "baselinetopscore" , "fieldlikelihood" , "bigramcfratio" , "/nnp" , "/nns" , "/np-exact" , "/np-part" , "/nn-only", "/nns-only", "/question-dep" , "/const" ],
-    "importanceFeatures" : [ "collectiontf", "/wiki-word-count" , "/wiki-titles-word-count", "/wiki-titles-word-presence",
-                             "/wiki-infobox-word-count", "/wiki-infobox-word-presence", "/wiki-categories-word-count", "/wiki-categories-word-presence",
-                             "/google-ngrams-word-count", "/google-ngrams-word-presence", "/const", "/google-ngrams-word-invcount", "collectionitf", "/wiki-word-invcount",
-                             "/web1t-word-count", "/web1t-word-invcount", "/wiki-infobox-word-count-12", "/wiki-infobox-word-count-16", "/dep-leaf", "bigramcfratioimp"]
+  "requested": 100,
+  "traversals": [
+    {
+      "name": "nzhiltsov.fsdm.MLMTraversal",
+      "order": "before"
+    },
+    {
+      "name": "nzhiltsov.fsdm.FieldedSequentialDependenceTraversal",
+      "order": "before"
+    },
+    {
+      "name": "edu.wayne.pfsdm.ParametrizedFSDMTraversal",
+      "order": "before"
+    },
+    {
+      "name": "edu.wayne.pfsdm.WPFSDMTraversal",
+      "order": "before"
+    },
+    {
+      "name": "edu.wayne.models.WSDMTraversal",
+      "order": "before"
+    },
+  ],
+  "fields": [
+    "names",
+    "attributes",
+    "similarentitynames",
+    "categories",
+    "outgoingentitynames"
+  ],
+  "fieldFeatures": [
+    "baselinetopscore",
+    "fieldlikelihood",
+    "bigramcfratio",
+    "/nnp",
+    "/nns",
+    "/np-exact",
+    "/np-part",
+    "/nn-only",
+    "/nns-only",
+    "/question-dep",
+    "/const"
+  ],
+  "importanceFeatures": [
+    "collectiontf",
+    "/wiki-word-count",
+    "/wiki-titles-word-count",
+    "/wiki-titles-word-presence",
+    "/wiki-infobox-word-count",
+    "/wiki-infobox-word-presence",
+    "/wiki-categories-word-count",
+    "/wiki-categories-word-presence",
+    "/google-ngrams-word-count",
+    "/google-ngrams-word-presence",
+    "/const",
+    "/google-ngrams-word-invcount",
+    "collectionitf",
+    "/wiki-word-invcount",
+    "/web1t-word-count",
+    "/web1t-word-invcount",
+    "/wiki-infobox-word-count-12",
+    "/wiki-infobox-word-count-16",
+    "/dep-leaf",
+    "bigramcfratioimp"
+  ]
 }

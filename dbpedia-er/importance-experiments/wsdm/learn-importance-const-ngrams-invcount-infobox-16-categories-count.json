@@ -1,0 +1,46 @@
+{
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-/const" : 0.125,
+        "bi-/const" : 0.125,
+        "uni-/google-ngrams-word-invcount" : 0.125,
+        "bi-/google-ngrams-word-invcount" : 0.125,
+        "uni-/wiki-infobox-word-count-16" : 0.125,
+        "bi-/wiki-infobox-word-count-16" : 0.125,
+        "uni-/wiki-categories-word-count" : 0.125,
+        "bi-/wiki-categories-word-count" : 0.125,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-/const"},
+        {"max":1.0, "min":0.0, "name":"uni-/google-ngrams-word-invcount"},
+        {"max":1.0, "min":0.0, "name":"bi-/google-ngrams-word-invcount"},
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-infobox-word-count-16"},
+        {"max":1.0, "min":0.0, "name":"bi-/wiki-infobox-word-count-16"},
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-categories-word-count"},
+        {"max":1.0, "min":0.0, "name":"bi-/wiki-categories-word-count"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-/const",
+                "bi-/const",
+                "uni-/google-ngrams-word-invcount",
+                "bi-/google-ngrams-word-invcount",
+                "uni-/wiki-infobox-word-count-16",
+                "bi-/wiki-infobox-word-count-16",
+                "uni-/wiki-categories-word-count",
+                "bi-/wiki-categories-word-count",
+            ],
+            "value":1.0
+        }
+    ]
+}
