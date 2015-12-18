@@ -1,4 +1,4 @@
-package edu.wayne.pfsdm;
+package edu.wayne.models;
 
 import edu.wayne.pfsdm.feature.importance.ImportanceFeature;
 import edu.wayne.pfsdm.feature.importance.ImportanceFeature$;
@@ -24,7 +24,7 @@ public class WSDMTraversal extends Traversal {
     public static final String UNIGRAM_FIELD_PREFIX = "uni-";
     public static final String BIGRAM_FIELD_PREFIX = "bi-";
 
-    private static final Logger logger = Logger.getLogger("RWSDM");
+    private static final Logger logger = Logger.getLogger("WSDM");
     private Retrieval retrieval;
     private GroupRetrieval gRetrieval;
     private Parameters globalParams;
@@ -94,7 +94,7 @@ public class WSDMTraversal extends Traversal {
 
     @Override
     public Node afterNode(Node original, Parameters queryParams) throws Exception {
-        if (original.getOperator().equals("rwsdm")) {
+        if (original.getOperator().equals("mywsdm")) {
 
             NodeParameters np = original.getNodeParameters();
 
