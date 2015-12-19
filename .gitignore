@@ -44,3 +44,6 @@ Rplots.pdf
 
 # IPython notebook checkpoints
 .ipynb_checkpoints
+
+# qsub files
+STDIN.*
