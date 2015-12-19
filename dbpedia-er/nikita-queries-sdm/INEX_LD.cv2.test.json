@@ -1,0 +1,83 @@
+{
+"queries" : [
+{
+"number": "INEX_LD-2009096",
+"text": "#sdm(eiffel)"
+},
+{
+"number": "INEX_LD-2010004",
+"text": "#sdm(indian food)"
+},
+{
+"number": "INEX_LD-20120521",
+"text": "#sdm(electronic music genre)"
+},
+{
+"number": "INEX_LD-20120322",
+"text": "#sdm(tango music instrument)"
+},
+{
+"number": "INEX_LD-20120321",
+"text": "#sdm(tango music composer)"
+},
+{
+"number": "INEX_LD-20120422",
+"text": "#sdm(bicycle holiday nature)"
+},
+{
+"number": "INEX_LD-2009074",
+"text": "#sdm(web ranking score algorithm)"
+},
+{
+"number": "INEX_LD-2012315",
+"text": "#sdm(baguio quezon city manila official independence 1945)"
+},
+{
+"number": "INEX_LD-2010043",
+"text": "#sdm(list film surrealist category)"
+},
+{
+"number": "INEX_LD-20120221",
+"text": "#sdm(guitar classical flamenco)"
+},
+{
+"number": "INEX_LD-20120112",
+"text": "#sdm(vietnam war fact)"
+},
+{
+"number": "INEX_LD-2010020",
+"text": "#sdm(electricity source france)"
+},
+{
+"number": "INEX_LD-2009039",
+"text": "#sdm(roman architecture)"
+},
+{
+"number": "INEX_LD-20120212",
+"text": "#sdm(guitar chord minor)"
+},
+{
+"number": "INEX_LD-2012355",
+"text": "#sdm(england football player highest paid)"
+},
+{
+"number": "INEX_LD-2012327",
+"text": "#sdm(beloved author africa america nobel prize literature)"
+},
+{
+"number": "INEX_LD-2012331",
+"text": "#sdm(seoul korea river name ethnic group china)"
+},
+{
+"number": "INEX_LD-2009063",
+"text": "#sdm(d day normandy invasion)"
+},
+{
+"number": "INEX_LD-2012341",
+"text": "#sdm(1997 houston airport president)"
+},
+{
+"number": "INEX_LD-2012390",
+"text": "#sdm(baseball player homerun national league)"
+}]
+}
