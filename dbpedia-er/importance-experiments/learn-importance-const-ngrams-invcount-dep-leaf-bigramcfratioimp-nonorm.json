@@ -1,0 +1,50 @@
+{
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-/const" : 0.1111111111,
+        "uni-/google-ngrams-word-invcount" : 0.1111111111,
+        "od-/const" : 0.1111111111,
+        "od-/google-ngrams-word-invcount" : 0.1111111111,
+        "uww-/const" : 0.1111111111,
+        "uww-/google-ngrams-word-invcount" : 0.1111111111,
+        "uni-/dep-leaf" : 0.1111111111,
+        "od-bigramcfratioimp" : 0.1111111111,
+        "uww-bigramcfratioimp" : 0.1111111111,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-/const"},
+        {"max":1.0, "min":0.0, "name":"uni-/google-ngrams-word-invcount"},
+        {"max":1.0, "min":0.0, "name":"od-/const"},
+        {"max":1.0, "min":0.0, "name":"od-/google-ngrams-word-invcount"},
+        {"max":1.0, "min":0.0, "name":"uww-/const"},
+        {"max":1.0, "min":0.0, "name":"uww-/google-ngrams-word-invcount"},
+        {"max":1.0, "min":0.0, "name":"uni-/dep-leaf"},
+        {"max":1.0, "min":0.0, "name":"od-bigramcfratioimp"},
+        {"max":1.0, "min":0.0, "name":"uww-bigramcfratioimp"},
+
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-/const",
+                "uni-/google-ngrams-word-invcount",
+                "od-/const",
+                "od-/google-ngrams-word-invcount",
+                "uww-/const",
+                "uww-/google-ngrams-word-invcount",
+                "uni-/dep-leaf",
+                "od-bigramcfratioimp",
+                "uww-bigramcfratioimp",
+            ],
+            "value":1.0
+        }
+    ]
+}
