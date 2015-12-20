@@ -1,0 +1,49 @@
+{
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-collectiontf" : 0.1111111111,
+        "bi-collectiontf" : 0.1111111111,
+        "uni-/wiki-titles-word-count" : 0.1111111111,
+        "bi-/wiki-titles-word-count" : 0.1111111111,
+        "uni-/wiki-titles-word-presence" : 0.1111111111,
+        "bi-/wiki-titles-word-presence" : 0.1111111111,
+        "uni-/web1t-word-count" : 0.1111111111,
+        "bi-/web1t-word-count" : 0.1111111111,
+        "bigramcfratioimp" : 0.1111111111
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-collectiontf"},
+        {"max":1.0, "min":0.0, "name":"bi-collectiontf"},
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-titles-word-count"},
+        {"max":1.0, "min":0.0, "name":"bi-/wiki-titles-word-count"},
+        {"max":1.0, "min":0.0, "name":"uni-/wiki-titles-word-presence"},
+        {"max":1.0, "min":0.0, "name":"bi-/wiki-titles-word-presence"},
+        {"max":1.0, "min":0.0, "name":"uni-/web1t-word-count"},
+        {"max":1.0, "min":0.0, "name":"bi-/web1t-word-count"},
+        {"max":1.0, "min":0.0, "name":"bigramcfratioimp"}
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-collectiontf",
+                "bi-collectiontf",
+                "uni-/wiki-titles-word-count",
+                "bi-/wiki-titles-word-count",
+                "uni-/wiki-titles-word-presence",
+                "bi-/wiki-titles-word-presence",
+                "uni-/web1t-word-count",
+                "bi-/web1t-word-count",
+                "bigramcfratioimp"
+            ],
+            "value":1.0
+        }
+    ]
+}
