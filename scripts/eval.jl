@@ -10,7 +10,7 @@ for collection = collections
 end
 run(`cat $runs/$collections.ALL` |> "$runs/ALL.ALL")
 
-JavaCall.init(["-Djava.class.path=$(joinpath(pwd(), "target", "scala-2.10", "pfsdm-assembly-1.0.jar"))", "-ea", "-Djava.util.logging.config.file=./pfsdm-logging.properties"]);
+JavaCall.init(["-Djava.class.path=$(homedir())/pfsdm-assembly-1.0.jar", "-ea", "-Djava.util.logging.config.file=./pfsdm-logging.properties"]);
 galago = @jimport org.lemurproject.galago.core.tools.App;
 for collection = collections
     jcall(galago, "main", Void, (Array{JString,1},), ["eval", "dbpedia-er/eval.json", "--runs+$runs/$collection.ALL"])
