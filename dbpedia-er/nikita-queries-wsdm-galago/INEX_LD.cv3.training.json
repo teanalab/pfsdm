@@ -1,0 +1,323 @@
+{
+"queries" : [
+{
+"number": "INEX_LD-2012389",
+"text": "#wsdm(frequent visit shark gulf indian ocean)"
+},
+{
+"number": "INEX_LD-20120511",
+"text": "#wsdm(female rock singe)"
+},
+{
+"number": "INEX_LD-2012345",
+"text": "#wsdm(kennedy assassinate governor texas seriously injure)"
+},
+{
+"number": "INEX_LD-2012349",
+"text": "#wsdm(alexander nevsky cathedral bulgaria city liberation turk)"
+},
+{
+"number": "INEX_LD-2012373",
+"text": "#wsdm(bird fly)"
+},
+{
+"number": "INEX_LD-2012311",
+"text": "#wsdm(john lennon yoko ono album start)"
+},
+{
+"number": "INEX_LD-2012347",
+"text": "#wsdm(seat florida country dade)"
+},
+{
+"number": "INEX_LD-2012365",
+"text": "#wsdm(mathematician computer scientist mit six inaugural macvicar faculty fellow)"
+},
+{
+"number": "INEX_LD-2012319",
+"text": "#wsdm(1994 short story collection alice munro open)"
+},
+{
+"number": "INEX_LD-2009061",
+"text": "#wsdm(france second world war normandy)"
+},
+{
+"number": "INEX_LD-20120412",
+"text": "#wsdm(bicycle sport discipline)"
+},
+{
+"number": "INEX_LD-20120121",
+"text": "#wsdm(vietnam food recipe)"
+},
+{
+"number": "INEX_LD-20120122",
+"text": "#wsdm(viet food blog)"
+},
+{
+"number": "INEX_LD-20120532",
+"text": "#wsdm(intellectual property rights lobby)"
+},
+{
+"number": "INEX_LD-20120411",
+"text": "#wsdm(bicycle sport races)"
+},
+{
+"number": "INEX_LD-2009062",
+"text": "#wsdm(social network group selection)"
+},
+{
+"number": "INEX_LD-20120431",
+"text": "#wsdm(bicycle benefit health)"
+},
+{
+"number": "INEX_LD-2012367",
+"text": "#wsdm(invent telescope)"
+},
+{
+"number": "INEX_LD-2010106",
+"text": "#wsdm(organic food advantage disadvantage)"
+},
+{
+"number": "INEX_LD-2012317",
+"text": "#wsdm(daggeroso inclined use dagger novel son lovers)"
+},
+{
+"number": "INEX_LD-2009096",
+"text": "#wsdm(eiffel)"
+},
+{
+"number": "INEX_LD-2010004",
+"text": "#wsdm(indian food)"
+},
+{
+"number": "INEX_LD-20120521",
+"text": "#wsdm(electronic music genre)"
+},
+{
+"number": "INEX_LD-20120322",
+"text": "#wsdm(tango music instrument)"
+},
+{
+"number": "INEX_LD-20120321",
+"text": "#wsdm(tango music composer)"
+},
+{
+"number": "INEX_LD-20120422",
+"text": "#wsdm(bicycle holiday nature)"
+},
+{
+"number": "INEX_LD-2009074",
+"text": "#wsdm(web ranking score algorithm)"
+},
+{
+"number": "INEX_LD-2012315",
+"text": "#wsdm(baguio quezon city manila official independence 1945)"
+},
+{
+"number": "INEX_LD-2010043",
+"text": "#wsdm(list film surrealist category)"
+},
+{
+"number": "INEX_LD-20120221",
+"text": "#wsdm(guitar classical flamenco)"
+},
+{
+"number": "INEX_LD-20120112",
+"text": "#wsdm(vietnam war fact)"
+},
+{
+"number": "INEX_LD-2010020",
+"text": "#wsdm(electricity source france)"
+},
+{
+"number": "INEX_LD-2009039",
+"text": "#wsdm(roman architecture)"
+},
+{
+"number": "INEX_LD-20120212",
+"text": "#wsdm(guitar chord minor)"
+},
+{
+"number": "INEX_LD-2012355",
+"text": "#wsdm(england football player highest paid)"
+},
+{
+"number": "INEX_LD-2012327",
+"text": "#wsdm(beloved author africa america nobel prize literature)"
+},
+{
+"number": "INEX_LD-2012331",
+"text": "#wsdm(seoul korea river name ethnic group china)"
+},
+{
+"number": "INEX_LD-2009063",
+"text": "#wsdm(d day normandy invasion)"
+},
+{
+"number": "INEX_LD-2012341",
+"text": "#wsdm(1997 houston airport president)"
+},
+{
+"number": "INEX_LD-2012390",
+"text": "#wsdm(baseball player homerun national league)"
+},
+{
+"number": "INEX_LD-2012305",
+"text": "#wsdm(north dakota lowest river colour)"
+},
+{
+"number": "INEX_LD-2012335",
+"text": "#wsdm(us president authorise nuclear weapon japan)"
+},
+{
+"number": "INEX_LD-2012369",
+"text": "#wsdm(famous civic military airport)"
+},
+{
+"number": "INEX_LD-2012318",
+"text": "#wsdm(direct bela glen glenda bride monster plan 9 outer space)"
+},
+{
+"number": "INEX_LD-2012313",
+"text": "#wsdm(john turturro 1991 coen brother film)"
+},
+{
+"number": "INEX_LD-2010069",
+"text": "#wsdm(summer flower)"
+},
+{
+"number": "INEX_LD-20120232",
+"text": "#wsdm(guitar origin blues)"
+},
+{
+"number": "INEX_LD-20120311",
+"text": "#wsdm(tango culture movies)"
+},
+{
+"number": "INEX_LD-2012372",
+"text": "#wsdm(famous historical battlefield opponent fought)"
+},
+{
+"number": "INEX_LD-2012323",
+"text": "#wsdm(large glacier island nation langjokull hofsjokull vatnajokull)"
+},
+{
+"number": "INEX_LD-2012354",
+"text": "#wsdm(greatest guitarist)"
+},
+{
+"number": "INEX_LD-2012343",
+"text": "#wsdm(heart woman poet autobiography)"
+},
+{
+"number": "INEX_LD-20120331",
+"text": "#wsdm(tango dance style)"
+},
+{
+"number": "INEX_LD-20120111",
+"text": "#wsdm(vietnam war movie)"
+},
+{
+"number": "INEX_LD-2012303",
+"text": "#wsdm(valley fever fungal infection san joaquin)"
+},
+{
+"number": "INEX_LD-2012357",
+"text": "#wsdm(prima ballerina bolshoi theatre 1960)"
+},
+{
+"number": "INEX_LD-20120531",
+"text": "#wsdm(music conference)"
+},
+{
+"number": "INEX_LD-2012361",
+"text": "#wsdm(famous award winning actor singe)"
+},
+{
+"number": "INEX_LD-2012339",
+"text": "#wsdm(nelson mandela john dube)"
+},
+{
+"number": "INEX_LD-2009022",
+"text": "#wsdm(szechwan dish food cuisine)"
+},
+{
+"number": "INEX_LD-20120222",
+"text": "#wsdm(guitar classical bach)"
+},
+{
+"number": "INEX_LD-20120421",
+"text": "#wsdm(bicycle holiday town)"
+},
+{
+"number": "INEX_LD-2012307",
+"text": "#wsdm(july 1850 president die millard fillmore sworn following day)"
+},
+{
+"number": "INEX_LD-2012385",
+"text": "#wsdm(famous politician vegetarian)"
+},
+{
+"number": "INEX_LD-20120312",
+"text": "#wsdm(tango culture country)"
+},
+{
+"number": "INEX_LD-2012309",
+"text": "#wsdm(resident small island city state malay peninsula china)"
+},
+{
+"number": "INEX_LD-2009115",
+"text": "#wsdm(virtual museum)"
+},
+{
+"number": "INEX_LD-2012363",
+"text": "#wsdm(america twin famous america professional tennis double player)"
+},
+{
+"number": "INEX_LD-2010037",
+"text": "#wsdm(social network api)"
+},
+{
+"number": "INEX_LD-2012336",
+"text": "#wsdm(1906 territory papua island australia)"
+},
+{
+"number": "INEX_LD-20120522",
+"text": "#wsdm(digital music notation format)"
+},
+{
+"number": "INEX_LD-2009053",
+"text": "#wsdm(finland car industry manufacturer saab sisu)"
+},
+{
+"number": "INEX_LD-2012381",
+"text": "#wsdm(movie director direct block buster)"
+},
+{
+"number": "INEX_LD-2012325",
+"text": "#wsdm(successor james g blaine studied law)"
+},
+{
+"number": "INEX_LD-20120332",
+"text": "#wsdm(tango dance history)"
+},
+{
+"number": "INEX_LD-2012351",
+"text": "#wsdm(indian cuisine dish rice dhal vegetable roti papad)"
+},
+{
+"number": "INEX_LD-2012379",
+"text": "#wsdm(pair city language longitude different country)"
+},
+{
+"number": "INEX_LD-2010019",
+"text": "#wsdm(gallo roman architecture paris)"
+},
+{
+"number": "INEX_LD-2012377",
+"text": "#wsdm(allegedly cause world war i)"
+},
+{
+"number": "INEX_LD-2010057",
+"text": "#wsdm(einstein relativity theory)"
+}]
+}

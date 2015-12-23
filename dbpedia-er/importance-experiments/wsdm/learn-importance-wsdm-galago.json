@@ -1,0 +1,40 @@
+{
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "1-const" : 0.8,
+        "1-lntf" : 0.0,
+        "1-lndf" : 0.0,
+        "2-const" : 0.2,
+        "2-lntf" : 0.0,
+        "2-lndf" : 0.0
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"1-const"},
+        {"max":1.0, "min":0.0, "name":"1-lntf"},
+        {"max":1.0, "min":0.0, "name":"1-lndf"},
+        {"max":1.0, "min":0.0, "name":"2-const"},
+        {"max":1.0, "min":0.0, "name":"2-lntf"},
+        {"max":1.0, "min":0.0, "name":"2-lndf"}
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "1-const",
+                "1-lntf",
+                "1-lndf",
+                "2-const",
+                "2-lntf",
+                "2-lndf"
+            ],
+            "value":1.0
+        }
+    ]
+}

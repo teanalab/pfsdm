@@ -1,0 +1,95 @@
+{
+"queries" : [
+{
+"number": "SemSearch_LS-8",
+"text": "#wsdm(continent world)"
+},
+{
+"number": "INEX_XER-98",
+"text": "#wsdm(maker lawn tennis rackets)"
+},
+{
+"number": "INEX_XER-99",
+"text": "#wsdm(computer system recursive acronym name)"
+},
+{
+"number": "INEX_XER-62",
+"text": "#wsdm(neil gaiman novel)"
+},
+{
+"number": "TREC_Entity-20",
+"text": "#wsdm(scotch whisky distillery island islay)"
+},
+{
+"number": "SemSearch_LS-11",
+"text": "#wsdm(diocese church ireland)"
+},
+{
+"number": "TREC_Entity-18",
+"text": "#wsdm(member band jefferson airplane)"
+},
+{
+"number": "TREC_Entity-9",
+"text": "#wsdm(member beaux arts trio)"
+},
+{
+"number": "SemSearch_LS-6",
+"text": "#wsdm(borough new york city)"
+},
+{
+"number": "INEX_XER-95",
+"text": "#wsdm(tom hank movies play leading role)"
+},
+{
+"number": "SemSearch_LS-26",
+"text": "#wsdm(movies star erykah badu)"
+},
+{
+"number": "INEX_XER-129",
+"text": "#wsdm(science fiction book written 1980)"
+},
+{
+"number": "SemSearch_LS-12",
+"text": "#wsdm(first target atomic bomb)"
+},
+{
+"number": "INEX_XER-134",
+"text": "#wsdm(record break sprint male 100 meter sprint)"
+},
+{
+"number": "INEX_XER-67",
+"text": "#wsdm(ferri observation wheels)"
+},
+{
+"number": "INEX_XER-94",
+"text": "#wsdm(hybrid car sold europe)"
+},
+{
+"number": "INEX_XER-133",
+"text": "#wsdm(eu country)"
+},
+{
+"number": "INEX_XER-141",
+"text": "#wsdm(university catalunya)"
+},
+{
+"number": "SemSearch_LS-39",
+"text": "#wsdm(ten ancient greece city kingdom cyprus)"
+},
+{
+"number": "INEX_XER-139",
+"text": "#wsdm(film direct akira kurosawa)"
+},
+{
+"number": "INEX_XER-127",
+"text": "#wsdm(germany female politician)"
+},
+{
+"number": "INEX_XER-121",
+"text": "#wsdm(us president 1960)"
+},
+{
+"number": "SemSearch_LS-19",
+"text": "#wsdm(kenya captain cricket)"
+}]
+}

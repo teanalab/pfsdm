@@ -1,0 +1,115 @@
+{
+"queries" : [
+{
+"number": "QALD2_te-53",
+"text": "#wsdm(ruling party lisbon)"
+},
+{
+"number": "QALD2_tr-83",
+"text": "#wsdm(produce film star natalie portman)"
+},
+{
+"number": "QALD2_te-84",
+"text": "#wsdm(create comic captain america)"
+},
+{
+"number": "QALD2_tr-62",
+"text": "#wsdm(create wikipedia)"
+},
+{
+"number": "QALD2_te-13",
+"text": "#wsdm(youngest player premier league)"
+},
+{
+"number": "QALD2_te-15",
+"text": "#wsdm(longest river)"
+},
+{
+"number": "QALD2_tr-4",
+"text": "#wsdm(river brooklyn bridge cross)"
+},
+{
+"number": "QALD2_tr-82",
+"text": "#wsdm(program language gimp written)"
+},
+{
+"number": "QALD2_tr-32",
+"text": "#wsdm(country europe union adopt euro)"
+},
+{
+"number": "QALD2_tr-72",
+"text": "#wsdm(language spoken estonia)"
+},
+{
+"number": "QALD2_tr-77",
+"text": "#wsdm(music album contain song christmas)"
+},
+{
+"number": "QALD2_tr-40",
+"text": "#wsdm(highest mountain australia)"
+},
+{
+"number": "QALD2_te-5",
+"text": "#wsdm(second highest mountain earth)"
+},
+{
+"number": "QALD2_tr-11",
+"text": "#wsdm(country place two cave)"
+},
+{
+"number": "QALD2_tr-9",
+"text": "#wsdm(us states possess gold mineral)"
+},
+{
+"number": "QALD2_te-22",
+"text": "#wsdm(governor texas)"
+},
+{
+"number": "QALD2_te-3",
+"text": "#wsdm(mayor berlin)"
+},
+{
+"number": "QALD2_te-66",
+"text": "#wsdm(ship call benjamin franklin)"
+},
+{
+"number": "QALD2_tr-38",
+"text": "#wsdm(monarch united kingdom married germany)"
+},
+{
+"number": "QALD2_tr-42",
+"text": "#wsdm(official language philippines)"
+},
+{
+"number": "QALD2_tr-59",
+"text": "#wsdm(give people first name jimmy)"
+},
+{
+"number": "QALD2_te-65",
+"text": "#wsdm(instrument john lennon play)"
+},
+{
+"number": "QALD2_tr-61",
+"text": "#wsdm(mountain higher nanga parbat)"
+},
+{
+"number": "QALD2_te-100",
+"text": "#wsdm(produce orangina)"
+},
+{
+"number": "QALD2_tr-10",
+"text": "#wsdm(country nile start)"
+},
+{
+"number": "QALD2_tr-51",
+"text": "#wsdm(give school type)"
+},
+{
+"number": "QALD2_tr-58",
+"text": "#wsdm(produce film)"
+},
+{
+"number": "QALD2_tr-81",
+"text": "#wsdm(country official language)"
+}]
+}
