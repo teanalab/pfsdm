@@ -112,9 +112,9 @@ INEX_LD-2009062	social	JJ	social network group selection
 INEX_LD-2009062	network	NN	social network group selection
 INEX_LD-2009062	group	NN	social network group selection
 INEX_LD-2009062	selection	NN	social network group selection
-INEX_LD-2009063	d	NNP	D-Day normandy invasion
-INEX_LD-2009063	day	null	D-Day normandy invasion
-INEX_LD-2009063	normandy	JJ	D-Day normandy invasion
+INEX_LD-2009063	d	NN	D-Day normandy invasion
+INEX_LD-2009063	day	NN	D-Day normandy invasion
+INEX_LD-2009063	normandy	NN	D-Day normandy invasion
 INEX_LD-2009063	invasion	NN	D-Day normandy invasion
 INEX_LD-2009074	web	NN	web ranking scoring algorithm
 INEX_LD-2009074	ranking	NN	web ranking scoring algorithm
@@ -185,7 +185,7 @@ INEX_LD-2012309	resident	NNS	residents small island city-state  Malay Peninsula 
 INEX_LD-2012309	small	JJ	residents small island city-state  Malay Peninsula Chinese
 INEX_LD-2012309	island	NN	residents small island city-state  Malay Peninsula Chinese
 INEX_LD-2012309	city	NN	residents small island city-state  Malay Peninsula Chinese
-INEX_LD-2012309	state	null	residents small island city-state  Malay Peninsula Chinese
+INEX_LD-2012309	state	NN	residents small island city-state  Malay Peninsula Chinese
 INEX_LD-2012309	malay	NNP	residents small island city-state  Malay Peninsula Chinese
 INEX_LD-2012309	peninsula	NNP	residents small island city-state  Malay Peninsula Chinese
 INEX_LD-2012309	china	NNP	residents small island city-state  Malay Peninsula Chinese
@@ -233,9 +233,9 @@ INEX_LD-2012319	alice	NNP	 1994 short story collection Alice Munro is Open
 INEX_LD-2012319	munro	NNP	 1994 short story collection Alice Munro is Open
 INEX_LD-2012319	open	NNP	 1994 short story collection Alice Munro is Open
 INEX_LD-2012321	asia	JJ	Asian port state-city Sir Stamford Raffles
-INEX_LD-2012321	port	NN	Asian port state-city Sir Stamford Raffles
+INEX_LD-2012321	port	JJ	Asian port state-city Sir Stamford Raffles
 INEX_LD-2012321	state	NN	Asian port state-city Sir Stamford Raffles
-INEX_LD-2012321	city	null	Asian port state-city Sir Stamford Raffles
+INEX_LD-2012321	city	NN	Asian port state-city Sir Stamford Raffles
 INEX_LD-2012321	sir	NNP	Asian port state-city Sir Stamford Raffles
 INEX_LD-2012321	stamford	NNP	Asian port state-city Sir Stamford Raffles
 INEX_LD-2012321	raffle	NNP	Asian port state-city Sir Stamford Raffles
@@ -255,7 +255,7 @@ INEX_LD-2012325	law	NN	successor James G. Blaine studied law
 INEX_LD-2012327	beloved	JJ	Beloved author African-American Nobel Prize Literature
 INEX_LD-2012327	author	NN	Beloved author African-American Nobel Prize Literature
 INEX_LD-2012327	africa	NNP	Beloved author African-American Nobel Prize Literature
-INEX_LD-2012327	america	null	Beloved author African-American Nobel Prize Literature
+INEX_LD-2012327	america	NNP	Beloved author African-American Nobel Prize Literature
 INEX_LD-2012327	nobel	NNP	Beloved author African-American Nobel Prize Literature
 INEX_LD-2012327	prize	NNP	Beloved author African-American Nobel Prize Literature
 INEX_LD-2012327	literature	NNP	Beloved author African-American Nobel Prize Literature
@@ -274,7 +274,7 @@ INEX_LD-2012333	minister	NN	Prime minister Canada nicknamed Silver-Tongued Lauri
 INEX_LD-2012333	canada	NNP	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term
 INEX_LD-2012333	nickname	VBD	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term
 INEX_LD-2012333	silver	NNP	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term
-INEX_LD-2012333	tongue	null	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term
+INEX_LD-2012333	tongue	NNP	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term
 INEX_LD-2012333	laurier	NNP	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term
 INEX_LD-2012333	longest	JJS	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term
 INEX_LD-2012333	unbroken	JJ	Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term
@@ -355,7 +355,7 @@ INEX_LD-2012359	director	NNP	 Bob Ricker Executive Director the latest front gro
 INEX_LD-2012359	latest	JJS	 Bob Ricker Executive Director the latest front group for the anti-gun movement
 INEX_LD-2012359	group	NN	 Bob Ricker Executive Director the latest front group for the anti-gun movement
 INEX_LD-2012359	anti	JJ	 Bob Ricker Executive Director the latest front group for the anti-gun movement
-INEX_LD-2012359	gun	null	 Bob Ricker Executive Director the latest front group for the anti-gun movement
+INEX_LD-2012359	gun	NN	 Bob Ricker Executive Director the latest front group for the anti-gun movement
 INEX_LD-2012359	movement	NN	 Bob Ricker Executive Director the latest front group for the anti-gun movement
 INEX_LD-2012361	famous	JJ	most famous award winning actor singer
 INEX_LD-2012361	award	NN	most famous award winning actor singer
@@ -383,7 +383,7 @@ INEX_LD-2012367	invent	VBN	invented telescope
 INEX_LD-2012367	telescope	NN	invented telescope
 INEX_LD-2012369	famous	JJ	most famous civic-military airports
 INEX_LD-2012369	civic	JJ	most famous civic-military airports
-INEX_LD-2012369	military	null	most famous civic-military airports
+INEX_LD-2012369	military	JJ	most famous civic-military airports
 INEX_LD-2012369	airport	NNS	most famous civic-military airports
 INEX_LD-2012371	beautiful	JJ	most beautiful railway stations world cities located
 INEX_LD-2012371	railway	NN	most beautiful railway stations world cities located
@@ -471,7 +471,7 @@ INEX_XER-72	shot	VBN	films shot in Venice
 INEX_XER-72	venice	NNP	films shot in Venice
 INEX_XER-73	magazine	NNS	magazines about indie-music
 INEX_XER-73	indie	JJ	magazines about indie-music
-INEX_XER-73	music	null	magazines about indie-music
+INEX_XER-73	music	NN	magazines about indie-music
 INEX_XER-74	circus	NN	circus mammals
 INEX_XER-74	mammal	NNS	circus mammals
 INEX_XER-79	works	NNP	Works by Charles Rennie Mackintosh
@@ -510,9 +510,9 @@ INEX_XER-95	play	VBZ	Tom Hanks movies where he plays a leading role.
 INEX_XER-95	leading	JJ	Tom Hanks movies where he plays a leading role.
 INEX_XER-95	role	NN	Tom Hanks movies where he plays a leading role.
 INEX_XER-96	pure	JJ	Pure object-oriented programing languages
-INEX_XER-96	object	JJ	Pure object-oriented programing languages
-INEX_XER-96	orient	null	Pure object-oriented programing languages
-INEX_XER-96	program	NN	Pure object-oriented programing languages
+INEX_XER-96	object	NN	Pure object-oriented programing languages
+INEX_XER-96	orient	VBD	Pure object-oriented programing languages
+INEX_XER-96	program	VBG	Pure object-oriented programing languages
 INEX_XER-96	language	NNS	Pure object-oriented programing languages
 INEX_XER-97	compile	NNS	Compilers that can compile both C and C++
 INEX_XER-97	compile	NNS	Compilers that can compile both C and C++
@@ -630,12 +630,12 @@ INEX_XER-132	classical	JJ	living nordic classical composers
 INEX_XER-132	composer	NNS	living nordic classical composers
 INEX_XER-133	eu	NNP	EU countries
 INEX_XER-133	country	NNS	EU countries
-INEX_XER-134	record	JJ	record-breaking sprinters in male 100-meter sprints
-INEX_XER-134	break	null	record-breaking sprinters in male 100-meter sprints
+INEX_XER-134	record	NN	record-breaking sprinters in male 100-meter sprints
+INEX_XER-134	break	NN	record-breaking sprinters in male 100-meter sprints
 INEX_XER-134	sprint	NNS	record-breaking sprinters in male 100-meter sprints
-INEX_XER-134	male	JJ	record-breaking sprinters in male 100-meter sprints
-INEX_XER-134	100	JJ	record-breaking sprinters in male 100-meter sprints
-INEX_XER-134	meter	null	record-breaking sprinters in male 100-meter sprints
+INEX_XER-134	male	NN	record-breaking sprinters in male 100-meter sprints
+INEX_XER-134	100	CD	record-breaking sprinters in male 100-meter sprints
+INEX_XER-134	meter	NN	record-breaking sprinters in male 100-meter sprints
 INEX_XER-134	sprint	NNS	record-breaking sprinters in male 100-meter sprints
 INEX_XER-135	professional	JJ	professional baseball team in Japan
 INEX_XER-135	baseball	NN	professional baseball team in Japan
@@ -1701,8 +1701,8 @@ SemSearch_LS-38	oklahoma	NN	states that border oklahoma
 SemSearch_LS-39	ten	CD	ten ancient Greek city-kingdoms of Cyprus
 SemSearch_LS-39	ancient	JJ	ten ancient Greek city-kingdoms of Cyprus
 SemSearch_LS-39	greece	JJ	ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	city	NNS	ten ancient Greek city-kingdoms of Cyprus
-SemSearch_LS-39	kingdom	null	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	city	NN	ten ancient Greek city-kingdoms of Cyprus
+SemSearch_LS-39	kingdom	NNS	ten ancient Greek city-kingdoms of Cyprus
 SemSearch_LS-39	cyprus	NNP	ten ancient Greek city-kingdoms of Cyprus
 SemSearch_LS-40	first	JJ	the first 13 american states
 SemSearch_LS-40	13	CD	the first 13 american states

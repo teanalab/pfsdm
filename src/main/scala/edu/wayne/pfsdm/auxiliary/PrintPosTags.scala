@@ -29,12 +29,12 @@ object PrintPosTags extends App {
   }
 
   def getTag(query: String, stemmedToken: String): String = {
-    val sentences = MaxentTagger.tokenizeText(new StringReader(query))
+    val sentences = MaxentTagger.tokenizeText(new StringReader(query.replace('-', ' ')))
     for (sentence <- sentences) {
       val tSentence = tagger.tagSentence(sentence)
       for (taggedWord: TaggedWord <- tSentence) {
         if (Util.filterTokens(taggedWord.word()).nonEmpty &&
-          Util.filterTokens(taggedWord.word())(0) == stemmedToken) {
+          Util.filterTokens(taggedWord.word()).head == stemmedToken) {
           return taggedWord.tag()
         }
       }
