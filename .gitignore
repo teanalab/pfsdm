@@ -47,3 +47,5 @@ Rplots.pdf
 
 # qsub files
 STDIN.*
+*.e*
+*.o*
