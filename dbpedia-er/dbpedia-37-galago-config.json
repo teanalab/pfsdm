@@ -64,6 +64,7 @@
     "/dep-leaf",
     "bigramcfratioimp",
     "/nnp",
-    "/nns"
+    "/nns",
+    "/np-part"
   ]
 }
