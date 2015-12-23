@@ -1,0 +1,40 @@
+{
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-/nns" : 0.1666666667,
+        "uni-/const" : 0.1666666667,
+        "od-/nns" : 0.1666666667,
+        "od-/const" : 0.1666666667,
+        "uww-/nns" : 0.1666666667,
+        "uww-/const" : 0.1666666667,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-/nns"},
+        {"max":1.0, "min":0.0, "name":"uni-/const"},
+        {"max":1.0, "min":0.0, "name":"od-/nns"},
+        {"max":1.0, "min":0.0, "name":"od-/const"},
+        {"max":1.0, "min":0.0, "name":"uww-/nns"},
+        {"max":1.0, "min":0.0, "name":"uww-/const"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-/nns",
+                "uni-/const",
+                "od-/nns",
+                "od-/const",
+                "uww-/nns",
+                "uww-/const",
+            ],
+            "value":1.0
+        }
+    ]
+}

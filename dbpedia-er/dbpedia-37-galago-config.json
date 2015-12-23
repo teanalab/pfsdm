@@ -62,6 +62,8 @@
     "/wiki-infobox-word-count-12",
     "/wiki-infobox-word-count-16",
     "/dep-leaf",
-    "bigramcfratioimp"
+    "bigramcfratioimp",
+    "/nnp",
+    "/nns"
   ]
 }
