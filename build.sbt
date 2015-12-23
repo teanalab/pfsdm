@@ -13,7 +13,8 @@ libraryDependencies ++= Seq(
   "org.functionaljava" % "functionaljava" % "4.3",
   "org.functionaljava" % "functionaljava-java8" % "4.3",
   "org.scalatest" %% "scalatest" % "2.2.5" % "test",
-  "org.apache.spark" %% "spark-core" % "1.2.0" % "provided"
+  "org.apache.spark" %% "spark-core" % "1.2.0" % "provided",
+  "edu.stanford.nlp" % "stanford-parser" % "3.5.2"
 )
 
 javacOptions ++= Seq("-Xlint:unchecked")
