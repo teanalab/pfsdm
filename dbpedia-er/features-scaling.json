@@ -30,5 +30,8 @@
         { "name" : "/web1t-word-invcount", "min" : -26.2918, "max" : -3.7376 },
         { "name" : "/dep-leaf" },
         { "name" : "bigramcfratioimp", "min" : -22.6017, "max" : -4.6314 },
+        { "name" : "/nn" },
+        { "name" : "/jjs" },
+        { "name" : "/jj" }
     ]
 }
