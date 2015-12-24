@@ -65,6 +65,8 @@
     "bigramcfratioimp",
     "/nnp",
     "/nns",
-    "/np-part"
+    "/np-part",
+    "/nn",
+    "/jjs"
   ]
 }
