@@ -40,7 +40,10 @@
     "/nn-only",
     "/nns-only",
     "/question-dep",
-    "/const"
+    "/const",
+    "/nn",
+    "/jjs",
+    "/jj"
   ],
   "importanceFeatures": [
     "collectiontf",
