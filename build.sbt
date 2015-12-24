@@ -7,7 +7,7 @@ scalaVersion := "2.10.4"
 resolvers += "Local Maven Repository" at "file://"+Path.userHome.absolutePath+"/.m2/repository"
 
 libraryDependencies ++= Seq(
-  "org.lemurproject.galago" % "contrib" % "3.9-SNAPSHOT",
+  "org.lemurproject.galago" % "contrib" % "3.10-SNAPSHOT",
   "org.apache.lucene" % "lucene-core" % "4.8.1",
   "org.apache.lucene" % "lucene-analyzers-common" % "4.8.1",
   "org.functionaljava" % "functionaljava" % "4.3",
@@ -21,6 +21,7 @@ javacOptions ++= Seq("-Xlint:unchecked")
 
 assemblyMergeStrategy in assembly := {
   case PathList("org", "tartarus", "snowball", xs @ _*)         => MergeStrategy.first
+  case PathList("javax", "annotation", xs @ _*)         => MergeStrategy.first
   case x =>
     val oldStrategy = (assemblyMergeStrategy in assembly).value
     oldStrategy(x)

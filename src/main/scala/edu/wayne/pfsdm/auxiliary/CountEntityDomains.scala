@@ -29,7 +29,7 @@ object CountEntityDomains {
       Seq(subj, obj).flatten
     }.distinct().flatMap { url =>
       Try {
-        InternetDomainName.from(new URL(url).getHost).topPrivateDomain().name()
+        InternetDomainName.from(new URL(url).getHost).topPrivateDomain().toString()
       }.toOption
     }.map(domain => (domain, 1)).reduceByKey(_ + _).map { case (d, c) => s"$d\t$c" }.saveAsTextFile(pathToOutput)
   }
