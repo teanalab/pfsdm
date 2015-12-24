@@ -6,6 +6,7 @@
     "specialMinStepSize" : 0.05,
     "stepScale" : 1.0,
     "initialParameters" : [{
+        "uni-/const" : 0.0001,
         "uni-/nnp" : 0.1,
         "od-/nnp" : 0.1,
         "uww-/nnp" : 0.1,
@@ -19,6 +20,7 @@
     }],
 
     "learnableParameters":[
+        {"max":0.0001, "min":0.0001, "name":"uni-/const"},
         {"max":1.0, "min":0.0, "name":"uni-/nnp"},
         {"max":1.0, "min":0.0, "name":"od-/nnp"},
         {"max":1.0, "min":0.0, "name":"uww-/nnp"},
@@ -35,6 +37,7 @@
         {
             "mode": "sum",
             "params":[
+                "uni-/const",
                 "uni-/nnp",
                 "od-/nnp",
                 "uww-/nnp",
