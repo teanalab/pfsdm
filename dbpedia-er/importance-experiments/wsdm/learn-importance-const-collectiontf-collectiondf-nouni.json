@@ -6,12 +6,12 @@
     "specialMinStepSize" : 0.05,
     "stepScale" : 1.0,
     "initialParameters" : [{
-        "uni-/const" : 0.1666666667,
-        "bi-/const" : 0.1666666667,
-        "uni-collectiontf" : 0.1666666667,
-        "bi-collectiontf" : 0.1666666667,
-        "uni-collectiondf" : 0.1666666667,
-        "bi-collectiondf" : 0.1666666667
+        "uni-/const" : 0.8,
+        "bi-/const" : 0.2,
+        "uni-collectiontf" : 0.0,
+        "bi-collectiontf" : 0.0,
+        "uni-collectiondf" : 0.0,
+        "bi-collectiondf" : 0.0
     }],
 
     "learnableParameters":[
