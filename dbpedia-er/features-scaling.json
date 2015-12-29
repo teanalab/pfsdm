@@ -32,6 +32,7 @@
         { "name" : "bigramcfratioimp", "min" : -22.6017, "max" : -4.6314 },
         { "name" : "/nn" },
         { "name" : "/jjs" },
-        { "name" : "/jj" }
+        { "name" : "/jj" },
+        { "name" : "collectiondf", "min" : 0.0, "max" : 12.8732}
     ]
 }

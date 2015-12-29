@@ -8,7 +8,7 @@ import scala.math.log
 /**
  * Created by fsqcds on 5/1/15.
  */
-class CollectionTF(val retrieval: Retrieval) extends MemoizedImportanceFeature {
+class CollectionDF(val retrieval: Retrieval) extends MemoizedImportanceFeature {
   val fields = retrieval.getGlobalParameters.getAsList("fields", classOf[String])
 
   private def getTermFrequency(tokens: Seq[String]): Long = {
@@ -24,7 +24,7 @@ class CollectionTF(val retrieval: Retrieval) extends MemoizedImportanceFeature {
         od1.addChild(t2)
         od1
     }
-    retrieval.getNodeStatistics(node).nodeFrequency
+    retrieval.getNodeStatistics(node).nodeDocumentCount
   }
 
   override def getNewPhi(tokens: Seq[String]): Double = {

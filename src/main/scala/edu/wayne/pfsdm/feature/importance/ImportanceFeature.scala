@@ -31,6 +31,7 @@ object ImportanceFeature {
 
   def apply(fieldFeatureName: String, retrieval: Retrieval): ImportanceFeature = fieldFeatureName match {
     case "collectiontf" => new CollectionTF(retrieval)
+    case "collectiondf" => new CollectionDF(retrieval)
     case "collectionitf" => new CollectionInverseTF(retrieval)
     case "bigramcfratioimp" => new BigramCFRatio(retrieval)
     case FeaturesPath(path) => new FileBasedFeature(path)
