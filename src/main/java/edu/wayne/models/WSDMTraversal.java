@@ -185,6 +185,10 @@ public class WSDMTraversal extends Traversal {
             double featureWeight = getImportanceFeatureWeight(depType, featureName, queryParameters);
             if (featureWeight != 0.0) {
                 labmda += featureWeight * getScaledImportanceFeatureValue(featureName, terms, queryParameters.getString("number"));
+                if (verbose) {
+                    logger.info(String.format("%s -- feature:%s:%g * %g = %g", String.join(", ", terms), featureName, featureWeight, getScaledImportanceFeatureValue(featureName, terms, queryParameters.getString("number")), featureWeight * getScaledImportanceFeatureValue(featureName, terms, queryParameters.getString("number"))));
+                }
+
             }
         }
         logger.info(String.format("%s\t%s\t%s\t%g", queryParameters.getString("number"), String.join(" ", terms), "lambda for " + depType, labmda));

@@ -2,6 +2,7 @@ package edu.wayne.pfsdm.feature.importance
 
 import org.lemurproject.galago.core.retrieval.Retrieval
 import org.lemurproject.galago.core.retrieval.query.{Node, StructuredQuery}
+import org.lemurproject.galago.core.util.TextPartAssigner
 
 import scala.math.log
 
@@ -14,10 +15,14 @@ class CollectionDF(val retrieval: Retrieval) extends MemoizedImportanceFeature {
   private def getTermFrequency(tokens: Seq[String]): Long = {
     val node: Node = (tokens.toList: @unchecked) match {
       case term :: Nil =>
-        new Node("counts", term)
+        var t: Node = new Node("counts", term)
+        t = TextPartAssigner.assignPart(t, retrieval.getGlobalParameters, retrieval.getAvailableParts)
+        t
       case term1 :: term2 :: Nil =>
-        val t1: Node = new Node("extents", term1)
-        val t2: Node = new Node("extents", term2)
+        var t1: Node = new Node("extents", term1)
+        t1 = TextPartAssigner.assignPart(t1, retrieval.getGlobalParameters, retrieval.getAvailableParts)
+        var t2: Node = new Node("extents", term2)
+        t2 = TextPartAssigner.assignPart(t2, retrieval.getGlobalParameters, retrieval.getAvailableParts)
         val od1: Node = new Node("ordered")
         od1.getNodeParameters.set("default", 1)
         od1.addChild(t1)
