@@ -11,7 +11,7 @@
         { "name" : "/nns-only" },
         { "name" : "/question-dep" },
         { "name" : "/wiki-word-count", "min" : 0.0, "max" : 16.0631},
-        { "name" : "collectiontf", "min" : 0.0, "max" : 14.6186},
+        { "name" : "collectiontf", "min" : 0.0, "max" : 15.3524},
         { "name" : "/wiki-titles-word-count", "min" : 0.0, "max" : 10.4438 },
         { "name" : "/wiki-titles-word-presence" },
         { "name" : "/wiki-infobox-word-count", "min" : 0.0, "max" : 14.8908 },
@@ -24,15 +24,15 @@
         { "name" : "/google-ngrams-word-presence" },
         { "name" : "/const" },
         { "name" : "/google-ngrams-word-invcount", "min" : -22.139, "max" : -3.7135 },
-        { "name" : "collectionitf", "min" : -14.6186, "max" : 0.0},
+        { "name" : "collectionitf", "min" : -15.3524, "max" : 0.0},
         { "name" : "/wiki-word-invcount", "min" : -16.0631, "max" : 0.0 },
         { "name" : "/web1t-word-count", "min" : 3.7376, "max" : 26.2918 },
         { "name" : "/web1t-word-invcount", "min" : -26.2918, "max" : -3.7376 },
         { "name" : "/dep-leaf" },
-        { "name" : "bigramcfratioimp", "min" : -22.6017, "max" : -4.6314 },
+        { "name" : "bigramcfratioimp", "min" : -19.9378, "max" : -6.6726 },
         { "name" : "/nn" },
         { "name" : "/jjs" },
         { "name" : "/jj" },
-        { "name" : "collectiondf", "min" : 0.0, "max" : 12.8732}
+        { "name" : "collectiondf", "min" : 0.0, "max" : 14.5741}
     ]
 }
