@@ -15,9 +15,9 @@ class FileBasedFeatureTest extends FunSuite {
     assert(testFileFeature.getPhi(Seq("award", "wikileak"), "", "QALD2_tr-29") === 1.0)
   }
 
-  test("getPhi should throw exception if value not found") {
-    intercept[Exception] {
-      testFileFeature.getPhi(Seq("award", "wikileak"), "", "QALD2_tr-28")
-    }
-  }
+//  test("getPhi should throw exception if value not found") {
+//    intercept[Exception] {
+//      testFileFeature.getPhi(Seq("award", "wikileak"), "", "QALD2_tr-28")
+//    }
+//  }
 }

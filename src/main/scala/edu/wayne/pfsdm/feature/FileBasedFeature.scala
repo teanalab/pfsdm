@@ -21,6 +21,6 @@ class FileBasedFeature(val featureFileName: String) extends FieldFeature with Im
   }
 
   override def getPhi(tokens: Seq[String], queryId: String): Double = {
-    qIdGramToFeatureValue(queryId, tokens)
+    qIdGramToFeatureValue.getOrElse((queryId, tokens), 0)
   }
 }
