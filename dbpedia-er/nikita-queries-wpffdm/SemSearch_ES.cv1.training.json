@@ -1,0 +1,419 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-138",
+"text": "#wpffdm(syracuse spca)"
+},
+{
+"number": "SemSearch_ES-124",
+"text": "#wpffdm(motorola bluetooth hs850)"
+},
+{
+"number": "SemSearch_ES-54",
+"text": "#wpffdm(marc anthony)"
+},
+{
+"number": "SemSearch_ES-141",
+"text": "#wpffdm(ventura county court)"
+},
+{
+"number": "SemSearch_ES-23",
+"text": "#wpffdm(city virginia beach)"
+},
+{
+"number": "SemSearch_ES-137",
+"text": "#wpffdm(steak express)"
+},
+{
+"number": "SemSearch_ES-81",
+"text": "#wpffdm(south dakota state university)"
+},
+{
+"number": "SemSearch_ES-45",
+"text": "#wpffdm(keith urban)"
+},
+{
+"number": "SemSearch_ES-104",
+"text": "#wpffdm(bourbonnai il)"
+},
+{
+"number": "SemSearch_ES-101",
+"text": "#wpffdm(ashley wagner)"
+},
+{
+"number": "SemSearch_ES-53",
+"text": "#wpffdm(lynchburg virginia)"
+},
+{
+"number": "SemSearch_ES-142",
+"text": "#wpffdm(windsor hotel philadelphia)"
+},
+{
+"number": "SemSearch_ES-3",
+"text": "#wpffdm(bookwork)"
+},
+{
+"number": "SemSearch_ES-19",
+"text": "#wpffdm(carl lewis)"
+},
+{
+"number": "SemSearch_ES-40",
+"text": "#wpffdm(james clayton md)"
+},
+{
+"number": "SemSearch_ES-95",
+"text": "#wpffdm(madrid)"
+},
+{
+"number": "SemSearch_ES-123",
+"text": "#wpffdm(michael zimmerman)"
+},
+{
+"number": "SemSearch_ES-88",
+"text": "#wpffdm(thomas jefferson)"
+},
+{
+"number": "SemSearch_ES-83",
+"text": "#wpffdm(st paul saint)"
+},
+{
+"number": "SemSearch_ES-13",
+"text": "#wpffdm(banana paper making)"
+},
+{
+"number": "SemSearch_ES-87",
+"text": "#wpffdm(quick lift)"
+},
+{
+"number": "SemSearch_ES-120",
+"text": "#wpffdm(lawrence general hospital)"
+},
+{
+"number": "SemSearch_ES-38",
+"text": "#wpffdm(jack rip)"
+},
+{
+"number": "SemSearch_ES-61",
+"text": "#wpffdm(rourke fantasy island)"
+},
+{
+"number": "SemSearch_ES-80",
+"text": "#wpffdm(sonny cher)"
+},
+{
+"number": "SemSearch_ES-100",
+"text": "#wpffdm(ymca tampa)"
+},
+{
+"number": "SemSearch_ES-56",
+"text": "#wpffdm(mario bro)"
+},
+{
+"number": "SemSearch_ES-109",
+"text": "#wpffdm(david hewlett)"
+},
+{
+"number": "SemSearch_ES-47",
+"text": "#wpffdm(king arthur)"
+},
+{
+"number": "SemSearch_ES-135",
+"text": "#wpffdm(spring shoe canada)"
+},
+{
+"number": "SemSearch_ES-21",
+"text": "#wpffdm(charles darwin)"
+},
+{
+"number": "SemSearch_ES-20",
+"text": "#wpffdm(carolina)"
+},
+{
+"number": "SemSearch_ES-4",
+"text": "#wpffdm(naacp image award)"
+},
+{
+"number": "SemSearch_ES-106",
+"text": "#wpffdm(chase masterson)"
+},
+{
+"number": "SemSearch_ES-26",
+"text": "#wpffdm(disney orlando)"
+},
+{
+"number": "SemSearch_ES-32",
+"text": "#wpffdm(fitzgerald auto mall chambersburg pa)"
+},
+{
+"number": "SemSearch_ES-51",
+"text": "#wpffdm(lexu maplewood)"
+},
+{
+"number": "SemSearch_ES-133",
+"text": "#wpffdm(sedona hike trail)"
+},
+{
+"number": "SemSearch_ES-76",
+"text": "#wpffdm(san antonio)"
+},
+{
+"number": "SemSearch_ES-103",
+"text": "#wpffdm(bounce city humble tx)"
+},
+{
+"number": "SemSearch_ES-10",
+"text": "#wpffdm(asheville north carolina)"
+},
+{
+"number": "SemSearch_ES-28",
+"text": "#wpffdm(el salvador)"
+},
+{
+"number": "SemSearch_ES-66",
+"text": "#wpffdm(overeater anonymous)"
+},
+{
+"number": "SemSearch_ES-42",
+"text": "#wpffdm(john maxwell)"
+},
+{
+"number": "SemSearch_ES-34",
+"text": "#wpffdm(harry potter movie)"
+},
+{
+"number": "SemSearch_ES-99",
+"text": "#wpffdm(university york)"
+},
+{
+"number": "SemSearch_ES-5",
+"text": "#wpffdm(scott county)"
+},
+{
+"number": "SemSearch_ES-128",
+"text": "#wpffdm(philadelphia neufchatel cheese)"
+},
+{
+"number": "SemSearch_ES-6",
+"text": "#wpffdm(air wisconsin)"
+},
+{
+"number": "SemSearch_ES-82",
+"text": "#wpffdm(st lucia)"
+},
+{
+"number": "SemSearch_ES-72",
+"text": "#wpffdm(rock 103 memphis)"
+},
+{
+"number": "SemSearch_ES-74",
+"text": "#wpffdm(sacred heart u)"
+},
+{
+"number": "SemSearch_ES-78",
+"text": "#wpffdm(sharp pc)"
+},
+{
+"number": "SemSearch_ES-33",
+"text": "#wpffdm(harry potter)"
+},
+{
+"number": "SemSearch_ES-11",
+"text": "#wpffdm(austin powers)"
+},
+{
+"number": "SemSearch_ES-1",
+"text": "#wpffdm(44 magnum hunting)"
+},
+{
+"number": "SemSearch_ES-108",
+"text": "#wpffdm(danielia cotton)"
+},
+{
+"number": "SemSearch_ES-57",
+"text": "#wpffdm(martin luther king)"
+},
+{
+"number": "SemSearch_ES-114",
+"text": "#wpffdm(glenn frey)"
+},
+{
+"number": "SemSearch_ES-52",
+"text": "#wpffdm(lincoln park)"
+},
+{
+"number": "SemSearch_ES-18",
+"text": "#wpffdm(canasta cards)"
+},
+{
+"number": "SemSearch_ES-59",
+"text": "#wpffdm(mercy hospital des moines ia)"
+},
+{
+"number": "SemSearch_ES-27",
+"text": "#wpffdm(earl)"
+},
+{
+"number": "SemSearch_ES-84",
+"text": "#wpffdm(dish danielle fishel)"
+},
+{
+"number": "SemSearch_ES-50",
+"text": "#wpffdm(laura steele bob tom)"
+},
+{
+"number": "SemSearch_ES-37",
+"text": "#wpffdm(jack johnson)"
+},
+{
+"number": "SemSearch_ES-73",
+"text": "#wpffdm(rowan university)"
+},
+{
+"number": "SemSearch_ES-25",
+"text": "#wpffdm(david suchet)"
+},
+{
+"number": "SemSearch_ES-12",
+"text": "#wpffdm(austin texas)"
+},
+{
+"number": "SemSearch_ES-136",
+"text": "#wpffdm(sri lanka government gazette)"
+},
+{
+"number": "SemSearch_ES-29",
+"text": "#wpffdm(elli college)"
+},
+{
+"number": "SemSearch_ES-118",
+"text": "#wpffdm(iowa energy)"
+},
+{
+"number": "SemSearch_ES-94",
+"text": "#wpffdm(hugh downs)"
+},
+{
+"number": "SemSearch_ES-58",
+"text": "#wpffdm(mason ohio)"
+},
+{
+"number": "SemSearch_ES-134",
+"text": "#wpffdm(skye wood)"
+},
+{
+"number": "SemSearch_ES-24",
+"text": "#wpffdm(coastal carolina)"
+},
+{
+"number": "SemSearch_ES-132",
+"text": "#wpffdm(sea mattress co)"
+},
+{
+"number": "SemSearch_ES-22",
+"text": "#wpffdm(city charlotte)"
+},
+{
+"number": "SemSearch_ES-130",
+"text": "#wpffdm(plymouth police department)"
+},
+{
+"number": "SemSearch_ES-86",
+"text": "#wpffdm(morning call lehigh valley pa)"
+},
+{
+"number": "SemSearch_ES-129",
+"text": "#wpffdm(pizza populous detroit mi)"
+},
+{
+"number": "SemSearch_ES-65",
+"text": "#wpffdm(orlando florida)"
+},
+{
+"number": "SemSearch_ES-85",
+"text": "#wpffdm(longest yard sale)"
+},
+{
+"number": "SemSearch_ES-15",
+"text": "#wpffdm(bradley center)"
+},
+{
+"number": "SemSearch_ES-9",
+"text": "#wpffdm(america embassy nairobi)"
+},
+{
+"number": "SemSearch_ES-112",
+"text": "#wpffdm(espresso tv stand)"
+},
+{
+"number": "SemSearch_ES-70",
+"text": "#wpffdm(radio italia online)"
+},
+{
+"number": "SemSearch_ES-41",
+"text": "#wpffdm(joan arc)"
+},
+{
+"number": "SemSearch_ES-111",
+"text": "#wpffdm(eagle rock ca)"
+},
+{
+"number": "SemSearch_ES-102",
+"text": "#wpffdm(beach flower)"
+},
+{
+"number": "SemSearch_ES-98",
+"text": "#wpffdm(university texas austin)"
+},
+{
+"number": "SemSearch_ES-105",
+"text": "#wpffdm(cedar garden apartments)"
+},
+{
+"number": "SemSearch_ES-139",
+"text": "#wpffdm(big texas steak house)"
+},
+{
+"number": "SemSearch_ES-69",
+"text": "#wpffdm(piosenki mp3)"
+},
+{
+"number": "SemSearch_ES-77",
+"text": "#wpffdm(savannah tech)"
+},
+{
+"number": "SemSearch_ES-75",
+"text": "#wpffdm(sagemont church houston tx)"
+},
+{
+"number": "SemSearch_ES-79",
+"text": "#wpffdm(shobana masala)"
+},
+{
+"number": "SemSearch_ES-35",
+"text": "#wpffdm(hospice cincinnati)"
+},
+{
+"number": "SemSearch_ES-90",
+"text": "#wpffdm(university phoenix)"
+},
+{
+"number": "SemSearch_ES-17",
+"text": "#wpffdm(butte montana)"
+},
+{
+"number": "SemSearch_ES-96",
+"text": "#wpffdm(new england coffee)"
+},
+{
+"number": "SemSearch_ES-125",
+"text": "#wpffdm(nokia e73)"
+},
+{
+"number": "SemSearch_ES-39",
+"text": "#wpffdm(james caldwell high school)"
+},
+{
+"number": "SemSearch_ES-119",
+"text": "#wpffdm(john elliott)"
+}]
+}

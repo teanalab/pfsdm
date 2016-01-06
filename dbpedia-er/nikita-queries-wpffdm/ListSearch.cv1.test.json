@@ -1,0 +1,95 @@
+{
+"queries" : [
+{
+"number": "INEX_XER-118",
+"text": "#wpffdm(france car model 1960 s)"
+},
+{
+"number": "SemSearch_LS-40",
+"text": "#wpffdm(first 13 america states)"
+},
+{
+"number": "INEX_XER-138",
+"text": "#wpffdm(national park east coast canada us)"
+},
+{
+"number": "INEX_XER-116",
+"text": "#wpffdm(italy nobel prize winner)"
+},
+{
+"number": "INEX_XER-72",
+"text": "#wpffdm(film shot venice)"
+},
+{
+"number": "INEX_XER-117",
+"text": "#wpffdm(musician appear blues brother movies)"
+},
+{
+"number": "SemSearch_LS-2",
+"text": "#wpffdm(arab states persian gulf)"
+},
+{
+"number": "SemSearch_LS-42",
+"text": "#wpffdm(twelve tribe son israel)"
+},
+{
+"number": "TREC_Entity-12",
+"text": "#wpffdm(airline air canada code share flight)"
+},
+{
+"number": "TREC_Entity-1",
+"text": "#wpffdm(carrier blackberry make phone)"
+},
+{
+"number": "SemSearch_LS-25",
+"text": "#wpffdm(member u2)"
+},
+{
+"number": "SemSearch_LS-37",
+"text": "#wpffdm(standard axiom set theory)"
+},
+{
+"number": "TREC_Entity-2",
+"text": "#wpffdm(winner acm athena award)"
+},
+{
+"number": "INEX_XER-74",
+"text": "#wpffdm(circus mammal)"
+},
+{
+"number": "INEX_XER-140",
+"text": "#wpffdm(airport germany)"
+},
+{
+"number": "SemSearch_LS-32",
+"text": "#wpffdm(president depict mount rushmore die shoot)"
+},
+{
+"number": "INEX_XER-81",
+"text": "#wpffdm(movies english hooligan)"
+},
+{
+"number": "INEX_XER-115",
+"text": "#wpffdm(formula world constructor champion)"
+},
+{
+"number": "INEX_XER-79",
+"text": "#wpffdm(works charles rennie mackintosh)"
+},
+{
+"number": "SemSearch_LS-38",
+"text": "#wpffdm(states border oklahoma)"
+},
+{
+"number": "INEX_XER-136",
+"text": "#wpffdm(japan player major league baseball)"
+},
+{
+"number": "INEX_XER-88",
+"text": "#wpffdm(nordic author known children literature)"
+},
+{
+"number": "SemSearch_LS-22",
+"text": "#wpffdm(major league united states)"
+}]
+}

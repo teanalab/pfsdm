@@ -28,6 +28,10 @@
     {
       "name": "edu.wayne.pfsdm.ParametrizedFFDMTraversal",
       "order": "before"
+    },
+    {
+      "name": "edu.wayne.pfsdm.WPFFDMTraversal",
+      "order": "before"
     }
   ],
   "fields": [

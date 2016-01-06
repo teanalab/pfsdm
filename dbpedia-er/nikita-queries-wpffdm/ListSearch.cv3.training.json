@@ -1,0 +1,371 @@
+{
+"queries" : [
+{
+"number": "INEX_XER-118",
+"text": "#wpffdm(france car model 1960 s)"
+},
+{
+"number": "SemSearch_LS-40",
+"text": "#wpffdm(first 13 america states)"
+},
+{
+"number": "INEX_XER-138",
+"text": "#wpffdm(national park east coast canada us)"
+},
+{
+"number": "INEX_XER-116",
+"text": "#wpffdm(italy nobel prize winner)"
+},
+{
+"number": "INEX_XER-72",
+"text": "#wpffdm(film shot venice)"
+},
+{
+"number": "INEX_XER-117",
+"text": "#wpffdm(musician appear blues brother movies)"
+},
+{
+"number": "SemSearch_LS-2",
+"text": "#wpffdm(arab states persian gulf)"
+},
+{
+"number": "SemSearch_LS-42",
+"text": "#wpffdm(twelve tribe son israel)"
+},
+{
+"number": "TREC_Entity-12",
+"text": "#wpffdm(airline air canada code share flight)"
+},
+{
+"number": "TREC_Entity-1",
+"text": "#wpffdm(carrier blackberry make phone)"
+},
+{
+"number": "SemSearch_LS-25",
+"text": "#wpffdm(member u2)"
+},
+{
+"number": "SemSearch_LS-37",
+"text": "#wpffdm(standard axiom set theory)"
+},
+{
+"number": "TREC_Entity-2",
+"text": "#wpffdm(winner acm athena award)"
+},
+{
+"number": "INEX_XER-74",
+"text": "#wpffdm(circus mammal)"
+},
+{
+"number": "INEX_XER-140",
+"text": "#wpffdm(airport germany)"
+},
+{
+"number": "SemSearch_LS-32",
+"text": "#wpffdm(president depict mount rushmore die shoot)"
+},
+{
+"number": "INEX_XER-81",
+"text": "#wpffdm(movies english hooligan)"
+},
+{
+"number": "INEX_XER-115",
+"text": "#wpffdm(formula world constructor champion)"
+},
+{
+"number": "INEX_XER-79",
+"text": "#wpffdm(works charles rennie mackintosh)"
+},
+{
+"number": "SemSearch_LS-38",
+"text": "#wpffdm(states border oklahoma)"
+},
+{
+"number": "INEX_XER-136",
+"text": "#wpffdm(japan player major league baseball)"
+},
+{
+"number": "INEX_XER-88",
+"text": "#wpffdm(nordic author known children literature)"
+},
+{
+"number": "SemSearch_LS-22",
+"text": "#wpffdm(major league united states)"
+},
+{
+"number": "INEX_XER-86",
+"text": "#wpffdm(list country world war two)"
+},
+{
+"number": "SemSearch_LS-5",
+"text": "#wpffdm(books jewish canon)"
+},
+{
+"number": "TREC_Entity-6",
+"text": "#wpffdm(organization award nobel prize)"
+},
+{
+"number": "SemSearch_LS-36",
+"text": "#wpffdm(revolutionary 1959 cuba)"
+},
+{
+"number": "TREC_Entity-10",
+"text": "#wpffdm(campus indiana university)"
+},
+{
+"number": "INEX_XER-147",
+"text": "#wpffdm(chemical elements name people)"
+},
+{
+"number": "SemSearch_LS-3",
+"text": "#wpffdm(astronaut landed moon)"
+},
+{
+"number": "SemSearch_LS-49",
+"text": "#wpffdm(invent python program language)"
+},
+{
+"number": "SemSearch_LS-50",
+"text": "#wpffdm(wonders ancient world)"
+},
+{
+"number": "INEX_XER-87",
+"text": "#wpffdm(axis powers world war ii)"
+},
+{
+"number": "SemSearch_LS-13",
+"text": "#wpffdm(five great epic tamil literature)"
+},
+{
+"number": "TREC_Entity-11",
+"text": "#wpffdm(donor home depot foundation)"
+},
+{
+"number": "INEX_XER-143",
+"text": "#wpffdm(hanseatic league germany netherlands circle)"
+},
+{
+"number": "INEX_XER-125",
+"text": "#wpffdm(country won fifa world cup)"
+},
+{
+"number": "SemSearch_LS-7",
+"text": "#wpffdm(branch us military)"
+},
+{
+"number": "SemSearch_LS-41",
+"text": "#wpffdm(four companion prophet)"
+},
+{
+"number": "INEX_XER-106",
+"text": "#wpffdm(noble english person hundred years war)"
+},
+{
+"number": "SemSearch_LS-21",
+"text": "#wpffdm(lil allen parent)"
+},
+{
+"number": "INEX_XER-63",
+"text": "#wpffdm(hugo award best novel)"
+},
+{
+"number": "SemSearch_LS-18",
+"text": "#wpffdm(john lennon parent)"
+},
+{
+"number": "INEX_XER-132",
+"text": "#wpffdm(living nordic classical composer)"
+},
+{
+"number": "INEX_XER-109",
+"text": "#wpffdm(national capitals situated island)"
+},
+{
+"number": "INEX_XER-130",
+"text": "#wpffdm(star trek captain)"
+},
+{
+"number": "SemSearch_LS-8",
+"text": "#wpffdm(continent world)"
+},
+{
+"number": "INEX_XER-98",
+"text": "#wpffdm(maker lawn tennis rackets)"
+},
+{
+"number": "INEX_XER-99",
+"text": "#wpffdm(computer system recursive acronym name)"
+},
+{
+"number": "INEX_XER-62",
+"text": "#wpffdm(neil gaiman novel)"
+},
+{
+"number": "TREC_Entity-20",
+"text": "#wpffdm(scotch whisky distillery island islay)"
+},
+{
+"number": "SemSearch_LS-11",
+"text": "#wpffdm(diocese church ireland)"
+},
+{
+"number": "TREC_Entity-18",
+"text": "#wpffdm(member band jefferson airplane)"
+},
+{
+"number": "TREC_Entity-9",
+"text": "#wpffdm(member beaux arts trio)"
+},
+{
+"number": "SemSearch_LS-6",
+"text": "#wpffdm(borough new york city)"
+},
+{
+"number": "INEX_XER-95",
+"text": "#wpffdm(tom hank movies play leading role)"
+},
+{
+"number": "SemSearch_LS-26",
+"text": "#wpffdm(movies star erykah badu)"
+},
+{
+"number": "INEX_XER-129",
+"text": "#wpffdm(science fiction book written 1980)"
+},
+{
+"number": "SemSearch_LS-12",
+"text": "#wpffdm(first target atomic bomb)"
+},
+{
+"number": "INEX_XER-134",
+"text": "#wpffdm(record break sprint male 100 meter sprint)"
+},
+{
+"number": "INEX_XER-67",
+"text": "#wpffdm(ferri observation wheels)"
+},
+{
+"number": "INEX_XER-94",
+"text": "#wpffdm(hybrid car sold europe)"
+},
+{
+"number": "INEX_XER-133",
+"text": "#wpffdm(eu country)"
+},
+{
+"number": "INEX_XER-141",
+"text": "#wpffdm(university catalunya)"
+},
+{
+"number": "SemSearch_LS-39",
+"text": "#wpffdm(ten ancient greece city kingdom cyprus)"
+},
+{
+"number": "INEX_XER-139",
+"text": "#wpffdm(film direct akira kurosawa)"
+},
+{
+"number": "INEX_XER-127",
+"text": "#wpffdm(germany female politician)"
+},
+{
+"number": "INEX_XER-121",
+"text": "#wpffdm(us president 1960)"
+},
+{
+"number": "SemSearch_LS-19",
+"text": "#wpffdm(kenya captain cricket)"
+},
+{
+"number": "TREC_Entity-15",
+"text": "#wpffdm(university member sec conference football)"
+},
+{
+"number": "INEX_XER-144",
+"text": "#wpffdm(chess world champion)"
+},
+{
+"number": "TREC_Entity-7",
+"text": "#wpffdm(airline current use boeing 747 plane)"
+},
+{
+"number": "SemSearch_LS-46",
+"text": "#wpffdm(britain monarch head state)"
+},
+{
+"number": "SemSearch_LS-10",
+"text": "#wpffdm(nicole kidman sibling)"
+},
+{
+"number": "INEX_XER-126",
+"text": "#wpffdm(toy train manufacturer business)"
+},
+{
+"number": "INEX_XER-123",
+"text": "#wpffdm(fifa world cup national team winner 1974)"
+},
+{
+"number": "INEX_XER-73",
+"text": "#wpffdm(magazine indie music)"
+},
+{
+"number": "TREC_Entity-4",
+"text": "#wpffdm(professional sports team philadelphia)"
+},
+{
+"number": "TREC_Entity-19",
+"text": "#wpffdm(company john hennessey serve board)"
+},
+{
+"number": "INEX_XER-113",
+"text": "#wpffdm(formula 1 driver won monaco grand prix)"
+},
+{
+"number": "TREC_Entity-17",
+"text": "#wpffdm(chef show food network)"
+},
+{
+"number": "INEX_XER-128",
+"text": "#wpffdm(bond girl)"
+},
+{
+"number": "INEX_XER-100",
+"text": "#wpffdm(operate system steve job related)"
+},
+{
+"number": "TREC_Entity-5",
+"text": "#wpffdm(product medimmune inc)"
+},
+{
+"number": "INEX_XER-108",
+"text": "#wpffdm(state capitals united states america)"
+},
+{
+"number": "INEX_XER-97",
+"text": "#wpffdm(compile compile c c)"
+},
+{
+"number": "SemSearch_LS-14",
+"text": "#wpffdm(gods dwelt mount olympus)"
+},
+{
+"number": "SemSearch_LS-43",
+"text": "#wpffdm(books paul tarsus write)"
+},
+{
+"number": "INEX_XER-96",
+"text": "#wpffdm(pure object orient program language)"
+},
+{
+"number": "SemSearch_LS-29",
+"text": "#wpffdm(nation portugal official language)"
+},
+{
+"number": "SemSearch_LS-4",
+"text": "#wpffdm(axis powers world war ii)"
+},
+{
+"number": "SemSearch_LS-35",
+"text": "#wpffdm(republic former yugoslavia)"
+}]
+}

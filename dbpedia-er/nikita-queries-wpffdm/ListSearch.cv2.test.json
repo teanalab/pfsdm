@@ -1,0 +1,95 @@
+{
+"queries" : [
+{
+"number": "INEX_XER-86",
+"text": "#wpffdm(list country world war two)"
+},
+{
+"number": "SemSearch_LS-5",
+"text": "#wpffdm(books jewish canon)"
+},
+{
+"number": "TREC_Entity-6",
+"text": "#wpffdm(organization award nobel prize)"
+},
+{
+"number": "SemSearch_LS-36",
+"text": "#wpffdm(revolutionary 1959 cuba)"
+},
+{
+"number": "TREC_Entity-10",
+"text": "#wpffdm(campus indiana university)"
+},
+{
+"number": "INEX_XER-147",
+"text": "#wpffdm(chemical elements name people)"
+},
+{
+"number": "SemSearch_LS-3",
+"text": "#wpffdm(astronaut landed moon)"
+},
+{
+"number": "SemSearch_LS-49",
+"text": "#wpffdm(invent python program language)"
+},
+{
+"number": "SemSearch_LS-50",
+"text": "#wpffdm(wonders ancient world)"
+},
+{
+"number": "INEX_XER-87",
+"text": "#wpffdm(axis powers world war ii)"
+},
+{
+"number": "SemSearch_LS-13",
+"text": "#wpffdm(five great epic tamil literature)"
+},
+{
+"number": "TREC_Entity-11",
+"text": "#wpffdm(donor home depot foundation)"
+},
+{
+"number": "INEX_XER-143",
+"text": "#wpffdm(hanseatic league germany netherlands circle)"
+},
+{
+"number": "INEX_XER-125",
+"text": "#wpffdm(country won fifa world cup)"
+},
+{
+"number": "SemSearch_LS-7",
+"text": "#wpffdm(branch us military)"
+},
+{
+"number": "SemSearch_LS-41",
+"text": "#wpffdm(four companion prophet)"
+},
+{
+"number": "INEX_XER-106",
+"text": "#wpffdm(noble english person hundred years war)"
+},
+{
+"number": "SemSearch_LS-21",
+"text": "#wpffdm(lil allen parent)"
+},
+{
+"number": "INEX_XER-63",
+"text": "#wpffdm(hugo award best novel)"
+},
+{
+"number": "SemSearch_LS-18",
+"text": "#wpffdm(john lennon parent)"
+},
+{
+"number": "INEX_XER-132",
+"text": "#wpffdm(living nordic classical composer)"
+},
+{
+"number": "INEX_XER-109",
+"text": "#wpffdm(national capitals situated island)"
+},
+{
+"number": "INEX_XER-130",
+"text": "#wpffdm(star trek captain)"
+}]
+}
