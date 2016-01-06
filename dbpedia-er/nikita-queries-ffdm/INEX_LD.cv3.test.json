@@ -1,0 +1,83 @@
+{
+"queries" : [
+{
+"number": "INEX_LD-2012329",
+"text": "#fieldedfdm(sweden iceland currency)"
+},
+{
+"number": "INEX_LD-2012353",
+"text": "#fieldedfdm(country germany language)"
+},
+{
+"number": "INEX_LD-2009111",
+"text": "#fieldedfdm(europe solar power facility)"
+},
+{
+"number": "INEX_LD-2012321",
+"text": "#fieldedfdm(asia port state city sir stamford raffle)"
+},
+{
+"number": "INEX_LD-20120231",
+"text": "#fieldedfdm(guitar origin russia)"
+},
+{
+"number": "INEX_LD-2012337",
+"text": "#fieldedfdm(texas city baylor university tornado 1953)"
+},
+{
+"number": "INEX_LD-2012301",
+"text": "#fieldedfdm(niagara falls origin lake)"
+},
+{
+"number": "INEX_LD-20120132",
+"text": "#fieldedfdm(vietnam travel airport)"
+},
+{
+"number": "INEX_LD-20120432",
+"text": "#fieldedfdm(bicycle benefit environment)"
+},
+{
+"number": "INEX_LD-20120211",
+"text": "#fieldedfdm(guitar chord tune)"
+},
+{
+"number": "INEX_LD-2012371",
+"text": "#fieldedfdm(beautiful railway station world city located)"
+},
+{
+"number": "INEX_LD-20120512",
+"text": "#fieldedfdm(south korea girl group)"
+},
+{
+"number": "INEX_LD-2012375",
+"text": "#fieldedfdm(animal lay egg mammal)"
+},
+{
+"number": "INEX_LD-2010100",
+"text": "#fieldedfdm(house concrete wood)"
+},
+{
+"number": "INEX_LD-2010014",
+"text": "#fieldedfdm(composer museum)"
+},
+{
+"number": "INEX_LD-2012387",
+"text": "#fieldedfdm(famous river confluence dam construct)"
+},
+{
+"number": "INEX_LD-2012383",
+"text": "#fieldedfdm(famous computer scientist disappear sea)"
+},
+{
+"number": "INEX_LD-20120131",
+"text": "#fieldedfdm(vietnam travel national park)"
+},
+{
+"number": "INEX_LD-2012359",
+"text": "#fieldedfdm(bob rick executive director latest group anti gun movement)"
+},
+{
+"number": "INEX_LD-2012333",
+"text": "#fieldedfdm(prime minister canada nickname silver tongue laurier longest unbroken term)"
+}]
+}
