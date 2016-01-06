@@ -24,6 +24,10 @@
     {
       "name": "edu.wayne.models.FieldedFullDependenceTraversal",
       "order": "before"
+    },
+    {
+      "name": "edu.wayne.pfsdm.ParametrizedFFDMTraversal",
+      "order": "before"
     }
   ],
   "fields": [

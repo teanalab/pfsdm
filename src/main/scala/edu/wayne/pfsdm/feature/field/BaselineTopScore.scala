@@ -29,7 +29,7 @@ class BaselineTopScore(val retrieval: Retrieval) extends MemoizedFieldFeature {
           fieldWeights.set(MLMTraversal.UNIGRAM_FIELD_PREFIX + weightedField, if (weightedField == fieldName) 1.0 else 0.0)
         }
         StructuredQuery.parse(mlm(Seq(tokens.head)))
-      } else if (tokens.size == 2) {
+      } else if (tokens.size >= 2) {
         fields.foreach { weightedField =>
           fieldWeights.set(MLMTraversal.UNIGRAM_FIELD_PREFIX + weightedField, if (weightedField == fieldName) 1.0 else 0.0)
           fieldWeights.set(FieldedSequentialDependenceTraversal.ORDERED_FIELD_PREFIX + weightedField, if (weightedField == fieldName) 1.0 else 0.0)
@@ -37,7 +37,7 @@ class BaselineTopScore(val retrieval: Retrieval) extends MemoizedFieldFeature {
         }
         StructuredQuery.parse(fieldedsdm(tokens))
       } else {
-        throw new IllegalArgumentException("Tokens must be either unigram or bigram")
+        throw new IllegalArgumentException("Tokens must be either unigram or ngram")
       }
     val transformed: Node = retrieval.transformQuery(root, fieldWeights)
     val results = retrieval.executeQuery(transformed, fieldWeights).scoredDocuments

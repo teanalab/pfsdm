@@ -28,6 +28,20 @@ class FieldLMTermLikelihood(val retrieval: Retrieval) extends MemoizedFieldFeatu
         od1.getChild(0).getNodeParameters.set("part", "field." + fieldName)
         od1.getChild(1).getNodeParameters.set("part", "field." + fieldName)
         od1
+      case term1 :: term2 :: term3 :: Nil =>
+        val t1: Node = new Node("extents", term1)
+        val t2: Node = new Node("extents", term2)
+        val t3: Node = new Node("extents", term3)
+        val od1: Node = new Node("ordered")
+        od1.getNodeParameters.set("default", 1)
+        od1.addChild(t1)
+        od1.addChild(t2)
+        od1.addChild(t3)
+        od1.getChild(0).getNodeParameters.set("part", "field." + fieldName)
+        od1.getChild(1).getNodeParameters.set("part", "field." + fieldName)
+        od1.getChild(2).getNodeParameters.set("part", "field." + fieldName)
+        od1
+
     }
     retrieval.getNodeStatistics(node).nodeFrequency
   }

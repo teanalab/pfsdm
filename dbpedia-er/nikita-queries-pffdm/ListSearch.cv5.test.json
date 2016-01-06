@@ -1,0 +1,95 @@
+{
+"queries" : [
+{
+"number": "TREC_Entity-15",
+"text": "#pffdm(university member sec conference football)"
+},
+{
+"number": "INEX_XER-144",
+"text": "#pffdm(chess world champion)"
+},
+{
+"number": "TREC_Entity-7",
+"text": "#pffdm(airline current use boeing 747 plane)"
+},
+{
+"number": "SemSearch_LS-46",
+"text": "#pffdm(britain monarch head state)"
+},
+{
+"number": "SemSearch_LS-10",
+"text": "#pffdm(nicole kidman sibling)"
+},
+{
+"number": "INEX_XER-126",
+"text": "#pffdm(toy train manufacturer business)"
+},
+{
+"number": "INEX_XER-123",
+"text": "#pffdm(fifa world cup national team winner 1974)"
+},
+{
+"number": "INEX_XER-73",
+"text": "#pffdm(magazine indie music)"
+},
+{
+"number": "TREC_Entity-4",
+"text": "#pffdm(professional sports team philadelphia)"
+},
+{
+"number": "TREC_Entity-19",
+"text": "#pffdm(company john hennessey serve board)"
+},
+{
+"number": "INEX_XER-113",
+"text": "#pffdm(formula 1 driver won monaco grand prix)"
+},
+{
+"number": "TREC_Entity-17",
+"text": "#pffdm(chef show food network)"
+},
+{
+"number": "INEX_XER-128",
+"text": "#pffdm(bond girl)"
+},
+{
+"number": "INEX_XER-100",
+"text": "#pffdm(operate system steve job related)"
+},
+{
+"number": "TREC_Entity-5",
+"text": "#pffdm(product medimmune inc)"
+},
+{
+"number": "INEX_XER-108",
+"text": "#pffdm(state capitals united states america)"
+},
+{
+"number": "INEX_XER-97",
+"text": "#pffdm(compile compile c c)"
+},
+{
+"number": "SemSearch_LS-14",
+"text": "#pffdm(gods dwelt mount olympus)"
+},
+{
+"number": "SemSearch_LS-43",
+"text": "#pffdm(books paul tarsus write)"
+},
+{
+"number": "INEX_XER-96",
+"text": "#pffdm(pure object orient program language)"
+},
+{
+"number": "SemSearch_LS-29",
+"text": "#pffdm(nation portugal official language)"
+},
+{
+"number": "SemSearch_LS-4",
+"text": "#pffdm(axis powers world war ii)"
+},
+{
+"number": "SemSearch_LS-35",
+"text": "#pffdm(republic former yugoslavia)"
+}]
+}
