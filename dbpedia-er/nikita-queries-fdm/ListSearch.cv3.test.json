@@ -1,0 +1,95 @@
+{
+"queries" : [
+{
+"number": "INEX_XER-64",
+"text": "#fdm(alan moore graphic novel adapt film)"
+},
+{
+"number": "TREC_Entity-16",
+"text": "#fdm(sponsor mancuso quilt festival)"
+},
+{
+"number": "SemSearch_LS-9",
+"text": "#fdm(degree eastern orthodox monasticism)"
+},
+{
+"number": "INEX_XER-119",
+"text": "#fdm(switzerland canton speak germany)"
+},
+{
+"number": "INEX_XER-60",
+"text": "#fdm(olympic class dinghy sailing)"
+},
+{
+"number": "SemSearch_LS-33",
+"text": "#fdm(provinces territory canada)"
+},
+{
+"number": "INEX_XER-124",
+"text": "#fdm(novel won book prize)"
+},
+{
+"number": "INEX_XER-65",
+"text": "#fdm(pacific navigator australia explore)"
+},
+{
+"number": "INEX_XER-114",
+"text": "#fdm(formula races europe)"
+},
+{
+"number": "SemSearch_LS-20",
+"text": "#fdm(kublai khan sibling)"
+},
+{
+"number": "SemSearch_LS-16",
+"text": "#fdm(hijack september 11 attack)"
+},
+{
+"number": "INEX_XER-122",
+"text": "#fdm(movies eight academy award)"
+},
+{
+"number": "TREC_Entity-14",
+"text": "#fdm(author award anthony award bouchercon 2007)"
+},
+{
+"number": "INEX_XER-91",
+"text": "#fdm(paul auster novel)"
+},
+{
+"number": "SemSearch_LS-31",
+"text": "#fdm(permanent member un security council)"
+},
+{
+"number": "SemSearch_LS-17",
+"text": "#fdm(house russia parliament)"
+},
+{
+"number": "SemSearch_LS-44",
+"text": "#fdm(language speak afghanistan)"
+},
+{
+"number": "SemSearch_LS-34",
+"text": "#fdm(ratt album)"
+},
+{
+"number": "SemSearch_LS-30",
+"text": "#fdm(orders choir angel)"
+},
+{
+"number": "SemSearch_LS-24",
+"text": "#fdm(matt berry tv series)"
+},
+{
+"number": "SemSearch_LS-1",
+"text": "#fdm(apollo astronaut walk moon)"
+},
+{
+"number": "INEX_XER-135",
+"text": "#fdm(professional baseball team japan)"
+},
+{
+"number": "INEX_XER-110",
+"text": "#fdm(nobel prize literature winner poet)"
+}]
+}

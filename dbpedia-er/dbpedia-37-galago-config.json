@@ -21,6 +21,10 @@
       "name": "edu.wayne.models.WSDMTraversal",
       "order": "before"
     },
+    {
+      "name": "edu.wayne.models.FieldedFullDependenceTraversal",
+      "order": "before"
+    }
   ],
   "fields": [
     "names",

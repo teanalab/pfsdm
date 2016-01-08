@@ -1,0 +1,83 @@
+{
+"queries" : [
+{
+"number": "INEX_LD-20120222",
+"text": "#fieldedfdm(guitar classical bach)"
+},
+{
+"number": "INEX_LD-20120421",
+"text": "#fieldedfdm(bicycle holiday town)"
+},
+{
+"number": "INEX_LD-2012307",
+"text": "#fieldedfdm(july 1850 president die millard fillmore sworn following day)"
+},
+{
+"number": "INEX_LD-2012385",
+"text": "#fieldedfdm(famous politician vegetarian)"
+},
+{
+"number": "INEX_LD-20120312",
+"text": "#fieldedfdm(tango culture country)"
+},
+{
+"number": "INEX_LD-2012309",
+"text": "#fieldedfdm(resident small island city state malay peninsula china)"
+},
+{
+"number": "INEX_LD-2009115",
+"text": "#fieldedfdm(virtual museum)"
+},
+{
+"number": "INEX_LD-2012363",
+"text": "#fieldedfdm(america twin famous america professional tennis double player)"
+},
+{
+"number": "INEX_LD-2010037",
+"text": "#fieldedfdm(social network api)"
+},
+{
+"number": "INEX_LD-2012336",
+"text": "#fieldedfdm(1906 territory papua island australia)"
+},
+{
+"number": "INEX_LD-20120522",
+"text": "#fieldedfdm(digital music notation format)"
+},
+{
+"number": "INEX_LD-2009053",
+"text": "#fieldedfdm(finland car industry manufacturer saab sisu)"
+},
+{
+"number": "INEX_LD-2012381",
+"text": "#fieldedfdm(movie director direct block buster)"
+},
+{
+"number": "INEX_LD-2012325",
+"text": "#fieldedfdm(successor james g blaine studied law)"
+},
+{
+"number": "INEX_LD-20120332",
+"text": "#fieldedfdm(tango dance history)"
+},
+{
+"number": "INEX_LD-2012351",
+"text": "#fieldedfdm(indian cuisine dish rice dhal vegetable roti papad)"
+},
+{
+"number": "INEX_LD-2012379",
+"text": "#fieldedfdm(pair city language longitude different country)"
+},
+{
+"number": "INEX_LD-2010019",
+"text": "#fieldedfdm(gallo roman architecture paris)"
+},
+{
+"number": "INEX_LD-2012377",
+"text": "#fieldedfdm(allegedly cause world war i)"
+},
+{
+"number": "INEX_LD-2010057",
+"text": "#fieldedfdm(einstein relativity theory)"
+}]
+}

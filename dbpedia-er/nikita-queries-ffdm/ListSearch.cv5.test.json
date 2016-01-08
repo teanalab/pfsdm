@@ -1,0 +1,95 @@
+{
+"queries" : [
+{
+"number": "TREC_Entity-15",
+"text": "#fieldedfdm(university member sec conference football)"
+},
+{
+"number": "INEX_XER-144",
+"text": "#fieldedfdm(chess world champion)"
+},
+{
+"number": "TREC_Entity-7",
+"text": "#fieldedfdm(airline current use boeing 747 plane)"
+},
+{
+"number": "SemSearch_LS-46",
+"text": "#fieldedfdm(britain monarch head state)"
+},
+{
+"number": "SemSearch_LS-10",
+"text": "#fieldedfdm(nicole kidman sibling)"
+},
+{
+"number": "INEX_XER-126",
+"text": "#fieldedfdm(toy train manufacturer business)"
+},
+{
+"number": "INEX_XER-123",
+"text": "#fieldedfdm(fifa world cup national team winner 1974)"
+},
+{
+"number": "INEX_XER-73",
+"text": "#fieldedfdm(magazine indie music)"
+},
+{
+"number": "TREC_Entity-4",
+"text": "#fieldedfdm(professional sports team philadelphia)"
+},
+{
+"number": "TREC_Entity-19",
+"text": "#fieldedfdm(company john hennessey serve board)"
+},
+{
+"number": "INEX_XER-113",
+"text": "#fieldedfdm(formula 1 driver won monaco grand prix)"
+},
+{
+"number": "TREC_Entity-17",
+"text": "#fieldedfdm(chef show food network)"
+},
+{
+"number": "INEX_XER-128",
+"text": "#fieldedfdm(bond girl)"
+},
+{
+"number": "INEX_XER-100",
+"text": "#fieldedfdm(operate system steve job related)"
+},
+{
+"number": "TREC_Entity-5",
+"text": "#fieldedfdm(product medimmune inc)"
+},
+{
+"number": "INEX_XER-108",
+"text": "#fieldedfdm(state capitals united states america)"
+},
+{
+"number": "INEX_XER-97",
+"text": "#fieldedfdm(compile compile c c)"
+},
+{
+"number": "SemSearch_LS-14",
+"text": "#fieldedfdm(gods dwelt mount olympus)"
+},
+{
+"number": "SemSearch_LS-43",
+"text": "#fieldedfdm(books paul tarsus write)"
+},
+{
+"number": "INEX_XER-96",
+"text": "#fieldedfdm(pure object orient program language)"
+},
+{
+"number": "SemSearch_LS-29",
+"text": "#fieldedfdm(nation portugal official language)"
+},
+{
+"number": "SemSearch_LS-4",
+"text": "#fieldedfdm(axis powers world war ii)"
+},
+{
+"number": "SemSearch_LS-35",
+"text": "#fieldedfdm(republic former yugoslavia)"
+}]
+}
