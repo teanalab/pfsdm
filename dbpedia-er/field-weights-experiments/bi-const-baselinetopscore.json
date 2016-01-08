@@ -1,0 +1,56 @@
+{
+    "uniw" : 0.0,
+    "odw" : 1.0,
+    "uww" : 1.0,
+
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "bi-names-/const" : 0.1,
+        "bi-attributes-/const" : 0.1,
+        "bi-similarentitynames-/const" : 0.1,
+        "bi-categories-/const" : 0.1,
+        "bi-outgoingentitynames-/const" : 0.1,
+        "bi-names-baselinetopscore" : 0.1,
+        "bi-attributes-baselinetopscore" : 0.1,
+        "bi-similarentitynames-baselinetopscore" : 0.1,
+        "bi-categories-baselinetopscore" : 0.1,
+        "bi-outgoingentitynames-baselinetopscore" : 0.1,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"bi-names-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-attributes-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-similarentitynames-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-categories-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-outgoingentitynames-/const"},
+        {"max":1.0, "min":0.0, "name":"bi-names-baselinetopscore"},
+        {"max":1.0, "min":0.0, "name":"bi-attributes-baselinetopscore"},
+        {"max":1.0, "min":0.0, "name":"bi-similarentitynames-baselinetopscore"},
+        {"max":1.0, "min":0.0, "name":"bi-categories-baselinetopscore"},
+        {"max":1.0, "min":0.0, "name":"bi-outgoingentitynames-baselinetopscore"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "bi-names-/const",
+                "bi-attributes-/const",
+                "bi-similarentitynames-/const",
+                "bi-categories-/const",
+                "bi-outgoingentitynames-/const",
+                "bi-names-baselinetopscore",
+                "bi-attributes-baselinetopscore",
+                "bi-similarentitynames-baselinetopscore",
+                "bi-categories-baselinetopscore",
+                "bi-outgoingentitynames-baselinetopscore",
+            ],
+            "value":1.0
+        }
+    ]
+}
