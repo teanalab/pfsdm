@@ -13,6 +13,7 @@ merged <- merge(runtime.features.wide, concept.types, by = c("qid", "gram"))
 
 shinyServer(function(input, output) {
   output$distPlot <- renderPlot({
+    filtered <- filter(merged, type == input$type)
     ggplot(na.omit(filtered[,c(input$feature, "field")]), aes_string(y = input$feature, x = "field")) +
       geom_boxplot() + theme(axis.text.x=element_text(angle=30,hjust=1))
   })

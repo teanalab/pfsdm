@@ -4,7 +4,7 @@ library(shiny)
 shinyUI(fluidPage(
   
   # Application title
-  titlePanel("Mann-Whitney test for feature values"),
+  titlePanel("Kruskall-Wallis test for feature values"),
   
   # Sidebar with a slider input for the number of bins
   sidebarLayout(
@@ -19,11 +19,11 @@ shinyUI(fluidPage(
     
     # Show a plot of the generated distribution
     mainPanel(
-      plotOutput("distPlot"),
       h3("Kruskal–Wallis test"),
       verbatimTextOutput("kwOutput"),
       h3("Kruskalmc"),
-      verbatimTextOutput("kmcOutput")
+      verbatimTextOutput("kmcOutput"),
+      plotOutput("distPlot")
     )
   )
 ))
