@@ -1,0 +1,44 @@
+{
+    "uniw" : 1.0,
+    "odw" : 0.0,
+    "uww" : 0.0,
+
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-title-/nns" : 0.1666666667,
+        "uni-content-/nns" : 0.1666666667,
+        "uni-title-/nnp" : 0.1666666667,
+        "uni-content-/nnp" : 0.1666666667,
+        "uni-title-fieldlikelihood" : 0.1666666667,
+        "uni-content-fieldlikelihood" : 0.1666666667,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-title-/nns"},
+        {"max":1.0, "min":0.0, "name":"uni-content-/nns"},
+        {"max":1.0, "min":0.0, "name":"uni-title-/nnp"},
+        {"max":1.0, "min":0.0, "name":"uni-content-/nnp"},
+        {"max":1.0, "min":0.0, "name":"uni-title-fieldlikelihood"},
+        {"max":1.0, "min":0.0, "name":"uni-content-fieldlikelihood"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-title-/nns",
+                "uni-content-/nns",
+                "uni-title-/nnp",
+                "uni-content-/nnp",
+                "uni-title-fieldlikelihood",
+                "uni-content-fieldlikelihood",
+            ],
+            "value":1.0
+        }
+    ]
+}
