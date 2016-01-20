@@ -2,94 +2,94 @@
 "queries" : [
 {
 "number": "TREC_Entity-15",
-"text": "#fdm(university member sec conference football)"
+"text": "#mlm(university member sec conference football)"
 },
 {
 "number": "INEX_XER-144",
-"text": "#fdm(chess world champion)"
+"text": "#mlm(chess world champion)"
 },
 {
 "number": "TREC_Entity-7",
-"text": "#fdm(airline current use boeing 747 plane)"
+"text": "#mlm(airline current use boeing 747 plane)"
 },
 {
 "number": "SemSearch_LS-46",
-"text": "#fdm(britain monarch head state)"
+"text": "#mlm(britain monarch head state)"
 },
 {
 "number": "SemSearch_LS-10",
-"text": "#fdm(nicole kidman sibling)"
+"text": "#mlm(nicole kidman sibling)"
 },
 {
 "number": "INEX_XER-126",
-"text": "#fdm(toy train manufacturer business)"
+"text": "#mlm(toy train manufacturer business)"
 },
 {
 "number": "INEX_XER-123",
-"text": "#fdm(fifa world cup national team winner 1974)"
+"text": "#mlm(fifa world cup national team winner 1974)"
 },
 {
 "number": "INEX_XER-73",
-"text": "#fdm(magazine indie music)"
+"text": "#mlm(magazine indie music)"
 },
 {
 "number": "TREC_Entity-4",
-"text": "#fdm(professional sports team philadelphia)"
+"text": "#mlm(professional sports team philadelphia)"
 },
 {
 "number": "TREC_Entity-19",
-"text": "#fdm(company john hennessey serve board)"
+"text": "#mlm(company john hennessey serve board)"
 },
 {
 "number": "INEX_XER-113",
-"text": "#fdm(formula 1 driver won monaco grand prix)"
+"text": "#mlm(formula 1 driver won monaco grand prix)"
 },
 {
 "number": "TREC_Entity-17",
-"text": "#fdm(chef show food network)"
+"text": "#mlm(chef show food network)"
 },
 {
 "number": "INEX_XER-128",
-"text": "#fdm(bond girl)"
+"text": "#mlm(bond girl)"
 },
 {
 "number": "INEX_XER-100",
-"text": "#fdm(operate system steve job related)"
+"text": "#mlm(operate system steve job related)"
 },
 {
 "number": "TREC_Entity-5",
-"text": "#fdm(product medimmune inc)"
+"text": "#mlm(product medimmune inc)"
 },
 {
 "number": "INEX_XER-108",
-"text": "#fdm(state capitals united states america)"
+"text": "#mlm(state capitals united states america)"
 },
 {
 "number": "INEX_XER-97",
-"text": "#fdm(compile compile c c)"
+"text": "#mlm(compile compile c c)"
 },
 {
 "number": "SemSearch_LS-14",
-"text": "#fdm(gods dwelt mount olympus)"
+"text": "#mlm(gods dwelt mount olympus)"
 },
 {
 "number": "SemSearch_LS-43",
-"text": "#fdm(books paul tarsus write)"
+"text": "#mlm(books paul tarsus write)"
 },
 {
 "number": "INEX_XER-96",
-"text": "#fdm(pure object orient program language)"
+"text": "#mlm(pure object orient program language)"
 },
 {
 "number": "SemSearch_LS-29",
-"text": "#fdm(nation portugal official language)"
+"text": "#mlm(nation portugal official language)"
 },
 {
 "number": "SemSearch_LS-4",
-"text": "#fdm(axis powers world war ii)"
+"text": "#mlm(axis powers world war ii)"
 },
 {
 "number": "SemSearch_LS-35",
-"text": "#fdm(republic former yugoslavia)"
+"text": "#mlm(republic former yugoslavia)"
 }]
 }

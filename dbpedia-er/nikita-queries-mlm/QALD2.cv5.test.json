@@ -2,114 +2,114 @@
 "queries" : [
 {
 "number": "QALD2_te-45",
-"text": "#fdm(country connected rhine)"
+"text": "#mlm(country connected rhine)"
 },
 {
 "number": "QALD2_te-19",
-"text": "#fdm(give people born vienna die berlin)"
+"text": "#mlm(give people born vienna die berlin)"
 },
 {
 "number": "QALD2_tr-24",
-"text": "#fdm(mountain highest annapurna)"
+"text": "#mlm(mountain highest annapurna)"
 },
 {
 "number": "QALD2_tr-25",
-"text": "#fdm(film direct garry marshall julia robert star)"
+"text": "#mlm(film direct garry marshall julia robert star)"
 },
 {
 "number": "QALD2_tr-50",
-"text": "#fdm(bruce carver die)"
+"text": "#mlm(bruce carver die)"
 },
 {
 "number": "QALD2_tr-16",
-"text": "#fdm(give capitals country africa)"
+"text": "#mlm(give capitals country africa)"
 },
 {
 "number": "QALD2_tr-53",
-"text": "#fdm(give president united states)"
+"text": "#mlm(give president united states)"
 },
 {
 "number": "QALD2_te-98",
-"text": "#fdm(country creator miffy come)"
+"text": "#mlm(country creator miffy come)"
 },
 {
 "number": "QALD2_te-63",
-"text": "#fdm(give argentina film)"
+"text": "#mlm(give argentina film)"
 },
 {
 "number": "QALD2_te-9",
-"text": "#fdm(give list trumpet player bandleader)"
+"text": "#mlm(give list trumpet player bandleader)"
 },
 {
 "number": "QALD2_tr-57",
-"text": "#fdm(list episode first season hbo television series soprano)"
+"text": "#mlm(list episode first season hbo television series soprano)"
 },
 {
 "number": "QALD2_te-86",
-"text": "#fdm(largest city australia)"
+"text": "#mlm(largest city australia)"
 },
 {
 "number": "QALD2_tr-17",
-"text": "#fdm(give city new jersey 100000 inhabitant)"
+"text": "#mlm(give city new jersey 100000 inhabitant)"
 },
 {
 "number": "QALD2_te-27",
-"text": "#fdm(sean parnell governor us state)"
+"text": "#mlm(sean parnell governor us state)"
 },
 {
 "number": "QALD2_te-77",
-"text": "#fdm(call scarface)"
+"text": "#mlm(call scarface)"
 },
 {
 "number": "QALD2_te-99",
-"text": "#fdm(label elvi record first album)"
+"text": "#mlm(label elvi record first album)"
 },
 {
 "number": "QALD2_tr-1",
-"text": "#fdm(give female russia astronaut)"
+"text": "#mlm(give female russia astronaut)"
 },
 {
 "number": "QALD2_tr-34",
-"text": "#fdm(country two official language)"
+"text": "#mlm(country two official language)"
 },
 {
 "number": "QALD2_te-93",
-"text": "#fdm(movies sam raimi direct army dark)"
+"text": "#mlm(movies sam raimi direct army dark)"
 },
 {
 "number": "QALD2_tr-85",
-"text": "#fdm(film julia robert richard gere play)"
+"text": "#mlm(film julia robert richard gere play)"
 },
 {
 "number": "QALD2_tr-49",
-"text": "#fdm(give company advertising industry)"
+"text": "#mlm(give company advertising industry)"
 },
 {
 "number": "QALD2_te-51",
-"text": "#fdm(give frisian island belong netherlands)"
+"text": "#mlm(give frisian island belong netherlands)"
 },
 {
 "number": "QALD2_te-35",
-"text": "#fdm(develop skype)"
+"text": "#mlm(develop skype)"
 },
 {
 "number": "QALD2_tr-71",
-"text": "#fdm(give video games publish mean hamster software)"
+"text": "#mlm(give video games publish mean hamster software)"
 },
 {
 "number": "QALD2_te-12",
-"text": "#fdm(give world heritage site designate past five years)"
+"text": "#mlm(give world heritage site designate past five years)"
 },
 {
 "number": "QALD2_tr-18",
-"text": "#fdm(museum exhibit scream munch)"
+"text": "#mlm(museum exhibit scream munch)"
 },
 {
 "number": "QALD2_tr-78",
-"text": "#fdm(give books written danielle steel)"
+"text": "#mlm(give books written danielle steel)"
 },
 {
 "number": "QALD2_te-31",
-"text": "#fdm(give current methodist national leader)"
+"text": "#mlm(give current methodist national leader)"
 }]
 }

@@ -2,114 +2,114 @@
 "queries" : [
 {
 "number": "QALD2_te-2",
-"text": "#fdm(successor john f kennedy)"
+"text": "#mlm(successor john f kennedy)"
 },
 {
 "number": "QALD2_tr-28",
-"text": "#fdm(europe country constitutional monarchy)"
+"text": "#mlm(europe country constitutional monarchy)"
 },
 {
 "number": "QALD2_te-59",
-"text": "#fdm(us states timezone utah)"
+"text": "#mlm(us states timezone utah)"
 },
 {
 "number": "QALD2_te-6",
-"text": "#fdm(give professional skateboard sweden)"
+"text": "#mlm(give professional skateboard sweden)"
 },
 {
 "number": "QALD2_tr-65",
-"text": "#fdm(company work aerospace industry nuclear reactor technology)"
+"text": "#mlm(company work aerospace industry nuclear reactor technology)"
 },
 {
 "number": "QALD2_te-46",
-"text": "#fdm(professional surfer born philippines)"
+"text": "#mlm(professional surfer born philippines)"
 },
 {
 "number": "QALD2_te-25",
-"text": "#fdm(us state admitted latest)"
+"text": "#mlm(us state admitted latest)"
 },
 {
 "number": "QALD2_tr-63",
-"text": "#fdm(give actor star batman begin)"
+"text": "#mlm(give actor star batman begin)"
 },
 {
 "number": "QALD2_tr-92",
-"text": "#fdm(highest mountain)"
+"text": "#mlm(highest mountain)"
 },
 {
 "number": "QALD2_tr-6",
-"text": "#fdm(abraham lincoln die)"
+"text": "#mlm(abraham lincoln die)"
 },
 {
 "number": "QALD2_tr-41",
-"text": "#fdm(give soccer club spain)"
+"text": "#mlm(give soccer club spain)"
 },
 {
 "number": "QALD2_te-76",
-"text": "#fdm(list children margaret thatch)"
+"text": "#mlm(list children margaret thatch)"
 },
 {
 "number": "QALD2_tr-22",
-"text": "#fdm(country limerick lake)"
+"text": "#mlm(country limerick lake)"
 },
 {
 "number": "QALD2_tr-44",
-"text": "#fdm(design brooklyn bridge)"
+"text": "#mlm(design brooklyn bridge)"
 },
 {
 "number": "QALD2_tr-29",
-"text": "#fdm(award wikileak win)"
+"text": "#mlm(award wikileak win)"
 },
 {
 "number": "QALD2_tr-68",
-"text": "#fdm(actor born germany)"
+"text": "#mlm(actor born germany)"
 },
 {
 "number": "QALD2_te-72",
-"text": "#fdm(us state area 51 located)"
+"text": "#mlm(us state area 51 located)"
 },
 {
 "number": "QALD2_te-57",
-"text": "#fdm(give apollo 14 astronaut)"
+"text": "#mlm(give apollo 14 astronaut)"
 },
 {
 "number": "QALD2_tr-80",
-"text": "#fdm(give canada grunge record label)"
+"text": "#mlm(give canada grunge record label)"
 },
 {
 "number": "QALD2_tr-13",
-"text": "#fdm(classi millepede belong)"
+"text": "#mlm(classi millepede belong)"
 },
 {
 "number": "QALD2_te-33",
-"text": "#fdm(give australia nonprofit organization)"
+"text": "#mlm(give australia nonprofit organization)"
 },
 {
 "number": "QALD2_tr-84",
-"text": "#fdm(give movies tom cruise)"
+"text": "#mlm(give movies tom cruise)"
 },
 {
 "number": "QALD2_tr-8",
-"text": "#fdm(states germany govern social democratic party)"
+"text": "#mlm(states germany govern social democratic party)"
 },
 {
 "number": "QALD2_te-28",
-"text": "#fdm(give movies direct francis ford coppola)"
+"text": "#mlm(give movies direct francis ford coppola)"
 },
 {
 "number": "QALD2_tr-35",
-"text": "#fdm(owner universal studio)"
+"text": "#mlm(owner universal studio)"
 },
 {
 "number": "QALD2_tr-21",
-"text": "#fdm(states border illinois)"
+"text": "#mlm(states border illinois)"
 },
 {
 "number": "QALD2_tr-31",
-"text": "#fdm(currency czech republic)"
+"text": "#mlm(currency czech republic)"
 },
 {
 "number": "QALD2_tr-74",
-"text": "#fdm(capitals europe host city summer olympic games)"
+"text": "#mlm(capitals europe host city summer olympic games)"
 }]
 }

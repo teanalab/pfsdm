@@ -2,94 +2,94 @@
 "queries" : [
 {
 "number": "INEX_XER-118",
-"text": "#fdm(france car model 1960 s)"
+"text": "#mlm(france car model 1960 s)"
 },
 {
 "number": "SemSearch_LS-40",
-"text": "#fdm(first 13 america states)"
+"text": "#mlm(first 13 america states)"
 },
 {
 "number": "INEX_XER-138",
-"text": "#fdm(national park east coast canada us)"
+"text": "#mlm(national park east coast canada us)"
 },
 {
 "number": "INEX_XER-116",
-"text": "#fdm(italy nobel prize winner)"
+"text": "#mlm(italy nobel prize winner)"
 },
 {
 "number": "INEX_XER-72",
-"text": "#fdm(film shot venice)"
+"text": "#mlm(film shot venice)"
 },
 {
 "number": "INEX_XER-117",
-"text": "#fdm(musician appear blues brother movies)"
+"text": "#mlm(musician appear blues brother movies)"
 },
 {
 "number": "SemSearch_LS-2",
-"text": "#fdm(arab states persian gulf)"
+"text": "#mlm(arab states persian gulf)"
 },
 {
 "number": "SemSearch_LS-42",
-"text": "#fdm(twelve tribe son israel)"
+"text": "#mlm(twelve tribe son israel)"
 },
 {
 "number": "TREC_Entity-12",
-"text": "#fdm(airline air canada code share flight)"
+"text": "#mlm(airline air canada code share flight)"
 },
 {
 "number": "TREC_Entity-1",
-"text": "#fdm(carrier blackberry make phone)"
+"text": "#mlm(carrier blackberry make phone)"
 },
 {
 "number": "SemSearch_LS-25",
-"text": "#fdm(member u2)"
+"text": "#mlm(member u2)"
 },
 {
 "number": "SemSearch_LS-37",
-"text": "#fdm(standard axiom set theory)"
+"text": "#mlm(standard axiom set theory)"
 },
 {
 "number": "TREC_Entity-2",
-"text": "#fdm(winner acm athena award)"
+"text": "#mlm(winner acm athena award)"
 },
 {
 "number": "INEX_XER-74",
-"text": "#fdm(circus mammal)"
+"text": "#mlm(circus mammal)"
 },
 {
 "number": "INEX_XER-140",
-"text": "#fdm(airport germany)"
+"text": "#mlm(airport germany)"
 },
 {
 "number": "SemSearch_LS-32",
-"text": "#fdm(president depict mount rushmore die shoot)"
+"text": "#mlm(president depict mount rushmore die shoot)"
 },
 {
 "number": "INEX_XER-81",
-"text": "#fdm(movies english hooligan)"
+"text": "#mlm(movies english hooligan)"
 },
 {
 "number": "INEX_XER-115",
-"text": "#fdm(formula world constructor champion)"
+"text": "#mlm(formula world constructor champion)"
 },
 {
 "number": "INEX_XER-79",
-"text": "#fdm(works charles rennie mackintosh)"
+"text": "#mlm(works charles rennie mackintosh)"
 },
 {
 "number": "SemSearch_LS-38",
-"text": "#fdm(states border oklahoma)"
+"text": "#mlm(states border oklahoma)"
 },
 {
 "number": "INEX_XER-136",
-"text": "#fdm(japan player major league baseball)"
+"text": "#mlm(japan player major league baseball)"
 },
 {
 "number": "INEX_XER-88",
-"text": "#fdm(nordic author known children literature)"
+"text": "#mlm(nordic author known children literature)"
 },
 {
 "number": "SemSearch_LS-22",
-"text": "#fdm(major league united states)"
+"text": "#mlm(major league united states)"
 }]
 }

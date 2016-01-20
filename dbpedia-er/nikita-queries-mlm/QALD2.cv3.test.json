@@ -2,114 +2,114 @@
 "queries" : [
 {
 "number": "QALD2_te-53",
-"text": "#fdm(ruling party lisbon)"
+"text": "#mlm(ruling party lisbon)"
 },
 {
 "number": "QALD2_tr-83",
-"text": "#fdm(produce film star natalie portman)"
+"text": "#mlm(produce film star natalie portman)"
 },
 {
 "number": "QALD2_te-84",
-"text": "#fdm(create comic captain america)"
+"text": "#mlm(create comic captain america)"
 },
 {
 "number": "QALD2_tr-62",
-"text": "#fdm(create wikipedia)"
+"text": "#mlm(create wikipedia)"
 },
 {
 "number": "QALD2_te-13",
-"text": "#fdm(youngest player premier league)"
+"text": "#mlm(youngest player premier league)"
 },
 {
 "number": "QALD2_te-15",
-"text": "#fdm(longest river)"
+"text": "#mlm(longest river)"
 },
 {
 "number": "QALD2_tr-4",
-"text": "#fdm(river brooklyn bridge cross)"
+"text": "#mlm(river brooklyn bridge cross)"
 },
 {
 "number": "QALD2_tr-82",
-"text": "#fdm(program language gimp written)"
+"text": "#mlm(program language gimp written)"
 },
 {
 "number": "QALD2_tr-32",
-"text": "#fdm(country europe union adopt euro)"
+"text": "#mlm(country europe union adopt euro)"
 },
 {
 "number": "QALD2_tr-72",
-"text": "#fdm(language spoken estonia)"
+"text": "#mlm(language spoken estonia)"
 },
 {
 "number": "QALD2_tr-77",
-"text": "#fdm(music album contain song christmas)"
+"text": "#mlm(music album contain song christmas)"
 },
 {
 "number": "QALD2_tr-40",
-"text": "#fdm(highest mountain australia)"
+"text": "#mlm(highest mountain australia)"
 },
 {
 "number": "QALD2_te-5",
-"text": "#fdm(second highest mountain earth)"
+"text": "#mlm(second highest mountain earth)"
 },
 {
 "number": "QALD2_tr-11",
-"text": "#fdm(country place two cave)"
+"text": "#mlm(country place two cave)"
 },
 {
 "number": "QALD2_tr-9",
-"text": "#fdm(us states possess gold mineral)"
+"text": "#mlm(us states possess gold mineral)"
 },
 {
 "number": "QALD2_te-22",
-"text": "#fdm(governor texas)"
+"text": "#mlm(governor texas)"
 },
 {
 "number": "QALD2_te-3",
-"text": "#fdm(mayor berlin)"
+"text": "#mlm(mayor berlin)"
 },
 {
 "number": "QALD2_te-66",
-"text": "#fdm(ship call benjamin franklin)"
+"text": "#mlm(ship call benjamin franklin)"
 },
 {
 "number": "QALD2_tr-38",
-"text": "#fdm(monarch united kingdom married germany)"
+"text": "#mlm(monarch united kingdom married germany)"
 },
 {
 "number": "QALD2_tr-42",
-"text": "#fdm(official language philippines)"
+"text": "#mlm(official language philippines)"
 },
 {
 "number": "QALD2_tr-59",
-"text": "#fdm(give people first name jimmy)"
+"text": "#mlm(give people first name jimmy)"
 },
 {
 "number": "QALD2_te-65",
-"text": "#fdm(instrument john lennon play)"
+"text": "#mlm(instrument john lennon play)"
 },
 {
 "number": "QALD2_tr-61",
-"text": "#fdm(mountain higher nanga parbat)"
+"text": "#mlm(mountain higher nanga parbat)"
 },
 {
 "number": "QALD2_te-100",
-"text": "#fdm(produce orangina)"
+"text": "#mlm(produce orangina)"
 },
 {
 "number": "QALD2_tr-10",
-"text": "#fdm(country nile start)"
+"text": "#mlm(country nile start)"
 },
 {
 "number": "QALD2_tr-51",
-"text": "#fdm(give school type)"
+"text": "#mlm(give school type)"
 },
 {
 "number": "QALD2_tr-58",
-"text": "#fdm(produce film)"
+"text": "#mlm(produce film)"
 },
 {
 "number": "QALD2_tr-81",
-"text": "#fdm(country official language)"
+"text": "#mlm(country official language)"
 }]
 }
