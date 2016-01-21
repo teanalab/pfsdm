@@ -1,0 +1,115 @@
+{
+"queries" : [
+{
+"number": "QALD2_tr-26",
+"text": "#mlm(bridge type manhattan bridge)"
+},
+{
+"number": "QALD2_te-88",
+"text": "#mlm(film star clint eastwood direct)"
+},
+{
+"number": "QALD2_te-81",
+"text": "#mlm(books kerouac publish viking press)"
+},
+{
+"number": "QALD2_tr-91",
+"text": "#mlm(organization found 1950)"
+},
+{
+"number": "QALD2_tr-70",
+"text": "#mlm(give film produce hal roach)"
+},
+{
+"number": "QALD2_te-55",
+"text": "#mlm(greece goddesse dwelt mount olympus)"
+},
+{
+"number": "QALD2_te-14",
+"text": "#mlm(give member prodigy)"
+},
+{
+"number": "QALD2_te-1",
+"text": "#mlm(germany city 250000 inhabitant)"
+},
+{
+"number": "QALD2_te-95",
+"text": "#mlm(wrote lyrics polish national anthem)"
+},
+{
+"number": "QALD2_te-92",
+"text": "#mlm(show song bruce springsteen release 1980 1990)"
+},
+{
+"number": "QALD2_te-21",
+"text": "#mlm(capital canada)"
+},
+{
+"number": "QALD2_tr-3",
+"text": "#mlm(daughter bill clinton married)"
+},
+{
+"number": "QALD2_te-43",
+"text": "#mlm(give breed germany shepherd dog)"
+},
+{
+"number": "QALD2_te-44",
+"text": "#mlm(city weser flow)"
+},
+{
+"number": "QALD2_te-42",
+"text": "#mlm(husband amanda palmer)"
+},
+{
+"number": "QALD2_tr-79",
+"text": "#mlm(airport located california usa)"
+},
+{
+"number": "QALD2_te-67",
+"text": "#mlm(parent wife juan carlos i)"
+},
+{
+"number": "QALD2_tr-64",
+"text": "#mlm(software develop organization found california)"
+},
+{
+"number": "QALD2_te-60",
+"text": "#mlm(give list lake denmark)"
+},
+{
+"number": "QALD2_tr-73",
+"text": "#mlm(own aldi)"
+},
+{
+"number": "QALD2_te-97",
+"text": "#mlm(paint storm sea galilee)"
+},
+{
+"number": "QALD2_te-80",
+"text": "#mlm(give books william goldman 300 page)"
+},
+{
+"number": "QALD2_tr-52",
+"text": "#mlm(president born 1945)"
+},
+{
+"number": "QALD2_tr-55",
+"text": "#mlm(develop video game world warcraft)"
+},
+{
+"number": "QALD2_tr-23",
+"text": "#mlm(television show create walt disney)"
+},
+{
+"number": "QALD2_te-41",
+"text": "#mlm(found intel)"
+},
+{
+"number": "QALD2_tr-87",
+"text": "#mlm(wrote book pillar earth)"
+},
+{
+"number": "QALD2_tr-47",
+"text": "#mlm(highest place karakoram)"
+}]
+}

@@ -55,7 +55,8 @@
     "/const",
     "/nn",
     "/jjs",
-    "/jj"
+    "/jj",
+    "/dep-leaf"
   ],
   "importanceFeatures": [
     "collectiontf",

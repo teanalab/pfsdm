@@ -1,0 +1,115 @@
+{
+"queries" : [
+{
+"number": "QALD2_te-2",
+"text": "#mlm(successor john f kennedy)"
+},
+{
+"number": "QALD2_tr-28",
+"text": "#mlm(europe country constitutional monarchy)"
+},
+{
+"number": "QALD2_te-59",
+"text": "#mlm(us states timezone utah)"
+},
+{
+"number": "QALD2_te-6",
+"text": "#mlm(give professional skateboard sweden)"
+},
+{
+"number": "QALD2_tr-65",
+"text": "#mlm(company work aerospace industry nuclear reactor technology)"
+},
+{
+"number": "QALD2_te-46",
+"text": "#mlm(professional surfer born philippines)"
+},
+{
+"number": "QALD2_te-25",
+"text": "#mlm(us state admitted latest)"
+},
+{
+"number": "QALD2_tr-63",
+"text": "#mlm(give actor star batman begin)"
+},
+{
+"number": "QALD2_tr-92",
+"text": "#mlm(highest mountain)"
+},
+{
+"number": "QALD2_tr-6",
+"text": "#mlm(abraham lincoln die)"
+},
+{
+"number": "QALD2_tr-41",
+"text": "#mlm(give soccer club spain)"
+},
+{
+"number": "QALD2_te-76",
+"text": "#mlm(list children margaret thatch)"
+},
+{
+"number": "QALD2_tr-22",
+"text": "#mlm(country limerick lake)"
+},
+{
+"number": "QALD2_tr-44",
+"text": "#mlm(design brooklyn bridge)"
+},
+{
+"number": "QALD2_tr-29",
+"text": "#mlm(award wikileak win)"
+},
+{
+"number": "QALD2_tr-68",
+"text": "#mlm(actor born germany)"
+},
+{
+"number": "QALD2_te-72",
+"text": "#mlm(us state area 51 located)"
+},
+{
+"number": "QALD2_te-57",
+"text": "#mlm(give apollo 14 astronaut)"
+},
+{
+"number": "QALD2_tr-80",
+"text": "#mlm(give canada grunge record label)"
+},
+{
+"number": "QALD2_tr-13",
+"text": "#mlm(classi millepede belong)"
+},
+{
+"number": "QALD2_te-33",
+"text": "#mlm(give australia nonprofit organization)"
+},
+{
+"number": "QALD2_tr-84",
+"text": "#mlm(give movies tom cruise)"
+},
+{
+"number": "QALD2_tr-8",
+"text": "#mlm(states germany govern social democratic party)"
+},
+{
+"number": "QALD2_te-28",
+"text": "#mlm(give movies direct francis ford coppola)"
+},
+{
+"number": "QALD2_tr-35",
+"text": "#mlm(owner universal studio)"
+},
+{
+"number": "QALD2_tr-21",
+"text": "#mlm(states border illinois)"
+},
+{
+"number": "QALD2_tr-31",
+"text": "#mlm(currency czech republic)"
+},
+{
+"number": "QALD2_tr-74",
+"text": "#mlm(capitals europe host city summer olympic games)"
+}]
+}
