@@ -1,0 +1,56 @@
+{
+    "uniw" : 1.0,
+    "odw" : 0.0,
+    "uww" : 0.0,
+
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "uni-names-/dep-leaf" : 0.1,
+        "uni-attributes-/dep-leaf" : 0.1,
+        "uni-similarentitynames-/dep-leaf" : 0.1,
+        "uni-categories-/dep-leaf" : 0.1,
+        "uni-outgoingentitynames-/dep-leaf" : 0.1,
+        "uni-names-fieldlikelihood" : 0.1,
+        "uni-attributes-fieldlikelihood" : 0.1,
+        "uni-similarentitynames-fieldlikelihood" : 0.1,
+        "uni-categories-fieldlikelihood" : 0.1,
+        "uni-outgoingentitynames-fieldlikelihood" : 0.1,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"uni-names-/dep-leaf"},
+        {"max":1.0, "min":0.0, "name":"uni-attributes-/dep-leaf"},
+        {"max":1.0, "min":0.0, "name":"uni-similarentitynames-/dep-leaf"},
+        {"max":1.0, "min":0.0, "name":"uni-categories-/dep-leaf"},
+        {"max":1.0, "min":0.0, "name":"uni-outgoingentitynames-/dep-leaf"},
+        {"max":1.0, "min":0.0, "name":"uni-names-fieldlikelihood"},
+        {"max":1.0, "min":0.0, "name":"uni-attributes-fieldlikelihood"},
+        {"max":1.0, "min":0.0, "name":"uni-similarentitynames-fieldlikelihood"},
+        {"max":1.0, "min":0.0, "name":"uni-categories-fieldlikelihood"},
+        {"max":1.0, "min":0.0, "name":"uni-outgoingentitynames-fieldlikelihood"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "uni-names-/dep-leaf",
+                "uni-attributes-/dep-leaf",
+                "uni-similarentitynames-/dep-leaf",
+                "uni-categories-/dep-leaf",
+                "uni-outgoingentitynames-/dep-leaf",
+                "uni-names-fieldlikelihood",
+                "uni-attributes-fieldlikelihood",
+                "uni-similarentitynames-fieldlikelihood",
+                "uni-categories-fieldlikelihood",
+                "uni-outgoingentitynames-fieldlikelihood",
+            ],
+            "value":1.0
+        }
+    ]
+}

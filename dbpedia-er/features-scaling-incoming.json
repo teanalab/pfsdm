@@ -1,6 +1,6 @@
 {
     "featuresScaling" : [
-        { "name" : "baselinetopscore", "min" : -21.4519, "max" : -0.669 },
+        { "name" : "baselinetopscore", "min" : -23.0495, "max" : -0.669 },
         { "name" : "fieldlikelihood", "min" :  -29.2689, "max" : -17.4377 },
         { "name" : "bigramcfratio"},
         { "name" : "/nnp" },

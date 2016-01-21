@@ -1,0 +1,44 @@
+{
+    "uniw" : 0.0,
+    "odw" : 1.0,
+    "uww" : 1.0,
+
+    "limitRange" : true,
+    "restarts" : 5,
+    "minStepSize" : 0.05,
+    "maxStepRatio" : 1.0,
+    "specialMinStepSize" : 0.05,
+    "stepScale" : 1.0,
+    "initialParameters" : [{
+        "bi-title-/np-part" : 0.1666666667,
+        "bi-content-/np-part" : 0.1666666667,
+        "bi-title-baselinetopscore" : 0.1666666667,
+        "bi-content-baselinetopscore" : 0.1666666667,
+        "bi-title-/nns" : 0.1666666667,
+        "bi-content-/nns" : 0.1666666667,
+    }],
+
+    "learnableParameters":[
+        {"max":1.0, "min":0.0, "name":"bi-title-/np-part"},
+        {"max":1.0, "min":0.0, "name":"bi-content-/np-part"},
+        {"max":1.0, "min":0.0, "name":"bi-title-baselinetopscore"},
+        {"max":1.0, "min":0.0, "name":"bi-content-baselinetopscore"},
+        {"max":1.0, "min":0.0, "name":"bi-title-/nns"},
+        {"max":1.0, "min":0.0, "name":"bi-content-/nns"},
+    ],
+    "learner":"coord",
+    "normalization":[
+        {
+            "mode": "sum",
+            "params":[
+                "bi-title-/np-part",
+                "bi-content-/np-part",
+                "bi-title-baselinetopscore",
+                "bi-content-baselinetopscore",
+                "bi-title-/nns",
+                "bi-content-/nns",
+            ],
+            "value":1.0
+        }
+    ]
+}
