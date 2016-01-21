@@ -115,6 +115,7 @@ public class ParametrizedFSDMTraversal extends FieldedSequentialDependenceTraver
         double phi = fieldFeatures.get(featureName).some().getPhi(terms, fieldName, queryId);
         double scaledPhi = scaleFeatureValue(featureName, phi);
         assert scaledPhi >= 0 : featureName + " " + String.join(" ", terms) + " " + fieldName + " " + queryId + " " + phi + " " + scaledPhi;
+        logger.info(String.format("%s\t%s\t%s\t%s\t%g\t%g", queryId, String.join(" ", terms), fieldName, featureName, phi, scaledPhi));
         return scaledPhi;
     }
 
