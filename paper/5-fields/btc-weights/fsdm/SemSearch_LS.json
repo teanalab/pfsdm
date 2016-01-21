@@ -1,0 +1,20 @@
+{
+  "od-attributes": 0.27817771661101,
+  "od-categories": 0.41114126324471273,
+  "od-names": 0,
+  "od-outgoingentitynames": 0.2840634869673196,
+  "od-similarentitynames": 0.0928126859023263,
+  "odw": 0.15818576996338313,
+  "uni-attributes": 0.4307935899307485,
+  "uni-categories": 0.5361396289280076,
+  "uni-names": 0,
+  "uni-outgoingentitynames": 0.0675936783051311,
+  "uni-similarentitynames": 0.08618652598631053,
+  "uniw": 0.6276825672170725,
+  "uww": 0.21413166281954438,
+  "uww-attributes": 0.3567039026093871,
+  "uww-categories": 0.4077220518032093,
+  "uww-names": 0.020604598151601893,
+  "uww-outgoingentitynames": 0.16563053858026872,
+  "uww-similarentitynames": 0.08136161819403573
+}
