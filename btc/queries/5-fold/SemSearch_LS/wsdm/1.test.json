@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_LS-13",
+"text": "#wsdm(five great epic tamil literature)"
+},
+{
+"number": "SemSearch_LS-20",
+"text": "#wsdm(kublai khan sibling)"
+},
+{
+"number": "SemSearch_LS-47",
+"text": "#wsdm(create stumbleupon)"
+},
+{
+"number": "SemSearch_LS-10",
+"text": "#wsdm(nicole kidman sibling)"
+},
+{
+"number": "SemSearch_LS-33",
+"text": "#wsdm(provinces territory canada)"
+},
+{
+"number": "SemSearch_LS-37",
+"text": "#wsdm(standard axiom set theory)"
+},
+{
+"number": "SemSearch_LS-38",
+"text": "#wsdm(states border oklahoma)"
+},
+{
+"number": "SemSearch_LS-14",
+"text": "#wsdm(gods dwelt mount olympus)"
+},
+{
+"number": "SemSearch_LS-26",
+"text": "#wsdm(movies star erykah badu)"
+},
+{
+"number": "SemSearch_LS-46",
+"text": "#wsdm(britain monarch head state)"
+},
+]
+}

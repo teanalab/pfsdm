@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-110",
+"text": "#wsdm(dr dan martin)"
+},
+{
+"number": "SemSearch_ES-112",
+"text": "#wsdm(espresso tv stand)"
+},
+{
+"number": "SemSearch_ES-108",
+"text": "#wsdm(danielia cotton)"
+},
+{
+"number": "SemSearch_ES-122",
+"text": "#wsdm(metropark clothing)"
+},
+{
+"number": "SemSearch_ES-114",
+"text": "#wsdm(glenn frey)"
+},
+{
+"number": "SemSearch_ES-127",
+"text": "#wsdm(palm tungsten e2 handheld)"
+},
+{
+"number": "SemSearch_ES-132",
+"text": "#wsdm(sea mattress co)"
+},
+{
+"number": "SemSearch_ES-124",
+"text": "#wsdm(motorola bluetooth hs850)"
+},
+{
+"number": "SemSearch_ES-93",
+"text": "#wsdm(08 toyota tundra)"
+},
+{
+"number": "SemSearch_ES-100",
+"text": "#wsdm(ymca tampa)"
+},
+]
+}

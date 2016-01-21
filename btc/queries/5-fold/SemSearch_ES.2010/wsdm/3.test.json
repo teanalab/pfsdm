@@ -1,0 +1,76 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-57",
+"text": "#wsdm(martin luther king)"
+},
+{
+"number": "SemSearch_ES-89",
+"text": "#wsdm(university north dakota)"
+},
+{
+"number": "SemSearch_ES-30",
+"text": "#wsdm(eloan line credit)"
+},
+{
+"number": "SemSearch_ES-85",
+"text": "#wsdm(longest yard sale)"
+},
+{
+"number": "SemSearch_ES-16",
+"text": "#wsdm(brooklyn bridge)"
+},
+{
+"number": "SemSearch_ES-24",
+"text": "#wsdm(coastal carolina)"
+},
+{
+"number": "SemSearch_ES-34",
+"text": "#wsdm(harry potter movie)"
+},
+{
+"number": "SemSearch_ES-3",
+"text": "#wsdm(bookwork)"
+},
+{
+"number": "SemSearch_ES-29",
+"text": "#wsdm(elli college)"
+},
+{
+"number": "SemSearch_ES-77",
+"text": "#wsdm(savannah tech)"
+},
+{
+"number": "SemSearch_ES-52",
+"text": "#wsdm(lincoln park)"
+},
+{
+"number": "SemSearch_ES-12",
+"text": "#wsdm(austin texas)"
+},
+{
+"number": "SemSearch_ES-80",
+"text": "#wsdm(sonny cher)"
+},
+{
+"number": "SemSearch_ES-75",
+"text": "#wsdm(sagemont church houston tx)"
+},
+{
+"number": "SemSearch_ES-74",
+"text": "#wsdm(sacred heart u)"
+},
+{
+"number": "SemSearch_ES-6",
+"text": "#wsdm(air wisconsin)"
+},
+{
+"number": "SemSearch_ES-44",
+"text": "#wsdm(kaz vaporize)"
+},
+{
+"number": "SemSearch_ES-92",
+"text": "#wsdm(willow ridge)"
+},
+]
+}

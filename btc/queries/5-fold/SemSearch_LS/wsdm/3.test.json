@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_LS-49",
+"text": "#wsdm(invent python program language)"
+},
+{
+"number": "SemSearch_LS-17",
+"text": "#wsdm(house russia parliament)"
+},
+{
+"number": "SemSearch_LS-18",
+"text": "#wsdm(john lennon parent)"
+},
+{
+"number": "SemSearch_LS-30",
+"text": "#wsdm(orders choir angel)"
+},
+{
+"number": "SemSearch_LS-29",
+"text": "#wsdm(nation portugal official language)"
+},
+{
+"number": "SemSearch_LS-5",
+"text": "#wsdm(books jewish canon)"
+},
+{
+"number": "SemSearch_LS-40",
+"text": "#wsdm(first 13 america states)"
+},
+{
+"number": "SemSearch_LS-45",
+"text": "#wsdm(tv show thomas jane)"
+},
+{
+"number": "SemSearch_LS-22",
+"text": "#wsdm(major league united states)"
+},
+{
+"number": "SemSearch_LS-41",
+"text": "#wsdm(four companion prophet)"
+},
+]
+}

@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_LS-42",
+"text": "#wsdm(twelve tribe son israel)"
+},
+{
+"number": "SemSearch_LS-43",
+"text": "#wsdm(books paul tarsus write)"
+},
+{
+"number": "SemSearch_LS-28",
+"text": "#wsdm(movies star rafael rosell)"
+},
+{
+"number": "SemSearch_LS-2",
+"text": "#wsdm(arab states persian gulf)"
+},
+{
+"number": "SemSearch_LS-34",
+"text": "#wsdm(ratt album)"
+},
+{
+"number": "SemSearch_LS-3",
+"text": "#wsdm(astronaut landed moon)"
+},
+{
+"number": "SemSearch_LS-32",
+"text": "#wsdm(president depict mount rushmore die shoot)"
+},
+{
+"number": "SemSearch_LS-7",
+"text": "#wsdm(branch us military)"
+},
+{
+"number": "SemSearch_LS-21",
+"text": "#wsdm(lil allen parent)"
+},
+{
+"number": "SemSearch_LS-15",
+"text": "#wsdm(henry ii brother sister)"
+},
+]
+}
