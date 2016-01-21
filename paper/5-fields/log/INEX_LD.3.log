@@ -1,0 +1,1828 @@
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Initializing ParametrizedFSDMTraversal
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Initializing featuresScaling
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nnp max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nnp min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-exact max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-exact min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-part max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-part min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn-only max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn-only min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns-only max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns-only min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /question-dep max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /question-dep min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /const max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /const min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /dep-leaf max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /dep-leaf min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jjs max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jjs min value not specified using 0.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jj max value not specified using 1.0
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jj min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Done initializing ParametrizedFSDMTraversal
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Initializing ParametrizedFSDMTraversal
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Initializing featuresScaling
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nnp max value not specified using 1.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nnp min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns max value not specified using 1.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-exact max value not specified using 1.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-exact min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-part max value not specified using 1.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-part min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn-only max value not specified using 1.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn-only min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns-only max value not specified using 1.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns-only min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /question-dep max value not specified using 1.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /question-dep min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /const max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /const min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /dep-leaf max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /dep-leaf min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jjs max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jjs min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jj max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jj min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Done initializing ParametrizedFSDMTraversal
+Jan 21, 2016 6:28:17 AM edu.wayne.pfsdm.WPFSDMTraversal <init>
+INFO: Done initializing WPFSDMTraversal
+Jan 21, 2016 6:28:19 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Initializing featuresScaling
+Jan 21, 2016 6:28:19 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nnp max value not specified using 1.0
+Jan 21, 2016 6:28:19 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nnp min value not specified using 0.0
+Jan 21, 2016 6:28:19 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nns max value not specified using 1.0
+Jan 21, 2016 6:28:19 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nns min value not specified using 0.0
+Jan 21, 2016 6:28:19 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /np-exact max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /np-exact min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /np-part max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /np-part min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nn-only max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nn-only min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nns-only max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nns-only min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /question-dep max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /question-dep min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /const max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /const min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /dep-leaf max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /dep-leaf min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nn max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nn min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /jjs max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /jjs min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /jj max value not specified using 1.0
+Jan 21, 2016 6:28:20 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /jj min value not specified using 0.0
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	sweden	names	0.109151
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	sweden	attributes	0.590115
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	sweden	similarentitynames	0.100099
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	sweden	categories	0.145964
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	sweden	outgoingentitynames	0.0546711
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	iceland	names	0.111023
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	iceland	attributes	0.591676
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	iceland	similarentitynames	0.102756
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	iceland	categories	0.138937
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	iceland	outgoingentitynames	0.0556088
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	currency	names	0.00000
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	currency	attributes	0.440650
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	currency	similarentitynames	0.190354
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	currency	categories	0.368995
+Jan 21, 2016 6:28:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012329	currency	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	sweden iceland	names	0.238363
+Jan 21, 2016 6:28:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	sweden iceland	attributes	0.323560
+Jan 21, 2016 6:28:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	sweden iceland	similarentitynames	0.127325
+Jan 21, 2016 6:28:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	sweden iceland	categories	0.310752
+Jan 21, 2016 6:28:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	sweden iceland	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	iceland currency	names	0.0861034
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	iceland currency	attributes	0.364446
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	iceland currency	similarentitynames	0.224439
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	iceland currency	categories	0.325012
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012329	iceland currency	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	country	names	0.00000
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	country	attributes	0.484163
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	country	similarentitynames	0.158710
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	country	categories	0.357128
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	country	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	germany	names	0.00000
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	germany	attributes	0.436279
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	germany	similarentitynames	0.171826
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	germany	categories	0.391895
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	germany	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	language	names	0.00000
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	language	attributes	0.431485
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	language	similarentitynames	0.182149
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	language	categories	0.386365
+Jan 21, 2016 6:28:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012353	language	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	country germany	names	0.0818601
+Jan 21, 2016 6:28:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	country germany	attributes	0.362524
+Jan 21, 2016 6:28:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	country germany	similarentitynames	0.194204
+Jan 21, 2016 6:28:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	country germany	categories	0.361411
+Jan 21, 2016 6:28:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	country germany	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	germany language	names	0.227326
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	germany language	attributes	0.325167
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	germany language	similarentitynames	0.137615
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	germany language	categories	0.309892
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012353	germany language	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	europe	names	0.00000
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	europe	attributes	0.448641
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	europe	similarentitynames	0.187034
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	europe	categories	0.364325
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	europe	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	solar	names	0.00000
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	solar	attributes	0.449470
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	solar	similarentitynames	0.198912
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	solar	categories	0.351618
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	solar	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	power	names	0.00000
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	power	attributes	0.459000
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	power	similarentitynames	0.193104
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	power	categories	0.347896
+Jan 21, 2016 6:28:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	power	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	facility	names	0.00000
+Jan 21, 2016 6:28:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	facility	attributes	0.540950
+Jan 21, 2016 6:28:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	facility	similarentitynames	0.197550
+Jan 21, 2016 6:28:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	facility	categories	0.261501
+Jan 21, 2016 6:28:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2009111	facility	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	europe solar	names	0.0866298
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	europe solar	attributes	0.368360
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	europe solar	similarentitynames	0.198566
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	europe solar	categories	0.346444
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	europe solar	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	solar power	names	0.227434
+Jan 21, 2016 6:28:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	solar power	attributes	0.339339
+Jan 21, 2016 6:28:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	solar power	similarentitynames	0.141555
+Jan 21, 2016 6:28:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	solar power	categories	0.291672
+Jan 21, 2016 6:28:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	solar power	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	power facility	names	0.0894434
+Jan 21, 2016 6:28:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	power facility	attributes	0.381273
+Jan 21, 2016 6:28:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	power facility	similarentitynames	0.220129
+Jan 21, 2016 6:28:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	power facility	categories	0.309155
+Jan 21, 2016 6:28:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2009111	power facility	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	asia	names	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	asia	attributes	0.433918
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	asia	similarentitynames	0.185266
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	asia	categories	0.380816
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	asia	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	port	names	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	port	attributes	0.446290
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	port	similarentitynames	0.198616
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	port	categories	0.355094
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	port	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	state	names	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	state	attributes	0.446269
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	state	similarentitynames	0.193421
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	state	categories	0.360309
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	state	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	city	names	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	city	attributes	0.451468
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	city	similarentitynames	0.184640
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	city	categories	0.363893
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	city	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	sir	names	0.116738
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	sir	attributes	0.635736
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	sir	similarentitynames	0.124223
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	sir	categories	0.0648320
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	sir	outgoingentitynames	0.0584711
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	stamford	names	0.110756
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	stamford	attributes	0.596299
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	stamford	similarentitynames	0.110396
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	stamford	categories	0.127074
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	stamford	outgoingentitynames	0.0554752
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	raffle	names	0.110017
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	raffle	attributes	0.603203
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	raffle	similarentitynames	0.116750
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	raffle	categories	0.114926
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012321	raffle	outgoingentitynames	0.0551050
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	asia port	names	0.237148
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	asia port	attributes	0.339587
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	asia port	similarentitynames	0.123517
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	asia port	categories	0.299747
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	asia port	outgoingentitynames	0.00000
+Jan 21, 2016 6:28:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	port state	names	0.237740
+Jan 21, 2016 6:28:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	port state	attributes	0.336415
+Jan 21, 2016 6:28:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	port state	similarentitynames	0.134734
+Jan 21, 2016 6:28:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	port state	categories	0.291111
+Jan 21, 2016 6:28:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	port state	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	state city	names	0.231802
+Jan 21, 2016 6:29:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	state city	attributes	0.329714
+Jan 21, 2016 6:29:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	state city	similarentitynames	0.141373
+Jan 21, 2016 6:29:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	state city	categories	0.297111
+Jan 21, 2016 6:29:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	state city	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	city sir	names	0.0891051
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	city sir	attributes	0.369886
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	city sir	similarentitynames	0.213887
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	city sir	categories	0.327122
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	city sir	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	sir stamford	names	0.257910
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	sir stamford	attributes	0.348357
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	sir stamford	similarentitynames	0.151823
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	sir stamford	categories	0.241909
+Jan 21, 2016 6:29:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	sir stamford	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	stamford raffle	names	0.100393
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	stamford raffle	attributes	0.384290
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	stamford raffle	similarentitynames	0.244627
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	stamford raffle	categories	0.270690
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012321	stamford raffle	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	guitar	names	0.112913
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	guitar	attributes	0.615418
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	guitar	similarentitynames	0.102215
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	guitar	categories	0.112899
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	guitar	outgoingentitynames	0.0565555
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	origin	names	0.113056
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	origin	attributes	0.619663
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	origin	similarentitynames	0.0953204
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	origin	categories	0.115333
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	origin	outgoingentitynames	0.0566271
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	russia	names	0.108465
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	russia	attributes	0.587844
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	russia	similarentitynames	0.102836
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	russia	categories	0.146527
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120231	russia	outgoingentitynames	0.0543276
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	guitar origin	names	0.248961
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	guitar origin	attributes	0.351042
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	guitar origin	similarentitynames	0.129071
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	guitar origin	categories	0.270926
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	guitar origin	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	origin russia	names	0.0849279
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	origin russia	attributes	0.357320
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	origin russia	similarentitynames	0.194893
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	origin russia	categories	0.362859
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120231	origin russia	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	texas	names	0.109140
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	texas	attributes	0.584758
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	texas	similarentitynames	0.106699
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	texas	categories	0.144737
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	texas	outgoingentitynames	0.0546658
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	city	names	0.00000
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	city	attributes	0.451468
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	city	similarentitynames	0.184640
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	city	categories	0.363893
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	city	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	baylor	names	0.110913
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	baylor	attributes	0.588697
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	baylor	similarentitynames	0.107049
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	baylor	categories	0.137787
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	baylor	outgoingentitynames	0.0555537
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	university	names	0.108530
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	university	attributes	0.586617
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	university	similarentitynames	0.102836
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	university	categories	0.147657
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	university	outgoingentitynames	0.0543601
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	tornado	names	0.00000
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	tornado	attributes	0.428103
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	tornado	similarentitynames	0.204921
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	tornado	categories	0.366976
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	tornado	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	1953	names	0.00000
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	1953	attributes	0.446659
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	1953	similarentitynames	0.165075
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	1953	categories	0.388266
+Jan 21, 2016 6:29:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012337	1953	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	texas city	names	0.226972
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	texas city	attributes	0.339554
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	texas city	similarentitynames	0.142451
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	texas city	categories	0.291023
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	texas city	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	city baylor	names	0.241702
+Jan 21, 2016 6:29:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	city baylor	attributes	0.323658
+Jan 21, 2016 6:29:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	city baylor	similarentitynames	0.133419
+Jan 21, 2016 6:29:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	city baylor	categories	0.301220
+Jan 21, 2016 6:29:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	city baylor	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	baylor university	names	0.232507
+Jan 21, 2016 6:29:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	baylor university	attributes	0.322616
+Jan 21, 2016 6:29:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	baylor university	similarentitynames	0.145493
+Jan 21, 2016 6:29:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	baylor university	categories	0.299384
+Jan 21, 2016 6:29:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	baylor university	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	university tornado	names	0.0801954
+Jan 21, 2016 6:29:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	university tornado	attributes	0.349654
+Jan 21, 2016 6:29:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	university tornado	similarentitynames	0.202022
+Jan 21, 2016 6:29:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	university tornado	categories	0.368129
+Jan 21, 2016 6:29:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	university tornado	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	tornado 1953	names	0.0846693
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	tornado 1953	attributes	0.351958
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	tornado 1953	similarentitynames	0.189787
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	tornado 1953	categories	0.373586
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012337	tornado 1953	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	niagara	names	0.109003
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	niagara	attributes	0.589258
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	niagara	similarentitynames	0.108353
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	niagara	categories	0.138790
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	niagara	outgoingentitynames	0.0545968
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	falls	names	0.00000
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	falls	attributes	0.511804
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	falls	similarentitynames	0.0804373
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	falls	categories	0.399232
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	falls	outgoingentitynames	0.00852674
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	origin	names	0.00000
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	origin	attributes	0.501965
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	origin	similarentitynames	0.169507
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	origin	categories	0.328529
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	origin	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	lake	names	0.00000
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	lake	attributes	0.444056
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	lake	similarentitynames	0.212324
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	lake	categories	0.343620
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012301	lake	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	niagara falls	names	0.0937998
+Jan 21, 2016 6:29:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	niagara falls	attributes	0.0135312
+Jan 21, 2016 6:29:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	niagara falls	similarentitynames	0.232877
+Jan 21, 2016 6:29:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	niagara falls	categories	0.458074
+Jan 21, 2016 6:29:42 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	niagara falls	outgoingentitynames	0.201718
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	falls origin	names	0.0940307
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	falls origin	attributes	-0.00458320
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	falls origin	similarentitynames	0.229017
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	falls origin	categories	0.461852
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	falls origin	outgoingentitynames	0.219684
+Jan 21, 2016 6:29:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	origin lake	names	0.234435
+Jan 21, 2016 6:29:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	origin lake	attributes	0.331016
+Jan 21, 2016 6:29:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	origin lake	similarentitynames	0.133074
+Jan 21, 2016 6:29:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	origin lake	categories	0.301475
+Jan 21, 2016 6:29:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012301	origin lake	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	vietnam	names	0.00000
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	vietnam	attributes	0.435957
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	vietnam	similarentitynames	0.179169
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	vietnam	categories	0.384874
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	vietnam	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	travel	names	0.00000
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	travel	attributes	0.468528
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	travel	similarentitynames	0.180247
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	travel	categories	0.351225
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	travel	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	airport	names	0.00000
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	airport	attributes	0.505163
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	airport	similarentitynames	0.0837604
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	airport	categories	0.402653
+Jan 21, 2016 6:29:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120132	airport	outgoingentitynames	0.00842439
+Jan 21, 2016 6:29:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	vietnam travel	names	0.251070
+Jan 21, 2016 6:29:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	vietnam travel	attributes	0.339967
+Jan 21, 2016 6:29:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	vietnam travel	similarentitynames	0.123442
+Jan 21, 2016 6:29:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	vietnam travel	categories	0.285521
+Jan 21, 2016 6:29:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	vietnam travel	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	travel airport	names	0.179475
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	travel airport	attributes	0.0546851
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	travel airport	similarentitynames	0.188733
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	travel airport	categories	0.402037
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120132	travel airport	outgoingentitynames	0.175070
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	bicycle	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	bicycle	attributes	0.472535
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	bicycle	similarentitynames	0.193992
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	bicycle	categories	0.333473
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	bicycle	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	benefit	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	benefit	attributes	0.527940
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	benefit	similarentitynames	0.0756884
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	benefit	categories	0.387713
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	benefit	outgoingentitynames	0.00865948
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	environment	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	environment	attributes	0.466433
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	environment	similarentitynames	0.184800
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	environment	categories	0.348766
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120432	environment	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	bicycle benefit	names	0.183308
+Jan 21, 2016 6:29:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	bicycle benefit	attributes	0.0466498
+Jan 21, 2016 6:29:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	bicycle benefit	similarentitynames	0.184088
+Jan 21, 2016 6:29:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	bicycle benefit	categories	0.403241
+Jan 21, 2016 6:29:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	bicycle benefit	outgoingentitynames	0.182713
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	benefit environment	names	0.0879840
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	benefit environment	attributes	0.385612
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	benefit environment	similarentitynames	0.210353
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	benefit environment	categories	0.316050
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120432	benefit environment	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	guitar	names	0.00000
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	guitar	attributes	0.490263
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	guitar	similarentitynames	0.188930
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	guitar	categories	0.320807
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	guitar	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	chord	names	0.00000
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	chord	attributes	0.457531
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	chord	similarentitynames	0.204521
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	chord	categories	0.337948
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	chord	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	tune	names	0.00000
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	tune	attributes	0.473706
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	tune	similarentitynames	0.190055
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	tune	categories	0.336239
+Jan 21, 2016 6:29:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120211	tune	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	guitar chord	names	0.0855679
+Jan 21, 2016 6:29:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	guitar chord	attributes	0.371816
+Jan 21, 2016 6:29:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	guitar chord	similarentitynames	0.210775
+Jan 21, 2016 6:29:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	guitar chord	categories	0.331841
+Jan 21, 2016 6:29:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	guitar chord	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	chord tune	names	0.252492
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	chord tune	attributes	0.362872
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	chord tune	similarentitynames	0.123661
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	chord tune	categories	0.260975
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120211	chord tune	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	beautiful	names	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	beautiful	attributes	0.512060
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	beautiful	similarentitynames	0.216631
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	beautiful	categories	0.271309
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	beautiful	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	railway	names	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	railway	attributes	0.416572
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	railway	similarentitynames	0.193472
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	railway	categories	0.389956
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	railway	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	station	names	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	station	attributes	0.502002
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	station	similarentitynames	0.0786453
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	station	categories	0.410967
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	station	outgoingentitynames	0.00838507
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	world	names	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	world	attributes	0.443878
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	world	similarentitynames	0.185369
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	world	categories	0.370753
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	world	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	city	names	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	city	attributes	0.511528
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	city	similarentitynames	0.0716195
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	city	categories	0.408126
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	city	outgoingentitynames	0.00872605
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	located	names	0.00000
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	located	attributes	0.833235
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	located	similarentitynames	0.0276558
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	located	categories	0.139109
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012371	located	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	beautiful railway	names	0.0833551
+Jan 21, 2016 6:29:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	beautiful railway	attributes	0.369764
+Jan 21, 2016 6:29:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	beautiful railway	similarentitynames	0.207729
+Jan 21, 2016 6:29:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	beautiful railway	categories	0.339152
+Jan 21, 2016 6:29:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	beautiful railway	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	railway station	names	0.0928821
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	railway station	attributes	0.0199239
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	railway station	similarentitynames	0.225411
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	railway station	categories	0.463312
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	railway station	outgoingentitynames	0.198471
+Jan 21, 2016 6:30:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	station world	names	0.0952479
+Jan 21, 2016 6:30:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	station world	attributes	0.0102061
+Jan 21, 2016 6:30:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	station world	similarentitynames	0.229646
+Jan 21, 2016 6:30:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	station world	categories	0.459861
+Jan 21, 2016 6:30:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	station world	outgoingentitynames	0.205038
+Jan 21, 2016 6:30:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	world city	names	0.174007
+Jan 21, 2016 6:30:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	world city	attributes	0.0649826
+Jan 21, 2016 6:30:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	world city	similarentitynames	0.190418
+Jan 21, 2016 6:30:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	world city	categories	0.404384
+Jan 21, 2016 6:30:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	world city	outgoingentitynames	0.166208
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	city located	names	0.0920816
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	city located	attributes	0.0134888
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	city located	similarentitynames	0.217289
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	city located	categories	0.463874
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012371	city located	outgoingentitynames	0.213266
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	south	names	0.00000
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	south	attributes	0.450278
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	south	similarentitynames	0.184232
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	south	categories	0.365490
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	south	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	korea	names	0.00000
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	korea	attributes	0.428575
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	korea	similarentitynames	0.187102
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	korea	categories	0.384323
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	korea	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	girl	names	0.00000
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	girl	attributes	0.462074
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	girl	similarentitynames	0.209528
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	girl	categories	0.328398
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	girl	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	group	names	0.00000
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	group	attributes	0.506967
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	group	similarentitynames	0.0731088
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	group	categories	0.411484
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120512	group	outgoingentitynames	0.00844063
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	south korea	names	0.219571
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	south korea	attributes	0.337116
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	south korea	similarentitynames	0.141924
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	south korea	categories	0.301389
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	south korea	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	korea girl	names	0.237713
+Jan 21, 2016 6:30:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	korea girl	attributes	0.329453
+Jan 21, 2016 6:30:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	korea girl	similarentitynames	0.126173
+Jan 21, 2016 6:30:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	korea girl	categories	0.306661
+Jan 21, 2016 6:30:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	korea girl	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	girl group	names	0.174826
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	girl group	attributes	0.0614860
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	girl group	similarentitynames	0.184540
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	girl group	categories	0.411919
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120512	girl group	outgoingentitynames	0.167230
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	animal	names	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	animal	attributes	0.505464
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	animal	similarentitynames	0.0672376
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	animal	categories	0.418381
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	animal	outgoingentitynames	0.00891714
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	lay	names	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	lay	attributes	0.483643
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	lay	similarentitynames	0.192410
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	lay	categories	0.323947
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	lay	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	egg	names	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	egg	attributes	0.521418
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	egg	similarentitynames	0.0828199
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	egg	categories	0.387166
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	egg	outgoingentitynames	0.00859534
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	mammal	names	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	mammal	attributes	0.496543
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	mammal	similarentitynames	0.0702160
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	mammal	categories	0.424645
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012375	mammal	outgoingentitynames	0.00859555
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	animal lay	names	0.0935925
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	animal lay	attributes	0.00319992
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	animal lay	similarentitynames	0.224507
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	animal lay	categories	0.460015
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	animal lay	outgoingentitynames	0.218686
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	lay egg	names	0.0971563
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	lay egg	attributes	0.00688107
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	lay egg	similarentitynames	0.237148
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	lay egg	categories	0.439876
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	lay egg	outgoingentitynames	0.218938
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	egg mammal	names	0.180297
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	egg mammal	attributes	0.0520804
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	egg mammal	similarentitynames	0.189436
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	egg mammal	categories	0.401487
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012375	egg mammal	outgoingentitynames	0.176700
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	house	names	0.00000
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	house	attributes	0.434867
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	house	similarentitynames	0.194087
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	house	categories	0.371046
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	house	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	concrete	names	0.00000
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	concrete	attributes	0.479236
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	concrete	similarentitynames	0.186905
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	concrete	categories	0.333859
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	concrete	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	wood	names	0.00000
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	wood	attributes	0.471958
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	wood	similarentitynames	0.220597
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	wood	categories	0.307445
+Jan 21, 2016 6:30:26 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010100	wood	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	house concrete	names	0.0851335
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	house concrete	attributes	0.376643
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	house concrete	similarentitynames	0.201355
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	house concrete	categories	0.336869
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	house concrete	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	concrete wood	names	0.242487
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	concrete wood	attributes	0.341199
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	concrete wood	similarentitynames	0.126195
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	concrete wood	categories	0.290119
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010100	concrete wood	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	composer	names	0.00000
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	composer	attributes	0.442330
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	composer	similarentitynames	0.160916
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	composer	categories	0.396754
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	composer	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	museum	names	0.00000
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	museum	attributes	0.425785
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	museum	similarentitynames	0.189951
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	museum	categories	0.384264
+Jan 21, 2016 6:30:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2010014	museum	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010014	composer museum	names	0.237289
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010014	composer museum	attributes	0.339115
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010014	composer museum	similarentitynames	0.122573
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010014	composer museum	categories	0.301022
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2010014	composer museum	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	famous	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	famous	attributes	0.591364
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	famous	similarentitynames	0.210988
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	famous	categories	0.197648
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	famous	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	river	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	river	attributes	0.437871
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	river	similarentitynames	0.201818
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	river	categories	0.360311
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	river	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	confluence	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	confluence	attributes	0.768189
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	confluence	similarentitynames	0.231811
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	confluence	categories	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	confluence	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	dam	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	dam	attributes	0.450404
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	dam	similarentitynames	0.200831
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	dam	categories	0.348765
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	dam	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	construct	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	construct	attributes	0.558574
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	construct	similarentitynames	0.155454
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	construct	categories	0.285972
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012387	construct	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	famous river	names	0.246299
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	famous river	attributes	0.343522
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	famous river	similarentitynames	0.135147
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	famous river	categories	0.275031
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	famous river	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	river confluence	names	0.264719
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	river confluence	attributes	0.377822
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	river confluence	similarentitynames	0.144266
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	river confluence	categories	0.213193
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	river confluence	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	confluence dam	names	0.268187
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	confluence dam	attributes	0.379713
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	confluence dam	similarentitynames	0.133347
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	confluence dam	categories	0.218753
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	confluence dam	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	dam construct	names	0.0813831
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	dam construct	attributes	0.409081
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	dam construct	similarentitynames	0.197628
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	dam construct	categories	0.311908
+Jan 21, 2016 6:30:34 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012387	dam construct	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	famous	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	famous	attributes	0.591364
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	famous	similarentitynames	0.210988
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	famous	categories	0.197648
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	famous	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	computer	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	computer	attributes	0.439419
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	computer	similarentitynames	0.191874
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	computer	categories	0.368707
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	computer	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	scientist	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	scientist	attributes	0.503097
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	scientist	similarentitynames	0.0741693
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	scientist	categories	0.414328
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	scientist	outgoingentitynames	0.00840562
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	disappear	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	disappear	attributes	0.657288
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	disappear	similarentitynames	0.230273
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	disappear	categories	0.112439
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	disappear	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	sea	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	sea	attributes	0.470176
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	sea	similarentitynames	0.194560
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	sea	categories	0.335264
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012383	sea	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	famous computer	names	0.249504
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	famous computer	attributes	0.347195
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	famous computer	similarentitynames	0.130075
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	famous computer	categories	0.273227
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	famous computer	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:37 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	computer scientist	names	0.174222
+Jan 21, 2016 6:30:37 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	computer scientist	attributes	0.0572653
+Jan 21, 2016 6:30:37 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	computer scientist	similarentitynames	0.191223
+Jan 21, 2016 6:30:37 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	computer scientist	categories	0.410320
+Jan 21, 2016 6:30:37 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	computer scientist	outgoingentitynames	0.166970
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	scientist disappear	names	0.0931092
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	scientist disappear	attributes	-0.00496563
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	scientist disappear	similarentitynames	0.226529
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	scientist disappear	categories	0.461735
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	scientist disappear	outgoingentitynames	0.223592
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	disappear sea	names	0.0818919
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	disappear sea	attributes	0.396725
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	disappear sea	similarentitynames	0.202859
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	disappear sea	categories	0.318524
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012383	disappear sea	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	vietnam	names	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	vietnam	attributes	0.435957
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	vietnam	similarentitynames	0.179169
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	vietnam	categories	0.384874
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	vietnam	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	travel	names	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	travel	attributes	0.468528
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	travel	similarentitynames	0.180247
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	travel	categories	0.351225
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	travel	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	national	names	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	national	attributes	0.438420
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	national	similarentitynames	0.188674
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	national	categories	0.372905
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	national	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	park	names	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	park	attributes	0.446751
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	park	similarentitynames	0.204920
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	park	categories	0.348329
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-20120131	park	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	vietnam travel	names	0.0814442
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	vietnam travel	attributes	0.375415
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	vietnam travel	similarentitynames	0.194711
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	vietnam travel	categories	0.348429
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	vietnam travel	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	travel national	names	0.0863604
+Jan 21, 2016 6:30:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	travel national	attributes	0.352493
+Jan 21, 2016 6:30:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	travel national	similarentitynames	0.218503
+Jan 21, 2016 6:30:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	travel national	categories	0.342643
+Jan 21, 2016 6:30:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	travel national	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	national park	names	0.220639
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	national park	attributes	0.336469
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	national park	similarentitynames	0.141510
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	national park	categories	0.301382
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-20120131	national park	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	bob	names	0.111999
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	bob	attributes	0.600904
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	bob	similarentitynames	0.115074
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	bob	categories	0.115925
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	bob	outgoingentitynames	0.0560975
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	rick	names	0.112228
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	rick	attributes	0.601429
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	rick	similarentitynames	0.112703
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	rick	categories	0.117429
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	rick	outgoingentitynames	0.0562122
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	executive	names	0.109326
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	executive	attributes	0.602536
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	executive	similarentitynames	0.0966583
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	executive	categories	0.136721
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	executive	outgoingentitynames	0.0547589
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	director	names	0.110521
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	director	attributes	0.608062
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	director	similarentitynames	0.0921705
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	director	categories	0.133889
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	director	outgoingentitynames	0.0553576
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	latest	names	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	latest	attributes	0.797760
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	latest	similarentitynames	0.202240
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	latest	categories	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	latest	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	group	names	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	group	attributes	0.442887
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	group	similarentitynames	0.177346
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	group	categories	0.379767
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	group	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	anti	names	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	anti	attributes	0.435203
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	anti	similarentitynames	0.194824
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	anti	categories	0.369973
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	anti	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	gun	names	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	gun	attributes	0.460642
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	gun	similarentitynames	0.202154
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	gun	categories	0.337204
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	gun	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	movement	names	0.00000
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	movement	attributes	0.461831
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	movement	similarentitynames	0.194374
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	movement	categories	0.343795
+Jan 21, 2016 6:30:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012359	movement	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	bob rick	names	0.244069
+Jan 21, 2016 6:30:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	bob rick	attributes	0.328867
+Jan 21, 2016 6:30:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	bob rick	similarentitynames	0.150280
+Jan 21, 2016 6:30:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	bob rick	categories	0.276784
+Jan 21, 2016 6:30:45 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	bob rick	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	rick executive	names	0.248525
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	rick executive	attributes	0.333155
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	rick executive	similarentitynames	0.140481
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	rick executive	categories	0.277839
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	rick executive	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	executive director	names	0.234678
+Jan 21, 2016 6:30:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	executive director	attributes	0.336051
+Jan 21, 2016 6:30:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	executive director	similarentitynames	0.138001
+Jan 21, 2016 6:30:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	executive director	categories	0.291270
+Jan 21, 2016 6:30:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	executive director	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:48 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	director latest	names	0.0911961
+Jan 21, 2016 6:30:48 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	director latest	attributes	0.443839
+Jan 21, 2016 6:30:48 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	director latest	similarentitynames	0.213561
+Jan 21, 2016 6:30:48 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	director latest	categories	0.251403
+Jan 21, 2016 6:30:48 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	director latest	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	latest group	names	0.268451
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	latest group	attributes	0.371251
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	latest group	similarentitynames	0.135406
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	latest group	categories	0.224892
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	latest group	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	group anti	names	0.0842352
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	group anti	attributes	0.347333
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	group anti	similarentitynames	0.202319
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	group anti	categories	0.366112
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	group anti	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	anti gun	names	0.0821932
+Jan 21, 2016 6:30:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	anti gun	attributes	0.347137
+Jan 21, 2016 6:30:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	anti gun	similarentitynames	0.214297
+Jan 21, 2016 6:30:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	anti gun	categories	0.356373
+Jan 21, 2016 6:30:51 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	anti gun	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	gun movement	names	0.244999
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	gun movement	attributes	0.329251
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	gun movement	similarentitynames	0.134893
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	gun movement	categories	0.290857
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012359	gun movement	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	prime	names	0.108945
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	prime	attributes	0.600369
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	prime	similarentitynames	0.105677
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	prime	categories	0.130441
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	prime	outgoingentitynames	0.0545680
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	minister	names	0.00000
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	minister	attributes	0.450874
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	minister	similarentitynames	0.183363
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	minister	categories	0.365763
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	minister	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	canada	names	0.109247
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	canada	attributes	0.589386
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	canada	similarentitynames	0.100095
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	canada	categories	0.146552
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	canada	outgoingentitynames	0.0547195
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	nickname	names	0.115822
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	nickname	attributes	0.640382
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	nickname	similarentitynames	0.0910331
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	nickname	categories	0.0947502
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	nickname	outgoingentitynames	0.0580126
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	silver	names	0.108379
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	silver	attributes	0.593404
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	silver	similarentitynames	0.104343
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	silver	categories	0.139590
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	silver	outgoingentitynames	0.0542844
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	tongue	names	0.110968
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	tongue	attributes	0.612524
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	tongue	similarentitynames	0.115253
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	tongue	categories	0.105675
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	tongue	outgoingentitynames	0.0555811
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	laurier	names	0.108220
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	laurier	attributes	0.590129
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	laurier	similarentitynames	0.116155
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	laurier	categories	0.131291
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	laurier	outgoingentitynames	0.0542049
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	longest	names	0.00000
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	longest	attributes	0.615449
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	longest	similarentitynames	0.220664
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	longest	categories	0.163887
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	longest	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	unbroken	names	0.00000
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	unbroken	attributes	0.536352
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	unbroken	similarentitynames	0.229825
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	unbroken	categories	0.233823
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	unbroken	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	term	names	0.00000
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	term	attributes	0.579305
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	term	similarentitynames	0.167449
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	term	categories	0.253245
+Jan 21, 2016 6:30:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: INEX_LD-2012333	term	outgoingentitynames	0.00000
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	prime minister	names	0.228962
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	prime minister	attributes	0.334973
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	prime minister	similarentitynames	0.144408
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	prime minister	categories	0.291656
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	prime minister	outgoingentitynames	0.00000
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	minister canada	names	0.227247
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	minister canada	attributes	0.328442
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	minister canada	similarentitynames	0.139878
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	minister canada	categories	0.304433
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	minister canada	outgoingentitynames	0.00000
+Jan 21, 2016 6:31:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	canada nickname	names	0.240208
+Jan 21, 2016 6:31:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	canada nickname	attributes	0.327466
+Jan 21, 2016 6:31:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	canada nickname	similarentitynames	0.137302
+Jan 21, 2016 6:31:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	canada nickname	categories	0.295024
+Jan 21, 2016 6:31:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	canada nickname	outgoingentitynames	0.00000
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	nickname silver	names	0.0799615
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	nickname silver	attributes	0.392060
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	nickname silver	similarentitynames	0.194653
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	nickname silver	categories	0.333325
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	nickname silver	outgoingentitynames	0.00000
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	silver tongue	names	0.255896
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	silver tongue	attributes	0.338402
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	silver tongue	similarentitynames	0.139786
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	silver tongue	categories	0.265915
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	silver tongue	outgoingentitynames	0.00000
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	tongue laurier	names	0.273544
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	tongue laurier	attributes	0.321020
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	tongue laurier	similarentitynames	0.140466
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	tongue laurier	categories	0.264970
+Jan 21, 2016 6:31:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	tongue laurier	outgoingentitynames	0.00000
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	laurier longest	names	0.0812739
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	laurier longest	attributes	0.420753
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	laurier longest	similarentitynames	0.206862
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	laurier longest	categories	0.291111
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	laurier longest	outgoingentitynames	0.00000
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	longest unbroken	names	0.267556
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	longest unbroken	attributes	0.369986
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	longest unbroken	similarentitynames	0.128560
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	longest unbroken	categories	0.233898
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	longest unbroken	outgoingentitynames	0.00000
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	unbroken term	names	0.259140
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	unbroken term	attributes	0.350810
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	unbroken term	similarentitynames	0.128776
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	unbroken term	categories	0.261274
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: INEX_LD-2012333	unbroken term	outgoingentitynames	0.00000

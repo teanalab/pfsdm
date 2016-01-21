@@ -1,0 +1,2228 @@
+Jan 21, 2016 6:28:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Initializing ParametrizedFSDMTraversal
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Initializing featuresScaling
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nnp max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nnp min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-exact max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-exact min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-part max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-part min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn-only max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn-only min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns-only max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns-only min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /question-dep max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /question-dep min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /const max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /const min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /dep-leaf max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /dep-leaf min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jjs max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jjs min value not specified using 0.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jj max value not specified using 1.0
+Jan 21, 2016 6:28:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jj min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Done initializing ParametrizedFSDMTraversal
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Initializing ParametrizedFSDMTraversal
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Initializing featuresScaling
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nnp max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nnp min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-exact max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-exact min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-part max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /np-part min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn-only max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn-only min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns-only max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nns-only min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /question-dep max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /question-dep min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /const max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /const min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /dep-leaf max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /dep-leaf min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /nn min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jjs max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jjs min value not specified using 0.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jj max value not specified using 1.0
+Jan 21, 2016 6:28:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Param /jj min value not specified using 0.0
+Jan 21, 2016 6:28:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal <init>
+INFO: Done initializing ParametrizedFSDMTraversal
+Jan 21, 2016 6:28:17 AM edu.wayne.pfsdm.WPFSDMTraversal <init>
+INFO: Done initializing WPFSDMTraversal
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Initializing featuresScaling
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nnp max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nnp min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nns max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nns min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /np-exact max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /np-exact min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /np-part max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /np-part min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nn-only max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nn-only min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nns-only max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nns-only min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /question-dep max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /question-dep min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-titles-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-infobox-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /wiki-categories-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /google-ngrams-word-presence min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /const max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /const min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /dep-leaf max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /dep-leaf min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nn max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /nn min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /jjs max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /jjs min value not specified using 0.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /jj max value not specified using 1.0
+Jan 21, 2016 6:28:21 AM edu.wayne.models.WSDMTraversal <init>
+INFO: Param /jj min value not specified using 0.0
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	names	0.00000
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	attributes	0.112412
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	similarentitynames	0.219485
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	categories	0.206635
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	outgoingentitynames	0.461468
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	type	names	0.00000
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	type	attributes	0.335539
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	type	similarentitynames	0.0954759
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	type	categories	0.404222
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	type	outgoingentitynames	0.164763
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	manhattan	names	0.00000
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	manhattan	attributes	0.108033
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	manhattan	similarentitynames	0.215842
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	manhattan	categories	0.211281
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	manhattan	outgoingentitynames	0.464844
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	names	0.00000
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	attributes	0.112412
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	similarentitynames	0.219485
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	categories	0.206635
+Jan 21, 2016 6:28:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-26	bridge	outgoingentitynames	0.461468
+Jan 21, 2016 6:28:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	bridge type	names	0.00000
+Jan 21, 2016 6:28:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	bridge type	attributes	0.0658861
+Jan 21, 2016 6:28:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	bridge type	similarentitynames	0.161306
+Jan 21, 2016 6:28:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	bridge type	categories	0.551765
+Jan 21, 2016 6:28:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	bridge type	outgoingentitynames	0.221042
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	type manhattan	names	0.00000
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	type manhattan	attributes	0.0674149
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	type manhattan	similarentitynames	0.177464
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	type manhattan	categories	0.568702
+Jan 21, 2016 6:28:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	type manhattan	outgoingentitynames	0.186419
+Jan 21, 2016 6:28:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	manhattan bridge	names	-0.241519
+Jan 21, 2016 6:28:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	manhattan bridge	attributes	0.0298797
+Jan 21, 2016 6:28:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	manhattan bridge	similarentitynames	0.321814
+Jan 21, 2016 6:28:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	manhattan bridge	categories	0.445151
+Jan 21, 2016 6:28:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-26	manhattan bridge	outgoingentitynames	0.444674
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	film	names	0.00000
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	film	attributes	0.269674
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	film	similarentitynames	0.0612922
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	film	categories	0.575592
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	film	outgoingentitynames	0.0934413
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	star	names	0.00000
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	star	attributes	0.301987
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	star	similarentitynames	0.115654
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	star	categories	0.432469
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	star	outgoingentitynames	0.149890
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	clint	names	0.00000
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	clint	attributes	0.108711
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	clint	similarentitynames	0.226956
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	clint	categories	0.175469
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	clint	outgoingentitynames	0.488864
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	eastwood	names	0.00000
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	eastwood	attributes	0.109271
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	eastwood	similarentitynames	0.226599
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	eastwood	categories	0.177162
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	eastwood	outgoingentitynames	0.486968
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	direct	names	0.00000
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	direct	attributes	0.290517
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	direct	similarentitynames	0.0926297
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	direct	categories	0.538140
+Jan 21, 2016 6:28:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-88	direct	outgoingentitynames	0.0787127
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	film star	names	-0.0647618
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	film star	attributes	0.0870316
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	film star	similarentitynames	0.132193
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	film star	categories	0.633194
+Jan 21, 2016 6:28:44 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	film star	outgoingentitynames	0.212343
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	star clint	names	0.00000
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	star clint	attributes	0.0666129
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	star clint	similarentitynames	0.173505
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	star clint	categories	0.523570
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	star clint	outgoingentitynames	0.236311
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	clint eastwood	names	-0.233287
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	clint eastwood	attributes	0.0291668
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	clint eastwood	similarentitynames	0.316798
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	clint eastwood	categories	0.422322
+Jan 21, 2016 6:28:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	clint eastwood	outgoingentitynames	0.465001
+Jan 21, 2016 6:28:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	eastwood direct	names	0.00000
+Jan 21, 2016 6:28:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	eastwood direct	attributes	0.0696023
+Jan 21, 2016 6:28:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	eastwood direct	similarentitynames	0.164168
+Jan 21, 2016 6:28:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	eastwood direct	categories	0.612035
+Jan 21, 2016 6:28:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-88	eastwood direct	outgoingentitynames	0.154195
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	books	names	0.00000
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	books	attributes	0.277671
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	books	similarentitynames	0.0545006
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	books	categories	0.566657
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	books	outgoingentitynames	0.101171
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	kerouac	names	0.00000
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	kerouac	attributes	0.112066
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	kerouac	similarentitynames	0.216314
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	kerouac	categories	0.184268
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	kerouac	outgoingentitynames	0.487352
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	publish	names	0.00000
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	publish	attributes	0.324477
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	publish	similarentitynames	0.0604688
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	publish	categories	0.522491
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	publish	outgoingentitynames	0.0925625
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	viking	names	0.00000
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	viking	attributes	0.258276
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	viking	similarentitynames	0.111705
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	viking	categories	0.493690
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	viking	outgoingentitynames	0.136329
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	press	names	0.00000
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	press	attributes	0.120834
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	press	similarentitynames	0.223534
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	press	categories	0.179695
+Jan 21, 2016 6:28:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-81	press	outgoingentitynames	0.475937
+Jan 21, 2016 6:28:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	books kerouac	names	-0.0767186
+Jan 21, 2016 6:28:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	books kerouac	attributes	0.0931591
+Jan 21, 2016 6:28:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	books kerouac	similarentitynames	0.116700
+Jan 21, 2016 6:28:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	books kerouac	categories	0.643395
+Jan 21, 2016 6:28:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	books kerouac	outgoingentitynames	0.223464
+Jan 21, 2016 6:28:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	kerouac publish	names	0.00000
+Jan 21, 2016 6:28:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	kerouac publish	attributes	0.0770067
+Jan 21, 2016 6:28:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	kerouac publish	similarentitynames	0.156813
+Jan 21, 2016 6:28:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	kerouac publish	categories	0.600631
+Jan 21, 2016 6:28:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	kerouac publish	outgoingentitynames	0.165550
+Jan 21, 2016 6:28:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	publish viking	names	0.00000
+Jan 21, 2016 6:28:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	publish viking	attributes	0.0681635
+Jan 21, 2016 6:28:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	publish viking	similarentitynames	0.154081
+Jan 21, 2016 6:28:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	publish viking	categories	0.617036
+Jan 21, 2016 6:28:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	publish viking	outgoingentitynames	0.160719
+Jan 21, 2016 6:29:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	viking press	names	-0.271791
+Jan 21, 2016 6:29:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	viking press	attributes	0.0325610
+Jan 21, 2016 6:29:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	viking press	similarentitynames	0.357721
+Jan 21, 2016 6:29:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	viking press	categories	0.358919
+Jan 21, 2016 6:29:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-81	viking press	outgoingentitynames	0.522590
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	organization	names	0.00000
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	organization	attributes	0.260899
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	organization	similarentitynames	0.0979487
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	organization	categories	0.529927
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	organization	outgoingentitynames	0.111225
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	found	names	0.00000
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	found	attributes	0.418509
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	found	similarentitynames	0.0942811
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	found	categories	0.342732
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	found	outgoingentitynames	0.144478
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	1950	names	0.00000
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	1950	attributes	0.271616
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	1950	similarentitynames	0.100668
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	1950	categories	0.532788
+Jan 21, 2016 6:29:03 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-91	1950	outgoingentitynames	0.0949287
+Jan 21, 2016 6:29:05 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	organization found	names	0.00000
+Jan 21, 2016 6:29:05 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	organization found	attributes	0.0545679
+Jan 21, 2016 6:29:05 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	organization found	similarentitynames	0.131311
+Jan 21, 2016 6:29:05 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	organization found	categories	0.635354
+Jan 21, 2016 6:29:05 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	organization found	outgoingentitynames	0.178767
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	found 1950	names	0.00000
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	found 1950	attributes	0.0681083
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	found 1950	similarentitynames	0.224260
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	found 1950	categories	0.548631
+Jan 21, 2016 6:29:07 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-91	found 1950	outgoingentitynames	0.159000
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	give	names	0.00000
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	give	attributes	0.394774
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	give	similarentitynames	0.138882
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	give	categories	0.313313
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	give	outgoingentitynames	0.153031
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	film	names	0.00000
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	film	attributes	0.269674
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	film	similarentitynames	0.0612922
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	film	categories	0.575592
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	film	outgoingentitynames	0.0934413
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	produce	names	0.00000
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	produce	attributes	0.322088
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	produce	similarentitynames	0.0699466
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	produce	categories	0.570958
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	produce	outgoingentitynames	0.0370073
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	hal	names	0.00000
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	hal	attributes	0.104591
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	hal	similarentitynames	0.225717
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	hal	categories	0.174108
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	hal	outgoingentitynames	0.495584
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	roach	names	0.00000
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	roach	attributes	0.100017
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	roach	similarentitynames	0.225050
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	roach	categories	0.174101
+Jan 21, 2016 6:29:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-70	roach	outgoingentitynames	0.500832
+Jan 21, 2016 6:29:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	give film	names	-0.0746287
+Jan 21, 2016 6:29:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	give film	attributes	0.0986049
+Jan 21, 2016 6:29:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	give film	similarentitynames	0.146842
+Jan 21, 2016 6:29:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	give film	categories	0.617759
+Jan 21, 2016 6:29:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	give film	outgoingentitynames	0.211423
+Jan 21, 2016 6:29:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	film produce	names	-0.0648882
+Jan 21, 2016 6:29:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	film produce	attributes	0.0872104
+Jan 21, 2016 6:29:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	film produce	similarentitynames	0.127607
+Jan 21, 2016 6:29:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	film produce	categories	0.638137
+Jan 21, 2016 6:29:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	film produce	outgoingentitynames	0.211934
+Jan 21, 2016 6:29:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	produce hal	names	0.00000
+Jan 21, 2016 6:29:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	produce hal	attributes	0.0573412
+Jan 21, 2016 6:29:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	produce hal	similarentitynames	0.128073
+Jan 21, 2016 6:29:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	produce hal	categories	0.691961
+Jan 21, 2016 6:29:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	produce hal	outgoingentitynames	0.122625
+Jan 21, 2016 6:29:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	hal roach	names	-0.231531
+Jan 21, 2016 6:29:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	hal roach	attributes	0.0279584
+Jan 21, 2016 6:29:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	hal roach	similarentitynames	0.298801
+Jan 21, 2016 6:29:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	hal roach	categories	0.441107
+Jan 21, 2016 6:29:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-70	hal roach	outgoingentitynames	0.463665
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	greece	names	0.00000
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	greece	attributes	0.254499
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	greece	similarentitynames	0.116060
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	greece	categories	0.506853
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	greece	outgoingentitynames	0.122587
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	goddesse	names	0.00000
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	goddesse	attributes	0.225261
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	goddesse	similarentitynames	0.0953289
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	goddesse	categories	0.568865
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	goddesse	outgoingentitynames	0.110544
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	dwelt	names	0.00000
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	dwelt	attributes	0.746919
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	dwelt	similarentitynames	0.253081
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	dwelt	categories	0.00000
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	dwelt	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	mount	names	0.00000
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	mount	attributes	0.117661
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	mount	similarentitynames	0.227617
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	mount	categories	0.179722
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	mount	outgoingentitynames	0.475000
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	olympus	names	0.00000
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	olympus	attributes	0.117322
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	olympus	similarentitynames	0.227460
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	olympus	categories	0.189333
+Jan 21, 2016 6:29:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-55	olympus	outgoingentitynames	0.465885
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	greece goddesse	names	0.00000
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	greece goddesse	attributes	0.0477159
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	greece goddesse	similarentitynames	0.138960
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	greece goddesse	categories	0.633550
+Jan 21, 2016 6:29:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	greece goddesse	outgoingentitynames	0.179773
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	goddesse dwelt	names	0.00000
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	goddesse dwelt	attributes	0.0660374
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	goddesse dwelt	similarentitynames	0.199504
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	goddesse dwelt	categories	0.579602
+Jan 21, 2016 6:29:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	goddesse dwelt	outgoingentitynames	0.154856
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	dwelt mount	names	0.00000
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	dwelt mount	attributes	0.0963584
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	dwelt mount	similarentitynames	0.232010
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	dwelt mount	categories	0.522168
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	dwelt mount	outgoingentitynames	0.149464
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	mount olympus	names	-0.234700
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	mount olympus	attributes	0.0287522
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	mount olympus	similarentitynames	0.321677
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	mount olympus	categories	0.423317
+Jan 21, 2016 6:29:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-55	mount olympus	outgoingentitynames	0.460955
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	give	names	0.00000
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	give	attributes	0.394774
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	give	similarentitynames	0.138882
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	give	categories	0.313313
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	give	outgoingentitynames	0.153031
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	member	names	0.00000
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	member	attributes	0.289902
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	member	similarentitynames	0.0467951
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	member	categories	0.570147
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	member	outgoingentitynames	0.0931559
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	prodigy	names	0.00000
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	prodigy	attributes	0.116544
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	prodigy	similarentitynames	0.220980
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	prodigy	categories	0.183611
+Jan 21, 2016 6:29:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-14	prodigy	outgoingentitynames	0.478865
+Jan 21, 2016 6:29:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	give member	names	-0.0768696
+Jan 21, 2016 6:29:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	give member	attributes	0.101423
+Jan 21, 2016 6:29:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	give member	similarentitynames	0.122064
+Jan 21, 2016 6:29:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	give member	categories	0.628101
+Jan 21, 2016 6:29:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	give member	outgoingentitynames	0.225282
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	member prodigy	names	-0.0690907
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	member prodigy	attributes	0.0911916
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	member prodigy	similarentitynames	0.109029
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	member prodigy	categories	0.650121
+Jan 21, 2016 6:29:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-14	member prodigy	outgoingentitynames	0.218750
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	germany	names	0.00000
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	germany	attributes	0.255867
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	germany	similarentitynames	0.100954
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	germany	categories	0.510952
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	germany	outgoingentitynames	0.132227
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	city	names	0.00000
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	city	attributes	0.280077
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	city	similarentitynames	0.0585932
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	city	categories	0.539457
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	city	outgoingentitynames	0.121872
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	250000	names	0.00000
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	250000	attributes	0.708113
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	250000	similarentitynames	0.291887
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	250000	categories	0.00000
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	250000	outgoingentitynames	0.00000
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	inhabitant	names	0.00000
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	inhabitant	attributes	0.361241
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	inhabitant	similarentitynames	0.0487557
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	inhabitant	categories	0.484317
+Jan 21, 2016 6:29:29 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-1	inhabitant	outgoingentitynames	0.105686
+Jan 21, 2016 6:29:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	germany city	names	-0.0650740
+Jan 21, 2016 6:29:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	germany city	attributes	0.0869988
+Jan 21, 2016 6:29:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	germany city	similarentitynames	0.130952
+Jan 21, 2016 6:29:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	germany city	categories	0.630959
+Jan 21, 2016 6:29:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	germany city	outgoingentitynames	0.216164
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	city 250000	names	-0.0889004
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	city 250000	attributes	0.108220
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	city 250000	similarentitynames	0.139266
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	city 250000	categories	0.618836
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	city 250000	outgoingentitynames	0.222579
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	250000 inhabitant	names	-0.0933659
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	250000 inhabitant	attributes	0.108425
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	250000 inhabitant	similarentitynames	0.128187
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	250000 inhabitant	categories	0.630504
+Jan 21, 2016 6:29:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-1	250000 inhabitant	outgoingentitynames	0.226250
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	wrote	names	0.00000
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	wrote	attributes	0.439584
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	wrote	similarentitynames	0.0913046
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	wrote	categories	0.403090
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	wrote	outgoingentitynames	0.0660219
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	lyrics	names	0.00000
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	lyrics	attributes	0.309038
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	lyrics	similarentitynames	0.0486200
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	lyrics	categories	0.558424
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	lyrics	outgoingentitynames	0.0839179
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	polish	names	0.00000
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	polish	attributes	0.257724
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	polish	similarentitynames	0.107083
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	polish	categories	0.526414
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	polish	outgoingentitynames	0.108779
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	national	names	0.00000
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	national	attributes	0.263715
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	national	similarentitynames	0.113696
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	national	categories	0.498660
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	national	outgoingentitynames	0.123929
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	anthem	names	0.00000
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	anthem	attributes	0.273900
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	anthem	similarentitynames	0.133563
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	anthem	categories	0.475699
+Jan 21, 2016 6:29:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-95	anthem	outgoingentitynames	0.116838
+Jan 21, 2016 6:29:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	wrote lyrics	names	-0.0829659
+Jan 21, 2016 6:29:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	wrote lyrics	attributes	0.110551
+Jan 21, 2016 6:29:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	wrote lyrics	similarentitynames	0.118332
+Jan 21, 2016 6:29:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	wrote lyrics	categories	0.636813
+Jan 21, 2016 6:29:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	wrote lyrics	outgoingentitynames	0.217269
+Jan 21, 2016 6:29:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	lyrics polish	names	-0.0785618
+Jan 21, 2016 6:29:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	lyrics polish	attributes	0.103287
+Jan 21, 2016 6:29:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	lyrics polish	similarentitynames	0.120843
+Jan 21, 2016 6:29:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	lyrics polish	categories	0.637036
+Jan 21, 2016 6:29:40 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	lyrics polish	outgoingentitynames	0.217396
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	polish national	names	-0.232531
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	polish national	attributes	0.0287464
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	polish national	similarentitynames	0.308155
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	polish national	categories	0.447081
+Jan 21, 2016 6:29:41 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	polish national	outgoingentitynames	0.448549
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	national anthem	names	-0.227131
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	national anthem	attributes	0.0296380
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	national anthem	similarentitynames	0.322984
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	national anthem	categories	0.434299
+Jan 21, 2016 6:29:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-95	national anthem	outgoingentitynames	0.440210
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	show	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	show	attributes	0.290568
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	show	similarentitynames	0.112392
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	show	categories	0.486016
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	show	outgoingentitynames	0.111024
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	song	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	song	attributes	0.274676
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	song	similarentitynames	0.0662829
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	song	categories	0.559978
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	song	outgoingentitynames	0.0990629
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	bruce	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	bruce	attributes	0.108634
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	bruce	similarentitynames	0.229406
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	bruce	categories	0.169419
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	bruce	outgoingentitynames	0.492542
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	springsteen	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	springsteen	attributes	0.106361
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	springsteen	similarentitynames	0.217586
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	springsteen	categories	0.197226
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	springsteen	outgoingentitynames	0.478827
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	release	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	release	attributes	0.408696
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	release	similarentitynames	0.0979184
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	release	categories	0.404569
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	release	outgoingentitynames	0.0888166
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1980	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1980	attributes	0.272622
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1980	similarentitynames	0.103667
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1980	categories	0.526987
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1980	outgoingentitynames	0.0967238
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1990	names	0.00000
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1990	attributes	0.276482
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1990	similarentitynames	0.106495
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1990	categories	0.519836
+Jan 21, 2016 6:29:47 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-92	1990	outgoingentitynames	0.0971870
+Jan 21, 2016 6:29:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	show song	names	-0.0656883
+Jan 21, 2016 6:29:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	show song	attributes	0.0876545
+Jan 21, 2016 6:29:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	show song	similarentitynames	0.130878
+Jan 21, 2016 6:29:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	show song	categories	0.636116
+Jan 21, 2016 6:29:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	show song	outgoingentitynames	0.211040
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	song bruce	names	-0.0659657
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	song bruce	attributes	0.0877807
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	song bruce	similarentitynames	0.129550
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	song bruce	categories	0.637503
+Jan 21, 2016 6:29:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	song bruce	outgoingentitynames	0.211132
+Jan 21, 2016 6:29:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	bruce springsteen	names	-0.228267
+Jan 21, 2016 6:29:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	bruce springsteen	attributes	0.0289003
+Jan 21, 2016 6:29:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	bruce springsteen	similarentitynames	0.307528
+Jan 21, 2016 6:29:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	bruce springsteen	categories	0.436188
+Jan 21, 2016 6:29:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	bruce springsteen	outgoingentitynames	0.455651
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	springsteen release	names	0.00000
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	springsteen release	attributes	0.0696673
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	springsteen release	similarentitynames	0.160907
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	springsteen release	categories	0.595003
+Jan 21, 2016 6:29:58 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	springsteen release	outgoingentitynames	0.174422
+Jan 21, 2016 6:30:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	release 1980	names	0.00000
+Jan 21, 2016 6:30:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	release 1980	attributes	0.0556879
+Jan 21, 2016 6:30:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	release 1980	similarentitynames	0.137805
+Jan 21, 2016 6:30:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	release 1980	categories	0.629763
+Jan 21, 2016 6:30:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	release 1980	outgoingentitynames	0.176743
+Jan 21, 2016 6:30:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	1980 1990	names	0.00000
+Jan 21, 2016 6:30:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	1980 1990	attributes	0.0631320
+Jan 21, 2016 6:30:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	1980 1990	similarentitynames	0.201360
+Jan 21, 2016 6:30:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	1980 1990	categories	0.529843
+Jan 21, 2016 6:30:01 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-92	1980 1990	outgoingentitynames	0.205666
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	capital	names	0.00000
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	capital	attributes	0.303419
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	capital	similarentitynames	0.114617
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	capital	categories	0.416748
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	capital	outgoingentitynames	0.165216
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	canada	names	0.00000
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	canada	attributes	0.106836
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	canada	similarentitynames	0.210839
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	canada	categories	0.216681
+Jan 21, 2016 6:30:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-21	canada	outgoingentitynames	0.465643
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-21	capital canada	names	0.00000
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-21	capital canada	attributes	0.0565690
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-21	capital canada	similarentitynames	0.188146
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-21	capital canada	categories	0.539569
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-21	capital canada	outgoingentitynames	0.215717
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	daughter	names	0.00000
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	daughter	attributes	0.357271
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	daughter	similarentitynames	0.122597
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	daughter	categories	0.418906
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	daughter	outgoingentitynames	0.101226
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	bill	names	0.00000
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	bill	attributes	0.113301
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	bill	similarentitynames	0.228210
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	bill	categories	0.172860
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	bill	outgoingentitynames	0.485629
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	clinton	names	0.00000
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	clinton	attributes	0.105185
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	clinton	similarentitynames	0.222835
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	clinton	categories	0.189489
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	clinton	outgoingentitynames	0.482492
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	married	names	0.00000
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	married	attributes	0.414953
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	married	similarentitynames	0.107983
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	married	categories	0.389352
+Jan 21, 2016 6:30:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-3	married	outgoingentitynames	0.0877113
+Jan 21, 2016 6:30:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	daughter bill	names	0.00000
+Jan 21, 2016 6:30:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	daughter bill	attributes	0.0733533
+Jan 21, 2016 6:30:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	daughter bill	similarentitynames	0.188704
+Jan 21, 2016 6:30:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	daughter bill	categories	0.561308
+Jan 21, 2016 6:30:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	daughter bill	outgoingentitynames	0.176634
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	bill clinton	names	-0.228952
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	bill clinton	attributes	0.0293366
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	bill clinton	similarentitynames	0.309984
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	bill clinton	categories	0.431724
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	bill clinton	outgoingentitynames	0.457907
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	clinton married	names	0.00000
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	clinton married	attributes	0.0802597
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	clinton married	similarentitynames	0.180057
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	clinton married	categories	0.553399
+Jan 21, 2016 6:30:13 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-3	clinton married	outgoingentitynames	0.186285
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	give	names	0.00000
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	give	attributes	0.394774
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	give	similarentitynames	0.138882
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	give	categories	0.313313
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	give	outgoingentitynames	0.153031
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	breed	names	0.00000
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	breed	attributes	0.265976
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	breed	similarentitynames	0.102397
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	breed	categories	0.515279
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	breed	outgoingentitynames	0.116349
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	germany	names	0.00000
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	germany	attributes	0.255867
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	germany	similarentitynames	0.100954
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	germany	categories	0.510952
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	germany	outgoingentitynames	0.132227
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	shepherd	names	0.00000
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	shepherd	attributes	0.117382
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	shepherd	similarentitynames	0.233463
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	shepherd	categories	0.158589
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	shepherd	outgoingentitynames	0.490566
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	dog	names	0.00000
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	dog	attributes	0.274664
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	dog	similarentitynames	0.129508
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	dog	categories	0.475277
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-43	dog	outgoingentitynames	0.120551
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	give breed	names	0.00000
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	give breed	attributes	0.0751079
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	give breed	similarentitynames	0.176864
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	give breed	categories	0.576198
+Jan 21, 2016 6:30:14 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	give breed	outgoingentitynames	0.171830
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	breed germany	names	0.00000
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	breed germany	attributes	0.0540370
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	breed germany	similarentitynames	0.175031
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	breed germany	categories	0.631815
+Jan 21, 2016 6:30:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	breed germany	outgoingentitynames	0.139117
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	germany shepherd	names	-0.240921
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	germany shepherd	attributes	0.0301682
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	germany shepherd	similarentitynames	0.323276
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	germany shepherd	categories	0.446104
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	germany shepherd	outgoingentitynames	0.441372
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	shepherd dog	names	-0.241892
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	shepherd dog	attributes	0.0297465
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	shepherd dog	similarentitynames	0.319700
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	shepherd dog	categories	0.445406
+Jan 21, 2016 6:30:17 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-43	shepherd dog	outgoingentitynames	0.447039
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	city	names	0.00000
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	city	attributes	0.280077
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	city	similarentitynames	0.0585932
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	city	categories	0.539457
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	city	outgoingentitynames	0.121872
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	weser	names	0.00000
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	weser	attributes	0.111937
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	weser	similarentitynames	0.221385
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	weser	categories	0.186601
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	weser	outgoingentitynames	0.480077
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	flow	names	0.00000
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	flow	attributes	0.367832
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	flow	similarentitynames	0.135337
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	flow	categories	0.393480
+Jan 21, 2016 6:30:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-44	flow	outgoingentitynames	0.103351
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	city weser	names	-0.0761334
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	city weser	attributes	0.0931100
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	city weser	similarentitynames	0.123356
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	city weser	categories	0.639107
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	city weser	outgoingentitynames	0.220560
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	weser flow	names	0.00000
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	weser flow	attributes	0.0797380
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	weser flow	similarentitynames	0.187056
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	weser flow	categories	0.567180
+Jan 21, 2016 6:30:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-44	weser flow	outgoingentitynames	0.166026
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	husband	names	0.00000
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	husband	attributes	0.421903
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	husband	similarentitynames	0.137308
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	husband	categories	0.321708
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	husband	outgoingentitynames	0.119081
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	amanda	names	0.00000
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	amanda	attributes	0.112155
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	amanda	similarentitynames	0.232113
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	amanda	categories	0.157172
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	amanda	outgoingentitynames	0.498559
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	palmer	names	0.00000
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	palmer	attributes	0.109379
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	palmer	similarentitynames	0.223419
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	palmer	categories	0.191650
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-42	palmer	outgoingentitynames	0.475552
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	husband amanda	names	0.00000
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	husband amanda	attributes	0.0759224
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	husband amanda	similarentitynames	0.211029
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	husband amanda	categories	0.533612
+Jan 21, 2016 6:30:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	husband amanda	outgoingentitynames	0.179437
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	amanda palmer	names	-0.236207
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	amanda palmer	attributes	0.0300176
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	amanda palmer	similarentitynames	0.308106
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	amanda palmer	categories	0.425954
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-42	amanda palmer	outgoingentitynames	0.472129
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	airport	names	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	airport	attributes	0.272734
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	airport	similarentitynames	0.132268
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	airport	categories	0.486483
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	airport	outgoingentitynames	0.108515
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	located	names	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	located	attributes	0.692091
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	located	similarentitynames	0.0230128
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	located	categories	0.256869
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	located	outgoingentitynames	0.0280273
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	california	names	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	california	attributes	0.103388
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	california	similarentitynames	0.212946
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	california	categories	0.217192
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	california	outgoingentitynames	0.466474
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	usa	names	0.00000
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	usa	attributes	0.123680
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	usa	similarentitynames	0.225024
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	usa	categories	0.169109
+Jan 21, 2016 6:30:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-79	usa	outgoingentitynames	0.482187
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	airport located	names	0.00000
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	airport located	attributes	0.0745962
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	airport located	similarentitynames	0.163668
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	airport located	categories	0.613275
+Jan 21, 2016 6:30:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	airport located	outgoingentitynames	0.148461
+Jan 21, 2016 6:30:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	located california	names	0.00000
+Jan 21, 2016 6:30:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	located california	attributes	0.0688901
+Jan 21, 2016 6:30:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	located california	similarentitynames	0.174252
+Jan 21, 2016 6:30:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	located california	categories	0.567975
+Jan 21, 2016 6:30:27 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	located california	outgoingentitynames	0.188883
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	california usa	names	-0.237303
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	california usa	attributes	0.0305045
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	california usa	similarentitynames	0.314416
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	california usa	categories	0.431078
+Jan 21, 2016 6:30:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-79	california usa	outgoingentitynames	0.461305
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	parent	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	parent	attributes	0.326986
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	parent	similarentitynames	0.0591365
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	parent	categories	0.526494
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	parent	outgoingentitynames	0.0873840
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	wife	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	wife	attributes	0.558487
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	wife	similarentitynames	0.183092
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	wife	categories	0.125190
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	wife	outgoingentitynames	0.133231
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	juan	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	juan	attributes	0.109076
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	juan	similarentitynames	0.229505
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	juan	categories	0.176251
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	juan	outgoingentitynames	0.485168
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	carlos	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	carlos	attributes	0.111405
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	carlos	similarentitynames	0.237515
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	carlos	categories	0.150791
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	carlos	outgoingentitynames	0.500289
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	i	names	0.00000
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	i	attributes	0.272537
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	i	similarentitynames	0.126074
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	i	categories	0.469923
+Jan 21, 2016 6:30:30 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-67	i	outgoingentitynames	0.131466
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	parent wife	names	-0.0828873
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	parent wife	attributes	0.108792
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	parent wife	similarentitynames	0.127470
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	parent wife	categories	0.626183
+Jan 21, 2016 6:30:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	parent wife	outgoingentitynames	0.220442
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	wife juan	names	0.00000
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	wife juan	attributes	0.0742082
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	wife juan	similarentitynames	0.192273
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	wife juan	categories	0.555309
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	wife juan	outgoingentitynames	0.178210
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	juan carlos	names	-0.233029
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	juan carlos	attributes	0.0295006
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	juan carlos	similarentitynames	0.317937
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	juan carlos	categories	0.420095
+Jan 21, 2016 6:30:32 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	juan carlos	outgoingentitynames	0.465496
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	carlos i	names	0.00000
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	carlos i	attributes	0.0599317
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	carlos i	similarentitynames	0.222695
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	carlos i	categories	0.489894
+Jan 21, 2016 6:30:33 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-67	carlos i	outgoingentitynames	0.227479
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	software	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	software	attributes	0.254718
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	software	similarentitynames	0.111947
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	software	categories	0.515719
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	software	outgoingentitynames	0.117615
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	develop	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	develop	attributes	0.334559
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	develop	similarentitynames	0.0795283
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	develop	categories	0.501265
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	develop	outgoingentitynames	0.0846472
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	organization	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	organization	attributes	0.278004
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	organization	similarentitynames	0.0553565
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	organization	categories	0.569238
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	organization	outgoingentitynames	0.0974016
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	found	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	found	attributes	0.418509
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	found	similarentitynames	0.0942811
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	found	categories	0.342732
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	found	outgoingentitynames	0.144478
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	california	names	0.00000
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	california	attributes	0.103388
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	california	similarentitynames	0.212946
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	california	categories	0.217192
+Jan 21, 2016 6:30:35 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-64	california	outgoingentitynames	0.466474
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	software develop	names	0.00000
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	software develop	attributes	0.0684939
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	software develop	similarentitynames	0.158102
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	software develop	categories	0.607920
+Jan 21, 2016 6:30:36 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	software develop	outgoingentitynames	0.165484
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	develop organization	names	-0.0772937
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	develop organization	attributes	0.103122
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	develop organization	similarentitynames	0.128499
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	develop organization	categories	0.633547
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	develop organization	outgoingentitynames	0.212126
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	organization found	names	-0.0684106
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	organization found	attributes	0.0913788
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	organization found	similarentitynames	0.109444
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	organization found	categories	0.649390
+Jan 21, 2016 6:30:38 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	organization found	outgoingentitynames	0.218198
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	found california	names	0.00000
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	found california	attributes	0.0685209
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	found california	similarentitynames	0.176048
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	found california	categories	0.577205
+Jan 21, 2016 6:30:39 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-64	found california	outgoingentitynames	0.178226
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	give	names	0.00000
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	give	attributes	0.394774
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	give	similarentitynames	0.138882
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	give	categories	0.313313
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	give	outgoingentitynames	0.153031
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	list	names	0.00000
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	list	attributes	0.276863
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	list	similarentitynames	0.140141
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	list	categories	0.437664
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	list	outgoingentitynames	0.145333
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	lake	names	0.00000
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	lake	attributes	0.283924
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	lake	similarentitynames	0.0722113
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	lake	categories	0.534492
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	lake	outgoingentitynames	0.109372
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	denmark	names	0.00000
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	denmark	attributes	0.107109
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	denmark	similarentitynames	0.213268
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	denmark	categories	0.215041
+Jan 21, 2016 6:30:43 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-60	denmark	outgoingentitynames	0.464582
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	give list	names	0.00000
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	give list	attributes	0.0692848
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	give list	similarentitynames	0.192203
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	give list	categories	0.553102
+Jan 21, 2016 6:30:46 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	give list	outgoingentitynames	0.185410
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	list lake	names	-0.0672832
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	list lake	attributes	0.0933724
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	list lake	similarentitynames	0.136322
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	list lake	categories	0.639425
+Jan 21, 2016 6:30:49 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	list lake	outgoingentitynames	0.198164
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	lake denmark	names	-0.0679314
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	lake denmark	attributes	0.0905150
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	lake denmark	similarentitynames	0.131161
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	lake denmark	categories	0.647879
+Jan 21, 2016 6:30:50 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-60	lake denmark	outgoingentitynames	0.198377
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	own	names	0.00000
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	own	attributes	0.352157
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	own	similarentitynames	0.0898551
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	own	categories	0.447473
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	own	outgoingentitynames	0.110514
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	aldi	names	0.00000
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	aldi	attributes	0.138402
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	aldi	similarentitynames	0.271734
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	aldi	categories	0.00000
+Jan 21, 2016 6:30:52 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-73	aldi	outgoingentitynames	0.589864
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-73	own aldi	names	0.00000
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-73	own aldi	attributes	0.0984975
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-73	own aldi	similarentitynames	0.210514
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-73	own aldi	categories	0.486677
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-73	own aldi	outgoingentitynames	0.204312
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	paint	names	0.00000
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	paint	attributes	0.359710
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	paint	similarentitynames	0.143788
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	paint	categories	0.375326
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	paint	outgoingentitynames	0.121176
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	storm	names	0.00000
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	storm	attributes	0.282106
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	storm	similarentitynames	0.130802
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	storm	categories	0.454357
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	storm	outgoingentitynames	0.132735
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	sea	names	0.00000
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	sea	attributes	0.291640
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	sea	similarentitynames	0.120900
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	sea	categories	0.462313
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	sea	outgoingentitynames	0.125147
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	galilee	names	0.00000
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	galilee	attributes	0.124698
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	galilee	similarentitynames	0.231373
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	galilee	categories	0.151684
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-97	galilee	outgoingentitynames	0.492245
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	paint storm	names	0.00000
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	paint storm	attributes	0.0695574
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	paint storm	similarentitynames	0.192186
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	paint storm	categories	0.564134
+Jan 21, 2016 6:30:53 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	paint storm	outgoingentitynames	0.174122
+Jan 21, 2016 6:30:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	storm sea	names	0.00000
+Jan 21, 2016 6:30:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	storm sea	attributes	0.0621322
+Jan 21, 2016 6:30:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	storm sea	similarentitynames	0.210534
+Jan 21, 2016 6:30:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	storm sea	categories	0.557235
+Jan 21, 2016 6:30:54 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	storm sea	outgoingentitynames	0.170099
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	sea galilee	names	0.00000
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	sea galilee	attributes	0.0672047
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	sea galilee	similarentitynames	0.225173
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	sea galilee	categories	0.497792
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-97	sea galilee	outgoingentitynames	0.209831
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	give	names	0.00000
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	give	attributes	0.394774
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	give	similarentitynames	0.138882
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	give	categories	0.313313
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	give	outgoingentitynames	0.153031
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	books	names	0.00000
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	books	attributes	0.277671
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	books	similarentitynames	0.0545006
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	books	categories	0.566657
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	books	outgoingentitynames	0.101171
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	william	names	0.00000
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	william	attributes	0.110548
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	william	similarentitynames	0.236771
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	william	categories	0.154793
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	william	outgoingentitynames	0.497888
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	goldman	names	0.00000
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	goldman	attributes	0.111267
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	goldman	similarentitynames	0.224802
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	goldman	categories	0.183594
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	goldman	outgoingentitynames	0.480337
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	300	names	0.00000
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	300	attributes	0.360137
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	300	similarentitynames	0.135903
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	300	categories	0.419422
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	300	outgoingentitynames	0.0845394
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	page	names	0.00000
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	page	attributes	0.295452
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	page	similarentitynames	0.0606087
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	page	categories	0.539492
+Jan 21, 2016 6:30:55 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-80	page	outgoingentitynames	0.104448
+Jan 21, 2016 6:30:56 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	give books	names	-0.0765254
+Jan 21, 2016 6:30:56 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	give books	attributes	0.0992608
+Jan 21, 2016 6:30:56 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	give books	similarentitynames	0.120643
+Jan 21, 2016 6:30:56 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	give books	categories	0.642677
+Jan 21, 2016 6:30:56 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	give books	outgoingentitynames	0.213945
+Jan 21, 2016 6:30:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	books william	names	-0.0663147
+Jan 21, 2016 6:30:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	books william	attributes	0.0877772
+Jan 21, 2016 6:30:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	books william	similarentitynames	0.130283
+Jan 21, 2016 6:30:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	books william	categories	0.634428
+Jan 21, 2016 6:30:57 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	books william	outgoingentitynames	0.213826
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	william goldman	names	-0.231290
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	william goldman	attributes	0.0271853
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	william goldman	similarentitynames	0.312965
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	william goldman	categories	0.432316
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	william goldman	outgoingentitynames	0.458824
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	goldman 300	names	0.00000
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	goldman 300	attributes	0.0581934
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	goldman 300	similarentitynames	0.201859
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	goldman 300	categories	0.566569
+Jan 21, 2016 6:30:59 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	goldman 300	outgoingentitynames	0.173379
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	300 page	names	-0.0785873
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	300 page	attributes	0.103312
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	300 page	similarentitynames	0.145107
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	300 page	categories	0.613914
+Jan 21, 2016 6:31:00 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-80	300 page	outgoingentitynames	0.216254
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	president	names	0.00000
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	president	attributes	0.295725
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	president	similarentitynames	0.0598002
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	president	categories	0.538807
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	president	outgoingentitynames	0.105668
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	born	names	0.00000
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	born	attributes	0.437863
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	born	similarentitynames	0.136797
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	born	categories	0.287796
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	born	outgoingentitynames	0.137545
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	1945	names	0.00000
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	1945	attributes	0.276237
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	1945	similarentitynames	0.0989823
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	1945	categories	0.518813
+Jan 21, 2016 6:31:02 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-52	1945	outgoingentitynames	0.105967
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	president born	names	-0.0771337
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	president born	attributes	0.102421
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	president born	similarentitynames	0.131192
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	president born	categories	0.620449
+Jan 21, 2016 6:31:04 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	president born	outgoingentitynames	0.223072
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	born 1945	names	0.00000
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	born 1945	attributes	0.0704281
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	born 1945	similarentitynames	0.210272
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	born 1945	categories	0.569434
+Jan 21, 2016 6:31:06 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-52	born 1945	outgoingentitynames	0.149867
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	develop	names	0.00000
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	develop	attributes	0.334559
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	develop	similarentitynames	0.0795283
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	develop	categories	0.501265
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	develop	outgoingentitynames	0.0846472
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	video	names	0.00000
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	video	attributes	0.249164
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	video	similarentitynames	0.107132
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	video	categories	0.526506
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	video	outgoingentitynames	0.117197
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	game	names	0.00000
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	game	attributes	0.279253
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	game	similarentitynames	0.121538
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	game	categories	0.470577
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	game	outgoingentitynames	0.128632
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	world	names	0.00000
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	world	attributes	0.266985
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	world	similarentitynames	0.111699
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	world	categories	0.495758
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	world	outgoingentitynames	0.125558
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	warcraft	names	0.00000
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	warcraft	attributes	0.114140
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	warcraft	similarentitynames	0.227920
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	warcraft	categories	0.196811
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-55	warcraft	outgoingentitynames	0.461129
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	develop video	names	0.00000
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	develop video	attributes	0.0618307
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	develop video	similarentitynames	0.163020
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	develop video	categories	0.611109
+Jan 21, 2016 6:31:08 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	develop video	outgoingentitynames	0.164040
+Jan 21, 2016 6:31:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	video game	names	-0.224078
+Jan 21, 2016 6:31:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	video game	attributes	0.0297304
+Jan 21, 2016 6:31:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	video game	similarentitynames	0.304485
+Jan 21, 2016 6:31:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	video game	categories	0.443936
+Jan 21, 2016 6:31:09 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	video game	outgoingentitynames	0.445927
+Jan 21, 2016 6:31:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	game world	names	-0.232907
+Jan 21, 2016 6:31:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	game world	attributes	0.0291334
+Jan 21, 2016 6:31:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	game world	similarentitynames	0.312750
+Jan 21, 2016 6:31:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	game world	categories	0.428331
+Jan 21, 2016 6:31:11 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	game world	outgoingentitynames	0.462691
+Jan 21, 2016 6:31:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	world warcraft	names	0.00000
+Jan 21, 2016 6:31:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	world warcraft	attributes	0.0519198
+Jan 21, 2016 6:31:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	world warcraft	similarentitynames	0.189142
+Jan 21, 2016 6:31:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	world warcraft	categories	0.590087
+Jan 21, 2016 6:31:12 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-55	world warcraft	outgoingentitynames	0.168851
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	television	names	0.00000
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	television	attributes	0.247775
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	television	similarentitynames	0.0962237
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	television	categories	0.544859
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	television	outgoingentitynames	0.111143
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	show	names	0.00000
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	show	attributes	0.294901
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	show	similarentitynames	0.0620101
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	show	categories	0.546225
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	show	outgoingentitynames	0.0968639
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	create	names	0.00000
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	create	attributes	0.333030
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	create	similarentitynames	0.0766973
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	create	categories	0.530190
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	create	outgoingentitynames	0.0600824
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	walt	names	0.00000
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	walt	attributes	0.111643
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	walt	similarentitynames	0.223014
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	walt	categories	0.180171
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	walt	outgoingentitynames	0.485172
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	disney	names	0.00000
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	disney	attributes	0.109676
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	disney	similarentitynames	0.217520
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	disney	categories	0.203819
+Jan 21, 2016 6:31:15 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-23	disney	outgoingentitynames	0.468985
+Jan 21, 2016 6:31:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	television show	names	-0.0639210
+Jan 21, 2016 6:31:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	television show	attributes	0.0858358
+Jan 21, 2016 6:31:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	television show	similarentitynames	0.133540
+Jan 21, 2016 6:31:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	television show	categories	0.635412
+Jan 21, 2016 6:31:16 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	television show	outgoingentitynames	0.209133
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	show create	names	-0.0765597
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	show create	attributes	0.101746
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	show create	similarentitynames	0.122686
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	show create	categories	0.640922
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	show create	outgoingentitynames	0.211205
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	create walt	names	0.00000
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	create walt	attributes	0.0578814
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	create walt	similarentitynames	0.136711
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	create walt	categories	0.679265
+Jan 21, 2016 6:31:18 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	create walt	outgoingentitynames	0.126142
+Jan 21, 2016 6:31:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	walt disney	names	-0.225441
+Jan 21, 2016 6:31:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	walt disney	attributes	0.0295632
+Jan 21, 2016 6:31:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	walt disney	similarentitynames	0.310108
+Jan 21, 2016 6:31:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	walt disney	categories	0.430317
+Jan 21, 2016 6:31:19 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-23	walt disney	outgoingentitynames	0.455453
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	found	names	0.00000
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	found	attributes	0.418509
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	found	similarentitynames	0.0942811
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	found	categories	0.342732
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	found	outgoingentitynames	0.144478
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	intel	names	0.00000
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	intel	attributes	0.119009
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	intel	similarentitynames	0.224454
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	intel	categories	0.192100
+Jan 21, 2016 6:31:20 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_te-41	intel	outgoingentitynames	0.464437
+Jan 21, 2016 6:31:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-41	found intel	names	0.00000
+Jan 21, 2016 6:31:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-41	found intel	attributes	0.0765381
+Jan 21, 2016 6:31:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-41	found intel	similarentitynames	0.183414
+Jan 21, 2016 6:31:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-41	found intel	categories	0.559755
+Jan 21, 2016 6:31:21 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_te-41	found intel	outgoingentitynames	0.180293
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	wrote	names	0.00000
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	wrote	attributes	0.439584
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	wrote	similarentitynames	0.0913046
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	wrote	categories	0.403090
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	wrote	outgoingentitynames	0.0660219
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	book	names	0.00000
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	book	attributes	0.303481
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	book	similarentitynames	0.126433
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	book	categories	0.463709
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	book	outgoingentitynames	0.106377
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	pillar	names	0.00000
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	pillar	attributes	0.308563
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	pillar	similarentitynames	0.0733966
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	pillar	categories	0.511651
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	pillar	outgoingentitynames	0.106390
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	earth	names	0.00000
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	earth	attributes	0.277105
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	earth	similarentitynames	0.120587
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	earth	categories	0.481429
+Jan 21, 2016 6:31:22 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-87	earth	outgoingentitynames	0.120879
+Jan 21, 2016 6:31:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	wrote book	names	0.00000
+Jan 21, 2016 6:31:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	wrote book	attributes	0.0674330
+Jan 21, 2016 6:31:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	wrote book	similarentitynames	0.212329
+Jan 21, 2016 6:31:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	wrote book	categories	0.578470
+Jan 21, 2016 6:31:23 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	wrote book	outgoingentitynames	0.141768
+Jan 21, 2016 6:31:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	book pillar	names	-0.0799381
+Jan 21, 2016 6:31:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	book pillar	attributes	0.104397
+Jan 21, 2016 6:31:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	book pillar	similarentitynames	0.129437
+Jan 21, 2016 6:31:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	book pillar	categories	0.626315
+Jan 21, 2016 6:31:24 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	book pillar	outgoingentitynames	0.219789
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	pillar earth	names	-0.0750087
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	pillar earth	attributes	0.0994080
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	pillar earth	similarentitynames	0.143191
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	pillar earth	categories	0.586069
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-87	pillar earth	outgoingentitynames	0.246341
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	highest	names	0.00000
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	highest	attributes	0.432394
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	highest	similarentitynames	0.123056
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	highest	categories	0.378994
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	highest	outgoingentitynames	0.0655563
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	place	names	0.00000
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	place	attributes	0.278717
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	place	similarentitynames	0.0769667
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	place	categories	0.500604
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	place	outgoingentitynames	0.143712
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	karakoram	names	0.00000
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	karakoram	attributes	0.115746
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	karakoram	similarentitynames	0.216588
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	karakoram	categories	0.209629
+Jan 21, 2016 6:31:25 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getUnigramNode
+INFO: QALD2_tr-47	karakoram	outgoingentitynames	0.458037
+Jan 21, 2016 6:31:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	highest place	names	-0.265255
+Jan 21, 2016 6:31:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	highest place	attributes	0.0321594
+Jan 21, 2016 6:31:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	highest place	similarentitynames	0.345921
+Jan 21, 2016 6:31:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	highest place	categories	0.403204
+Jan 21, 2016 6:31:28 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	highest place	outgoingentitynames	0.483971
+Jan 21, 2016 6:31:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	place karakoram	names	0.00000
+Jan 21, 2016 6:31:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	place karakoram	attributes	0.0641650
+Jan 21, 2016 6:31:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	place karakoram	similarentitynames	0.150880
+Jan 21, 2016 6:31:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	place karakoram	categories	0.552472
+Jan 21, 2016 6:31:31 AM edu.wayne.pfsdm.ParametrizedFSDMTraversal getBigramNodes
+INFO: QALD2_tr-47	place karakoram	outgoingentitynames	0.232484
