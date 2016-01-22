@@ -1,0 +1,80 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-60",
+"text": "#pffdm(michael douglas)"
+},
+{
+"number": "SemSearch_ES-87",
+"text": "#pffdm(quick lift)"
+},
+{
+"number": "SemSearch_ES-2",
+"text": "#pffdm(b f skin)"
+},
+{
+"number": "SemSearch_ES-71",
+"text": "#pffdm(richmond virginia)"
+},
+{
+"number": "SemSearch_ES-19",
+"text": "#pffdm(carl lewis)"
+},
+{
+"number": "SemSearch_ES-54",
+"text": "#pffdm(marc anthony)"
+},
+{
+"number": "SemSearch_ES-13",
+"text": "#pffdm(banana paper making)"
+},
+{
+"number": "SemSearch_ES-45",
+"text": "#pffdm(keith urban)"
+},
+{
+"number": "SemSearch_ES-7",
+"text": "#pffdm(airsoft glock)"
+},
+{
+"number": "SemSearch_ES-65",
+"text": "#pffdm(orlando florida)"
+},
+{
+"number": "SemSearch_ES-82",
+"text": "#pffdm(st lucia)"
+},
+{
+"number": "SemSearch_ES-53",
+"text": "#pffdm(lynchburg virginia)"
+},
+{
+"number": "SemSearch_ES-21",
+"text": "#pffdm(charles darwin)"
+},
+{
+"number": "SemSearch_ES-14",
+"text": "#pffdm(ben franklin)"
+},
+{
+"number": "SemSearch_ES-68",
+"text": "#pffdm(pierce county washington)"
+},
+{
+"number": "SemSearch_ES-79",
+"text": "#pffdm(shobana masala)"
+},
+{
+"number": "SemSearch_ES-18",
+"text": "#pffdm(canasta cards)"
+},
+{
+"number": "SemSearch_ES-90",
+"text": "#pffdm(university phoenix)"
+},
+{
+"number": "SemSearch_ES-25",
+"text": "#pffdm(david suchet)"
+},
+]
+}
