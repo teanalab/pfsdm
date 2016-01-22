@@ -1,0 +1,300 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-60",
+"text": "#mlm(michael douglas)"
+},
+{
+"number": "SemSearch_ES-87",
+"text": "#mlm(quick lift)"
+},
+{
+"number": "SemSearch_ES-2",
+"text": "#mlm(b f skin)"
+},
+{
+"number": "SemSearch_ES-71",
+"text": "#mlm(richmond virginia)"
+},
+{
+"number": "SemSearch_ES-19",
+"text": "#mlm(carl lewis)"
+},
+{
+"number": "SemSearch_ES-54",
+"text": "#mlm(marc anthony)"
+},
+{
+"number": "SemSearch_ES-13",
+"text": "#mlm(banana paper making)"
+},
+{
+"number": "SemSearch_ES-45",
+"text": "#mlm(keith urban)"
+},
+{
+"number": "SemSearch_ES-7",
+"text": "#mlm(airsoft glock)"
+},
+{
+"number": "SemSearch_ES-65",
+"text": "#mlm(orlando florida)"
+},
+{
+"number": "SemSearch_ES-82",
+"text": "#mlm(st lucia)"
+},
+{
+"number": "SemSearch_ES-53",
+"text": "#mlm(lynchburg virginia)"
+},
+{
+"number": "SemSearch_ES-21",
+"text": "#mlm(charles darwin)"
+},
+{
+"number": "SemSearch_ES-14",
+"text": "#mlm(ben franklin)"
+},
+{
+"number": "SemSearch_ES-68",
+"text": "#mlm(pierce county washington)"
+},
+{
+"number": "SemSearch_ES-79",
+"text": "#mlm(shobana masala)"
+},
+{
+"number": "SemSearch_ES-18",
+"text": "#mlm(canasta cards)"
+},
+{
+"number": "SemSearch_ES-90",
+"text": "#mlm(university phoenix)"
+},
+{
+"number": "SemSearch_ES-25",
+"text": "#mlm(david suchet)"
+},
+{
+"number": "SemSearch_ES-37",
+"text": "#mlm(jack johnson)"
+},
+{
+"number": "SemSearch_ES-26",
+"text": "#mlm(disney orlando)"
+},
+{
+"number": "SemSearch_ES-17",
+"text": "#mlm(butte montana)"
+},
+{
+"number": "SemSearch_ES-38",
+"text": "#mlm(jack rip)"
+},
+{
+"number": "SemSearch_ES-35",
+"text": "#mlm(hospice cincinnati)"
+},
+{
+"number": "SemSearch_ES-88",
+"text": "#mlm(thomas jefferson)"
+},
+{
+"number": "SemSearch_ES-27",
+"text": "#mlm(earl)"
+},
+{
+"number": "SemSearch_ES-84",
+"text": "#mlm(dish danielle fishel)"
+},
+{
+"number": "SemSearch_ES-47",
+"text": "#mlm(king arthur)"
+},
+{
+"number": "SemSearch_ES-61",
+"text": "#mlm(rourke fantasy island)"
+},
+{
+"number": "SemSearch_ES-64",
+"text": "#mlm(omeara ford)"
+},
+{
+"number": "SemSearch_ES-49",
+"text": "#mlm(laura bush)"
+},
+{
+"number": "SemSearch_ES-50",
+"text": "#mlm(laura steele bob tom)"
+},
+{
+"number": "SemSearch_ES-81",
+"text": "#mlm(south dakota state university)"
+},
+{
+"number": "SemSearch_ES-48",
+"text": "#mlm(la scala restaurant philadelphia)"
+},
+{
+"number": "SemSearch_ES-20",
+"text": "#mlm(carolina)"
+},
+{
+"number": "SemSearch_ES-73",
+"text": "#mlm(rowan university)"
+},
+{
+"number": "SemSearch_ES-43",
+"text": "#mlm(katt williams live)"
+},
+{
+"number": "SemSearch_ES-55",
+"text": "#mlm(marcu theater)"
+},
+{
+"number": "SemSearch_ES-70",
+"text": "#mlm(radio italia online)"
+},
+{
+"number": "SemSearch_ES-39",
+"text": "#mlm(james caldwell high school)"
+},
+{
+"number": "SemSearch_ES-62",
+"text": "#mlm(mst3000)"
+},
+{
+"number": "SemSearch_ES-23",
+"text": "#mlm(city virginia beach)"
+},
+{
+"number": "SemSearch_ES-32",
+"text": "#mlm(fitzgerald auto mall chambersburg pa)"
+},
+{
+"number": "SemSearch_ES-1",
+"text": "#mlm(44 magnum hunting)"
+},
+{
+"number": "SemSearch_ES-33",
+"text": "#mlm(harry potter)"
+},
+{
+"number": "SemSearch_ES-86",
+"text": "#mlm(morning call lehigh valley pa)"
+},
+{
+"number": "SemSearch_ES-69",
+"text": "#mlm(piosenki mp3)"
+},
+{
+"number": "SemSearch_ES-91",
+"text": "#mlm(westminster abbey)"
+},
+{
+"number": "SemSearch_ES-5",
+"text": "#mlm(scott county)"
+},
+{
+"number": "SemSearch_ES-10",
+"text": "#mlm(asheville north carolina)"
+},
+{
+"number": "SemSearch_ES-9",
+"text": "#mlm(america embassy nairobi)"
+},
+{
+"number": "SemSearch_ES-11",
+"text": "#mlm(austin powers)"
+},
+{
+"number": "SemSearch_ES-76",
+"text": "#mlm(san antonio)"
+},
+{
+"number": "SemSearch_ES-28",
+"text": "#mlm(el salvador)"
+},
+{
+"number": "SemSearch_ES-41",
+"text": "#mlm(joan arc)"
+},
+{
+"number": "SemSearch_ES-31",
+"text": "#mlm(emery)"
+},
+{
+"number": "SemSearch_ES-4",
+"text": "#mlm(naacp image award)"
+},
+{
+"number": "SemSearch_ES-67",
+"text": "#mlm(ovguide movies)"
+},
+{
+"number": "SemSearch_ES-63",
+"text": "#mlm(old winchester shotgun)"
+},
+{
+"number": "SemSearch_ES-36",
+"text": "#mlm(imdb batman returns)"
+},
+{
+"number": "SemSearch_ES-78",
+"text": "#mlm(sharp pc)"
+},
+{
+"number": "SemSearch_ES-51",
+"text": "#mlm(lexu maplewood)"
+},
+{
+"number": "SemSearch_ES-59",
+"text": "#mlm(mercy hospital des moines ia)"
+},
+{
+"number": "SemSearch_ES-42",
+"text": "#mlm(john maxwell)"
+},
+{
+"number": "SemSearch_ES-40",
+"text": "#mlm(james clayton md)"
+},
+{
+"number": "SemSearch_ES-58",
+"text": "#mlm(mason ohio)"
+},
+{
+"number": "SemSearch_ES-15",
+"text": "#mlm(bradley center)"
+},
+{
+"number": "SemSearch_ES-46",
+"text": "#mlm(key hook)"
+},
+{
+"number": "SemSearch_ES-72",
+"text": "#mlm(rock 103 memphis)"
+},
+{
+"number": "SemSearch_ES-66",
+"text": "#mlm(overeater anonymous)"
+},
+{
+"number": "SemSearch_ES-56",
+"text": "#mlm(mario bro)"
+},
+{
+"number": "SemSearch_ES-22",
+"text": "#mlm(city charlotte)"
+},
+{
+"number": "SemSearch_ES-8",
+"text": "#mlm(aloha sol)"
+},
+{
+"number": "SemSearch_ES-83",
+"text": "#mlm(st paul saint)"
+},
+]
+}

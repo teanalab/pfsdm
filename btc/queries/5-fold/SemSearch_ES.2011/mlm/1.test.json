@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-133",
+"text": "#mlm(sedona hike trail)"
+},
+{
+"number": "SemSearch_ES-123",
+"text": "#mlm(michael zimmerman)"
+},
+{
+"number": "SemSearch_ES-131",
+"text": "#mlm(scpa san diego)"
+},
+{
+"number": "SemSearch_ES-106",
+"text": "#mlm(chase masterson)"
+},
+{
+"number": "SemSearch_ES-96",
+"text": "#mlm(new england coffee)"
+},
+{
+"number": "SemSearch_ES-128",
+"text": "#mlm(philadelphia neufchatel cheese)"
+},
+{
+"number": "SemSearch_ES-138",
+"text": "#mlm(syracuse spca)"
+},
+{
+"number": "SemSearch_ES-103",
+"text": "#mlm(bounce city humble tx)"
+},
+{
+"number": "SemSearch_ES-139",
+"text": "#mlm(big texas steak house)"
+},
+{
+"number": "SemSearch_ES-119",
+"text": "#mlm(john elliott)"
+},
+]
+}

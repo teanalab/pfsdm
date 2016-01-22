@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-142",
+"text": "#mlm(windsor hotel philadelphia)"
+},
+{
+"number": "SemSearch_ES-101",
+"text": "#mlm(ashley wagner)"
+},
+{
+"number": "SemSearch_ES-141",
+"text": "#mlm(ventura county court)"
+},
+{
+"number": "SemSearch_ES-105",
+"text": "#mlm(cedar garden apartments)"
+},
+{
+"number": "SemSearch_ES-120",
+"text": "#mlm(lawrence general hospital)"
+},
+{
+"number": "SemSearch_ES-109",
+"text": "#mlm(david hewlett)"
+},
+{
+"number": "SemSearch_ES-104",
+"text": "#mlm(bourbonnai il)"
+},
+{
+"number": "SemSearch_ES-136",
+"text": "#mlm(sri lanka government gazette)"
+},
+{
+"number": "SemSearch_ES-129",
+"text": "#mlm(pizza populous detroit mi)"
+},
+{
+"number": "SemSearch_ES-118",
+"text": "#mlm(iowa energy)"
+},
+]
+}

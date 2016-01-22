@@ -1,0 +1,76 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-57",
+"text": "#mlm(martin luther king)"
+},
+{
+"number": "SemSearch_ES-89",
+"text": "#mlm(university north dakota)"
+},
+{
+"number": "SemSearch_ES-30",
+"text": "#mlm(eloan line credit)"
+},
+{
+"number": "SemSearch_ES-85",
+"text": "#mlm(longest yard sale)"
+},
+{
+"number": "SemSearch_ES-16",
+"text": "#mlm(brooklyn bridge)"
+},
+{
+"number": "SemSearch_ES-24",
+"text": "#mlm(coastal carolina)"
+},
+{
+"number": "SemSearch_ES-34",
+"text": "#mlm(harry potter movie)"
+},
+{
+"number": "SemSearch_ES-3",
+"text": "#mlm(bookwork)"
+},
+{
+"number": "SemSearch_ES-29",
+"text": "#mlm(elli college)"
+},
+{
+"number": "SemSearch_ES-77",
+"text": "#mlm(savannah tech)"
+},
+{
+"number": "SemSearch_ES-52",
+"text": "#mlm(lincoln park)"
+},
+{
+"number": "SemSearch_ES-12",
+"text": "#mlm(austin texas)"
+},
+{
+"number": "SemSearch_ES-80",
+"text": "#mlm(sonny cher)"
+},
+{
+"number": "SemSearch_ES-75",
+"text": "#mlm(sagemont church houston tx)"
+},
+{
+"number": "SemSearch_ES-74",
+"text": "#mlm(sacred heart u)"
+},
+{
+"number": "SemSearch_ES-6",
+"text": "#mlm(air wisconsin)"
+},
+{
+"number": "SemSearch_ES-44",
+"text": "#mlm(kaz vaporize)"
+},
+{
+"number": "SemSearch_ES-92",
+"text": "#mlm(willow ridge)"
+},
+]
+}

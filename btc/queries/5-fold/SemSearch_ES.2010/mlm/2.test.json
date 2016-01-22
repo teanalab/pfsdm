@@ -1,0 +1,80 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-37",
+"text": "#mlm(jack johnson)"
+},
+{
+"number": "SemSearch_ES-26",
+"text": "#mlm(disney orlando)"
+},
+{
+"number": "SemSearch_ES-17",
+"text": "#mlm(butte montana)"
+},
+{
+"number": "SemSearch_ES-38",
+"text": "#mlm(jack rip)"
+},
+{
+"number": "SemSearch_ES-35",
+"text": "#mlm(hospice cincinnati)"
+},
+{
+"number": "SemSearch_ES-88",
+"text": "#mlm(thomas jefferson)"
+},
+{
+"number": "SemSearch_ES-27",
+"text": "#mlm(earl)"
+},
+{
+"number": "SemSearch_ES-84",
+"text": "#mlm(dish danielle fishel)"
+},
+{
+"number": "SemSearch_ES-47",
+"text": "#mlm(king arthur)"
+},
+{
+"number": "SemSearch_ES-61",
+"text": "#mlm(rourke fantasy island)"
+},
+{
+"number": "SemSearch_ES-64",
+"text": "#mlm(omeara ford)"
+},
+{
+"number": "SemSearch_ES-49",
+"text": "#mlm(laura bush)"
+},
+{
+"number": "SemSearch_ES-50",
+"text": "#mlm(laura steele bob tom)"
+},
+{
+"number": "SemSearch_ES-81",
+"text": "#mlm(south dakota state university)"
+},
+{
+"number": "SemSearch_ES-48",
+"text": "#mlm(la scala restaurant philadelphia)"
+},
+{
+"number": "SemSearch_ES-20",
+"text": "#mlm(carolina)"
+},
+{
+"number": "SemSearch_ES-73",
+"text": "#mlm(rowan university)"
+},
+{
+"number": "SemSearch_ES-43",
+"text": "#mlm(katt williams live)"
+},
+{
+"number": "SemSearch_ES-55",
+"text": "#mlm(marcu theater)"
+},
+]
+}

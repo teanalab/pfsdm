@@ -1,0 +1,80 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-60",
+"text": "#mlm(michael douglas)"
+},
+{
+"number": "SemSearch_ES-87",
+"text": "#mlm(quick lift)"
+},
+{
+"number": "SemSearch_ES-2",
+"text": "#mlm(b f skin)"
+},
+{
+"number": "SemSearch_ES-71",
+"text": "#mlm(richmond virginia)"
+},
+{
+"number": "SemSearch_ES-19",
+"text": "#mlm(carl lewis)"
+},
+{
+"number": "SemSearch_ES-54",
+"text": "#mlm(marc anthony)"
+},
+{
+"number": "SemSearch_ES-13",
+"text": "#mlm(banana paper making)"
+},
+{
+"number": "SemSearch_ES-45",
+"text": "#mlm(keith urban)"
+},
+{
+"number": "SemSearch_ES-7",
+"text": "#mlm(airsoft glock)"
+},
+{
+"number": "SemSearch_ES-65",
+"text": "#mlm(orlando florida)"
+},
+{
+"number": "SemSearch_ES-82",
+"text": "#mlm(st lucia)"
+},
+{
+"number": "SemSearch_ES-53",
+"text": "#mlm(lynchburg virginia)"
+},
+{
+"number": "SemSearch_ES-21",
+"text": "#mlm(charles darwin)"
+},
+{
+"number": "SemSearch_ES-14",
+"text": "#mlm(ben franklin)"
+},
+{
+"number": "SemSearch_ES-68",
+"text": "#mlm(pierce county washington)"
+},
+{
+"number": "SemSearch_ES-79",
+"text": "#mlm(shobana masala)"
+},
+{
+"number": "SemSearch_ES-18",
+"text": "#mlm(canasta cards)"
+},
+{
+"number": "SemSearch_ES-90",
+"text": "#mlm(university phoenix)"
+},
+{
+"number": "SemSearch_ES-25",
+"text": "#mlm(david suchet)"
+},
+]
+}

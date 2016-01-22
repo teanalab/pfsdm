@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-110",
+"text": "#mlm(dr dan martin)"
+},
+{
+"number": "SemSearch_ES-112",
+"text": "#mlm(espresso tv stand)"
+},
+{
+"number": "SemSearch_ES-108",
+"text": "#mlm(danielia cotton)"
+},
+{
+"number": "SemSearch_ES-122",
+"text": "#mlm(metropark clothing)"
+},
+{
+"number": "SemSearch_ES-114",
+"text": "#mlm(glenn frey)"
+},
+{
+"number": "SemSearch_ES-127",
+"text": "#mlm(palm tungsten e2 handheld)"
+},
+{
+"number": "SemSearch_ES-132",
+"text": "#mlm(sea mattress co)"
+},
+{
+"number": "SemSearch_ES-124",
+"text": "#mlm(motorola bluetooth hs850)"
+},
+{
+"number": "SemSearch_ES-93",
+"text": "#mlm(08 toyota tundra)"
+},
+{
+"number": "SemSearch_ES-100",
+"text": "#mlm(ymca tampa)"
+},
+]
+}
