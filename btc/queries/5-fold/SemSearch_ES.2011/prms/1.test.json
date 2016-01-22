@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-133",
+"text": "#prms(sedona hike trail)"
+},
+{
+"number": "SemSearch_ES-123",
+"text": "#prms(michael zimmerman)"
+},
+{
+"number": "SemSearch_ES-131",
+"text": "#prms(scpa san diego)"
+},
+{
+"number": "SemSearch_ES-106",
+"text": "#prms(chase masterson)"
+},
+{
+"number": "SemSearch_ES-96",
+"text": "#prms(new england coffee)"
+},
+{
+"number": "SemSearch_ES-128",
+"text": "#prms(philadelphia neufchatel cheese)"
+},
+{
+"number": "SemSearch_ES-138",
+"text": "#prms(syracuse spca)"
+},
+{
+"number": "SemSearch_ES-103",
+"text": "#prms(bounce city humble tx)"
+},
+{
+"number": "SemSearch_ES-139",
+"text": "#prms(big texas steak house)"
+},
+{
+"number": "SemSearch_ES-119",
+"text": "#prms(john elliott)"
+},
+]
+}

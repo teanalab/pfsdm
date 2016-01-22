@@ -1,0 +1,76 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-57",
+"text": "#prms(martin luther king)"
+},
+{
+"number": "SemSearch_ES-89",
+"text": "#prms(university north dakota)"
+},
+{
+"number": "SemSearch_ES-30",
+"text": "#prms(eloan line credit)"
+},
+{
+"number": "SemSearch_ES-85",
+"text": "#prms(longest yard sale)"
+},
+{
+"number": "SemSearch_ES-16",
+"text": "#prms(brooklyn bridge)"
+},
+{
+"number": "SemSearch_ES-24",
+"text": "#prms(coastal carolina)"
+},
+{
+"number": "SemSearch_ES-34",
+"text": "#prms(harry potter movie)"
+},
+{
+"number": "SemSearch_ES-3",
+"text": "#prms(bookwork)"
+},
+{
+"number": "SemSearch_ES-29",
+"text": "#prms(elli college)"
+},
+{
+"number": "SemSearch_ES-77",
+"text": "#prms(savannah tech)"
+},
+{
+"number": "SemSearch_ES-52",
+"text": "#prms(lincoln park)"
+},
+{
+"number": "SemSearch_ES-12",
+"text": "#prms(austin texas)"
+},
+{
+"number": "SemSearch_ES-80",
+"text": "#prms(sonny cher)"
+},
+{
+"number": "SemSearch_ES-75",
+"text": "#prms(sagemont church houston tx)"
+},
+{
+"number": "SemSearch_ES-74",
+"text": "#prms(sacred heart u)"
+},
+{
+"number": "SemSearch_ES-6",
+"text": "#prms(air wisconsin)"
+},
+{
+"number": "SemSearch_ES-44",
+"text": "#prms(kaz vaporize)"
+},
+{
+"number": "SemSearch_ES-92",
+"text": "#prms(willow ridge)"
+},
+]
+}

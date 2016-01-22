@@ -1,0 +1,76 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-4",
+"text": "#prms(naacp image award)"
+},
+{
+"number": "SemSearch_ES-67",
+"text": "#prms(ovguide movies)"
+},
+{
+"number": "SemSearch_ES-63",
+"text": "#prms(old winchester shotgun)"
+},
+{
+"number": "SemSearch_ES-36",
+"text": "#prms(imdb batman returns)"
+},
+{
+"number": "SemSearch_ES-78",
+"text": "#prms(sharp pc)"
+},
+{
+"number": "SemSearch_ES-51",
+"text": "#prms(lexu maplewood)"
+},
+{
+"number": "SemSearch_ES-59",
+"text": "#prms(mercy hospital des moines ia)"
+},
+{
+"number": "SemSearch_ES-42",
+"text": "#prms(john maxwell)"
+},
+{
+"number": "SemSearch_ES-40",
+"text": "#prms(james clayton md)"
+},
+{
+"number": "SemSearch_ES-58",
+"text": "#prms(mason ohio)"
+},
+{
+"number": "SemSearch_ES-15",
+"text": "#prms(bradley center)"
+},
+{
+"number": "SemSearch_ES-46",
+"text": "#prms(key hook)"
+},
+{
+"number": "SemSearch_ES-72",
+"text": "#prms(rock 103 memphis)"
+},
+{
+"number": "SemSearch_ES-66",
+"text": "#prms(overeater anonymous)"
+},
+{
+"number": "SemSearch_ES-56",
+"text": "#prms(mario bro)"
+},
+{
+"number": "SemSearch_ES-22",
+"text": "#prms(city charlotte)"
+},
+{
+"number": "SemSearch_ES-8",
+"text": "#prms(aloha sol)"
+},
+{
+"number": "SemSearch_ES-83",
+"text": "#prms(st paul saint)"
+},
+]
+}

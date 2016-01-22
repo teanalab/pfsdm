@@ -1,0 +1,44 @@
+{
+"queries" : [
+{
+"number": "SemSearch_LS-11",
+"text": "#prms(diocese church ireland)"
+},
+{
+"number": "SemSearch_LS-8",
+"text": "#prms(continent world)"
+},
+{
+"number": "SemSearch_LS-35",
+"text": "#prms(republic former yugoslavia)"
+},
+{
+"number": "SemSearch_LS-19",
+"text": "#prms(kenya captain cricket)"
+},
+{
+"number": "SemSearch_LS-9",
+"text": "#prms(degree eastern orthodox monasticism)"
+},
+{
+"number": "SemSearch_LS-24",
+"text": "#prms(matt berry tv series)"
+},
+{
+"number": "SemSearch_LS-16",
+"text": "#prms(hijack september 11 attack)"
+},
+{
+"number": "SemSearch_LS-23",
+"text": "#prms(manfre von richthofen parent)"
+},
+{
+"number": "SemSearch_LS-44",
+"text": "#prms(language speak afghanistan)"
+},
+{
+"number": "SemSearch_LS-25",
+"text": "#prms(member u2)"
+},
+]
+}
