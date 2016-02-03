@@ -1,0 +1,107 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-138",
+"text": "#combine(syracuse spca)"
+},
+{
+"number": "SemSearch_ES-124",
+"text": "#combine(motorola bluetooth hs850)"
+},
+{
+"number": "SemSearch_ES-54",
+"text": "#combine(marc anthony)"
+},
+{
+"number": "SemSearch_ES-141",
+"text": "#combine(ventura county court)"
+},
+{
+"number": "SemSearch_ES-23",
+"text": "#combine(city virginia beach)"
+},
+{
+"number": "SemSearch_ES-137",
+"text": "#combine(steak express)"
+},
+{
+"number": "SemSearch_ES-81",
+"text": "#combine(south dakota state university)"
+},
+{
+"number": "SemSearch_ES-45",
+"text": "#combine(keith urban)"
+},
+{
+"number": "SemSearch_ES-104",
+"text": "#combine(bourbonnai il)"
+},
+{
+"number": "SemSearch_ES-101",
+"text": "#combine(ashley wagner)"
+},
+{
+"number": "SemSearch_ES-53",
+"text": "#combine(lynchburg virginia)"
+},
+{
+"number": "SemSearch_ES-142",
+"text": "#combine(windsor hotel philadelphia)"
+},
+{
+"number": "SemSearch_ES-3",
+"text": "#combine(bookwork)"
+},
+{
+"number": "SemSearch_ES-19",
+"text": "#combine(carl lewis)"
+},
+{
+"number": "SemSearch_ES-40",
+"text": "#combine(james clayton md)"
+},
+{
+"number": "SemSearch_ES-95",
+"text": "#combine(madrid)"
+},
+{
+"number": "SemSearch_ES-123",
+"text": "#combine(michael zimmerman)"
+},
+{
+"number": "SemSearch_ES-88",
+"text": "#combine(thomas jefferson)"
+},
+{
+"number": "SemSearch_ES-83",
+"text": "#combine(st paul saint)"
+},
+{
+"number": "SemSearch_ES-13",
+"text": "#combine(banana paper making)"
+},
+{
+"number": "SemSearch_ES-87",
+"text": "#combine(quick lift)"
+},
+{
+"number": "SemSearch_ES-120",
+"text": "#combine(lawrence general hospital)"
+},
+{
+"number": "SemSearch_ES-38",
+"text": "#combine(jack rip)"
+},
+{
+"number": "SemSearch_ES-61",
+"text": "#combine(rourke fantasy island)"
+},
+{
+"number": "SemSearch_ES-80",
+"text": "#combine(sonny cher)"
+},
+{
+"number": "SemSearch_ES-100",
+"text": "#combine(ymca tampa)"
+}]
+}

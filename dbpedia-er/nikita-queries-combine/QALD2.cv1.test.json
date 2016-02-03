@@ -1,0 +1,115 @@
+{
+"queries" : [
+{
+"number": "QALD2_te-2",
+"text": "#combine(successor john f kennedy)"
+},
+{
+"number": "QALD2_tr-28",
+"text": "#combine(europe country constitutional monarchy)"
+},
+{
+"number": "QALD2_te-59",
+"text": "#combine(us states timezone utah)"
+},
+{
+"number": "QALD2_te-6",
+"text": "#combine(give professional skateboard sweden)"
+},
+{
+"number": "QALD2_tr-65",
+"text": "#combine(company work aerospace industry nuclear reactor technology)"
+},
+{
+"number": "QALD2_te-46",
+"text": "#combine(professional surfer born philippines)"
+},
+{
+"number": "QALD2_te-25",
+"text": "#combine(us state admitted latest)"
+},
+{
+"number": "QALD2_tr-63",
+"text": "#combine(give actor star batman begin)"
+},
+{
+"number": "QALD2_tr-92",
+"text": "#combine(highest mountain)"
+},
+{
+"number": "QALD2_tr-6",
+"text": "#combine(abraham lincoln die)"
+},
+{
+"number": "QALD2_tr-41",
+"text": "#combine(give soccer club spain)"
+},
+{
+"number": "QALD2_te-76",
+"text": "#combine(list children margaret thatch)"
+},
+{
+"number": "QALD2_tr-22",
+"text": "#combine(country limerick lake)"
+},
+{
+"number": "QALD2_tr-44",
+"text": "#combine(design brooklyn bridge)"
+},
+{
+"number": "QALD2_tr-29",
+"text": "#combine(award wikileak win)"
+},
+{
+"number": "QALD2_tr-68",
+"text": "#combine(actor born germany)"
+},
+{
+"number": "QALD2_te-72",
+"text": "#combine(us state area 51 located)"
+},
+{
+"number": "QALD2_te-57",
+"text": "#combine(give apollo 14 astronaut)"
+},
+{
+"number": "QALD2_tr-80",
+"text": "#combine(give canada grunge record label)"
+},
+{
+"number": "QALD2_tr-13",
+"text": "#combine(classi millepede belong)"
+},
+{
+"number": "QALD2_te-33",
+"text": "#combine(give australia nonprofit organization)"
+},
+{
+"number": "QALD2_tr-84",
+"text": "#combine(give movies tom cruise)"
+},
+{
+"number": "QALD2_tr-8",
+"text": "#combine(states germany govern social democratic party)"
+},
+{
+"number": "QALD2_te-28",
+"text": "#combine(give movies direct francis ford coppola)"
+},
+{
+"number": "QALD2_tr-35",
+"text": "#combine(owner universal studio)"
+},
+{
+"number": "QALD2_tr-21",
+"text": "#combine(states border illinois)"
+},
+{
+"number": "QALD2_tr-31",
+"text": "#combine(currency czech republic)"
+},
+{
+"number": "QALD2_tr-74",
+"text": "#combine(capitals europe host city summer olympic games)"
+}]
+}

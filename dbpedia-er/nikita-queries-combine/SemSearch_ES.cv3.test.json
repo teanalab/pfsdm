@@ -1,0 +1,107 @@
+{
+"queries" : [
+{
+"number": "SemSearch_ES-56",
+"text": "#combine(mario bro)"
+},
+{
+"number": "SemSearch_ES-109",
+"text": "#combine(david hewlett)"
+},
+{
+"number": "SemSearch_ES-47",
+"text": "#combine(king arthur)"
+},
+{
+"number": "SemSearch_ES-135",
+"text": "#combine(spring shoe canada)"
+},
+{
+"number": "SemSearch_ES-21",
+"text": "#combine(charles darwin)"
+},
+{
+"number": "SemSearch_ES-20",
+"text": "#combine(carolina)"
+},
+{
+"number": "SemSearch_ES-4",
+"text": "#combine(naacp image award)"
+},
+{
+"number": "SemSearch_ES-106",
+"text": "#combine(chase masterson)"
+},
+{
+"number": "SemSearch_ES-26",
+"text": "#combine(disney orlando)"
+},
+{
+"number": "SemSearch_ES-32",
+"text": "#combine(fitzgerald auto mall chambersburg pa)"
+},
+{
+"number": "SemSearch_ES-51",
+"text": "#combine(lexu maplewood)"
+},
+{
+"number": "SemSearch_ES-133",
+"text": "#combine(sedona hike trail)"
+},
+{
+"number": "SemSearch_ES-76",
+"text": "#combine(san antonio)"
+},
+{
+"number": "SemSearch_ES-103",
+"text": "#combine(bounce city humble tx)"
+},
+{
+"number": "SemSearch_ES-10",
+"text": "#combine(asheville north carolina)"
+},
+{
+"number": "SemSearch_ES-28",
+"text": "#combine(el salvador)"
+},
+{
+"number": "SemSearch_ES-66",
+"text": "#combine(overeater anonymous)"
+},
+{
+"number": "SemSearch_ES-42",
+"text": "#combine(john maxwell)"
+},
+{
+"number": "SemSearch_ES-34",
+"text": "#combine(harry potter movie)"
+},
+{
+"number": "SemSearch_ES-99",
+"text": "#combine(university york)"
+},
+{
+"number": "SemSearch_ES-5",
+"text": "#combine(scott county)"
+},
+{
+"number": "SemSearch_ES-128",
+"text": "#combine(philadelphia neufchatel cheese)"
+},
+{
+"number": "SemSearch_ES-6",
+"text": "#combine(air wisconsin)"
+},
+{
+"number": "SemSearch_ES-82",
+"text": "#combine(st lucia)"
+},
+{
+"number": "SemSearch_ES-72",
+"text": "#combine(rock 103 memphis)"
+},
+{
+"number": "SemSearch_ES-74",
+"text": "#combine(sacred heart u)"
+}]
+}

@@ -1,0 +1,115 @@
+{
+"queries" : [
+{
+"number": "QALD2_tr-75",
+"text": "#combine(5th president united states america)"
+},
+{
+"number": "QALD2_tr-45",
+"text": "#combine(telecommunications organization located belgium)"
+},
+{
+"number": "QALD2_te-89",
+"text": "#combine(city former dutch queen juliana bury)"
+},
+{
+"number": "QALD2_tr-54",
+"text": "#combine(wife us president lincoln)"
+},
+{
+"number": "QALD2_te-75",
+"text": "#combine(daughter britain earl die place born)"
+},
+{
+"number": "QALD2_te-48",
+"text": "#combine(uk city headquarters mi6)"
+},
+{
+"number": "QALD2_tr-36",
+"text": "#combine(country yenisei river flow)"
+},
+{
+"number": "QALD2_te-24",
+"text": "#combine(father queen elizabeth ii)"
+},
+{
+"number": "QALD2_te-40",
+"text": "#combine(list boardgame gmt)"
+},
+{
+"number": "QALD2_te-11",
+"text": "#combine(formula 1 race driver races)"
+},
+{
+"number": "QALD2_tr-89",
+"text": "#combine(give soccer club premier league)"
+},
+{
+"number": "QALD2_te-17",
+"text": "#combine(give car produce germany)"
+},
+{
+"number": "QALD2_te-8",
+"text": "#combine(country himalayan mountain system extend)"
+},
+{
+"number": "QALD2_tr-86",
+"text": "#combine(give female germany chancellor)"
+},
+{
+"number": "QALD2_tr-43",
+"text": "#combine(mayor new york city)"
+},
+{
+"number": "QALD2_te-58",
+"text": "#combine(time zone salt lake city)"
+},
+{
+"number": "QALD2_te-91",
+"text": "#combine(us state abbreviation mn)"
+},
+{
+"number": "QALD2_te-82",
+"text": "#combine(give list america invention)"
+},
+{
+"number": "QALD2_te-29",
+"text": "#combine(give actor star movies direct star william shatner)"
+},
+{
+"number": "QALD2_tr-30",
+"text": "#combine(state usa highest population density)"
+},
+{
+"number": "QALD2_te-39",
+"text": "#combine(give company munich)"
+},
+{
+"number": "QALD2_te-64",
+"text": "#combine(give launch pad operate nasa)"
+},
+{
+"number": "QALD2_te-87",
+"text": "#combine(compose music harold maude)"
+},
+{
+"number": "QALD2_tr-69",
+"text": "#combine(cave 3 entrance)"
+},
+{
+"number": "QALD2_te-49",
+"text": "#combine(weapon designer uzi develop)"
+},
+{
+"number": "QALD2_te-90",
+"text": "#combine(residence prime minister spain)"
+},
+{
+"number": "QALD2_tr-15",
+"text": "#combine(create goofy)"
+},
+{
+"number": "QALD2_te-34",
+"text": "#combine(military conflict lawrence arabia participate)"
+}]
+}

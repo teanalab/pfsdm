@@ -1,0 +1,115 @@
+{
+"queries" : [
+{
+"number": "QALD2_te-45",
+"text": "#combine(country connected rhine)"
+},
+{
+"number": "QALD2_te-19",
+"text": "#combine(give people born vienna die berlin)"
+},
+{
+"number": "QALD2_tr-24",
+"text": "#combine(mountain highest annapurna)"
+},
+{
+"number": "QALD2_tr-25",
+"text": "#combine(film direct garry marshall julia robert star)"
+},
+{
+"number": "QALD2_tr-50",
+"text": "#combine(bruce carver die)"
+},
+{
+"number": "QALD2_tr-16",
+"text": "#combine(give capitals country africa)"
+},
+{
+"number": "QALD2_tr-53",
+"text": "#combine(give president united states)"
+},
+{
+"number": "QALD2_te-98",
+"text": "#combine(country creator miffy come)"
+},
+{
+"number": "QALD2_te-63",
+"text": "#combine(give argentina film)"
+},
+{
+"number": "QALD2_te-9",
+"text": "#combine(give list trumpet player bandleader)"
+},
+{
+"number": "QALD2_tr-57",
+"text": "#combine(list episode first season hbo television series soprano)"
+},
+{
+"number": "QALD2_te-86",
+"text": "#combine(largest city australia)"
+},
+{
+"number": "QALD2_tr-17",
+"text": "#combine(give city new jersey 100000 inhabitant)"
+},
+{
+"number": "QALD2_te-27",
+"text": "#combine(sean parnell governor us state)"
+},
+{
+"number": "QALD2_te-77",
+"text": "#combine(call scarface)"
+},
+{
+"number": "QALD2_te-99",
+"text": "#combine(label elvi record first album)"
+},
+{
+"number": "QALD2_tr-1",
+"text": "#combine(give female russia astronaut)"
+},
+{
+"number": "QALD2_tr-34",
+"text": "#combine(country two official language)"
+},
+{
+"number": "QALD2_te-93",
+"text": "#combine(movies sam raimi direct army dark)"
+},
+{
+"number": "QALD2_tr-85",
+"text": "#combine(film julia robert richard gere play)"
+},
+{
+"number": "QALD2_tr-49",
+"text": "#combine(give company advertising industry)"
+},
+{
+"number": "QALD2_te-51",
+"text": "#combine(give frisian island belong netherlands)"
+},
+{
+"number": "QALD2_te-35",
+"text": "#combine(develop skype)"
+},
+{
+"number": "QALD2_tr-71",
+"text": "#combine(give video games publish mean hamster software)"
+},
+{
+"number": "QALD2_te-12",
+"text": "#combine(give world heritage site designate past five years)"
+},
+{
+"number": "QALD2_tr-18",
+"text": "#combine(museum exhibit scream munch)"
+},
+{
+"number": "QALD2_tr-78",
+"text": "#combine(give books written danielle steel)"
+},
+{
+"number": "QALD2_te-31",
+"text": "#combine(give current methodist national leader)"
+}]
+}
